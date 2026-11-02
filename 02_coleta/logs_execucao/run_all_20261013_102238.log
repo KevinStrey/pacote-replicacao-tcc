@@ -1,0 +1,30 @@
+10:22:38 features: ['CVS', 'Subversive', 'GEF', 'EclipseLink', 'm2e', 'Mylyn', 'EGit', 'PTP', 'GMF Runtime', 'EMF', 'JDT', 'DataTools', 'WebTools', 'Scout', 'PDE', 'RAP', 'Window Builder', 'BIRT', 'CDT'] | RAM budget 6.5 GB | max procs 12 | log C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\logs\run_all_20261013_102238.log
+10:22:38 phase B: 1486 CK/Understand jobs
+10:22:38 phase B: 25 started, 1461 queued, 0s
+10:22:38 phase B: 50 started, 1436 queued, 0s
+10:22:38 phase B: 75 started, 1411 queued, 0s
+10:22:38 phase B: 100 started, 1386 queued, 0s
+10:22:38 phase B: 125 started, 1361 queued, 0s
+10:22:38 phase B: 150 started, 1336 queued, 0s
+10:22:38 phase B: 175 started, 1311 queued, 0s
+10:22:38 phase B: 200 started, 1286 queued, 0s
+10:22:38 phase B: 225 started, 1261 queued, 0s
+10:22:38 phase B: 250 started, 1236 queued, 0s
+10:22:38 phase B: 275 started, 1211 queued, 0s
+10:22:38 phase B: 300 started, 1186 queued, 0s
+10:22:38 phase B: 325 started, 1161 queued, 0s
+10:22:38 phase B: 350 started, 1136 queued, 0s
+10:22:38 phase B: 375 started, 1111 queued, 0s
+10:22:38 phase B: 400 started, 1086 queued, 0s
+10:22:38 phase B: 425 started, 1061 queued, 0s
+10:22:38 phase B: 450 started, 1036 queued, 0s
+10:22:38 phase B: 475 started, 1011 queued, 0s
+10:22:38 phase B: 500 started, 986 queued, 0s
+10:22:38 phase B: 525 started, 961 queued, 0s
+10:22:38 phase B: 550 started, 936 queued, 0s
+10:22:38 phase B: 575 started, 911 queued, 0s
+10:22:38 phase B: 600 started, 886 queued, 0s
+10:22:38 phase B: 625 started, 861 queued, 0s
+10:22:38 phase B: 650 started, 836 queued, 0s
+10:22:38 phase B: 675 started, 811 queued, 0s
+10:22:38 phase B: 700 started, 786 queued, 0s

@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-17 05:18:53 =====
+05:18:54 job fase1__random__principal__model2__NONE__RandomForest__cv05 | pid 22657 | threads 12
+05:18:56 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=98
+05:19:19   treino reamostrado: 11377237 linhas, 55243 positivos
+05:24:15 AP=0.1018 AUC=0.8377 MCC=0.0965 F1(1)=0.0799 (307 s de treino)
+05:24:15 ok fase1__random__principal__model2__NONE__RandomForest__cv05 321.1 s, pico de RAM 45.79 GB

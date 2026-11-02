@@ -1,0 +1,109 @@
+21:06:48 features: ['CVS', 'Subversive', 'GEF', 'EclipseLink', 'm2e', 'Mylyn', 'EGit', 'PTP', 'GMF Runtime', 'EMF', 'JDT', 'DataTools', 'WebTools', 'Scout', 'PDE', 'RAP', 'Window Builder', 'BIRT', 'CDT'] | RAM budget 2.0 GB | max procs 12 | log C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\logs\run_all_20261012_210648.log
+21:06:48 phase B: 1486 CK/Understand jobs
+21:07:20 [GEF] s06_change_distiller rc=0 32s
+21:07:20 phase B: 25 started, 1461 queued, 32s
+21:08:46 [EclipseLink] s04_methods rc=0 86s
+21:08:58 [EclipseLink] s05_evometrics rc=0 12s
+21:08:58 phase B: 50 started, 1436 queued, 130s
+21:10:37 [EclipseLink] s06_change_distiller rc=0 98s
+21:11:31 [CVS] s07_join rc=0 52s
+21:11:32 [CVS] auditar_feature rc=0 1s
+21:11:32 [CVS] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\CVS\AUDITORIA.md
+21:11:34 [m2e] s04_methods rc=0 58s
+21:11:43 [m2e] s05_evometrics rc=0 9s
+21:12:09 [m2e] s06_change_distiller rc=0 26s
+21:13:11 [Mylyn] s04_methods rc=0 62s
+21:13:11 phase B: 75 started, 1411 queued, 383s
+21:13:18 [Mylyn] s05_evometrics rc=0 7s
+21:13:46 [Mylyn] s06_change_distiller rc=0 27s
+21:15:22 [EGit] s04_methods rc=0 96s
+21:15:31 [EGit] s05_evometrics rc=0 9s
+21:15:58 [EGit] s06_change_distiller rc=0 28s
+21:16:56 [PTP] s04_methods rc=0 57s
+21:16:56 phase B: 100 started, 1386 queued, 607s
+21:17:05 [PTP] s05_evometrics rc=0 9s
+21:17:05 phase B: 125 started, 1361 queued, 616s
+21:17:22 [Subversive] s07_join rc=0 20s
+21:17:23 [Subversive] auditar_feature rc=0 1s
+21:17:23 [Subversive] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\Subversive\AUDITORIA.md
+21:17:25 [PTP] s06_change_distiller rc=0 20s
+21:17:51 [GMF Runtime] s04_methods rc=0 26s
+21:18:01 [GMF Runtime] s05_evometrics rc=0 10s
+21:18:01 phase B: 150 started, 1336 queued, 672s
+21:18:08 [GMF Runtime] s06_change_distiller rc=0 7s
+21:18:40 [GEF] s07_join rc=0 28s
+21:18:48 [GEF] auditar_feature rc=0 8s
+21:18:48 [GEF] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\GEF\AUDITORIA.md
+21:21:04 [EMF] s04_methods rc=0 176s
+21:57:22 [EMF] s05_evometrics rc=0 1368s
+22:07:09 [EMF] s06_change_distiller rc=0 187s
+22:27:09 [JDT] s04_methods rc=0 429s
+22:45:34 [JDT] s05_evometrics rc=0 310s
+22:45:34 phase B: 175 started, 1311 queued, 5926s
+22:54:46 [JDT] s06_change_distiller rc=0 481s
+22:57:24 [DataTools] s04_methods rc=0 80s
+23:13:51 [DataTools] s05_evometrics rc=0 947s
+23:15:08 [EclipseLink] s07_join rc=0 40s
+23:15:10 [EclipseLink] auditar_feature rc=0 2s
+23:15:10 [EclipseLink] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\EclipseLink\AUDITORIA.md
+23:24:36 phase B: 200 started, 1286 queued, 8268s
+23:38:07 phase B: 225 started, 1261 queued, 9078s
+23:44:37 phase B: 250 started, 1236 queued, 9469s
+23:47:33 phase B: 275 started, 1211 queued, 9644s
+23:49:45 [m2e] s07_join rc=0 45s
+23:49:46 [m2e] auditar_feature rc=0 1s
+23:49:46 [m2e] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\m2e\AUDITORIA.md
+23:55:48 [DataTools] s06_change_distiller rc=0 410s
+00:00:23 [WebTools] s04_methods rc=0 64s
+00:04:14 [WebTools] s05_evometrics rc=0 33s
+00:08:23 [WebTools] s06_change_distiller rc=0 49s
+00:17:43 [Scout] s04_methods rc=0 199s
+00:24:18 [Scout] s05_evometrics rc=0 29s
+00:35:51 phase B: 300 started, 1186 queued, 12543s
+00:39:48 [Scout] s06_change_distiller rc=0 73s
+00:44:29 [PDE] s04_methods rc=0 133s
+00:44:57 [PDE] s05_evometrics rc=0 28s
+00:46:18 [PDE] s06_change_distiller rc=0 82s
+00:50:38 [RAP] s04_methods rc=0 76s
+00:51:46 [RAP] s05_evometrics rc=0 27s
+00:52:17 [RAP] s06_change_distiller rc=0 30s
+00:54:03 [Window Builder] s04_methods rc=0 86s
+00:54:46 [Window Builder] s05_evometrics rc=0 22s
+00:56:05 [Window Builder] s06_change_distiller rc=0 39s
+00:58:01 [BIRT] s04_methods rc=0 92s
+00:58:58 [BIRT] s05_evometrics rc=0 36s
+00:59:58 [BIRT] s06_change_distiller rc=0 39s
+01:01:24 [Mylyn] s07_join rc=0 27s
+01:01:26 [Mylyn] auditar_feature rc=0 2s
+01:01:26 [Mylyn] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\Mylyn\AUDITORIA.md
+01:05:01 [CDT] s04_methods rc=0 248s
+01:10:39 phase B: 325 started, 1161 queued, 14630s
+01:26:46 phase B: 350 started, 1136 queued, 15597s
+01:38:36 phase B: 375 started, 1111 queued, 16307s
+01:41:42 phase B: 400 started, 1086 queued, 16494s
+01:45:10 [EGit] s07_join rc=0 34s
+01:45:11 [EGit] auditar_feature rc=0 1s
+01:45:11 [EGit] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\EGit\AUDITORIA.md
+01:45:51 [CDT] s05_evometrics rc=0 78s
+01:45:51 phase B: 425 started, 1061 queued, 16742s
+01:59:00 [CDT] s06_change_distiller rc=0 134s
+02:37:38 phase B: 450 started, 1036 queued, 19849s
+02:44:50 phase B: 475 started, 1011 queued, 20281s
+02:45:55 [PTP] s07_join rc=0 33s
+02:45:56 [PTP] auditar_feature rc=0 1s
+02:45:56 [PTP] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\PTP\AUDITORIA.md
+03:17:17 phase B: 500 started, 986 queued, 22228s
+03:49:10 phase B: 525 started, 961 queued, 24141s
+03:52:45 phase B: 550 started, 936 queued, 24356s
+03:56:32 [GMF Runtime] s07_join rc=0 45s
+03:56:33 [GMF Runtime] auditar_feature rc=0 1s
+03:56:33 [GMF Runtime] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\GMF_Runtime\AUDITORIA.md
+04:15:23 phase B: 575 started, 911 queued, 25715s
+05:57:44 phase B: 600 started, 886 queued, 31855s
+07:30:02 phase B: 625 started, 861 queued, 37393s
+07:39:44 phase B: 650 started, 836 queued, 37975s
+07:46:33 phase B: 675 started, 811 queued, 38385s
+07:49:52 [EMF] s07_join rc=0 109s
+07:49:54 [EMF] auditar_feature rc=0 2s
+07:49:54 [EMF] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\EMF\AUDITORIA.md
+08:50:24 phase B: 700 started, 786 queued, 42215s

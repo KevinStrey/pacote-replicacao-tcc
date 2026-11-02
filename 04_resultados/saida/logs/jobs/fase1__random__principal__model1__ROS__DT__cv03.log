@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-16 19:54:03 =====
+19:54:04 job fase1__random__principal__model1__ROS__DT__cv03 | pid 25941 | threads 1
+19:54:06 treino=11377236 (pos=55243) avaliação=1264138 (pos=6138) colunas=82
+19:54:50   treino reamostrado: 22643986 linhas, 11321993 positivos
+20:09:49 AP=0.0502 AUC=0.6008 MCC=0.0821 F1(1)=0.0588 (932 s de treino)
+20:09:49 ok fase1__random__principal__model1__ROS__DT__cv03 944.9 s, pico de RAM 60.25 GB

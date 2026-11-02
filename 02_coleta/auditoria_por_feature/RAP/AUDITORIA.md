@@ -1,0 +1,86 @@
+# Auditoria da coleta: RAP (`1-Repositorios/org.eclipse.rap`)
+
+Gerado por `scripts/auditar_feature.py`. Decisões: `5-Coleta_features/INVENTARIO.md` (M1–M18); recursos e equivalência com o piloto: `5-Coleta_features/RECURSOS.md`.
+
+## 1. Linha do tempo
+- Snapshots: **48** (JunoSR0 → 2025-06; índices globais 1..49); datas do calendário na série: 49; duplicatas removidas: 1; lacunas de presença atravessadas: 0.
+- História linear verificada (s00). .java de produção: 2956 → 3609.
+- Commits nos intervalos: 3152; válidos: 3152; importados por merge e excluídos (M6): 0.
+
+## 2. Falhas de parsing do JavaParser (piloto: 0)
+- Versões de arquivo únicas: 9659; **falhas: 0**; métodos (sem anônimos/locais): 150218; descartados por chave duplicada no arquivo: 1; textos distintos: 41682.
+
+## 3. ChangeDistiller (piloto: 0 erros)
+- Chamadas: 5312; **erros (CDERROR): 0**.
+- CK: logs com exceção: 0 ; CSVs do Understand: 48 de 48.
+
+## 4. Taxas de match no join (piloto: ~100%)
+- Mínimo por release: evo_in_ck = 1.0000, evo_in_und = 1.0000, ck_in_evo = 0.9980, und_in_evo = 0.9954.
+- Média: evo_in_ck = 1.0000, evo_in_und = 1.0000. Tabela completa: `data/join_audit.csv`.
+
+## 5. Dataset e positivos por release
+- Linhas: **1322733**; positivos: **3415** (0.26%). A última release não tem rótulo.
+
+| Release (índice) | Tag | Métodos | Positivos | % |
+|---|---|---|---|---|
+| 1 | JunoSR0 | 25850 | 23 | 0.09 |
+| 2 | JunoSR1 | 24916 | 843 | 3.38 |
+| 3 | JunoSR2 | 25420 | 439 | 1.73 |
+| 4 | KeplerPostRC4 | 25697 | 187 | 0.73 |
+| 5 | KeplerSR0 | 25574 | 76 | 0.30 |
+| 6 | KeplerSR1 | 25220 | 296 | 1.17 |
+| 7 | LunaSR0 | 25683 | 99 | 0.39 |
+| 8 | LunaRC4 | 25820 | 94 | 0.36 |
+| 9 | LunaSR2 | 26534 | 28 | 0.11 |
+| 10 | S201504150911 | 26170 | 702 | 2.68 |
+| 11 | Mars.1 | 26580 | 206 | 0.78 |
+| 12 | Neon | 26778 | 8 | 0.03 |
+| 13 | Neon.1 | 26774 | 31 | 0.12 |
+| 14 | Neon.2 | 26820 | 3 | 0.01 |
+| 15 | Neon.3 | 26821 | 17 | 0.06 |
+| 16 | Oxygen | 28686 | 28 | 0.10 |
+| 17 | Oxygen.1 | 28712 | 13 | 0.05 |
+| 19 | Oxygen.2 | 28721 | 15 | 0.05 |
+| 20 | Oxygen.3 | 28729 | 6 | 0.02 |
+| 21 | Photon.0 | 28730 | 6 | 0.02 |
+| 22 | 2018-09 | 28738 | 6 | 0.02 |
+| 23 | 2018-12 | 28742 | 6 | 0.02 |
+| 24 | 2019-03 | 28747 | 5 | 0.02 |
+| 25 | 2019-06 | 28747 | 6 | 0.02 |
+| 26 | 2019-09 | 28749 | 2 | 0.01 |
+| 27 | 2019-12 | 28751 | 6 | 0.02 |
+| 28 | 2020-03 | 28751 | 17 | 0.06 |
+| 29 | 2020-06 | 28638 | 80 | 0.28 |
+| 30 | 2020-09 | 28862 | 2 | 0.01 |
+| 31 | 2020-12 | 28862 | 8 | 0.03 |
+| 32 | 2021-03 | 28872 | 0 | 0.00 |
+| 33 | 2021-06 | 28879 | 1 | 0.00 |
+| 34 | 2021-09 | 28880 | 10 | 0.03 |
+| 35 | 2021-12 | 28896 | 1 | 0.00 |
+| 36 | 2022-03 | 28894 | 3 | 0.01 |
+| 37 | 2022-06 | 28897 | 12 | 0.04 |
+| 38 | 2022-09 | 28834 | 66 | 0.23 |
+| 39 | 2022-12 | 29177 | 2 | 0.01 |
+| 40 | 2023-03 | 29178 | 4 | 0.01 |
+| 41 | 2023-06 | 29175 | 15 | 0.05 |
+| 42 | 2023-09 | 29178 | 0 | 0.00 |
+| 43 | 2023-12 | 29177 | 6 | 0.02 |
+| 44 | 2024-03 | 29182 | 0 | 0.00 |
+| 45 | 2024-06 | 29171 | 10 | 0.03 |
+| 46 | 2024-09 | 31483 | 3 | 0.01 |
+| 47 | 2024-12 | 31519 | 7 | 0.02 |
+| 48 | 2025-03 | 31519 | 17 | 0.05 |
+
+## 6. Spot check das métricas evolutivas contra `git log -L`
+- Método: `org.eclipse.rap.rwt.client.WebClient.getService(Class)` (arquivo `bundles/org.eclipse.rap.rwt/src/org/eclipse/rap/rwt/client/WebClient.java`, linhas 172,202 em 82edfd5b32)
+- Comando: `git -C 1-Repositorios/org.eclipse.rap log --no-merges --format=%H --no-patch -L172,202:bundles/org.eclipse.rap.rwt/src/org/eclipse/rap/rwt/client/WebClient.java 8d7992a569..82edfd5b32`
+- Commits contados pela s05: 22 | listados pelo `git log -L`: 23 | em comum: 22 | contados e não listados: 0
+- Resultado: **OK** (todos os commits contados estão no `git log -L`; os demais do git são mudanças em linhas vizinhas ou só de comentário/formatação)
+
+## 7. Quebras de identidade de métodos (M28, ameaça à validade)
+- Nascimentos após o 1º snapshot: 9210; por mudança de pacote/classe: 237; em código importado (M6, heurística): 0.
+- Efeito: histórico zerado (BOM = release da quebra; FRCH/CSB… recomeçam em 0) e método sem rótulo na transição. Detalhe: `data/identidade_metodos.csv`, `data/identidade_pares.csv`, `5-Coleta_features/AMEACA_identidade.md`.
+
+| Transição | Métodos | Nascidos / sumidos | Movidos | Importados |
+|---|---|---|---|---|
+| KeplerSR1 → LunaSR0 | 25853 | 633 / 678 | 161 | 0 |

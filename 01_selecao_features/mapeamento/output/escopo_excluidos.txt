@@ -1,0 +1,95 @@
+
+######## BIRT
+  primeiro JunoSR0: java=9670 prod=7957 test=1551 example=162 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.birt.chart.examples:125, tutorial:20, org.eclipse.birt.chart.examples.core:16, releng:1
+  ultimo 2020-06: java=9816 prod=8050 test=1604 example=162 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.birt.chart.examples:125, tutorial:20, org.eclipse.birt.chart.examples.core:16, releng:1
+
+######## CDT
+  primeiro JunoSR0: java=8479 prod=7259 test=1085 example=135 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.cdt.examples.dsf.pda:57, org.eclipse.cdt.examples.dsf:35, org.eclipse.cdt.examples.dsf.pda.ui:26, org.eclipse.cdt.codan.examples:10, org.eclipse.cdt.visualizer.examples:7
+  ultimo 2026-09: java=9071 prod=7896 test=1005 example=170 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.cdt.examples.dsf.pda:57, org.eclipse.cdt.examples.dsf:35, org.eclipse.cdt.examples.dsf.gdb:27, org.eclipse.cdt.examples.dsf.pda.ui:24, org.eclipse.cdt.codan.examples:11, org.eclipse.cdt.cmake.example:7, org.eclipse.cdt.visualizer.examples:7, org.eclipse.cdt.codan.ui.example.cfgview:2
+
+######## CVS
+  primeiro JunoSR0: java=1609 prod=536 test=147 example=132 fora_escopo=794
+    exemplos/releng excluidos: examples:132
+  ultimo 2021-12: java=1605 prod=523 test=151 example=132 fora_escopo=799
+    exemplos/releng excluidos: examples:132
+
+######## DataTools
+  primeiro Oxygen.3: java=5045 prod=4600 test=172 example=273 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples:182, examples:88, profileSample:3
+  ultimo 2026-06: java=5028 prod=4639 test=168 example=221 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples:182, examples:36, profileSample:3
+
+######## EGit
+  primeiro JunoSR0: java=790 prod=642 test=148 example=0 fora_escopo=0
+  ultimo 2026-09: java=1254 prod=995 test=259 example=0 fora_escopo=0
+
+######## EMF
+  primeiro JunoSR0: java=2936 prod=1540 test=1196 example=200 fora_escopo=0
+    exemplos/releng excluidos: examples:174, org.eclipse.emf.examples.jet.article2:15, tutorials:11
+  ultimo 2026-09: java=3474 prod=1918 test=1351 example=205 fora_escopo=0
+    exemplos/releng excluidos: examples:178, org.eclipse.emf.examples.jet.article2:15, tutorials:11, releng:1
+
+######## EclipseLink
+  primeiro JunoSR0: java=15343 prod=5467 test=9876 example=0 fora_escopo=0
+  ultimo LunaSR0: java=16705 prod=5790 test=10915 example=0 fora_escopo=0
+
+######## GEF
+  primeiro JunoSR0: java=1167 prod=693 test=78 example=396 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.gef.examples.logic:117, org.eclipse.draw2d.examples:86, org.eclipse.gef.examples.text:78, org.eclipse.gef.examples.flow:58, org.eclipse.gef.examples.shapes:26, org.eclipse.gef.examples.digraph1:13, org.eclipse.gef.examples.digraph2:11, org.eclipse.gef.examples.ui.pde:7
+  ultimo 2026-09: java=1383 prod=780 test=103 example=500 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.gef.examples.logic:118, org.eclipse.draw2d.examples:92, org.eclipse.gef.examples.text:78, org.eclipse.gef.examples.flow:59, org.eclipse.zest.examples:55, org.eclipse.gef.examples.shapes:29, org.eclipse.zest.examples.cloudio:27, org.eclipse.gef.examples.digraph1:13, org.eclipse.gef.examples.digraph2:11, org.eclipse.gef.examples.ui.pde:7, org.eclipse.zest.examples.layouts:7, org.eclipse.gef.examples:4
+
+######## GMF Runtime
+  primeiro JunoSR0: java=2025 prod=1572 test=256 example=197 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.gmf.examples.runtime.diagram.logic:87, org.eclipse.gmf.examples.runtime.diagram.logic.model:37, org.eclipse.gmf.examples.runtime.diagram.logic.model.edit:17, org.eclipse.gmf.examples.runtime.diagram.geoshapes:12, org.eclipse.gmf.examples.runtime.emf.clipboard:12, org.eclipse.gmf.examples.runtime.ui.pde:10, org.eclipse.gmf.examples.runtime.common.service:8, org.eclipse.gmf.examples.runtime.diagram.layout:6, org.eclipse.gmf.examples.runtime.diagram.logic.model.editor:5, org.eclipse.gmf.examples.runtime.diagram.decorator:3
+  ultimo 2026-09: java=2041 prod=1587 test=257 example=197 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.gmf.examples.runtime.diagram.logic:87, org.eclipse.gmf.examples.runtime.diagram.logic.model:37, org.eclipse.gmf.examples.runtime.diagram.logic.model.edit:17, org.eclipse.gmf.examples.runtime.diagram.geoshapes:12, org.eclipse.gmf.examples.runtime.emf.clipboard:12, org.eclipse.gmf.examples.runtime.ui.pde:10, org.eclipse.gmf.examples.runtime.common.service:8, org.eclipse.gmf.examples.runtime.diagram.layout:6, org.eclipse.gmf.examples.runtime.diagram.logic.model.editor:5, org.eclipse.gmf.examples.runtime.diagram.decorator:3
+
+######## JDT
+  primeiro JunoSR0: java=6504 prod=1458 test=5046 example=0 fora_escopo=0
+  ultimo 2026-09: java=9437 prod=1844 test=6063 example=0 fora_escopo=1530
+
+######## PDE
+  primeiro JunoSR0: java=5000 prod=2381 test=2619 example=0 fora_escopo=0
+  ultimo 2026-09: java=6364 prod=3238 test=3126 example=0 fora_escopo=0
+
+######## Mylyn
+  primeiro 2023-06: java=3131 prod=2581 test=550 example=0 fora_escopo=0
+  ultimo 2026-09: java=4019 prod=3188 test=831 example=0 fora_escopo=0
+
+######## PTP
+  primeiro JunoSR0: java=3230 prod=3155 test=64 example=11 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.ptp.etfw.feedback.sample:7, samples:4
+  ultimo 2021-09: java=2079 prod=2043 test=25 example=11 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.ptp.etfw.feedback.sample:7, samples:4
+
+######## RAP
+  primeiro JunoSR0: java=4513 prod=2956 test=1372 example=185 fora_escopo=0
+    exemplos/releng excluidos: org.eclipse.rap.demo.controls:57, org.eclipse.rap.design.example:42, org.eclipse.rap.demo:40, org.eclipse.rap.examples.pages:22, org.eclipse.rap.examples:13, org.eclipse.rap.demo.databinding:11
+  ultimo 2025-06: java=5360 prod=3609 test=1505 example=246 fora_escopo=0
+    exemplos/releng excluidos: examples:226, releng:20
+
+######## Scout
+  primeiro JunoSR0: java=2344 prod=2279 test=65 example=0 fora_escopo=0
+  ultimo 2026-09: java=4679 prod=3161 test=1518 example=0 fora_escopo=0
+
+######## Subversive
+  primeiro JunoSR0: java=1233 prod=1127 test=106 example=0 fora_escopo=0
+  ultimo Oxygen: java=1271 prod=1165 test=106 example=0 fora_escopo=0
+
+######## WebTools
+  primeiro JunoSR0: java=3044 prod=3044 test=0 example=0 fora_escopo=0
+  ultimo 2026-09: java=3853 prod=3345 test=508 example=0 fora_escopo=0
+
+######## Window Builder
+  primeiro JunoSR0: java=4749 prod=3703 test=1046 example=0 fora_escopo=0
+  ultimo 2026-09: java=3862 prod=3052 test=781 example=29 fora_escopo=0
+    exemplos/releng excluidos: examples:29
+
+######## m2e
+  primeiro JunoSR0: java=634 prod=625 test=9 example=0 fora_escopo=0
+  ultimo 2026-09: java=980 prod=840 test=140 example=0 fora_escopo=0

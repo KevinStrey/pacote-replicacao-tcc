@@ -1,0 +1,20 @@
+Feature,Repositorio,Serie,Datas,Snapshots,Duplicatas,Lacunas,Prod,Commits,Importados,ArqxSnap,Estim_h
+BIRT,birt,JunoSR0 → 2020-09,30,27,3,0,7917 → 8010,2919,0,215570,9.7
+CDT,cdt,JunoSR0 → 2026-09,54,54,0,0,7259 → 7896,7188,8228,424566,19.0
+CVS,org.eclipse.team.cvs,JunoSR0 → 2021-12,35,34,1,0,536 → 523,693,58,17886,0.8
+DataTools,datatools,Oxygen.3 → 2026-09,35,24,11,0,4600 → 4639,98,0,110726,5.0
+EGit,egit,JunoSR0 → 2026-09,54,54,0,0,642 → 995,4154,0,46939,2.1
+EMF,org.eclipse.emf,JunoSR0 → 2026-09,54,54,0,0,1540 → 1918,1347,1348,91247,4.1
+EclipseLink,eclipselink,JunoSR0 → LunaSR0,7,7,0,0,5467 → 5790,1511,0,39020,1.7
+GEF,gef-classic,JunoSR0 → 2026-09,54,33,21,0,693 → 780,1140,154,23499,1.1
+GMF Runtime,gmf-runtime,JunoSR0 → 2026-09,54,47,7,0,1572 → 1587,444,0,74500,3.3
+JDT,eclipse.jdt.core,JunoSR0 → 2026-09,54,54,0,0,1458 → 1844,8550,0,94704,4.2
+PDE,eclipse.pde,JunoSR0 → 2026-09,54,54,0,0,2381 → 3238,4593,5143,144052,6.5
+Mylyn,org.eclipse.mylyn,2023-06 → 2026-09,14,14,0,0,2581 → 3188,1277,1962,45326,2.0
+PTP,ptp,JunoSR0 → 2025-12,51,26,25,0,3155 → 2043,1476,0,60031,2.7
+RAP,org.eclipse.rap,JunoSR0 → 2025-06,49,48,1,0,2956 → 3609,3152,0,155144,6.9
+Scout,scout.rt,JunoSR0 → 2026-09,54,54,0,0,2279 → 3161,13562,3479,141060,6.3
+Subversive,subversive,JunoSR0 → Oxygen.3,20,16,4,0,1127 → 1165,425,0,18371,0.8
+WebTools,webtools.javaee,JunoSR0 → 2026-09,54,41,13,0,3044 → 3345,344,2096,131937,5.9
+Window Builder,windowbuilder,JunoSR0 → 2026-09,54,48,6,1,3703 → 3052,1503,0,166308,7.4
+m2e,m2e-core,JunoSR0 → 2026-09,54,54,0,0,625 → 840,2202,120,40722,1.8

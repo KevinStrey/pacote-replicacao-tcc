@@ -1,0 +1,261 @@
+
+######## BIRT (birt)
+  FIRST JunoSR0 3767e5c3: java=9240 testish=1462
+     depth1 '*.tests': 936
+     depth0 'testsuites': 487
+     depth1 '*.testhelper': 22
+     depth2 'test': 9
+     depth1 '*.test': 8
+     top-level dirs: {'UI': 1913, 'model': 1608, 'engine': 1534, 'data': 1368, 'chart': 1322, 'testsuites': 487, 'viewer': 325, 'xtab': 316, 'core': 306, 'build': 40, 'tutorial': 20, 'releng': 1}
+  LAST 2026-03 4b0d172d: java=9806 testish=1607
+     depth1 '*.tests': 1076
+     depth0 'testsuites': 488
+     depth1 '*.testhelper': 22
+     depth2 'test': 10
+     depth1 '*.test': 8
+     depth2 'birt-runtime-test': 3
+     top-level dirs: {'UI': 1990, 'engine': 1724, 'model': 1662, 'data': 1584, 'chart': 1335, 'testsuites': 488, 'core': 333, 'viewer': 331, 'xtab': 319, 'build': 20, 'tutorial': 20}
+
+######## CDT (cdt)
+  FIRST JunoSR0 c74cc8a3: java=8478 testish=1170
+     depth1 '*.tests': 774
+     depth1 '*.gdb': 203
+     depth0 'testsrunner': 93
+     depth1 '*.dsf': 65
+     depth1 '*.test': 33
+     depth8 'test': 2
+     top-level dirs: {'core': 3985, 'build': 1218, 'debug': 1148, 'dsf-gdb': 698, 'dsf': 580, 'codan': 238, 'lrparser': 149, 'xlc': 121, 'testsrunner': 93, 'upc': 63, 'memory': 47, 'visualizer': 41}
+  LAST 2026-03 390ff440: java=9067 testish=1092
+     depth1 '*.tests': 865
+     depth0 'testsrunner': 97
+     depth1 '*.dsf': 65
+     depth1 '*.gdb': 49
+     depth0 'unittest': 14
+     depth8 'test': 2
+     top-level dirs: {'core': 4498, 'build': 1322, 'dsf-gdb': 791, 'dsf': 608, 'debug': 544, 'codan': 302, 'remote': 257, 'memory': 100, 'launchbar': 99, 'testsrunner': 97, 'jsoncdb': 92, 'launch': 77}
+
+######## CVS (org.eclipse.team.cvs)
+  FIRST JunoSR0 40ce66b2: java=1609 testish=149
+     depth0 'tests': 147
+     depth2 'tests': 2
+     top-level dirs: {'bundles': 1330, 'tests': 147, 'examples': 132}
+  LAST 2023-12 b7ef8d71: java=622 testish=99
+     depth0 'tests': 99
+     top-level dirs: {'bundles': 523, 'tests': 99}
+
+######## DataTools (datatools)
+  FIRST JunoSR2 51692f28: java=188 testish=54
+     depth0 'tests': 54
+     top-level dirs: {'plugins': 134, 'tests': 54}
+  LAST 2025-12 7d5b3803: java=5028 testish=168
+     depth0 'tests': 168
+     top-level dirs: {'plugins': 4824, 'tests': 168, 'examples': 36}
+
+######## EGit (egit)
+  FIRST JunoSR0 5d7d8383: java=790 testish=148
+     depth0 '*.test': 148
+     top-level dirs: {'org.eclipse.egit.ui': 517, 'org.eclipse.egit.core': 117, 'org.eclipse.egit.ui.test': 99, 'org.eclipse.egit.core.test': 47, 'org.eclipse.egit.mylyn.ui': 5, 'org.eclipse.egit.import': 3, 'org.eclipse.egit.mylyn.ui.test': 2}
+  LAST 2026-03 ebee8dbd: java=1240 testish=253
+     depth0 '*.test': 248
+     depth0 '*.junit': 5
+     top-level dirs: {'org.eclipse.egit.ui': 743, 'org.eclipse.egit.core': 176, 'org.eclipse.egit.ui.test': 150, 'org.eclipse.egit.core.test': 79, 'org.eclipse.egit.gitflow.ui': 43, 'org.eclipse.egit.gitflow': 25, 'org.eclipse.egit.gitflow.test': 19, 'org.eclipse.egit.core.junit': 5}
+
+######## EMF (org.eclipse.emf)
+  FIRST JunoSR0 b419d880: java=2936 testish=1204
+     depth0 'tests': 1195
+     depth10 'tests': 8
+     depth2 'test': 1
+     top-level dirs: {'plugins': 1538, 'tests': 1195, 'examples': 168, 'doc': 35}
+  LAST 2026-03 47ea84d7: java=3473 testish=1359
+     depth0 'tests': 1350
+     depth10 'tests': 8
+     depth2 'test': 1
+     top-level dirs: {'plugins': 1916, 'tests': 1350, 'examples': 172, 'doc': 35}
+
+######## EclipseLink (eclipselink)
+  FIRST JunoSR1 c5aa40a6: java=15454 testish=9962
+     depth1 '*.test': 9817
+     depth1 '*.oracle': 122
+     depth1 '*.server': 23
+     top-level dirs: {'foundation': 4938, 'moxy': 3380, 'jpa': 3063, 'utils': 2677, 'sdo': 905, 'plugins': 416, 'dbws': 67, 'buildsystem': 7, 'project-admin': 1}
+  LAST 2026-03 d0c79f85: java=15294 testish=11507
+     depth1 '*.test': 4936
+     depth3 'test': 3888
+     depth1 '*.testapps': 1693
+     depth1 '*.jse': 281
+     depth1 '*.oracle': 220
+     depth8 'testing': 218
+     depth1 '*.framework': 113
+     depth9 'test': 77
+     depth6 'testing': 31
+     depth1 '*.server': 26
+     depth1 'tests': 9
+     depth2 'bug_test_case': 8
+     depth1 '*.nosql': 7
+     top-level dirs: {'foundation': 6481, 'jpa': 4286, 'moxy': 2990, 'sdo': 922, 'performance': 297, 'utils': 226, 'dbws': 73, 'bundles': 10, 'etc': 8, 'project-admin': 1}
+
+######## GEF (gef-classic)
+  FIRST JunoSR2 dbf4cefd: java=1167 testish=79
+     depth0 '*.test': 41
+     depth0 '*.tests': 37
+     depth6 'hittest': 1
+     top-level dirs: {'org.eclipse.gef': 329, 'org.eclipse.draw2d': 272, 'org.eclipse.gef.examples.logic': 117, 'org.eclipse.draw2d.examples': 86, 'org.eclipse.gef.examples.text': 78, 'org.eclipse.gef.examples.flow': 58, 'org.eclipse.zest.core': 47, 'org.eclipse.zest.layouts': 45, 'org.eclipse.draw2d.test': 37, 'org.eclipse.zest.tests': 37, 'org.eclipse.gef.examples.shapes': 26, 'org.eclipse.gef.examples.digraph1': 13}
+  LAST 2026-03 621550f9: java=1363 testish=99
+     depth0 '*.tests': 98
+     depth6 'hittest': 1
+     top-level dirs: {'org.eclipse.gef': 327, 'org.eclipse.draw2d': 303, 'org.eclipse.gef.examples.logic': 118, 'org.eclipse.draw2d.examples': 91, 'org.eclipse.gef.examples.text': 78, 'org.eclipse.zest.core': 67, 'org.eclipse.gef.examples.flow': 59, 'org.eclipse.draw2d.tests': 56, 'org.eclipse.zest.layouts': 55, 'org.eclipse.zest.examples': 54, 'org.eclipse.gef.examples.shapes': 32, 'org.eclipse.zest.examples.cloudio': 27}
+
+######## GMF Runtime (gmf-runtime)
+  FIRST JunoSR1 09bad3be: java=2028 testish=256
+     depth0 '*.ui': 121
+     depth0 '*.core': 92
+     depth0 '*.services': 15
+     depth0 '*.provider': 11
+     depth0 '*.action': 9
+     depth0 '*.render': 6
+     depth0 '*.properties': 2
+     top-level dirs: {'org.eclipse.gmf.runtime.diagram.ui': 391, 'org.eclipse.gmf.runtime.draw2d.ui.render.awt': 93, 'org.eclipse.gmf.examples.runtime.diagram.logic': 87, 'org.eclipse.gmf.runtime.draw2d.ui': 86, 'org.eclipse.gmf.runtime.common.ui': 81, 'org.eclipse.gmf.runtime.emf.type.core': 81, 'org.eclipse.gmf.tests.runtime.diagram.ui': 78, 'org.eclipse.gmf.runtime.diagram.ui.actions': 76, 'org.eclipse.gmf.tests.runtime.emf.type.core': 63, 'org.eclipse.gmf.runtime.common.ui.services': 52, 'org.eclipse.gmf.runtime.diagram.core': 52, 'org.eclipse.gmf.runtime.gef.ui': 46}
+  LAST 2026-03 ccc53e5a: java=2041 testish=257
+     depth1 '*.ui': 121
+     depth1 '*.core': 93
+     depth1 '*.services': 15
+     depth1 '*.provider': 11
+     depth1 '*.action': 9
+     depth1 '*.render': 6
+     depth1 '*.properties': 2
+     top-level dirs: {'bundles': 2041}
+
+######## JDT (eclipse.jdt.core)
+  FIRST JunoSR0 308ce152: java=6491 testish=5039
+     depth0 '*.model': 4541
+     depth0 '*.tests': 257
+     depth0 '*.compiler': 199
+     depth0 '*.builder': 25
+     depth0 '*.performance': 17
+     top-level dirs: {'org.eclipse.jdt.core.tests.model': 4541, 'org.eclipse.jdt.core': 1201, 'org.eclipse.jdt.core.tests.compiler': 199, 'org.eclipse.jdt.apt.core': 164, 'org.eclipse.jdt.apt.tests': 135, 'org.eclipse.jdt.compiler.apt.tests': 85, 'org.eclipse.jdt.compiler.apt': 47, 'org.eclipse.jdt.apt.pluggable.tests': 32, 'org.eclipse.jdt.core.tests.builder': 25, 'org.eclipse.jdt.core.tests.performance': 17, 'org.eclipse.jdt.apt.pluggable.core': 14, 'org.eclipse.jdt.apt.ui': 14}
+  LAST 2026-03 c9cb9ed5: java=9262 testish=6017
+     depth0 '*.model': 5104
+     depth0 '*.tests': 516
+     depth0 '*.compiler': 322
+     depth0 '*.builder': 54
+     depth0 '*.performance': 20
+     depth0 '*.mockcompiler': 1
+     top-level dirs: {'org.eclipse.jdt.core.tests.model': 5104, 'JCL': 1406, 'org.eclipse.jdt.core': 1068, 'org.eclipse.jdt.core.compiler.batch': 554, 'org.eclipse.jdt.core.tests.compiler': 322, 'org.eclipse.jdt.compiler.apt.tests': 294, 'org.eclipse.jdt.apt.core': 166, 'org.eclipse.jdt.apt.tests': 142, 'org.eclipse.jdt.apt.pluggable.tests': 62, 'org.eclipse.jdt.core.tests.builder': 54, 'org.eclipse.jdt.core.tests.performance': 20, 'org.eclipse.jdt.compiler.tool.tests': 18}
+
+######## Mylyn (org.eclipse.mylyn)
+  FIRST KeplerPostRC4 dc4a6439: java=310 testish=121
+     depth0 '*.tests': 121
+     top-level dirs: {'org.eclipse.egit.github.core.tests': 120, 'org.eclipse.egit.github.core': 113, 'org.eclipse.mylyn.github.ui': 50, 'org.eclipse.mylyn.github.core': 26, 'org.eclipse.mylyn.github.tests': 1}
+  LAST 2026-03 b383d19b: java=4078 testish=787
+     depth1 '*.tests': 427
+     depth3 '*.tests': 295
+     depth1 '*.util': 14
+     depth1 '*.junit4': 11
+     depth0 '*.tests': 11
+     depth1 '*.junit5': 9
+     depth4 'src-test': 9
+     depth9 'junit': 8
+     depth5 'test': 3
+     top-level dirs: {'mylyn.docs': 1167, 'mylyn.tasks': 1127, 'mylyn.reviews': 486, 'mylyn.commons': 472, 'mylyn.context': 379, 'mylyn.builds': 325, 'mylyn.github': 78, 'mylyn.versions': 25, 'org.eclipse.mylyn.tests': 11, 'mylyn.egit': 8}
+
+######## PDE (eclipse.pde)
+  FIRST JunoSR1 5208d137: java=5000 testish=2625
+     depth1 '*.tests': 2619
+     depth1 '*.runtime': 6
+     top-level dirs: {'apitools': 2767, 'ui': 1901, 'ua': 247, 'ds': 85}
+  LAST 2026-03 12eae51a: java=6338 testish=3097
+     depth1 '*.tests': 3070
+     depth1 '*.runtime': 9
+     depth1 'tests': 8
+     depth1 '*.junit': 8
+     depth2 'src_test': 1
+     depth8 'osgitest': 1
+     top-level dirs: {'apitools': 3167, 'ui': 2309, 'e4tools': 330, 'ua': 244, 'ds': 151, 'build': 137}
+
+######## PTP (ptp)
+  FIRST JunoSR0 f2224498: java=3230 testish=66
+     depth1 '*.tests': 47
+     depth2 '*.tests': 11
+     depth1 '*.test': 6
+     depth9 'papitest': 2
+     top-level dirs: {'core': 849, 'rms': 694, 'debug': 644, 'tools': 568, 'rdt': 475}
+  LAST 2021-09 47cda24d: java=2079 testish=29
+     depth1 '*.tests': 15
+     depth2 '*.tests': 10
+     depth11 'propertyTesters': 2
+     depth9 'papitest': 2
+     top-level dirs: {'debug': 642, 'rms': 484, 'tools': 422, 'core': 418, 'rdt': 113}
+
+######## RAP (org.eclipse.rap)
+  FIRST JunoSR0 8d7992a5: java=4513 testish=1384
+     depth0 'tests': 1372
+     depth7 'testing': 4
+     depth6 'testing': 4
+     depth1 '*.runtime': 3
+     depth1 '*.junit': 1
+     top-level dirs: {'bundles': 3141, 'tests': 1372}
+  LAST 2026-03 2d9a81d4: java=5382 testish=1527
+     depth0 'tests': 1511
+     depth2 'test': 8
+     depth7 'testing': 4
+     depth6 'testing': 4
+     top-level dirs: {'bundles': 3622, 'tests': 1511, 'examples': 229, 'releng': 20}
+
+######## Scout (scout.rt)
+  FIRST JunoSR0 85a8580d: java=2344 testish=96
+     depth0 '*.client': 22
+     depth0 '*.shared': 15
+     depth7 'test': 14
+     depth9 'test': 12
+     depth0 '*.server': 8
+     depth0 '*.fragment': 7
+     depth0 '*.rap': 5
+     depth0 '*.swing': 4
+     depth0 '*.swt': 4
+     depth8 'test': 2
+     depth7 'tests': 1
+     depth6 'tests': 1
+     depth9 'tests': 1
+     top-level dirs: {'org.eclipse.scout.rt.client': 547, 'org.eclipse.scout.rt.ui.swing': 321, 'org.eclipse.scout.rt.ui.rap': 262, 'org.eclipse.scout.rt.ui.swt': 258, 'org.eclipse.scout.rt.shared': 210, 'org.eclipse.scout.rt.server': 206, 'org.eclipse.scout.commons': 176, 'org.eclipse.scout.rt.client.mobile': 84, 'org.eclipse.scout.jaxws216': 51, 'org.eclipse.scout.rt.ui.rap.mobile': 49, 'org.eclipse.scout.rt.testing.client': 22, 'org.eclipse.scout.service': 19}
+  LAST 2026-03 5a5ff352: java=4632 testish=1501
+     depth0 '*.test': 1448
+     depth2 'test': 43
+     depth11 'junit': 7
+     depth7 'test': 3
+     top-level dirs: {'org.eclipse.scout.rt.client': 1054, 'org.eclipse.scout.rt.platform': 504, 'org.eclipse.scout.rt.client.test': 408, 'org.eclipse.scout.rt.platform.test': 329, 'org.eclipse.scout.rt.ui.html': 279, 'org.eclipse.scout.rt.shared': 272, 'org.eclipse.scout.rt.dataobject.test': 197, 'org.eclipse.scout.rt.dataobject': 138, 'org.eclipse.scout.rt.jackson.test': 114, 'org.eclipse.scout.rt.ui.html.test': 107, 'org.eclipse.scout.rt.server': 81, 'org.eclipse.scout.rt.rest': 80}
+
+######## Subversive (subclipse)
+  FIRST JunoSR0 e6db76f8: java=636 testish=14
+     depth0 '*.tests': 11
+     depth0 '*.test': 3
+     top-level dirs: {'org.tigris.subversion.subclipse.ui': 392, 'org.tigris.subversion.subclipse.core': 128, 'org.tigris.subversion.subclipse.tools.usage': 56, 'org.tigris.subversion.subclipse.graph': 40, 'org.tigris.subversion.subclipse.tests': 11, 'org.tigris.subversion.clientadapter': 4, 'org.tigris.subversion.subclipse.graph.test': 3, 'org.tigris.subversion.clientadapter.javahl': 1, 'org.tigris.subversion.clientadapter.svnkit': 1}
+  LAST 2026-03 4e5be746: java=659 testish=0
+     top-level dirs: {'bundles': 659}
+
+######## WebTools (webtools.javaee)
+  FIRST JunoSR2 638c52c3: java=3044 testish=0
+     top-level dirs: {'plugins': 3044}
+  LAST 2025-12 1b27e392: java=3853 testish=508
+     depth0 'tests': 508
+     top-level dirs: {'plugins': 3345, 'tests': 508}
+
+######## Window Builder (windowbuilder)
+  FIRST JunoSR0 bd8f55da: java=4749 testish=1051
+     depth0 '*.tests': 1046
+     depth7 'test': 5
+     top-level dirs: {'org.eclipse.wb.core': 1341, 'org.eclipse.wb.tests': 1046, 'org.eclipse.wb.rcp': 397, 'org.eclipse.wb.swing': 379, 'org.eclipse.wb.swt': 258, 'org.eclipse.wb.rcp.databinding': 213, 'org.eclipse.wb.core.xml': 198, 'org.eclipse.wb.xwt': 167, 'org.eclipse.wb.core.databinding': 113, 'org.eclipse.wb.swing.databinding': 102, 'org.eclipse.wb.ercp': 98, 'org.eclipse.wb.css': 83}
+  LAST 2026-03 7bf365b7: java=3866 testish=806
+     depth0 '*.tests': 779
+     depth2 'DataBindingTest': 18
+     depth2 'SwingBindingsTest': 6
+     depth7 'test': 3
+     top-level dirs: {'org.eclipse.wb.tests': 779, 'org.eclipse.wb.core.java': 723, 'org.eclipse.wb.core': 605, 'org.eclipse.wb.swing': 394, 'org.eclipse.wb.rcp': 390, 'org.eclipse.wb.swt': 251, 'org.eclipse.wb.rcp.databinding': 205, 'org.eclipse.wb.core.databinding': 113, 'org.eclipse.wb.swing.databinding': 102, 'org.eclipse.wb.swing.FormLayout': 53, 'org.eclipse.wb.swing.MigLayout': 51, 'org.eclipse.wb.rcp.databinding.emf': 40}
+
+######## m2e (m2e-core)
+  FIRST JunoSR1 c6c6f910: java=638 testish=9
+     depth0 '*.common': 9
+     top-level dirs: {'org.eclipse.m2e.core': 186, 'org.eclipse.m2e.model.edit': 135, 'org.eclipse.m2e.core.ui': 126, 'org.eclipse.m2e.editor.xml': 33, 'org.eclipse.m2e.jdt': 32, 'org.eclipse.m2e.editor': 30, 'org.eclipse.m2e.discovery': 23, 'org.eclipse.m2e.refactoring': 20, 'org.eclipse.m2e.launching': 18, 'org.eclipse.m2e.scm': 15, 'org.eclipse.m2e.tests.common': 9, 'org.eclipse.m2e.logback.appender': 4}
+  LAST 2026-03 4348a43f: java=969 testish=135
+     depth0 '*.tests': 123
+     depth0 '*.common': 12
+     top-level dirs: {'org.eclipse.m2e.core': 225, 'org.eclipse.m2e.core.ui': 152, 'org.eclipse.m2e.model.edit': 137, 'org.eclipse.m2e.editor': 57, 'org.eclipse.m2e.apt.tests': 55, 'org.eclipse.m2e.jdt': 40, 'org.eclipse.m2e.pde.target': 28, 'org.eclipse.m2e.apt.core': 25, 'org.eclipse.m2e.pde.ui': 23, 'org.eclipse.m2e.discovery': 22, 'org.eclipse.m2e.jdt.tests': 21, 'org.eclipse.m2e.launching': 21}

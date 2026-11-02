@@ -1,0 +1,14 @@
+feature,causa,arquivos,arquivos_no_treino,linhas_removidas,mudancas_em_commits,metodos_distintos,linhas_feature,pct_linhas
+BIRT,erro de sintaxe no próprio código,1,0,0,1,0,2041029,0.0
+EMF,arquivo não Java,1,0,0,1,0,960732,0.0
+EclipseLink,erro de sintaxe no próprio código,1,0,0,2,0,412930,0.0
+JDT,sealed/permits (Java 17),2,2,727,42,183,1336291,0.054404317622434036
+Mylyn,escape \s em texto (Java 15),1,1,32,2,8,296709,0.01078497787394383
+PDE,erro de sintaxe no próprio código,1,0,0,2,0,1215106,0.0
+PDE,modelo de geração de código (M22),17,17,2824,37,136,1215106,0.2324077076403211
+Scout,_ como parâmetro de lambda (Java 22),1,0,0,2,0,1269528,0.0
+Scout,case null em switch (Java 21),2,2,52,2,26,1269528,0.004096010485786844
+Scout,modelo de geração de código (M22),91,61,6634,349,341,1269528,0.5225564146674985
+Window Builder,padrão de tipo em switch (Java 21),1,1,12,1,4,989950,0.0012121824334562351
+Window Builder,sealed/permits (Java 17),7,7,326,15,64,989950,0.03293095610889439
+m2e,erro de sintaxe no próprio código,1,0,0,2,0,384483,0.0

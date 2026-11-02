@@ -1,0 +1,11 @@
+17:25:53 features: ['CVS'] | RAM budget 5.8 GB | max procs 12 | log C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\logs\run_all_20261012_172553.log
+17:25:55 [CVS] s00_timeline rc=0 2s
+17:26:01 [CVS] s01_snapshots rc=0 5s
+17:26:01 phase B: 68 CK/Understand jobs
+17:26:37 [CVS] s04_methods rc=0 37s
+17:30:31 phase B: 25 started, 43 queued, 271s
+17:33:42 phase B: 50 started, 18 queued, 461s
+17:35:32 [CVS] s05_evometrics rc=0 12s
+17:35:47 [CVS] s06_change_distiller rc=0 14s
+17:36:02 [CVS] s07_join rc=0 15s
+17:36:02 done

@@ -1,0 +1,77 @@
+simrel tags: 63 | excluded: 9 | calendar: 54
+
+=== BIRT (birt, linha principal origin/master)
+  present: JunoSR0 -> 2020-09 | series: JunoSR0 -> 2020-09 | internal gaps crossed: none
+  snapshots: 27 (duplicates removed: 3) | prod .java 7917 -> 8010 | interval commits 2919 (imported excluded: 0)
+
+=== CDT (cdt, linha principal origin/main)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 37 (duplicates removed: 13) | prod .java 76 -> 7896 | interval commits 36383 (imported excluded: 35054)
+
+=== CVS (org.eclipse.team.cvs, linha principal origin/master)
+  present: JunoSR0 -> 2021-12 | series: JunoSR0 -> 2021-12 | internal gaps crossed: none
+  snapshots: 34 (duplicates removed: 1) | prod .java 536 -> 523 | interval commits 751 (imported excluded: 58)
+
+=== DataTools (datatools, linha principal origin/master)
+  present: JunoSR0 -> 2026-09 | series: Oxygen.3 -> 2026-09 | internal gaps crossed: none
+  snapshots: 24 (duplicates removed: 11) | prod .java 4600 -> 4639 | interval commits 98 (imported excluded: 0)
+
+=== EGit (egit, linha principal origin/master)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 54 (duplicates removed: 0) | prod .java 642 -> 995 | interval commits 4154 (imported excluded: 0)
+
+=== EMF (org.eclipse.emf, linha principal origin/master)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 54 (duplicates removed: 0) | prod .java 1540 -> 1918 | interval commits 2695 (imported excluded: 1348)
+
+=== EclipseLink (eclipselink, linha principal origin/master)
+  present: JunoSR0 -> LunaSR0 | series: JunoSR0 -> LunaSR0 | internal gaps crossed: none
+  snapshots: 7 (duplicates removed: 0) | prod .java 5467 -> 5790 | interval commits 1511 (imported excluded: 0)
+
+=== GEF (gef-classic, linha principal origin/master)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 33 (duplicates removed: 21) | prod .java 693 -> 780 | interval commits 1294 (imported excluded: 154)
+
+=== GMF Runtime (gmf-runtime, linha principal origin/master)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 47 (duplicates removed: 7) | prod .java 1572 -> 1587 | interval commits 444 (imported excluded: 0)
+
+=== JDT (eclipse.jdt.core, linha principal origin/master)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 54 (duplicates removed: 0) | prod .java 1458 -> 3374 | interval commits 8550 (imported excluded: 0)
+
+=== PDE (eclipse.pde, linha principal origin/master)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 54 (duplicates removed: 0) | prod .java 2381 -> 3238 | interval commits 9736 (imported excluded: 5143)
+
+=== Mylyn (org.eclipse.mylyn, linha principal origin/main)
+  present: JunoSR0 -> 2026-09 | series: 2023-06 -> 2026-09 | internal gaps crossed: none
+  snapshots: 14 (duplicates removed: 0) | prod .java 2581 -> 3188 | interval commits 3239 (imported excluded: 1962)
+
+=== PTP (ptp, linha principal origin/master)
+  present: JunoSR0 -> 2025-12 | series: JunoSR0 -> 2025-12 | internal gaps crossed: none
+  snapshots: 26 (duplicates removed: 25) | prod .java 3155 -> 2043 | interval commits 1476 (imported excluded: 0)
+
+=== RAP (org.eclipse.rap, linha principal origin/main)
+  present: JunoSR0 -> 2025-06 | series: JunoSR0 -> 2025-06 | internal gaps crossed: none
+  snapshots: 48 (duplicates removed: 1) | prod .java 2956 -> 3609 | interval commits 3152 (imported excluded: 0)
+
+=== Scout (scout.rt, linha principal origin/releases/27.1)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 54 (duplicates removed: 0) | prod .java 2279 -> 3161 | interval commits 17041 (imported excluded: 3479)
+
+=== Subversive (subversive, linha principal origin/main)
+  present: JunoSR0 -> Oxygen.3 | series: JunoSR0 -> Oxygen.3 | internal gaps crossed: none
+  snapshots: 16 (duplicates removed: 4) | prod .java 1127 -> 1165 | interval commits 425 (imported excluded: 0)
+
+=== WebTools (webtools.javaee, linha principal origin/master)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 41 (duplicates removed: 13) | prod .java 3044 -> 3345 | interval commits 2440 (imported excluded: 2096)
+
+=== Window Builder (windowbuilder, linha principal origin/master)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: ['Neon']
+  snapshots: 48 (duplicates removed: 6) | prod .java 3703 -> 3052 | interval commits 1503 (imported excluded: 0)
+
+=== m2e (m2e-core, linha principal origin/main)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 54 (duplicates removed: 0) | prod .java 625 -> 840 | interval commits 2322 (imported excluded: 120)

@@ -1,0 +1,5 @@
+snapshot files: 40722 unique blobs: 5112
+file changes: 6626 | commits with production changes: 1102 | imported commits excluded: 120
+unique blobs total: 6982
+parse ok: 6981  failures: 1 | store: {'blobs': 6982, 'parse_ok': 6981, 'anonymous_or_local': 11761, 'methods': 95037, 'duplicate_key': 95, 'parse_fail': 1, 'distinct_texts': 17030}
+

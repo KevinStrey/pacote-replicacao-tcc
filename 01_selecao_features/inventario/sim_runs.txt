@@ -1,0 +1,1597 @@
+
+######## BIRT
+  JunoSR0
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.2.0'] loc=DL/birt/update-site/4.2-interim/ q=4.2.0.v20120611-51-7w31231722
+  JunoSR1
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.2.1'] loc=DL/birt/update-site/4.2-interim/ q=4.2.1.v20120820-5107w31231931
+  JunoSR2
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.2.2'] loc=DL/birt/update-site/4.2-interim/ q=4.2.2.v201210101433-5117w312321212544
+  KeplerPostRC4 .. KeplerSR0
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.3.0'] loc=DL/birt/update-site/kepler-interim/ q=4.3.0.v201306051647-52-7w31241715262A
+  KeplerSR1
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.3.1'] loc=DL/birt/update-site/kepler-interim/ q=4.3.1.v201308301349-5207w31241941245A
+  LunaSR0 .. z20140806
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.4.0'] loc=DL/birt/update-site/4.4/ q=4.4.0.v201405191524-53-7w3125162A2635
+  LunaRC4
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.4.1'] loc=DL/birt/update-site/luna-interim/ q=4.4.1.v201408290142-5307w31251A192166
+  LunaSR2
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.4.2'] loc=DL/birt/update-site/4.4/ q=4.4.2.v201410272105-5317w312521383216
+  S201504150911
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.5.0'] loc=DL/birt/update-site/mars-interim/ q=4.5.0.v201501061437-54-7w312612172548
+  Mars.1
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.5.0'] loc=DL/releases/mars/201509251000/ q=4.5.0.v201506092134
+  Neon
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.6.0'] loc=DL/birt/update-site/neon-interim/ q=4.6.0.v201606072122
+  OxygenPreRienaRemoval_9-8-2016
+      birt.b3aggrcon contrib=false nfeat=7 xyz=['4.6.0'] loc=DL/birt/update-site/4.6/ q=4.6.0.v201606072122
+  Neon.1
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.6.0'] loc=DL/birt/update-site/4.6/ q=4.6.0.v201606072122
+  Neon.1a
+      birt.b3aggrcon contrib=true nfeat=7 xyz=['4.6.0'] loc=DL/releases/neon/201609281000/ q=4.6.0.v201606072122
+  Neon.2 .. Neon.3
+      birt.aggrcon contrib=true nfeat=7 xyz=['4.6.0'] loc=DL/birt/update-site/4.6/ q=4.6.0.v201606072122
+  Neon.3_respin
+      birt.aggrcon contrib=true nfeat=7 xyz=['4.6.0'] loc=DL/releases/neon/201703141400/ q=4.6.0.v201606072122
+  Oxygen .. Oxygen.1
+      birt.aggrcon contrib=true nfeat=7 xyz=['4.7.0'] loc=DL/birt/update-site/oxygen-interim/ q=4.7.0.v201706142203
+  Oxygen.1a .. Oxygen.1a_respin
+      birt.aggrcon contrib=true nfeat=7 xyz=['4.7.0'] loc=DL/releases/oxygen/201709271000/ q=4.7.0.v201706142203
+  Oxygen.2 .. 2019-09
+      birt.aggrcon contrib=true nfeat=7 xyz=['4.7.0'] loc=DL/birt/update-site/oxygen-interim/ q=4.7.0.v201706142203
+  2019-12 .. 2020-09
+      birt.aggrcon contrib=true nfeat=1 xyz=['4.7.0'] loc=DL/birt/update-site/oxygen-interim/ q=4.7.0.v201706142203
+  2020-12 .. 2026-03
+      -- sem arquivo
+
+######## CDT
+  JunoSR0 .. JunoSR2
+      cdt.b3aggrcon contrib=true nfeat=17 xyz=['1.0.0', '1.0.3', '2.1.100', '5.1.0', '5.2.0', '6.0.0', '6.1.0', '7.0.0', '8.0.0'] loc=DL/tools/cdt/builds/juno/milestones q=1.0.0.201106081058
+  KeplerPostRC4 .. KeplerSR1
+      cdt.b3aggrcon contrib=true nfeat=17 xyz=['1.0.0', '1.0.3', '2.1.100', '5.1.0', '5.2.0', '6.0.0', '6.1.0', '7.0.0', '8.0.0'] loc=DL/tools/cdt/builds/kepler/milestones q=1.0.0.201106081058
+  LunaSR0 .. LunaSR2
+      cdt.b3aggrcon contrib=true nfeat=22 xyz=['1.0.0', '1.0.3', '2.1.100', '5.1.0', '5.2.0', '6.0.0', '6.1.0', '7.0.0', '8.0.0'] loc=DL/tools/cdt/builds/luna/milestones q=1.0.0.201106081058
+  S201504150911
+      cdt.b3aggrcon contrib=true nfeat=22 xyz=['1.0.0', '1.0.3', '2.1.100', '5.1.0', '5.2.0', '6.0.0', '6.1.0', '7.0.0', '8.0.0'] loc=DL/tools/cdt/builds/mars/milestones q=1.0.0.201106081058
+  Mars.1
+      cdt.b3aggrcon contrib=true nfeat=24 xyz=['1.0.0', '1.0.3', '2.1.100', '5.1.0', '5.2.0', '6.0.0', '6.1.0', '7.0.0', '8.0.0'] loc=DL/releases/mars/201509251000/ | DL/releases/mars/201509251000/ q=1.0.0.201106081058
+  Neon
+      cdt.b3aggrcon contrib=true nfeat=24 xyz=[] loc=DL/tools/cdt/builds/neon/milestones/rc4 | DL/tools/cdt/launchbar/neon.rc4 q=
+  OxygenPreRienaRemoval_9-8-2016
+      cdt.b3aggrcon contrib=true nfeat=24 xyz=[] loc=DL/tools/cdt/releases/9.0/r | DL/tools/cdt/launchbar/neon.rc4 q=
+  Neon.1
+      cdt.b3aggrcon contrib=true nfeat=24 xyz=[] loc=DL/tools/cdt/builds/neon/milestones/ur1-rc4 | DL/tools/cdt/launchbar/neon.1 q=
+  Neon.1a
+      cdt.b3aggrcon contrib=true nfeat=24 xyz=[] loc=DL/releases/neon/201609281000/ | DL/releases/neon/201609281000/ q=
+  Neon.2
+      cdt.aggrcon contrib=true nfeat=26 xyz=[] loc=DL/tools/cdt/builds/neon/milestones/ur2-rc4 | DL/tools/cdt/launchbar/neon.2 q=
+  Neon.3
+      cdt.aggrcon contrib=true nfeat=26 xyz=[] loc=DL/tools/cdt/builds/neon/milestones/ur3-rc4 | DL/tools/cdt/launchbar/neon.2 q=
+  Neon.3_respin
+      cdt.aggrcon contrib=true nfeat=26 xyz=[] loc=DL/releases/neon/201703141400/ | DL/releases/neon/201703141400/ q=
+  Oxygen
+      cdt.aggrcon contrib=true nfeat=24 xyz=[] loc=DL/tools/cdt/builds/oxygen/milestones/rc4 | DL/tools/cdt/launchbar/oxygen.rc4 q=
+  Oxygen.1
+      cdt.aggrcon contrib=true nfeat=24 xyz=[] loc=DL/tools/cdt/builds/oxygen/milestones/1.rc4 | DL/tools/cdt/launchbar/milestones/oxygen q=
+  Oxygen.1a .. Oxygen.1a_respin
+      cdt.aggrcon contrib=true nfeat=24 xyz=[] loc=DL/releases/oxygen/201709271000/ | DL/releases/oxygen/201709271000/ q=
+  Oxygen.2 .. Oxygen.2_respin
+      cdt.aggrcon contrib=true nfeat=24 xyz=[] loc=DL/tools/cdt/builds/9.4/ | DL/tools/cdt/launchbar/milestones/oxygen.2 q=
+  Oxygen.3
+      cdt.aggrcon contrib=true nfeat=24 xyz=[] loc=DL/tools/cdt/builds/9.4/cdt-9.4.3-rc3/ | DL/tools/cdt/launchbar/milestones/oxygen.2 q=
+  PhotonM7
+      cdt.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/tools/cdt/builds/9.5/cdt-9.5.0-photon-m7/ | DL/tools/cdt/launchbar/photon/m7/ q=[9.5.0.201805111000]
+  PhotonRC4
+      cdt.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/tools/cdt/builds/9.5/cdt-9.5.0-photon-rc4b/ | DL/tools/cdt/launchbar/photon/m7/ q=[9.5.0.201806131938]
+  Photon.0
+      cdt.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/tools/cdt/builds/9.5/cdt-9.5.0-photon-rc4c/ | DL/tools/cdt/launchbar/photon/m7/ q=[9.5.0.201806170908]
+  2018-09
+      cdt.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/tools/cdt/builds/9.5/cdt-9.5.3-simrel-2018-09-rc2/ | DL/tools/cdt/launchbar/2.2/launchbar-2.2.1/ q=[2.2.1.201807231911]
+  2018-12
+      cdt.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/tools/cdt/builds/9.6/cdt-9.6.0-simrel-2018-12-rc2/ | DL/tools/cdt/launchbar/2.2/launchbar-2.2.2-simrel-2018-12-m2/ q=[2.2.2.201811071421]
+  2019-03
+      cdt.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/tools/cdt/builds/9.7/cdt-9.7.0-simrel-2019-03-rc2a/ | DL/tools/cdt/launchbar/2.2/launchbar-2.2.3-simrel-2019-03-m2/ q=[2.2.3.201902041137]
+  2019-06
+      cdt.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/tools/cdt/builds/9.8/cdt-9.8.0-simrel-2019-06-rc2/ | DL/tools/cdt/launchbar/2.3/launchbar-2.3.0-simrel-2019-06-rc2/ q=[2.3.0.201906102002]
+  2019-09
+      cdt.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/tools/cdt/builds/9.9/cdt-9.9.0-simrel-2019-09-rc2 | DL/tools/cdt/launchbar/2.4/launchbar-2.4.0-simrel-2019-09-m1/ q=[2.4.0.201907192018]
+  2019-12
+      cdt.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/tools/cdt/builds/9.10/cdt-9.10.0-simrel-2019-12-rc2/ | DL/tools/cdt/launchbar/2.4/launchbar-2.4.1-simrel-2019-12-m3/ q=[2.4.1.201911192211]
+  2020-03
+      cdt.aggrcon contrib=true nfeat=34 xyz=[] loc=DL/tools/cdt/builds/9.11/cdt-9.11.0-2020-03-rc2 q=[2.4.100.202001141724]
+  2020-06
+      cdt.aggrcon contrib=true nfeat=34 xyz=[] loc=DL/tools/cdt/builds/9.11/cdt-9.11.1-2020-06-rc1/ q=[2.4.100.202001141724]
+  2020-09
+      cdt.aggrcon contrib=true nfeat=26 xyz=[] loc=DL/tools/cdt/builds/10.0/cdt-10.0.0-rc2 q=[10.0.0.202008310002]
+  2020-12
+      cdt.aggrcon contrib=true nfeat=26 xyz=[] loc=DL/tools/cdt/builds/10.1/cdt-10.1.0-rc2 q=[10.1.0.202010062020]
+  2021-03
+      cdt.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/tools/cdt/builds/10.2/cdt-10.2.0-rc2/ q=[10.2.0.202012191711]
+  2021-06
+      cdt.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/tools/cdt/releases/10.3/cdt-10.3.0/ q=[10.3.0.202104042017]
+  2021-09
+      cdt.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/tools/cdt/builds/10.4/cdt-10.4.0-rc2/ q=[10.4.0.202106130052]
+  2021-12
+      cdt.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/tools/cdt/builds/10.5/cdt-10.5.0-rc2 q=[10.5.0.202109270023]
+  2022-03
+      cdt.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/tools/cdt/builds/10.6/cdt-10.6.0-rc2 q=[10.6.0.202201121907]
+  2022-06
+      cdt.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/tools/cdt/builds/10.7/cdt-10.7.0-rc2/ q=[10.7.0.202204110055]
+  2022-09
+      cdt.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/tools/cdt/releases/10.7/cdt-10.7.1/ q=[10.7.1.202208160035]
+  2022-12
+      cdt.aggrcon contrib=true nfeat=28 xyz=[] loc=DL/tools/cdt/builds/11.0/cdt-11.0.0-rc2/ q=[11.0.0.202210031642]
+  2023-03
+      cdt.aggrcon contrib=true nfeat=28 xyz=[] loc=DL/tools/cdt/releases/11.1/cdt-11.1.0/ q=[11.1.0.202212091724]
+  2023-06
+      cdt.aggrcon contrib=true nfeat=28 xyz=[] loc=DL/tools/cdt/releases/11.2/cdt-11.2.0/ q=[11.2.0.202303131754]
+  2023-09
+      cdt.aggrcon contrib=true nfeat=28 xyz=[] loc=DL/tools/cdt/builds/11.3/cdt-11.3.0-rc2/ q=[11.3.0.202307110141]
+  2023-12
+      cdt.aggrcon contrib=true nfeat=28 xyz=[] loc=DL/tools/cdt/builds/11.4/cdt-11.4.0-rc2/ q=[11.4.0.202309142347]
+  2024-03
+      cdt.aggrcon contrib=true nfeat=28 xyz=[] loc=DL/tools/cdt/builds/11.5/cdt-11.5.0-rc2 q=[11.5.0.202312062348]
+  2024-06
+      cdt.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/tools/cdt/builds/11.6/cdt-11.6.0-rc2/ | DL/tools/cdt/builds/cdt-lsp-2.0/cdt-lsp-2.0.0-rc2 q=[11.6.0.202403071917]
+  2024-09 .. 2024-12
+      cdt.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/tools/cdt/releases/11.6/cdt-11.6.1/ | DL/tools/cdt/releases/cdt-lsp-2.0/cdt-lsp-2.0.0/ q=[11.6.1.202406241230]
+  2025-03
+      cdt.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/tools/cdt/builds/12.0/cdt-12.0.0-rc1/ | DL/tools/cdt/builds/cdt-lsp-3.0/cdt-lsp-3.0.0-rc1/ q=[12.0.0.202410081652]
+  2025-06
+      cdt.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/tools/cdt/builds/12.1/cdt-12.1.0-rc2/ | DL/tools/cdt/builds/cdt-lsp-3.2/cdt-lsp-3.2.0-rc2/ q=[12.1.0.202505062016]
+  2025-09
+      cdt.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/tools/cdt/builds/12.2/cdt-12.2.0-rc2/ | DL/tools/cdt/builds/cdt-lsp-3.3/cdt-lsp-3.3.0-rc2/ q=[12.2.0.202506091931]
+  2025-12
+      cdt.aggrcon contrib=true nfeat=28 xyz=[] loc=DL/tools/cdt/builds/12.3/cdt-12.3.0-rc2/ | DL/tools/cdt/builds/cdt-lsp-3.4/cdt-lsp-3.4.0-rc2/ q=[12.3.0.202509101333]
+  2026-03
+      cdt.aggrcon contrib=true nfeat=28 xyz=[] loc=DL/tools/cdt/releases/12.4/cdt-12.4.0/ | DL/tools/cdt/releases/cdt-lsp-3.5/cdt-lsp-3.5.0/ q=[12.4.0.202512101642]
+
+######## DataTools
+  JunoSR0
+      dtp.b3aggrcon contrib=true nfeat=2 xyz=['1.10.0'] loc=DL/datatools/downloads/drops/M_updates_1.10 q=1.10.0.v201201161512-7I9e-FE9JgB0iHje8NJ
+  JunoSR1
+      dtp.b3aggrcon contrib=true nfeat=2 xyz=['1.10.1'] loc=DL/datatools/downloads/drops/M_updates_1.10.1 q=1.10.1.v201208161415-7I9e7GFE9JgB7ngIxQt
+  JunoSR2
+      dtp.b3aggrcon contrib=true nfeat=2 xyz=['1.10.2'] loc=DL/datatools/downloads/drops/M_updates_1.10.2 q=1.10.2.v201209181447-7I9e7XFE9JgB80wJRUv
+  KeplerPostRC4 .. KeplerSR0
+      dtp.b3aggrcon contrib=true nfeat=2 xyz=['1.11.0'] loc=DL/datatools/downloads/drops/M_updates_1.11.0 q=1.11.0.v201302211047-7I9v-FE9JgQGiXyVBMy
+  KeplerSR1
+      dtp.b3aggrcon contrib=true nfeat=2 xyz=['1.11.1'] loc=DL/datatools/downloads/drops/M_updates_1.11.1 q=1.11.1.v201306041610-7I9v7GFE9JgQNnB2SXR
+  LunaSR0 .. S201504150911
+      dtp.b3aggrcon contrib=true nfeat=2 xyz=['1.12.0'] loc=DL/datatools/downloads/drops/M_updates_1.12.0 q=1.12.0.v201406061321-7IAB-FE9JgeWjZZhMd-
+  Mars.1
+      dtp.b3aggrcon contrib=true nfeat=2 xyz=['1.12.0'] loc=DL/releases/mars/201509251000/ q=1.12.0.v201406061321-7IAB-FE9JgeWjZZhMd-
+  Neon
+      dtp.b3aggrcon contrib=true nfeat=2 xyz=[] loc=DL/datatools/updates/1.13/1.13.0.201603142002/repository q=[1.13.0.201603142002]
+  OxygenPreRienaRemoval_9-8-2016
+      dtp.b3aggrcon contrib=false nfeat=2 xyz=[] loc=DL/datatools/updates/1.13/1.13.0.201603142002/repository q=[1.13.0.201603142002]
+  Neon.1
+      dtp.b3aggrcon contrib=true nfeat=2 xyz=[] loc=DL/datatools/updates/1.13/1.13.0.201603142002/repository q=[1.13.0.201603142002]
+  Neon.1a
+      dtp.b3aggrcon contrib=true nfeat=2 xyz=[] loc=DL/releases/neon/201609281000/ q=[1.13.0.201603142002]
+  Neon.2 .. Neon.3
+      dtp.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/datatools/updates/1.13/1.13.0.201603142002/repository q=[1.13.0.201603142002]
+  Neon.3_respin
+      dtp.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/releases/neon/201703141400/ q=[1.13.0.201603142002]
+  Oxygen .. Oxygen.1
+      dtp.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/datatools/1.14.0.201701131441/repository q=[1.14.0.201701131441]
+  Oxygen.1a .. Oxygen.1a_respin
+      dtp.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/releases/oxygen/201709271000/ q=[1.14.0.201701131441]
+  Oxygen.2
+      dtp.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/datatools/1.14.0.201701131441/repository q=[1.14.0.201701131441]
+  Oxygen.2_respin .. Oxygen.3
+      dtp.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/datatools/1.14.1.201712071719/repository q=[1.14.1.201712071719]
+  PhotonM7
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/1.14.100-SNAPSHOT/repository/ q=
+  PhotonRC4 .. Photon.0
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/1.14.100.201805031905/repository/ q=
+  2018-09
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/1.14.102/repository/ q=
+  2018-12
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/1.14.103-SNAPSHOT/repository/ q=
+  2019-03
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/1.14.104-SNAPSHOT/repository/ q=
+  2019-06 .. 2020-06
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/1.14.105-SNAPSHOT/repository/ q=
+  2020-09 .. 2021-09
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/1.14.200-SNAPSHOT/repository/ q=
+  2021-12
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/1.14.202-SNAPSHOT/repository/ q=
+  2022-03 .. 2023-03
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/1.14.300-SNAPSHOT/repository/ q=
+  2023-06 .. 2023-09
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/release/1.15.0 q=
+  2023-12
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/release/1.16.0 q=
+  2024-03 .. 2024-12
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/release/1.16.1 q=
+  2025-03 .. 2026-03
+      dtp.aggrcon contrib=true nfeat=36 xyz=[] loc=DL/datatools/updates/release/1.16.3 q=
+
+######## EGit
+  JunoSR0
+      egit.b3aggrcon contrib=true nfeat=7 xyz=['2.0.0'] loc=DL/egit/updates-2.0 | DL/egit/github/updates-2.0 q=2.0.0.201206130900-r
+  JunoSR1
+      egit.b3aggrcon contrib=true nfeat=7 xyz=['2.1.0'] loc=DL/egit/updates-2.1 | DL/egit/github/updates-2.1 q=2.1.0.201209190230-r
+  JunoSR2
+      egit.b3aggrcon contrib=true nfeat=6 xyz=['2.2.0'] loc=DL/egit/updates-2.2 | DL/egit/github/updates-2.2 q=2.2.0.201212191850-r
+  KeplerPostRC4 .. KeplerSR0
+      egit.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/egit/updates-3.0 | DL/egit/github/updates-3.0 q=[3.0.0.201306101825-r]
+  KeplerSR1
+      egit.b3aggrcon contrib=true nfeat=9 xyz=[] loc=DL/egit/updates-3.0.3/ | DL/egit/github/updates-3.0 q=[3.0.0.201306101825-r]
+  LunaSR0 .. z20140806
+      egit.b3aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-3.4 | DL/egit/github/updates-3.4 q=[3.4.0.201406110918-r]
+  LunaRC4
+      egit.b3aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-3.4.1 | DL/egit/github/updates-3.4 q=[3.4.0.201406110918-r]
+  LunaSR2
+      egit.b3aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-3.4.2 | DL/egit/github/updates-3.4.2 q=[3.4.2.201412180340-r]
+  S201504150911
+      egit.b3aggrcon contrib=true nfeat=9 xyz=[] loc=DL/egit/staging/v4.0.0.201503231230-m1 | DL/egit/github/staging/v4.0.0.201503231230-m1 q=[4.0.0.201503231230-m1]
+  Mars.1
+      egit.b3aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-4.0.3 | DL/egit/github/updates-4.0.3 q=[4.0.3.201509231615-r]
+  Neon
+      egit.b3aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-4.4 | DL/egit/github/updates-4.4 q=[4.4.0.201606070830-r]
+  OxygenPreRienaRemoval_9-8-2016
+      egit.b3aggrcon contrib=true nfeat=8 xyz=[] loc=DL/egit/updates-4.4.1 q=[4.4.1.201607150455-r]
+  Neon.1
+      egit.b3aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-4.4.1 | DL/egit/github/updates-4.4 q=[4.4.0.201606070830-r]
+  Neon.1a
+      egit.b3aggrcon contrib=true nfeat=10 xyz=[] loc=DL/releases/neon/201609281000/ | DL/releases/neon/201609281000/ q=[4.4.0.201606070830-r]
+  Neon.2
+      egit.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-4.4.1 | DL/egit/github/updates-4.4 q=[4.4.0.201606070830-r]
+  Neon.3
+      egit.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-4.6.1 | DL/egit/github/updates-4.6 q=[4.6.0.201612231935-r]
+  Neon.3_respin
+      egit.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/releases/neon/201703141400/ | DL/releases/neon/201703141400/ q=[4.6.0.201612231935-r]
+  Oxygen .. Oxygen.1
+      egit.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-4.8 | DL/egit/github/updates-4.8 q=[4.8.0.201706111038-r]
+  Oxygen.1a .. Oxygen.1a_respin
+      egit.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/releases/oxygen/201709271000/ | DL/releases/oxygen/201709271000/ q=[4.8.0.201706111038-r]
+  Oxygen.2
+      egit.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-4.9.1 | DL/egit/github/updates-4.9 q=[4.9.0.201710071750-r]
+  Oxygen.2_respin .. Oxygen.3
+      egit.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-4.9.2 | DL/egit/github/updates-4.9 q=[4.9.0.201710071750-r]
+  PhotonM7
+      egit.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/staging/v5.0.0.201805151920-m7 | DL/egit/github/staging/v5.0.0.201805151920-m7 q=[5.0.0.201805151920-m7]
+  PhotonRC4 .. Photon.0
+      egit.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-5.0 | DL/egit/github/updates-5.0 q=[5.0.0.201806131550-r]
+  2018-09
+      egit.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/egit/updates-5.1 | DL/egit/github/updates-5.1 q=[5.1.0.201809111528-r]
+  2018-12
+      egit.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/egit/updates-5.2 | DL/egit/github/updates-5.2 q=[5.2.0.201812061821-r]
+  2019-03
+      egit.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/egit/updates-5.3 | DL/egit/github/updates-5.3 q=[5.3.0.201903130848-r]
+  2019-06
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-5.4 | DL/egit/github/updates-5.4 q=[5.4.0.201906121030-r]
+  2019-09
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-5.5 | DL/egit/github/updates-5.5 q=[5.5.0.201909110433-r]
+  2019-12
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-5.6 | DL/egit/github/updates-5.6 q=[5.6.0.201912101111-r]
+  2020-03
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=repo.eclipse.org/content/unzip/releases.unzip/org/eclipse/egit/org.eclipse.egit.repository/5.7.0.202003110725-r/org.eclipse.egit.repository-5.7.0.2020 q=[5.7.0.202003110725-r]
+  2020-06
+      egit.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/egit/updates-5.8 | DL/egit/github/updates-5.8 q=[5.8.0.202006091008-r]
+  2020-09
+      egit.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/egit/updates-5.9 | DL/egit/github/updates-5.9 q=[5.9.0.202009080501-r]
+  2020-12
+      egit.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/egit/updates-5.10 | DL/egit/github/updates-5.10 q=[5.10.0.202012080955-r]
+  2021-03
+      egit.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/egit/updates-5.11 | DL/egit/github/updates-5.11 q=[5.11.0.202103091610-r]
+  2021-06
+      egit.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/egit/updates-5.12 | DL/egit/github/updates-5.12 q=[5.12.0.202106070339-r]
+  2021-09
+      egit.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/egit/updates-5.13 | DL/egit/github/updates-5.13 q=[5.13.0.202109080827-r]
+  2021-12
+      egit.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/egit/updates-6.0 | DL/egit/github/updates-6.0 q=[6.0.0.202111291000-r]
+  2022-03
+      egit.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/egit/updates-6.1 | DL/egit/github/updates-6.1 q=[6.1.0.202203080745-r]
+  2022-06
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-6.2 q=[6.2.0.202206071550-r]
+  2022-09
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-6.3 q=[6.3.0.202209071007-r]
+  2022-12
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-6.4 q=[6.4.0.202211300538-r]
+  2023-03
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-6.5 q=[6.5.0.202303070854-r]
+  2023-06
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-6.6 q=[6.6.0.202305301015-r]
+  2023-09
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-6.7 q=[6.7.0.202309050840-r]
+  2023-12
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-6.8 q=[6.8.0.202311291450-r]
+  2024-03
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-6.9 q=[6.9.0.202403050737-r]
+  2024-06
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-6.10 q=[6.10.0.202406032230-r]
+  2024-09
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-7.0 q=[7.0.0.202409031743-r]
+  2024-12
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-7.1 q=[7.1.0.202411261347-r]
+  2025-03
+      egit.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/egit/updates-7.2 q=[7.2.0.202503040940-r]
+  2025-06
+      egit.aggrcon contrib=true nfeat=9 xyz=[] loc=DL/egit/updates-7.3 q=[7.3.0.202506031305-r]
+  2025-09
+      egit.aggrcon contrib=true nfeat=9 xyz=[] loc=DL/egit/updates-7.4 q=[7.4.0.202509020913-r]
+  2025-12
+      egit.aggrcon contrib=true nfeat=9 xyz=[] loc=DL/egit/updates-7.5 q=[7.5.0.202512021534-r]
+  2026-03
+      egit.aggrcon contrib=true nfeat=9 xyz=[] loc=DL/egit/updates-7.6 q=[7.6.0.202603022253-r]
+
+######## EMF
+  JunoSR0
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.8milestones q=[1.0.0.v20120612-0950]
+  JunoSR1
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.8.x/ q=[1.0.1.v20120917-0741]
+  JunoSR2
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.8.x/ q=[1.0.2.v20130212-0719]
+  KeplerPostRC4 .. KeplerSR0
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.9milestones/ q=[1.1.0.v20130612-0809]
+  KeplerSR1
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.9.x/ q=[1.1.1.v20130903-0948]
+  LunaSR0 .. z20140806
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/milestones/ q=[1.2.0.v20140521-0402]
+  LunaRC4
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.10.x/ q=[1.2.1.v20140909-0808]
+  LunaSR2
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.10.x/ q=[1.2.2.v20150202-0452]
+  S201504150911
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.11milestones/ q=[1.3.0.v20150324-0811]
+  Mars.1
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/releases/mars/201509251000/ q=[1.3.1.v20150806-0546]
+  Neon
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.12/ q=[1.4.0.v20160526-0356]
+  OxygenPreRienaRemoval_9-8-2016
+      emf-emf.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/emf/emf/updates/2.12/ q=[1.4.0.v20160526-0606]
+  Neon.1
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.12/ q=[1.4.0.v20160526-0356]
+  Neon.1a
+      emf-emf.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/releases/neon/201609281000/ q=[1.4.0.v20160526-0356]
+  Neon.2 .. Neon.3
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.12/ q=[1.4.0.v20160526-0356]
+  Neon.3_respin
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/releases/neon/201703141400/ q=[1.4.0.v20160526-0356]
+  Oxygen .. Oxygen.1
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.13/ q=[1.4.0.v20170609-0928]
+  Oxygen.1a .. Oxygen.1a_respin
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/releases/oxygen/201709271000/ q=[1.4.0.v20170609-0928]
+  Oxygen.2 .. Oxygen.3
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/updates/2.13/ q=[1.4.0.v20170609-0928]
+  PhotonM7
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/milestone/S201805041039 q=
+  PhotonRC4 .. Photon.0
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/milestone/S201805310718 q=
+  2018-09
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.15 q=
+  2018-12
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/milestone/S201812060606 q=
+  2019-03
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.17 q=
+  2019-06
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.18 q=
+  2019-09
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.19 q=
+  2019-12
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.20 q=
+  2020-03
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.21 q=
+  2020-06
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.22 q=
+  2020-09
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.23 q=
+  2020-12
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.24 q=
+  2021-03
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.25 q=
+  2021-06
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.26 q=
+  2021-09
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.27 q=
+  2021-12
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.28 q=
+  2022-03
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.29 q=
+  2022-06
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.30 q=
+  2022-09
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.31 q=
+  2022-12
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.32 q=
+  2023-03
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.33.0 q=
+  2023-06
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.34.0 q=
+  2023-09
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.35.0 q=
+  2023-12
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.36.0 q=
+  2024-03
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.37.0 q=
+  2024-06
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.38.0 q=
+  2024-09
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.39.0 q=
+  2024-12
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.40.0 q=
+  2025-03
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.41.0 q=
+  2025-06
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.42.0 q=
+  2025-09
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.43.0 q=
+  2025-12
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.44.0 q=
+  2026-03
+      emf-emf.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/modeling/emf/emf/builds/release/2.45.0 q=
+
+######## EclipseLink
+  JunoSR0 .. JunoSR1
+      eclipseLink.b3aggrcon contrib=true nfeat=1 xyz=['2.4.0'] loc=DL/rt/eclipselink/updates/2.4.0.v20120608-r11652 q=2.4.0.v20120613-r11652
+  JunoSR2
+      eclipseLink.b3aggrcon contrib=true nfeat=1 xyz=['2.4.1'] loc=DL/rt/eclipselink/updates/2.4.1.v20121003-ad44345 q=2.4.1.v20121003-ad44345
+  KeplerPostRC4 .. KeplerSR0
+      eclipseLink.b3aggrcon contrib=true nfeat=1 xyz=['2.5.0'] loc=DL/rt/eclipselink/updates/2.5.0.v20130507-3faac2b q=2.5.0.v20130507-3faac2b
+  KeplerSR1
+      eclipseLink.b3aggrcon contrib=true nfeat=1 xyz=['2.5.1'] loc=DL/rt/eclipselink/milestone-updates/2.5.1.v20130913-5eaeb06_RC2 q=2.5.1.v20130913-5eaeb06
+  LunaSR0 .. z20140806
+      eclipseLink.b3aggrcon contrib=true nfeat=1 xyz=['2.6.0'] loc=DL/rt/eclipselink/milestone-updates/2.6.0.v20130815-a4708b6_M2 q=2.6.0.v20130815-a4708b6
+  LunaRC4 .. 2026-03
+      -- sem arquivo
+
+######## GEF
+  JunoSR0
+      gef.b3aggrcon contrib=true nfeat=3 xyz=['1.4.0', '3.8.0'] loc=DL/tools/gef/updates/milestones q=1.4.0.201206112118
+  JunoSR1
+      gef.b3aggrcon contrib=true nfeat=3 xyz=['1.4.1', '3.8.1'] loc=DL/tools/gef/updates/milestones q=1.4.1.201208200205
+  JunoSR2
+      gef.b3aggrcon contrib=true nfeat=3 xyz=['1.4.2', '3.8.2'] loc=DL/tools/gef/updates/milestones q=1.4.2.201301141834
+  KeplerPostRC4 .. KeplerSR0
+      gef.b3aggrcon contrib=true nfeat=3 xyz=['1.5.0', '3.9.0'] loc=DL/tools/gef/updates/milestones q=1.5.0.201305060205
+  KeplerSR1
+      gef.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/tools/gef/updates/milestones q=[1.5.1.201308190730,1.6.0)
+  LunaSR0 .. z20140806
+      gef.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/tools/gef/updates/milestones q=[1.5.100.201405261516,1.6.0)
+  LunaRC4 .. LunaSR2
+      gef.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/tools/gef/updates/milestones q=[1.5.101.201408150207,1.5.200)
+  S201504150911
+      gef.b3aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/milestones | DL/tools/gef/gef4/updates/milestones q=[0.1.0.201503230204,0.2.0)
+  Mars.1
+      gef.b3aggrcon contrib=true nfeat=14 xyz=[] loc=DL/releases/mars/201509251000/ | DL/releases/mars/201509251000/ q=[0.1.0.201506081138]
+  Neon
+      gef.b3aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/milestones/4.0.0RC4_gef-master_1952 | DL/tools/gef/gef4/updates/milestones/4.0.0RC4_gef4-master_3401 q=[1.0.0.201606082015]
+  OxygenPreRienaRemoval_9-8-2016
+      gef.b3aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.0.0M1_gef-master_3556 q=[1.7.0.201606061308]
+  Neon.1
+      gef.b3aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/gef4/updates/milestones/4.1.0RC3_gef4-maintenance_182 q=[1.0.1.201609060946]
+  Neon.1a
+      gef.b3aggrcon contrib=true nfeat=13 xyz=[] loc=DL/releases/neon/201609281000/ | DL/releases/neon/201609281000/ q=[1.0.1.201609060946]
+  Neon.2 .. Neon.3
+      gef.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/gef4/updates/milestones/4.1.0RC3_gef4-maintenance_182 q=[1.0.1.201609060946]
+  Neon.3_respin
+      gef.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/releases/neon/201703141400/ | DL/releases/neon/201703141400/ q=[1.0.1.201609060946]
+  Oxygen
+      gef.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.0.0RC4_gef-master_4403 q=[1.7.0.201606061308]
+  Oxygen.1
+      gef.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.0.1RC2_gef-maintenance_73 q=[1.7.0.201606061308]
+  Oxygen.1a .. Oxygen.1a_respin
+      gef.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/releases/oxygen/201709271000/ | DL/releases/oxygen/201709271000/ q=[1.7.0.201606061308]
+  Oxygen.2
+      gef.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.0.2RC1_gef-maintenance_164 q=[1.7.0.201606061308]
+  Oxygen.2_respin .. Oxygen.3
+      gef.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/releases/5.0.2_gef-maintenance_164 q=[1.7.0.201606061308]
+  PhotonM7
+      gef.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.0.100M7_gef-master_4881 q=[1.7.0.201606061308]
+  PhotonRC4 .. Photon.0
+      gef.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.0.100RC2_gef-master_4914 q=[1.7.0.201606061308]
+  2018-09 .. 2018-12
+      gef.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/releases/5.0.100_gef-master_4914 q=[1.7.0.201606061308]
+  2019-03
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.0.400M2_gef-master_5261 | DL/efxclipse/runtime-released q=[1.7.0.201606061308]
+  2019-06
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.1.0M2_gef-master_5449 | DL/efxclipse/runtime-released/3 q=[1.7.0.201606061308]
+  2019-09
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/releases/5.2.0_gef-master_5609 | DL/efxclipse/runtime-released/3.5.0 q=[1.7.0.201606061308]
+  2019-12
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.3.0RC1_gef-master_5711 | DL/efxclipse/runtime-released/ q=[1.7.0.201606061308]
+  2020-03
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.4.0M1_gef-master_5757 | DL/efxclipse/runtime-released/3 q=[1.7.0.201606061308]
+  2020-06
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/releases/5.3.0_gef-master_5984/ | DL/efxclipse/runtime-released/3.6. q=[1.7.0.201606061308]
+  2020-09
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.3.1RC2_gef-master_6103/ | DL/efxclipse/runtime-released q=[1.7.0.201606061308]
+  2020-12
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.3.2RC2_gef-master_6214/ | DL/efxclipse/runtime-released q=[1.7.0.201606061308]
+  2021-03
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.3.3RC2_gef-master_6309/ | DL/efxclipse/runtime-released q=[1.7.0.201606061308]
+  2021-06
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.3.4RC2_gef-master_6401/ | DL/efxclipse/runtime-released q=[1.7.0.201606061308]
+  2021-09
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.3.5RC2_gef-master_6495/ | DL/efxclipse/runtime-released q=[1.7.0.201606061308]
+  2021-12
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/milestones/5.3.6RC2_gef-master_6581/ | DL/efxclipse/runtime-released q=[1.7.0.201606061308]
+  2022-03
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/releases/5.3.7_gef-master_6679/ | DL/efxclipse/runtime-released/3.7. q=[1.7.0.201606061308]
+  2022-06
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | DL/tools/gef/updates/releases/5.3.8_gef-master_6771/ | DL/efxclipse/runtime-released/3.7. q=[1.7.0.201606061308]
+  2022-09
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/releases/3.14.0 | DL/tools/gef/updates/milestones/5.4.0RC2_gef-master_6887/ | DL/efxclipse/runtime-released/3.7.0/site/ q=[3.7.0.202010120720]
+  2022-12 .. 2023-03
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/releases/3.15.0 | DL/tools/gef/updates/releases/5.4.0_gef-master_6893/ | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2023-06
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/releases/3.16.0 | DL/tools/gef/updates/releases/5.4.0_gef-master_6893/ | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2023-09
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/releases/3.17.0 | DL/tools/gef/updates/releases/5.4.0_gef-master_6893/ | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2023-12
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/releases/3.18.0 | DL/tools/gef/fx/release/5.5.0 | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2024-03
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/milestone/S202402212051 | DL/tools/gef/fx/release/5.5.0 | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2024-06
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/release/3.20.0 | DL/tools/gef/fx/release/5.5.0 | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2024-09
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/release/3.21.0 | DL/tools/gef/fx/release/5.5.0 | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2024-12
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/release/3.22.0 | DL/tools/gef/fx/release/5.5.1 | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2025-03
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/release/3.23.0 | DL/tools/gef/fx/release/5.5.1 | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2025-06
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/release/3.24.0 | DL/tools/gef/fx/release/5.5.1 | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2025-09
+      gef.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/gef/classic/release/3.25.0 | DL/tools/gef/fx/release/5.5.1 | DL/efxclipse/runtime-released/3.9.0/site/ q=[3.9.0.202210162353]
+  2025-12
+      gef.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/tools/gef/classic/release/3.26.0 q=
+  2026-03
+      gef.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/tools/gef/classic/release/3.27.0 q=
+
+######## GMF Runtime
+  JunoSR0 .. JunoSR1
+      gmp-gmf-runtime.b3aggrcon contrib=true nfeat=3 xyz=['1.5.0', '1.6.0'] loc=DL/modeling/gmp/updates/milestones q=1.5.0.v20110607-1200-7d9Q7HFYnmMEynz0X0q
+  JunoSR2
+      gmp-gmf-runtime.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/maintenance q=[1.6.2.201302122140]
+  KeplerPostRC4 .. KeplerSR1
+      gmp-gmf-runtime.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/milestones q=[1.7.0.201306111432,1.8.0]
+  LunaSR0 .. z20140806
+      gmp-gmf-runtime.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/milestones q=[1.8.0.201405281701,1.9.0]
+  LunaRC4 .. LunaSR2
+      gmp-gmf-runtime.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R201408201453/ q=[1.8.1.201408201453,1.9.0]
+  S201504150911
+      gmp-gmf-runtime.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/milestones/S201503261653 q=[1.9.0.201503261653,1.10.0]
+  Mars.1
+      gmp-gmf-runtime.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/releases/mars/201509251000/ q=[1.9.0.201506060219]
+  Neon
+      gmp-gmf-runtime.b3aggrcon contrib=true nfeat=2 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases q=[1.10.0.201606071959]
+  OxygenPreRienaRemoval_9-8-2016
+      gmp-gmf-runtime.b3aggrcon contrib=false nfeat=2 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases q=[1.10.0.201606071959]
+  Neon.1
+      gmp-gmf-runtime.b3aggrcon contrib=true nfeat=2 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases q=[1.10.0.201606071959]
+  Neon.1a
+      gmp-gmf-runtime.b3aggrcon contrib=true nfeat=2 xyz=[] loc=DL/releases/neon/201609281000/ q=[1.10.0.201606071959]
+  Neon.2 .. Neon.3
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases q=[1.10.0.201606071959]
+  Neon.3_respin
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/releases/neon/201703141400/ q=[1.10.0.201606071959]
+  Oxygen .. Oxygen.1
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R201706061437 q=[1.11.0.201706061437]
+  Oxygen.1a .. Oxygen.1a_respin
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/releases/oxygen/201709271000/ q=[1.11.0.201706061437]
+  Oxygen.2 .. Oxygen.3
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=2 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R201706061437 q=[1.11.0.201706061437]
+  PhotonM7
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/milestones/S201805151421 | DL/modeling/gmp/gmf-notation/updates/milestones/S201805141341 q=[1.12.0.201805141341]
+  PhotonRC4 .. 2018-12
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/milestones/S201806010809 | DL/modeling/gmp/gmf-notation/updates/milestones/S201805221301 q=[1.12.0.201805221301]
+  2019-03
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R201806010809 | DL/modeling/gmp/gmf-notation/updates/releases/R201805221301 q=[1.12.0.201805221301]
+  2019-06 .. 2019-09
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/milestones/S201905141505 | DL/modeling/gmp/gmf-notation/updates/releases/R201805221301 q=[1.12.0.201805221301]
+  2019-12 .. 2020-03
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R201912020813 | DL/modeling/gmp/gmf-notation/updates/releases/R201805221301 q=[1.12.0.201805221301]
+  2020-06 .. 2021-06
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202004160913 | DL/modeling/gmp/gmf-notation/updates/releases/R202004160913 q=[1.13.0.202004160913]
+  2021-09 .. 2021-12
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202106221344/ | DL/modeling/gmp/gmf-notation/updates/releases/R202004160913 q=[1.13.0.202004160913]
+  2022-03
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202202190902 | DL/modeling/gmp/gmf-notation/updates/releases/R202004160913 q=[1.13.0.202004160913]
+  2022-06
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202204130739 | DL/modeling/gmp/gmf-notation/updates/releases/R202004160913 q=[1.13.0.202004160913]
+  2022-09
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202208271122 | DL/modeling/gmp/gmf-notation/updates/releases/R202004160913 q=
+  2022-12 .. 2023-03
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202211041032/ | DL/modeling/gmp/gmf-notation/updates/releases/R202211151334 q=
+  2023-06
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202305230839 | DL/modeling/gmp/gmf-notation/updates/releases/R202211151334 q=
+  2023-09
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202309010720/ | DL/modeling/gmp/gmf-notation/updates/releases/R202211151334 q=
+  2023-12
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202311130907/ | DL/modeling/gmp/gmf-notation/updates/releases/R202211151334 q=
+  2024-03
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202403010913/ | DL/modeling/gmp/gmf-notation/updates/releases/R202211151334 q=
+  2024-06 .. 2024-09
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202405171447/ | DL/modeling/gmp/gmf-notation/updates/releases/R202211151334 q=
+  2024-12
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202410240748/ | DL/modeling/gmp/gmf-notation/updates/releases/R202211151334 q=
+  2025-03 .. 2025-06
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202501291447/ | DL/modeling/gmp/gmf-notation/updates/releases/R202211151334 q=
+  2025-09
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202508120942/ | DL/modeling/gmp/gmf-notation/updates/releases/R202211151334 q=
+  2025-12 .. 2026-03
+      gmp-gmf-runtime.aggrcon contrib=true nfeat=3 xyz=[] loc=DL/modeling/gmp/gmf-runtime/updates/releases/R202512020858 | DL/modeling/gmp/gmf-notation/updates/releases/R202211151334 q=
+
+######## JDT
+  JunoSR0
+      ep.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/eclipse/updates/4.2/R-4.2-201206081400/ q=
+  JunoSR1
+      ep.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/eclipse/updates/4.2-M-builds/M20120914-1800/ q=
+  JunoSR2
+      ep.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/eclipse/updates/4.2-M-builds/M20130204-1200/ q=
+  KeplerPostRC4 .. KeplerSR0
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.3milestones/S-4.3RC4-201306052000/ q=
+  KeplerSR1
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.3/R-4.3.1-201309111000/ q=
+  LunaSR0 .. z20140806
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.4/R-4.4-201406061215/ q=
+  LunaRC4
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.4milestones/M-4.4.1RC4-201409102310/ q=
+  LunaSR2
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.4/R-4.4.2-201502041700/ q=
+  S201504150911
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.5milestones/S-4.5M6-201503200800/ q=
+  Mars.1
+      ep.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/releases/mars/201509251000/ q=
+  Neon
+      ep.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.6milestones/S-4.6RC4a-201606061100/ q=
+  OxygenPreRienaRemoval_9-8-2016
+      ep.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7milestones/S-4.7M1-201608032000/ q=
+  Neon.1
+      ep.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.6-M-builds/M-4.6.1RC4-201609071200/ q=
+  Neon.1a
+      ep.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/releases/neon/201609281000/ q=
+  Neon.2
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.6-M-builds/M-4.6.2RC3-201611241400/ q=
+  Neon.3
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.6-M-builds/M-4.6.3RC4-201703010400/ q=
+  Neon.3_respin
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/releases/neon/201703141400/ q=
+  Oxygen
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7milestones/S-4.7RC4a-201706120950/ q=
+  Oxygen.1
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7-M-builds/M-4.7.1RC4-201709061700/ q=
+  Oxygen.1a
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7-M-builds/M-4.7.1aRC2-201709281310/ q=
+  Oxygen.1a_respin
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7/R-4.7.1a-201710090410/ q=
+  Oxygen.2 .. Oxygen.2_respin
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7-M-builds/M-4.7.2RC4-201711300510/ q=
+  Oxygen.3
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7-M-builds/M-4.7.3RC4-201803010715/ q=
+  PhotonM7
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.8milestones/S-4.8M7-201805092000/ q=
+  PhotonRC4 .. Photon.0
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.8milestones/S-4.8RC4a-201806110500/ q=
+  2018-09
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.9milestones/S-4.9RC2-201809060745/ q=
+  2018-12
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.10milestones/S-4.10RC2-201812060815/ q=
+  2019-03
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.11milestones/S-4.11RC2-201903070500/ q=
+  2019-06
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.12milestones/S-4.12RC2-201906051800/ q=
+  2019-09
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.13milestones/S-4.13RC2a-201909161045/ q=
+  2019-12
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.14milestones/S-4.14RC2a-201912100610/ q=
+  2020-03
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.15milestones/S-4.15RC2-202003050155/ q=
+  2020-06
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.16milestones/S-4.16RC2-202006040540/ q=
+  2020-09
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.17milestones/S-4.17RC2-202009021800/ q=
+  2020-12
+      ep.aggrcon contrib=true nfeat=8 xyz=[] loc=DL/eclipse/updates/4.18milestones/S-4.18RC2-202012021800/ q=
+  2021-03
+      ep.aggrcon contrib=true nfeat=8 xyz=[] loc=DL/eclipse/updates/4.19-I-builds/I20210303-1800/ q=
+  2021-06
+      ep.aggrcon contrib=true nfeat=9 xyz=[] loc=DL/eclipse/updates/4.20-I-builds/I20210611-1600 q=
+  2021-09
+      ep.aggrcon contrib=true nfeat=9 xyz=[] loc=DL/eclipse/updates/4.21-I-builds/I20210906-0500/ q=
+  2021-12
+      ep.aggrcon contrib=true nfeat=8 xyz=[] loc=DL/eclipse/updates/4.22-I-builds/I20211124-1800/ q=
+  2022-03
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.23/R-4.23-202203080310 q=
+  2022-06
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.24/R-4.24-202206070700/ q=
+  2022-09
+      ep.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/eclipse/updates/4.25/R-4.25-202208311800/ q=
+  2022-12
+      ep.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/eclipse/updates/4.26/R-4.26-202211231800/ q=
+  2023-03
+      ep.aggrcon contrib=true nfeat=17 xyz=[] loc=DL/eclipse/updates/4.27/R-4.27-202303020300 q=
+  2023-06
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.28/R-4.28-202306050440 q=
+  2023-09
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.29/R-4.29-202309031000 q=
+  2023-12
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.30-I-builds/I20231201-0110 q=
+  2024-03
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.31/R-4.31-202402290520 q=
+  2024-06
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.32/R-4.32-202406010610 q=
+  2024-09
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.33/R-4.33-202409030240 q=
+  2024-12
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.34/R-4.34-202411201800 q=
+  2025-03
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.35-I-builds/I20250228-0140 q=
+  2025-06
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.36-I-builds/I20250528-1830 q=
+  2025-09
+      ep.aggrcon contrib=true nfeat=17 xyz=[] loc=DL/eclipse/updates/4.37-I-builds/I20250905-0730 q=
+  2025-12
+      ep.aggrcon contrib=true nfeat=19 xyz=[] loc=DL/eclipse/updates/4.38/R-4.38-202512010920 q=
+  2026-03
+      ep.aggrcon contrib=true nfeat=19 xyz=[] loc=DL/eclipse/updates/4.39/R-4.39-202602260420 q=
+
+######## PDE
+  JunoSR0
+      ep.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/eclipse/updates/4.2/R-4.2-201206081400/ q=
+  JunoSR1
+      ep.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/eclipse/updates/4.2-M-builds/M20120914-1800/ q=
+  JunoSR2
+      ep.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/eclipse/updates/4.2-M-builds/M20130204-1200/ q=
+  KeplerPostRC4 .. KeplerSR0
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.3milestones/S-4.3RC4-201306052000/ q=
+  KeplerSR1
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.3/R-4.3.1-201309111000/ q=
+  LunaSR0 .. z20140806
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.4/R-4.4-201406061215/ q=
+  LunaRC4
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.4milestones/M-4.4.1RC4-201409102310/ q=
+  LunaSR2
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.4/R-4.4.2-201502041700/ q=
+  S201504150911
+      ep.b3aggrcon contrib=true nfeat=5 xyz=[] loc=DL/eclipse/updates/4.5milestones/S-4.5M6-201503200800/ q=
+  Mars.1
+      ep.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/releases/mars/201509251000/ q=
+  Neon
+      ep.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.6milestones/S-4.6RC4a-201606061100/ q=
+  OxygenPreRienaRemoval_9-8-2016
+      ep.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7milestones/S-4.7M1-201608032000/ q=
+  Neon.1
+      ep.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.6-M-builds/M-4.6.1RC4-201609071200/ q=
+  Neon.1a
+      ep.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/releases/neon/201609281000/ q=
+  Neon.2
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.6-M-builds/M-4.6.2RC3-201611241400/ q=
+  Neon.3
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.6-M-builds/M-4.6.3RC4-201703010400/ q=
+  Neon.3_respin
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/releases/neon/201703141400/ q=
+  Oxygen
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7milestones/S-4.7RC4a-201706120950/ q=
+  Oxygen.1
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7-M-builds/M-4.7.1RC4-201709061700/ q=
+  Oxygen.1a
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7-M-builds/M-4.7.1aRC2-201709281310/ q=
+  Oxygen.1a_respin
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7/R-4.7.1a-201710090410/ q=
+  Oxygen.2 .. Oxygen.2_respin
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7-M-builds/M-4.7.2RC4-201711300510/ q=
+  Oxygen.3
+      ep.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/eclipse/updates/4.7-M-builds/M-4.7.3RC4-201803010715/ q=
+  PhotonM7
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.8milestones/S-4.8M7-201805092000/ q=
+  PhotonRC4 .. Photon.0
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.8milestones/S-4.8RC4a-201806110500/ q=
+  2018-09
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.9milestones/S-4.9RC2-201809060745/ q=
+  2018-12
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.10milestones/S-4.10RC2-201812060815/ q=
+  2019-03
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.11milestones/S-4.11RC2-201903070500/ q=
+  2019-06
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.12milestones/S-4.12RC2-201906051800/ q=
+  2019-09
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.13milestones/S-4.13RC2a-201909161045/ q=
+  2019-12
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.14milestones/S-4.14RC2a-201912100610/ q=
+  2020-03
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.15milestones/S-4.15RC2-202003050155/ q=
+  2020-06
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.16milestones/S-4.16RC2-202006040540/ q=
+  2020-09
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.17milestones/S-4.17RC2-202009021800/ q=
+  2020-12
+      ep.aggrcon contrib=true nfeat=8 xyz=[] loc=DL/eclipse/updates/4.18milestones/S-4.18RC2-202012021800/ q=
+  2021-03
+      ep.aggrcon contrib=true nfeat=8 xyz=[] loc=DL/eclipse/updates/4.19-I-builds/I20210303-1800/ q=
+  2021-06
+      ep.aggrcon contrib=true nfeat=9 xyz=[] loc=DL/eclipse/updates/4.20-I-builds/I20210611-1600 q=
+  2021-09
+      ep.aggrcon contrib=true nfeat=9 xyz=[] loc=DL/eclipse/updates/4.21-I-builds/I20210906-0500/ q=
+  2021-12
+      ep.aggrcon contrib=true nfeat=8 xyz=[] loc=DL/eclipse/updates/4.22-I-builds/I20211124-1800/ q=
+  2022-03
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.23/R-4.23-202203080310 q=
+  2022-06
+      ep.aggrcon contrib=true nfeat=7 xyz=[] loc=DL/eclipse/updates/4.24/R-4.24-202206070700/ q=
+  2022-09
+      ep.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/eclipse/updates/4.25/R-4.25-202208311800/ q=
+  2022-12
+      ep.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/eclipse/updates/4.26/R-4.26-202211231800/ q=
+  2023-03
+      ep.aggrcon contrib=true nfeat=17 xyz=[] loc=DL/eclipse/updates/4.27/R-4.27-202303020300 q=
+  2023-06
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.28/R-4.28-202306050440 q=
+  2023-09
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.29/R-4.29-202309031000 q=
+  2023-12
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.30-I-builds/I20231201-0110 q=
+  2024-03
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.31/R-4.31-202402290520 q=
+  2024-06
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.32/R-4.32-202406010610 q=
+  2024-09
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.33/R-4.33-202409030240 q=
+  2024-12
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.34/R-4.34-202411201800 q=
+  2025-03
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.35-I-builds/I20250228-0140 q=
+  2025-06
+      ep.aggrcon contrib=true nfeat=18 xyz=[] loc=DL/eclipse/updates/4.36-I-builds/I20250528-1830 q=
+  2025-09
+      ep.aggrcon contrib=true nfeat=17 xyz=[] loc=DL/eclipse/updates/4.37-I-builds/I20250905-0730 q=
+  2025-12
+      ep.aggrcon contrib=true nfeat=19 xyz=[] loc=DL/eclipse/updates/4.38/R-4.38-202512010920 q=
+  2026-03
+      ep.aggrcon contrib=true nfeat=19 xyz=[] loc=DL/eclipse/updates/4.39/R-4.39-202602260420 q=
+
+######## Mylyn
+  JunoSR0
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=['0.9.0', '1.6.0', '3.7.0', '5.3.0'] loc=DL/mylyn/snapshots/juno q=0.9.0
+  JunoSR1
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=[] loc=DL/mylyn/snapshots/3.8 q=[1.0.2,1.1.0)
+  JunoSR2
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=[] loc=DL/mylyn/snapshots/3.8 q=[1.0.3,1.1.0)
+  KeplerPostRC4 .. KeplerSR0
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=['1.1.0', '1.8.0', '3.9.0', '5.5.0'] loc=DL/mylyn/snapshots/3.9 q=1.1.0
+  KeplerSR1
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=[] loc=DL/mylyn/snapshots/3.9 q=[1.1.1,1.2.0)
+  LunaSR0 .. z20140806
+      mylyn.b3aggrcon contrib=true nfeat=30 xyz=['1.4.0', '2.1.0', '2.3.0', '3.12.0', '5.8.0'] loc=DL/mylyn/snapshots/3.12 q=1.4.0
+  LunaRC4
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=['1.5.0', '2.2.0', '2.4.0', '3.13.0', '5.9.0'] loc=DL/mylyn/snapshots/3.13 q=1.5.0
+  LunaSR2
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=['1.6.2', '2.3.2', '2.5.2', '3.14.2', '5.10.2'] loc=DL/mylyn/snapshots/3.14 q=1.6.2
+  S201504150911
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=['1.7.0', '2.4.0', '2.6.0', '3.15.0', '5.11.0'] loc=DL/mylyn/snapshots/3.15 q=1.7.0
+  Mars.1
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=['1.9.0', '2.6.0', '2.8.0', '3.17.0', '5.13.0'] loc=DL/releases/mars/201509251000/ q=1.9.0
+  Neon
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=['1.12.0', '2.11.0', '2.9.0', '3.20.0', '5.16.0'] loc=DL/mylyn/drops/3.20.0/v20160608-1917 q=1.12.0.v20160421-1819
+  OxygenPreRienaRemoval_9-8-2016
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=['1.13.0', '2.10.0', '2.12.0', '3.21.0', '5.17.0'] loc=DL/mylyn/drops/3.21.0/v20160907-0318 q=1.13.0.v20160630-1702
+  Neon.1
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=['1.12.0', '2.11.0', '2.9.0', '3.20.0', '5.16.0'] loc=DL/mylyn/drops/3.20.0/v20160608-1917 q=1.12.0.v20160421-1819
+  Neon.1a
+      mylyn.b3aggrcon contrib=true nfeat=31 xyz=['1.12.0', '2.11.0', '2.9.0', '3.20.0', '5.16.0'] loc=DL/releases/neon/201609281000/ q=1.12.0.v20160421-1819
+  Neon.2 .. Neon.3
+      mylyn.aggrcon contrib=true nfeat=31 xyz=['1.13.0', '2.10.1', '2.12.0', '3.21.0', '5.17.0'] loc=DL/mylyn/drops/3.21.1/v20161129-2023 q=1.13.0.v20160630-1702
+  Neon.3_respin
+      mylyn.aggrcon contrib=true nfeat=31 xyz=['1.13.0', '2.10.1', '2.12.0', '3.21.0', '5.17.0'] loc=DL/releases/neon/201703141400/ q=1.13.0.v20160630-1702
+  Oxygen
+      mylyn.aggrcon contrib=true nfeat=31 xyz=['1.15.0', '2.14.0', '3.0.6', '3.23.0', '5.19.0'] loc=DL/mylyn/drops/3.23.0/v20170614-2003 | DL/mylyn/docs/releases/3.0.6 q=1.15.0.v20170411-1844
+  Oxygen.1
+      mylyn.aggrcon contrib=true nfeat=31 xyz=['1.15.0', '2.14.0', '3.0.6', '3.23.0', '3.23.1', '5.19.0'] loc=DL/mylyn/drops/3.23.1/v20170623-2012 | DL/mylyn/docs/releases/3.0.6 q=1.15.0.v20170411-1844
+  Oxygen.1a .. Oxygen.1a_respin
+      mylyn.aggrcon contrib=true nfeat=31 xyz=['1.15.0', '2.14.0', '3.0.6', '3.23.0', '3.23.1', '5.19.0'] loc=DL/releases/oxygen/201709271000/ | DL/releases/oxygen/201709271000/ q=1.15.0.v20170411-1844
+  Oxygen.2 .. Oxygen.3
+      mylyn.aggrcon contrib=true nfeat=31 xyz=['1.15.0', '2.14.0', '3.0.19', '3.23.0', '3.23.1', '5.19.0'] loc=DL/mylyn/drops/3.23.1/v20170623-2012 | DL/mylyn/docs/releases/3.0.19 q=1.15.0.v20170411-1844
+  PhotonM7
+      mylyn.aggrcon contrib=true nfeat=29 xyz=['1.16.0', '2.15.0', '3.24.0', '5.20.0'] loc=DL/mylyn/drops/3.24.0/v20180418-0301 q=1.16.0.v20170629-1728
+  PhotonRC4 .. Photon.0
+      mylyn.aggrcon contrib=true nfeat=29 xyz=['1.16.0', '2.15.0', '3.24.0', '5.20.0'] loc=DL/mylyn/drops/3.24.0/v20180613-1723 q=1.16.0.v20170629-1728
+  2018-09 .. 2020-03
+      mylyn.aggrcon contrib=true nfeat=29 xyz=['1.16.0', '2.15.0', '3.24.2', '5.20.0'] loc=DL/mylyn/drops/3.24.2/v20180905-2014 q=1.16.0.v20170629-1738
+  2020-06
+      mylyn.aggrcon contrib=true nfeat=29 xyz=['1.17.0', '1.17.1', '2.16.0', '3.25.1', '5.21.1'] loc=DL/mylyn/drops/3.25.1/v20200526-0330 q=1.17.0.v20180628-1737
+  2020-09
+      mylyn.aggrcon contrib=true nfeat=29 xyz=['1.17.0', '1.17.2', '2.16.1', '3.25.2', '5.21.2'] loc=DL/mylyn/drops/3.25.2/v20200831-1956 q=1.17.0.v20191002-0716
+  2020-12 .. 2021-12
+      mylyn.aggrcon contrib=true nfeat=26 xyz=['1.17.0', '1.17.2', '2.16.1', '3.25.2', '5.21.2'] loc=DL/mylyn/drops/3.25.2/v20200831-1956 q=1.17.0.v20191002-0716
+  2022-03
+      mylyn.aggrcon contrib=true nfeat=23 xyz=['1.17.0', '1.17.2', '2.16.1', '3.25.2', '5.21.2'] loc=DL/mylyn/drops/3.25.2/v20200831-1956 q=1.17.0.v20191002-0716
+  2022-06 .. 2023-03
+      mylyn.aggrcon contrib=false nfeat=23 xyz=['1.17.0', '1.17.2', '2.16.1', '3.25.2', '5.21.2'] loc=DL/mylyn/drops/3.25.2/v20200831-1956 q=1.17.0.v20191002-0716
+  2023-06
+      mylyn.aggrcon contrib=true nfeat=34 xyz=[] loc=DL/mylyn/updates/release/3.26.1 q=[3.26.1.v20230531-0547]
+  2023-09
+      mylyn.aggrcon contrib=true nfeat=23 xyz=[] loc=DL/mylyn/updates/release/4.0.0 q=[4.0.0.v20230804-1109]
+  2023-12
+      mylyn.aggrcon contrib=true nfeat=23 xyz=[] loc=DL/mylyn/updates/release/4.1.0 q=[4.1.0.v20231009-0014]
+  2024-03
+      mylyn.aggrcon contrib=true nfeat=24 xyz=[] loc=DL/mylyn/updates/release/4.2.0 q=[4.2.0.v20240202-0700]
+  2024-06
+      mylyn.aggrcon contrib=true nfeat=24 xyz=[] loc=DL/mylyn/updates/release/4.3.0 q=[4.3.0.v20240509-0539]
+  2024-09
+      mylyn.aggrcon contrib=true nfeat=22 xyz=[] loc=DL/mylyn/updates/release/4.4.0/ q=[4.4.0.v20240617-1534]
+  2024-12
+      mylyn.aggrcon contrib=true nfeat=22 xyz=[] loc=DL/mylyn/updates/release/4.5.0 q=[4.5.0.v20241002-1142]
+  2025-03
+      mylyn.aggrcon contrib=true nfeat=22 xyz=[] loc=DL/mylyn/updates/release/4.6.0/ q=[4.6.0.v20241229-1209]
+  2025-06
+      mylyn.aggrcon contrib=true nfeat=22 xyz=[] loc=DL/mylyn/updates/release/4.7.0/ q=[4.7.0.v20250326-1000]
+  2025-09
+      mylyn.aggrcon contrib=true nfeat=22 xyz=[] loc=DL/mylyn/updates/release/4.8.0/ q=[4.8.0.v20250625-0934]
+  2025-12
+      mylyn.aggrcon contrib=true nfeat=22 xyz=[] loc=DL/mylyn/updates/release/4.9.0/ q=[4.9.0.v20250920-1858]
+  2026-03
+      mylyn.aggrcon contrib=true nfeat=22 xyz=[] loc=DL/mylyn/updates/release/4.10.0/ q=[4.10.0.v20260106-1815]
+
+######## PTP
+  JunoSR0 .. JunoSR1
+      ptp.b3aggrcon contrib=true nfeat=11 xyz=['6.0.0', '8.0.0'] loc=DL/tools/ptp/builds/juno/milestones q=6.0.0.201205252205
+  JunoSR2
+      ptp.b3aggrcon contrib=true nfeat=11 xyz=[] loc=DL/tools/ptp/builds/juno/milestones/SR2 q=
+  KeplerPostRC4 .. KeplerSR0
+      ptp.b3aggrcon contrib=true nfeat=12 xyz=['7.0.0', '8.1.0'] loc=DL/tools/ptp/builds/kepler/milestones/RC4 q=7.0.0
+  KeplerSR1
+      ptp.b3aggrcon contrib=true nfeat=12 xyz=['7.0.3', '8.1.3'] loc=DL/tools/ptp/updates/kepler q=7.0.3
+  LunaSR0 .. z20140806
+      ptp.b3aggrcon contrib=true nfeat=13 xyz=['1.0.0', '8.0.0', '8.2.0'] loc=DL/tools/ptp/builds/luna/milestones/RC4 | DL/tools/ptp/builds/remote/luna/milestones/RC2 q=1.0.0
+  LunaRC4
+      ptp.b3aggrcon contrib=true nfeat=14 xyz=['1.0.0', '8.0.0', '8.2.0'] loc=DL/tools/ptp/builds/luna/milestones/SR1 | DL/tools/ptp/builds/remote/luna/milestones/SR1 q=1.0.0
+  LunaSR2
+      ptp.b3aggrcon contrib=true nfeat=14 xyz=['1.1.1', '8.1.1', '9.0.1'] loc=DL/tools/ptp/builds/luna/milestones | DL/tools/ptp/builds/remote/luna/milestones q=1.1.1
+  S201504150911
+      ptp.b3aggrcon contrib=true nfeat=12 xyz=['1.1.0', '9.0.0'] loc=DL/tools/ptp/builds/mars/milestones | DL/tools/ptp/builds/remote/mars/milestones q=1.1.0
+  Mars.1
+      ptp.b3aggrcon contrib=true nfeat=14 xyz=['2.0.0', '9.0.0', '9.1.0'] loc=DL/releases/mars/201509251000/ | DL/releases/mars/201509251000/ q=2.0.0
+  Neon
+      ptp.b3aggrcon contrib=true nfeat=14 xyz=['2.0.0', '9.0.0', '9.1.0'] loc=DL/tools/ptp/builds/neon/milestones/RC3 | DL/tools/ptp/builds/remote/neon/milestones/RC2 q=2.0.0
+  OxygenPreRienaRemoval_9-8-2016
+      ptp.b3aggrcon contrib=true nfeat=14 xyz=['2.0.0', '9.0.0', '9.1.0'] loc=DL/tools/ptp/builds/oxygen/milestones/M1 | DL/tools/ptp/builds/remote/oxygen/milestones/M1 q=2.0.0
+  Neon.1
+      ptp.b3aggrcon contrib=true nfeat=14 xyz=['2.0.0', '9.0.0', '9.1.0'] loc=DL/tools/ptp/builds/neon/milestones/UR1-RC3 | DL/tools/ptp/builds/remote/neon/milestones/UR1-RC3 q=2.0.0
+  Neon.1a
+      ptp.b3aggrcon contrib=true nfeat=14 xyz=['2.0.0', '9.0.0', '9.1.0'] loc=DL/releases/neon/201609281000/ | DL/releases/neon/201609281000/ q=2.0.0
+  Neon.2
+      ptp.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/ptp/builds/neon/milestones/UR2-RC4 | DL/tools/ptp/builds/remote/neon/milestones/UR2-RC4 q=
+  Neon.3
+      ptp.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/tools/ptp/builds/neon/milestones/UR3-RC2 | DL/tools/ptp/builds/remote/neon/milestones/UR2-RC4 q=
+  Neon.3_respin
+      ptp.aggrcon contrib=true nfeat=14 xyz=[] loc=DL/releases/neon/201703141400/ | DL/releases/neon/201703141400/ q=
+  Oxygen
+      ptp.aggrcon contrib=true nfeat=15 xyz=['3.0.0', '9.1.0'] loc=DL/tools/ptp/builds/oxygen/milestones/M7 | DL/tools/ptp/builds/remote/oxygen/milestones/RC3 q=3.0.0
+  Oxygen.1
+      ptp.aggrcon contrib=true nfeat=15 xyz=['3.0.0', '9.1.0'] loc=DL/tools/ptp/builds/oxygen/milestones/1.RC2 | DL/tools/ptp/builds/remote/oxygen/milestones/RC3 q=3.0.0
+  Oxygen.1a .. Oxygen.1a_respin
+      ptp.aggrcon contrib=true nfeat=15 xyz=['3.0.0', '9.1.0'] loc=DL/releases/oxygen/201709271000/ | DL/releases/oxygen/201709271000/ q=3.0.0
+  Oxygen.2 .. Oxygen.2_respin
+      ptp.aggrcon contrib=true nfeat=15 xyz=['3.0.0', '9.1.0'] loc=DL/tools/ptp/builds/oxygen/milestones/1.RC2 | DL/tools/ptp/builds/remote/oxygen/milestones/RC3 q=3.0.0
+  Oxygen.3
+      ptp.aggrcon contrib=true nfeat=15 xyz=['3.0.0', '9.1.0'] loc=DL/tools/ptp/builds/oxygen/milestones/3.RC4 | DL/tools/ptp/builds/remote/oxygen/milestones/3.RC4 q=3.0.0
+  PhotonM7
+      ptp.aggrcon contrib=true nfeat=15 xyz=['3.0.0', '9.2.0'] loc=DL/tools/ptp/builds/photon/milestones/M6 | DL/tools/ptp/builds/remote/photon/milestones/M6 q=3.0.0
+  PhotonRC4 .. 2018-09
+      ptp.aggrcon contrib=true nfeat=15 xyz=['3.0.0', '9.2.0'] loc=DL/tools/ptp/builds/photon/milestones/RC2 | DL/tools/ptp/builds/remote/photon/milestones/M6 q=3.0.0
+  2018-12
+      ptp.aggrcon contrib=true nfeat=15 xyz=['3.0.0', '9.2.0'] loc=DL/tools/ptp/builds/photon/milestones/2018-12-M3 | DL/tools/ptp/builds/remote/photon/milestones/M6 q=3.0.0
+  2019-03
+      ptp.aggrcon contrib=true nfeat=15 xyz=['3.0.1', '9.2.0'] loc=DL/tools/ptp/builds/photon/milestones/2019-03-M2 | DL/tools/ptp/builds/remote/photon/milestones/2019-03-M1 q=3.0.1
+  2019-06
+      ptp.aggrcon contrib=true nfeat=15 xyz=['3.0.1', '9.2.0'] loc=DL/tools/ptp/builds/photon/milestones/2019-06-RC1 | DL/tools/ptp/builds/remote/photon/milestones/2019-06-M3 q=3.0.1
+  2019-09
+      ptp.aggrcon contrib=true nfeat=14 xyz=['3.0.1', '9.3.1'] loc=DL/tools/ptp/builds/photon/milestones/2019-09-RC2 | DL/tools/ptp/builds/remote/photon/milestones/2019-09-RC1 q=3.0.1
+  2019-12
+      ptp.aggrcon contrib=true nfeat=14 xyz=['3.0.1', '9.3.1'] loc=DL/tools/ptp/builds/photon/milestones/2019-12-RC2/ | DL/tools/ptp/builds/remote/photon/milestones/2019-09-RC1 q=3.0.1
+  2020-03
+      ptp.aggrcon contrib=true nfeat=13 xyz=['3.0.1', '9.4.0'] loc=DL/tools/ptp/builds/9.4/2020-03-M2a | DL/tools/ptp/builds/remote/3.0/2020-03-M2 q=3.0.1
+  2020-06 .. 2021-06
+      ptp.aggrcon contrib=true nfeat=13 xyz=['3.0.1', '9.4.0'] loc=DL/tools/ptp/releases/9.4/ptp-9.4.0 | DL/tools/ptp/remote/releases/3.0/remote-3.0.1 q=3.0.1
+  2021-09 .. 2021-12
+      ptp.aggrcon contrib=true nfeat=13 xyz=['3.0.2', '9.4.1'] loc=DL/tools/ptp/builds/9.4/2021-09 | DL/tools/ptp/builds/remote/3.0/2021-09 q=3.0.2
+  2022-03 .. 2023-09
+      ptp.aggrcon contrib=true nfeat=9 xyz=['9.4.1'] loc=DL/tools/ptp/builds/9.4/2021-09 q=9.4.1
+  2023-12 .. 2025-12
+      ptp.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/tools/ptp/builds/9.4/2021-09 q=
+  2026-03
+      -- sem arquivo
+
+######## RAP
+  JunoSR0
+      rap.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/rt/rap/1.5/tooling/RC4-20120613-1425/ | DL/rt/rap/1.5/runtime/RC4-20120612-1458/ q=[1.5.0,1.6.0)
+  JunoSR1
+      rap.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/rt/rap/1.5/tooling/SR1-RC4-20120917-1138/ | DL/rt/rap/1.5/runtime/SR1-RC4-20120917-1130/ q=[1.5.0,1.6.0)
+  JunoSR2
+      rap.b3aggrcon contrib=true nfeat=3 xyz=[] loc=DL/rt/rap/1.5/tooling/SR2-RC3-20130205-2030/ | DL/rt/rap/1.5/runtime/SR2-RC3-20130205-2012/ q=[1.5.0,1.6.0)
+  KeplerPostRC4 .. KeplerSR0
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/2.1/RC4-20130610-1332/ q=[2.1.0,2.2.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/2.1/RC4-20130611-2139/ q=[2.1.0,2.2.0)
+  KeplerSR1
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/2.1/SR1-RC3-20130902-1312/ q=[2.1.0,2.2.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/2.1/SR1-RC3-20130902-1345/ q=[2.1.0,2.2.0)
+  LunaSR0 .. z20140806
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/2.3/R-20140609-1345/ q=[2.3.0,2.4.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/2.3/R-20140610-0925/ q=[2.3.0,2.4.0)
+  LunaRC4
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/2.3/SR1-RC4-20140916-0716/ q=[2.3.1,2.4.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/2.3/SR1-RC4-20140909-1638/ q=[2.3.1,2.4.0)
+  LunaSR2
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/2.3/SR2-20150210-1743/ q=[2.3.2,2.4.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/2.3/SR2-20150128-1013/ q=[2.3.2,2.4.0)
+  S201504150911
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.0/M6-20150323-2018/ q=[3.0.0,3.1.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.0/M6-20150324-0943/ q=[3.0.0,3.1.0)
+  Mars.1
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/releases/mars/201509251000/ q=[3.0.0,3.1.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/releases/mars/201509251000/ q=[3.0.0,3.1.0)
+  Neon
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.1/RC4-20160608-0734/ q=[3.1.0,3.2.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.1/RC4-20160607-1451/ q=[3.1.0,3.2.0)
+  OxygenPreRienaRemoval_9-8-2016
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.2/M1-20160811-0859/ q=[3.2.0,3.3.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.2/M1-20160811-0917/ q=[3.2.0,3.3.0)
+  Neon.1
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.1/SR1-RC4-20160913-0451/ q=[3.1.1,3.2.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.1/SR1-RC4-20160913-0447/ q=[3.1.1,3.2.0)
+  Neon.1a
+      rap-tools.b3aggrcon contrib=true nfeat=1 xyz=[] loc=DL/releases/neon/201609281000/ q=[3.1.1,3.2.0)
+      rap.b3aggrcon contrib=true nfeat=4 xyz=[] loc=DL/releases/neon/201609281000/ q=[3.1.1,3.2.0)
+  Neon.2
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.1/SR2-20161130-1301/ q=[3.1.2,3.2.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.1/SR2-20161130-1241/ q=[3.1.2,3.2.0)
+  Neon.3
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.1/SR2a-RC4-20170308-1945/ q=[3.1.2,3.2.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.1/SR2a-RC4-20170308-2159/ q=[3.1.2,3.2.0)
+  Neon.3_respin
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/releases/neon/201703141400/ q=[3.1.2,3.2.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/releases/neon/201703141400/ q=[3.1.2,3.2.0)
+  Oxygen
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.2/RC4-20170614-1659/ q=[3.2.0,3.3.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.2/RC4-20170614-1509/ q=[3.2.0,3.3.0)
+  Oxygen.1
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.3/RC4-20170913-2030/ q=[3.3.0,3.4.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.3/RC4-20170913-2100/ q=[3.3.0,3.4.0)
+  Oxygen.1a .. Oxygen.1a_respin
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/releases/oxygen/201709271000/ q=[3.3.0,3.4.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/releases/oxygen/201709271000/ q=[3.3.0,3.4.0)
+  Oxygen.2 .. Oxygen.2_respin
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.4/RC4-oxygen-20171204-1620/ q=[3.4.0,3.5.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.4/RC4-oxygen-20171204-1637/ q=[3.4.0,3.5.0)
+  Oxygen.3
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.4/SR1-20180306-1010/ q=[3.4.0,3.5.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.4/SR1-20180306-0817/ q=[3.4.0,3.5.0)
+  PhotonM7
+      rap-tools.aggrcon contrib=false nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.5/M2-20180312-2335/ q=[3.5.0,3.6.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.5/M2-20180313-0609/ q=[3.5.0,3.6.0)
+  PhotonRC4 .. Photon.0
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.5/RC4-20180613-1714/ q=[3.5.0,3.6.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.5/RC4-20180613-1725/ q=[3.5.0,3.6.0)
+  2018-09
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.6/RC2-20180912-1003/ q=[3.6.0,3.7.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.6/RC2-20180912-1017/ q=[3.6.0,3.7.0)
+  2018-12
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.7/RC2-20181212-1359/ q=[3.7.0,3.8.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.7/RC2-20181212-1410/ q=[3.7.0,3.8.0)
+  2019-03
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.8/RC2-20190313-0941/ q=[3.8.0,3.9.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.8/RC2-20190313-1010/ q=[3.8.0,3.9.0)
+  2019-06
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.9/RC2-20190612-1701/ q=[3.9.0,3.10.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.9/RC2-20190612-1720/ q=[3.9.0,3.10.0)
+  2019-09
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.10/RC2-20190911-1514/ q=[3.10.0,3.11.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.10/RC2-20190911-1524/ q=[3.10.0,3.11.0)
+  2019-12
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.11/RC2-20191211-1651/ q=[3.11.0,3.12.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.11/RC2-20191211-1651/ q=[3.11.0,3.12.0)
+  2020-03
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.12/RC2-20200309-2335/ q=[3.12.0,3.13.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.12/RC2-20200309-2337/ q=[3.12.0,3.13.0)
+  2020-06
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.13/RC2-20200610-0959/ q=[3.13.0,3.14.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.13/RC2-20200610-1008/ q=[3.13.0,3.14.0)
+  2020-09
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.14/RC2-20200908-2335/ q=[3.14.0,3.15.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.14/RC2-20200908-2340/ q=[3.14.0,3.15.0)
+  2020-12
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.15/RC2-20201209-1355/ q=[3.15.0,3.16.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.15/RC2-20201209-1320/ q=[3.15.0,3.16.0)
+  2021-03
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.16/RC2-20210310-0036/ q=[3.16.0,3.17.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.16/RC2-20210310-0041/ q=[3.16.0,3.17.0)
+  2021-06
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.17/RC2b-20210612-0910/ q=[3.17.0,3.18.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.17/RC2b-20210612-0910/ q=[3.17.0,3.18.0)
+  2021-09
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.18/RC2-20210908-0824/ q=[3.18.0,3.19.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.18/RC2-20210908-0824/ q=[3.18.0,3.19.0)
+  2021-12
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.19/RC2-20211130-1934/ q=[3.19.0,3.20.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.19/RC2-20211130-1934/ q=[3.19.0,3.20.0)
+  2022-03
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.20/R-20220309-1623/ q=[3.20.0,3.21.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.20/R-20220309-1623/ q=[3.20.0,3.21.0)
+  2022-06
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.21/R-20220608-1222/ q=[3.21.0,3.22.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.21/R-20220608-1222/ q=[3.21.0,3.22.0)
+  2022-09
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.22/RC2-20220906-0913/ q=[3.22.0,3.23.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.22/RC2-20220906-0913/ q=[3.22.0,3.23.0)
+  2022-12
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.23/R-20221130-0716/ q=[3.23.0,3.24.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.23/R-20221130-0716/ q=[3.23.0,3.24.0)
+  2023-03
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.24/R-20230308-0917/ q=[3.24.0,3.25.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.24/R-20230308-0917/ q=[3.24.0,3.25.0)
+  2023-06
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.25/RC2-20230607-1411/ q=[3.25.0,3.26.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.25/RC2-20230607-1411/ q=[3.25.0,3.26.0)
+  2023-09
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.26/RC2-20230906-1232/ q=[3.26.0,3.27.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.26/RC2-20230906-1232/ q=[3.26.0,3.27.0)
+  2023-12
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.27/RC2-20231129-0036/ q=[3.27.0,3.28.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.27/RC2-20231129-0035/ q=[3.27.0,3.28.0)
+  2024-03
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.28/RC2-20240306-1417/ q=[3.28.0,3.29.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.28/RC2-20240306-1417/ q=[3.28.0,3.29.0)
+  2024-06
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/3.29/RC2-20240605-1615/ q=[3.29.0,3.30.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/3.29/RC2-20240605-1615/ q=[3.29.0,3.30.0)
+  2024-09
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/4.0/RC2-20240904-0717/ q=[4.0.0,4.1.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/4.0/RC2-20240904-0717/ q=[4.0.0,4.1.0)
+  2024-12
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/4.1/RC2-20241127-1523/ q=[4.1.0,4.2.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/4.1/RC2-20241127-1523/ q=[4.1.0,4.2.0)
+  2025-03
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/4.2/RC2-20250303-0901/ q=[4.2.0,4.3.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/4.2/RC2-20250303-0902/ q=[4.2.0,4.3.0)
+  2025-06
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/4.3/RC2-20250601-2335/ q=[4.3.0,4.4.0)
+      rap.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/rt/rap/4.3/RC2-20250601-2335/ q=[4.3.0,4.4.0)
+  2025-09
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/4.4/RC2-20250829-0703/ q=[4.4.0,4.5.0)
+  2025-12
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/4.5/RC2-20251203-1350/ q=[4.5.0,4.6.0)
+  2026-03
+      rap-tools.aggrcon contrib=true nfeat=1 xyz=[] loc=DL/rt/rap/tools/4.6/RC2-20260303-1749/ q=[4.6.0,4.7.0)
+
+######## Scout
+  JunoSR0
+      scout.b3aggrcon contrib=true nfeat=5 xyz=['3.8.0'] loc=DL/scout/releases/3.8/3.8.0/RC420120613-0843/update q=3.8.0
+  JunoSR1
+      scout.b3aggrcon contrib=true nfeat=5 xyz=['3.8.1'] loc=DL/scout/releases/3.8/3.8.1/RC420120917-1521/update q=3.8.1
+  JunoSR2
+      scout.b3aggrcon contrib=true nfeat=5 xyz=['3.8.2'] loc=DL/scout/releases/3.8/3.8.2/RC420130211-1336/update q=3.8.2
+  KeplerPostRC4 .. KeplerSR0
+      scout.b3aggrcon contrib=true nfeat=3 xyz=['3.9.0'] loc=DL/scout/releases/3.9/3.9.0/scout.main/RC4-20130612-0452 q=3.9.0
+  KeplerSR1
+      scout.b3aggrcon contrib=true nfeat=3 xyz=['3.9.1'] loc=DL/scout/releases/3.9/3.9.1/scout.main/RC4-20130918-0408 q=3.9.1
+  LunaSR0 .. z20140806
+      scout.b3aggrcon contrib=true nfeat=3 xyz=['4.0.0'] loc=DL/scout/releases/4.0/4.0.0/scout.main/RC4-20140611-0950 q=4.0.0
+  LunaRC4
+      scout.b3aggrcon contrib=true nfeat=3 xyz=['4.0.0'] loc=DL/scout/releases/4.0/4.0.1/scout.main/RC4-20140917-0547 q=4.0.0
+  LunaSR2
+      scout.b3aggrcon contrib=true nfeat=3 xyz=['4.0.0'] loc=DL/scout/releases/4.0/4.0.200/scout.main/RC4-20150218-0830 q=4.0.0
+  S201504150911
+      scout.b3aggrcon contrib=true nfeat=3 xyz=['4.0.0'] loc=DL/scout/releases/4.3/4.3.0/scout.main/M6-20150325-0939 q=4.0.0
+  Mars.1
+      scout.b3aggrcon contrib=true nfeat=3 xyz=['5.0.0'] loc=DL/releases/mars/201509251000/ q=5.0.0
+  Neon
+      scout.b3aggrcon contrib=true nfeat=1 xyz=['6.0.0'] loc=DL/scout/releases/6.0/6.0.0/RC4/ q=6.0.0
+  OxygenPreRienaRemoval_9-8-2016
+      scout.b3aggrcon contrib=false nfeat=1 xyz=['6.0.0'] loc=DL/scout/releases/6.0/6.0.0/RC4/ q=6.0.0
+  Neon.1
+      scout.b3aggrcon contrib=true nfeat=1 xyz=['6.0.100'] loc=DL/scout/releases/6.0/6.0.100/RC4/ q=6.0.100
+  Neon.1a
+      scout.b3aggrcon contrib=true nfeat=1 xyz=['6.0.100'] loc=DL/releases/neon/201609281000/ q=6.0.100
+  Neon.2
+      scout.aggrcon contrib=true nfeat=1 xyz=['6.0.200'] loc=DL/scout/releases/6.0/6.0.200/0/ q=6.0.200
+  Neon.3
+      scout.aggrcon contrib=true nfeat=1 xyz=['6.0.300'] loc=DL/scout/releases/6.0/6.0.300/6.0.300.RC2/ q=6.0.300
+  Neon.3_respin
+      scout.aggrcon contrib=true nfeat=1 xyz=['6.0.300'] loc=DL/releases/neon/201703141400/ q=6.0.300
+  Oxygen
+      scout.aggrcon contrib=true nfeat=1 xyz=['7.0.0'] loc=DL/scout/releases/7.0/7.0.0/008_Oxygen/ q=7.0.0
+  Oxygen.1
+      scout.aggrcon contrib=true nfeat=1 xyz=['7.0.100'] loc=DL/scout/releases/7.0/7.0.100/017_Oxygen_1/ q=7.0.100
+  Oxygen.1a .. Oxygen.1a_respin
+      scout.aggrcon contrib=true nfeat=1 xyz=['7.0.150'] loc=DL/scout/releases/7.0/7.0.150/004_Oxygen_1a q=7.0.150
+  Oxygen.2 .. Oxygen.2_respin
+      scout.aggrcon contrib=true nfeat=1 xyz=['7.0.200'] loc=DL/scout/releases/7.0/7.0.200/005_Oxygen_2/ q=7.0.200
+  Oxygen.3
+      scout.aggrcon contrib=true nfeat=1 xyz=['7.0.300'] loc=DL/scout/releases/7.0/7.0.300/005_Oxygen_3/ q=7.0.300
+  PhotonM7
+      scout.aggrcon contrib=true nfeat=1 xyz=['8.0.0'] loc=DL/scout/releases/8.0/8.0.0/003_Photon_M7/ q=8.0.0
+  PhotonRC4 .. Photon.0
+      scout.aggrcon contrib=true nfeat=1 xyz=['8.0.0'] loc=DL/scout/releases/8.0/8.0.0/010_Photon/ q=8.0.0
+  2018-09
+      scout.aggrcon contrib=true nfeat=1 xyz=['8.0.0'] loc=DL/scout/releases/8.0/8.0.0/021_Simrel_2018_09/ q=8.0.0
+  2018-12
+      scout.aggrcon contrib=true nfeat=1 xyz=['8.0.0'] loc=DL/scout/releases/8.0/8.0.0/031_Simrel_2018_12/ q=8.0.0
+  2019-03
+      scout.aggrcon contrib=true nfeat=1 xyz=['9.0.0'] loc=DL/scout/releases/9.0/9.0.0/009_Simrel_2019_03/ q=9.0.0
+  2019-06
+      scout.aggrcon contrib=true nfeat=1 xyz=['9.0.0'] loc=DL/scout/releases/9.0/9.0.0/018_Simrel_2019_06/ q=9.0.0
+  2019-09
+      scout.aggrcon contrib=true nfeat=1 xyz=['9.0.0'] loc=DL/scout/releases/9.0/9.0.0/025_Simrel_2019_09// q=9.0.0
+  2019-12
+      scout.aggrcon contrib=true nfeat=1 xyz=['9.0.0'] loc=DL/scout/releases/9.0/9.0.0/033_Simrel_2019_12/ q=9.0.0
+  2020-03
+      scout.aggrcon contrib=true nfeat=1 xyz=['10.0.0'] loc=DL/scout/releases/10.0/8/ q=10.0.0
+  2020-06
+      scout.aggrcon contrib=true nfeat=1 xyz=['10.0.0'] loc=DL/scout/releases/10.0/21/ q=10.0.0
+  2020-09
+      scout.aggrcon contrib=true nfeat=1 xyz=['10.0.0'] loc=DL/scout/releases/10.0/33/ q=10.0.0
+  2020-12
+      scout.aggrcon contrib=true nfeat=1 xyz=['10.0.0'] loc=DL/scout/releases/10.0/42/ q=10.0.0
+  2021-03
+      scout.aggrcon contrib=true nfeat=1 xyz=['11.0.0'] loc=DL/scout/releases/11.0/12/ q=11.0.0
+  2021-06
+      scout.aggrcon contrib=true nfeat=1 xyz=['11.0.0'] loc=DL/scout/releases/11.0/20/ q=11.0.0
+  2021-09
+      scout.aggrcon contrib=true nfeat=1 xyz=['11.0.0'] loc=DL/scout/releases/11.0/32/ q=11.0.0
+  2021-12
+      scout.aggrcon contrib=true nfeat=1 xyz=['11.0.0'] loc=DL/scout/releases/11.0/42/ q=11.0.0
+  2022-03
+      scout.aggrcon contrib=true nfeat=1 xyz=['12.0.1'] loc=DL/scout/releases/12.0/1/ q=12.0.1
+  2022-06
+      scout.aggrcon contrib=true nfeat=1 xyz=['12.0.15'] loc=DL/scout/releases/12.0/15/ q=12.0.15
+  2022-09
+      scout.aggrcon contrib=true nfeat=1 xyz=['12.0.29'] loc=DL/scout/releases/12.0/29/ q=12.0.29
+  2022-12
+      scout.aggrcon contrib=true nfeat=1 xyz=['12.0.41'] loc=DL/scout/releases/12.0/41/ q=12.0.41
+  2023-03
+      scout.aggrcon contrib=true nfeat=1 xyz=['13.0.6'] loc=DL/scout/releases/13.0/6/ q=13.0.6
+  2023-06
+      scout.aggrcon contrib=true nfeat=1 xyz=['13.0.19'] loc=DL/scout/releases/13.0/19/ q=13.0.19
+  2023-09
+      scout.aggrcon contrib=true nfeat=1 xyz=['13.0.22'] loc=DL/scout/releases/13.0/22/ q=13.0.22
+  2023-12
+      scout.aggrcon contrib=true nfeat=1 xyz=['13.0.27'] loc=DL/scout/releases/13.0/27/ q=13.0.27
+  2024-03
+      scout.aggrcon contrib=true nfeat=1 xyz=['13.0.31'] loc=DL/scout/releases/13.0/31/ q=13.0.31
+  2024-06
+      scout.aggrcon contrib=true nfeat=1 xyz=['13.0.36'] loc=DL/scout/releases/13.0/36/ q=13.0.36
+  2024-09
+      scout.aggrcon contrib=true nfeat=1 xyz=['13.0.41'] loc=DL/scout/releases/13.0/41/ q=13.0.41
+  2024-12
+      scout.aggrcon contrib=true nfeat=1 xyz=['13.0.46'] loc=DL/scout/releases/13.0/46/ q=13.0.46
+  2025-03
+      scout.aggrcon contrib=true nfeat=1 xyz=['14.0.1'] loc=DL/scout/releases/14.0/1/ q=14.0.1
+  2025-06
+      scout.aggrcon contrib=true nfeat=1 xyz=['14.0.5'] loc=DL/scout/releases/14.0/5/ q=14.0.5
+  2025-09
+      scout.aggrcon contrib=true nfeat=1 xyz=['14.0.15'] loc=DL/scout/releases/14.0/15/ q=14.0.15
+  2025-12
+      scout.aggrcon contrib=true nfeat=1 xyz=['14.0.23'] loc=DL/scout/releases/14.0/23/ q=14.0.23
+  2026-03
+      scout.aggrcon contrib=true nfeat=1 xyz=['14.0.29'] loc=DL/scout/releases/14.0/29/ q=14.0.29
+
+######## Subversive
+  JunoSR0 .. JunoSR2
+      subversive.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/technology/subversive/1.0/juno-site/ q=[1.0.0,1.1.0)
+  KeplerPostRC4 .. KeplerSR0
+      subversive.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/technology/subversive/1.0/kepler-site/ q=[1.0.0,1.2.0)
+  KeplerSR1
+      subversive.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/technology/subversive/1.1/kepler-site/ q=[1.0.0,1.2.0)
+  LunaSR0 .. LunaSR2
+      subversive.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/technology/subversive/2.0/luna-site/ q=[2.0.0,2.1.0)
+  S201504150911
+      subversive.b3aggrcon contrib=true nfeat=6 xyz=[] loc=DL/technology/subversive/3.0/mars-site/ q=[3.0.0,4.0.0)
+  Mars.1
+      subversive.b3aggrcon contrib=true nfeat=7 xyz=[] loc=DL/releases/mars/201509251000/ q=[3.0.0,4.0.0)
+  Neon
+      subversive.b3aggrcon contrib=true nfeat=7 xyz=[] loc=DL/technology/subversive/4.0/neon-site/ q=[4.0.0,5.0.0)
+  OxygenPreRienaRemoval_9-8-2016
+      subversive.b3aggrcon contrib=false nfeat=7 xyz=[] loc=DL/technology/subversive/4.0/neon-site/ q=[4.0.0,5.0.0)
+  Neon.1
+      subversive.b3aggrcon contrib=true nfeat=7 xyz=[] loc=DL/technology/subversive/4.0/neon-site/ q=[4.0.0,5.0.0)
+  Neon.1a
+      subversive.b3aggrcon contrib=true nfeat=7 xyz=[] loc=DL/releases/neon/201609281000/ q=[4.0.0,5.0.0)
+  Neon.2 .. Neon.3
+      subversive.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/technology/subversive/4.0/neon-site/ q=[4.0.0,5.0.0)
+  Neon.3_respin
+      subversive.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/releases/neon/201703141400/ q=[4.0.0,5.0.0)
+  Oxygen .. Oxygen.1
+      subversive.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/technology/subversive/4.0/neon-site/ q=[4.0.0,5.0.0)
+  Oxygen.1a .. Oxygen.1a_respin
+      subversive.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/releases/oxygen/201709271000/ q=[4.0.0,5.0.0)
+  Oxygen.2 .. Oxygen.3
+      subversive.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/technology/subversive/4.0/neon-site/ q=[4.0.0,5.0.0)
+  PhotonM7 .. 2018-09
+      subversive.aggrcon contrib=false nfeat=6 xyz=[] loc=DL/technology/subversive/4.0/neon-site/ q=[4.0.0,5.0.0)
+  2018-12 .. 2026-03
+      -- sem arquivo
+
+######## WebTools
+  JunoSR0
+      webtools.b3aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.4.0/S-3.4.0RC4-20120612174739/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL q=
+  JunoSR1
+      webtools.b3aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.4.1/R-3.4.1-20120917174803/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  JunoSR2
+      webtools.b3aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.4.2/M-3.4.2RC4-20130208151217/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL q=
+  KeplerPostRC4 .. KeplerSR0
+      webtools.b3aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.5.0/R-3.5.0-20130610150119/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  KeplerSR1
+      webtools.b3aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.5.1/R-3.5.1-20130913223750/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  LunaSR0 .. z20140806
+      webtools.b3aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.6.0/R-3.6.0-20140602160322/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  LunaRC4
+      webtools.b3aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.6.1/R-3.6.1-20140912000031/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  LunaSR2
+      webtools.b3aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.6.3/R-3.6.3-20150216091848/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  S201504150911
+      webtools.b3aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.7.0/S-3.7.0M6-20150324000117/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/ q=
+  Mars.1
+      webtools.b3aggrcon contrib=true nfeat=29 xyz=[] loc=DL/releases/mars/201509251000/ | DL/releases/mars/201509251000/ | DL/releases/mars/201509251000/ q=
+  Neon
+      webtools.b3aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.8.0/R-3.8.0-20160608130753/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  OxygenPreRienaRemoval_9-8-2016
+      webtools.b3aggrcon contrib=false nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.8.0/R-3.8.0-20160608130753/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  Neon.1
+      webtools.b3aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.8.1/R-3.8.1-20160912100321/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  Neon.1a
+      webtools.b3aggrcon contrib=true nfeat=30 xyz=[] loc=DL/releases/neon/201609281000/ | DL/releases/neon/201609281000/ | DL/releases/neon/201609281000/ q=
+  Neon.2
+      webtools.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.8.1/R-3.8.1-20160912100321/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  Neon.3
+      webtools.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.8.2/M-3.8.2-20170308000057/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  Neon.3_respin
+      webtools.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/releases/neon/201703141400/ | DL/releases/neon/201703141400/ | DL/releases/neon/201703141400/ q=
+  Oxygen
+      webtools.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.9.0/R-3.9.0-20170613094504/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  Oxygen.1
+      webtools.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.9.1/R-3.9.1-20170912000144/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  Oxygen.1a .. Oxygen.1a_respin
+      webtools.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.9.1a/S-3.9.1aRC2a-20171004113814/repository/ | DL/releases/oxygen/201709271000/ | DL/releases/oxygen/201709271000/ q=
+  Oxygen.2 .. Oxygen.2_respin
+      webtools.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.9.2/R-3.9.2-20171201000141/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/li q=
+  Oxygen.3
+      webtools.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.9.3/S-3.9.3RC4-20180302093744/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL q=
+  PhotonM7
+      webtools.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.10.0/I-latest/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | DL/libra/releases/ q=
+  PhotonRC4 .. Photon.0
+      webtools.aggrcon contrib=true nfeat=30 xyz=[] loc=DL/webtools/downloads/drops/R3.10.0/S-3.10.0.RC4-20180611164516/repository/ | DL/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | q=
+  2018-09
+      webtools.aggrcon contrib=true nfeat=26 xyz=[] loc=DL/webtools/downloads/drops/R3.11.0/S-3.11.0.RC1-20180910170749/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006 q=
+  2018-12
+      webtools.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.12.0/S-3.12.0.RC1-20181130055351/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006 q=
+  2019-03
+      webtools.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.13.0/S-3.13.0.RC2-20190308131645/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006 q=
+  2019-06
+      webtools.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.14.0/S-3.14.0.RC2-20190612230649/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006 q=
+  2019-09
+      webtools.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.15.0/S-3.15.0.M3-20190827075533/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-2010061 q=
+  2019-12
+      webtools.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.16.0/S-3.16.0.RC2-20191210070716/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006 q=
+  2020-03
+      webtools.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.17.0/S-3.17.0.M3-20200221035047/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-2010061 q=
+  2020-06
+      webtools.aggrcon contrib=true nfeat=29 xyz=[] loc=DL/webtools/downloads/drops/R3.18.0/S-3.18.0.RC2-20200605032700/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006 q=
+  2020-09
+      webtools.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/webtools/downloads/drops/R3.19.0/S-3.19.0.RC1-20200828030223/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006 q=
+  2020-12
+      webtools.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/webtools/downloads/drops/R3.20.0/S-3.20.0.RC1-20201201143606/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006 q=
+  2021-03
+      webtools.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/webtools/downloads/drops/R3.21.0/S-3.21.0.RC2-20210304100654/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006 q=
+  2021-06
+      webtools.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/webtools/downloads/drops/R3.22.0/S-3.22.0.RC3a-20210612170523/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100 q=
+  2021-09
+      webtools.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/webtools/downloads/drops/R3.23.0/S-3.23.0.M3-20210822084517/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-2010061 q=
+  2021-12
+      webtools.aggrcon contrib=true nfeat=31 xyz=[] loc=DL/webtools/downloads/drops/R3.24.0/S-3.24.0.RC1-20211122101137/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006 q=
+  2022-03
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.25.0/R-3.25.0-20220224093948/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-2010061420 q=
+  2022-06
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.26.0/S-3.26RC1-20220526191850/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2022-09
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.27.0/S-3.27RC1-20220829002010/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2022-12
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.28.0/S-3.28RC1-20221120050827/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2023-03
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.29.0/S-3.29RC2-20230303230236/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2023-06
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.30.0/S-3.30RC2-20230603084739/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2023-09
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.31.0/S-3.31RC2-20230903090456/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2023-12
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.32.0/S-3.32M3a-20231114230950/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2024-03
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.33.0/S-3.33RC2-20240304165142/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2024-06
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.34.0/S-3.34RC1-20240527184929/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2024-09
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.35.0/S-3.35RC1-20240825085431/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2024-12
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.36.0/S-3.36M3-20241110095156/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-2010061420 q=
+  2025-03
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.37.0/S-3.37RC1-20250303081219/repository | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-2010061420 q=
+  2025-06
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.38.0/S-3.38RC1-20250601070120/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2025-09
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.39.0/S-3.39RC2-20250902093744/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2025-12
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.40.0/S-3.40RC1-20251124015847/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+  2026-03
+      webtools.aggrcon contrib=true nfeat=27 xyz=[] loc=DL/webtools/downloads/drops/R3.41.0/S-3.41RC1-20260225091541/repository/ | archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-201006142 q=
+
+######## Window Builder
+  JunoSR0
+      windowbuilder.b3aggrcon contrib=true nfeat=10 xyz=['1.2.0'] loc=DL/windowbuilder/WB/release/R201206261200/4.2 q=1.2.0
+  JunoSR1
+      windowbuilder.b3aggrcon contrib=true nfeat=10 xyz=['1.2.0'] loc=DL/windowbuilder/WB/release/R201209281200/4.2 q=1.2.0
+  JunoSR2
+      windowbuilder.b3aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/windowbuilder/WB/release/R201302221200/4.2 q=1.2.0
+  KeplerPostRC4 .. KeplerSR0
+      windowbuilder.b3aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/windowbuilder/WB/release/R201306261200/4.3 q=1.2.0
+  KeplerSR1
+      windowbuilder.b3aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/windowbuilder/WB/release/R201309271200/4.3 q=1.2.0
+  LunaSR0 .. LunaSR2
+      windowbuilder.b3aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/windowbuilder/WB/release/R201406251200/4.4 q=1.2.0
+  S201504150911
+      windowbuilder.b3aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/windowbuilder/WB/milestone/M4/4.5 q=1.2.0
+  Mars.1
+      windowbuilder.b3aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/releases/mars/201509251000/ q=1.2.0
+  Neon .. OxygenPreRienaRemoval_9-8-2016
+      windowbuilder.b3aggrcon contrib=false nfeat=13 xyz=['1.2.0'] loc=DL/windowbuilder/WB/release/R201506241200-1/4.5 q=1.2.0
+  Neon.1
+      windowbuilder.b3aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/windowbuilder/WB/release/4.6/ q=1.2.0
+  Neon.1a
+      windowbuilder.b3aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/releases/neon/201609281000/ q=1.2.0
+  Neon.2 .. Neon.3
+      windowbuilder.aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/windowbuilder/WB/release/4.6/ q=1.2.0
+  Neon.3_respin
+      windowbuilder.aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/releases/neon/201703141400/ q=1.2.0
+  Oxygen .. Oxygen.1
+      windowbuilder.aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/windowbuilder/WB/integration/4.7 q=1.2.0
+  Oxygen.1a .. Oxygen.1a_respin
+      windowbuilder.aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/releases/oxygen/201709271000/ q=1.2.0
+  Oxygen.2 .. Photon.0
+      windowbuilder.aggrcon contrib=true nfeat=13 xyz=['1.2.0'] loc=DL/windowbuilder/WB/integration/4.7 q=1.2.0
+  2018-09 .. 2018-12
+      windowbuilder.aggrcon contrib=true nfeat=13 xyz=['1.9.1'] loc=DL/windowbuilder/1.9.1 q=1.9.1
+  2019-03 .. 2020-09
+      windowbuilder.aggrcon contrib=true nfeat=13 xyz=['1.9.2'] loc=DL/windowbuilder/1.9.2 q=1.9.2
+  2020-12 .. 2021-03
+      windowbuilder.aggrcon contrib=true nfeat=13 xyz=['1.9.4'] loc=DL/windowbuilder/1.9.4 q=1.9.4
+  2021-06 .. 2022-03
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=['1.9.7'] loc=DL/windowbuilder/1.9.7 q=1.9.7
+  2022-06
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=['1.9.8'] loc=DL/windowbuilder/1.9.8 q=1.9.8
+  2022-09
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/1.10.0 q=
+  2022-12 .. 2023-03
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/1.11.0 q=
+  2023-06
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/updates/release/1.12.0 q=
+  2023-09
+      windowbuilder.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/windowbuilder/updates/milestone/S202309051601 q=
+  2023-12
+      windowbuilder.aggrcon contrib=true nfeat=12 xyz=[] loc=DL/windowbuilder/updates/release/1.14.0 q=
+  2024-03
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/updates/release/1.15.0 q=
+  2024-06
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/updates/release/1.16.0 q=
+  2024-09
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/updates/milestone/S202409031504 q=
+  2024-12
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/updates/release/1.18.0 q=
+  2025-03
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/updates/release/1.19.0 q=
+  2025-06
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/updates/milestone/S202506031901 q=
+  2025-09
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/updates/milestone/S202508191703 q=
+  2025-12
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/updates/milestone/S202512012052 q=
+  2026-03
+      windowbuilder.aggrcon contrib=true nfeat=11 xyz=[] loc=DL/windowbuilder/updates/milestone/S202602241821 q=
+
+######## m2e
+  JunoSR0
+      m2e.b3aggrcon contrib=true nfeat=2 xyz=['1.1.0'] loc=DL/technology/m2e/milestones/1.1 q=1.1.0
+  JunoSR1
+      m2e.b3aggrcon contrib=true nfeat=2 xyz=['1.2.0'] loc=DL/technology/m2e/milestones/1.2 q=1.2.0
+  JunoSR2
+      m2e.b3aggrcon contrib=true nfeat=2 xyz=['1.3.0'] loc=DL/technology/m2e/milestones/1.3 q=1.3.0
+  KeplerPostRC4 .. KeplerSR1
+      m2e.b3aggrcon contrib=true nfeat=2 xyz=['1.4.0'] loc=DL/technology/m2e/milestones/1.4 q=1.4.0
+  LunaSR0 .. LunaRC4
+      m2e.b3aggrcon contrib=true nfeat=3 xyz=['1.5.0'] loc=DL/technology/m2e/releases/1.5/ q=1.5.0
+  LunaSR2
+      m2e.b3aggrcon contrib=true nfeat=3 xyz=['1.5.1'] loc=DL/technology/m2e/milestones/1.5 q=1.5.1
+  S201504150911
+      m2e.b3aggrcon contrib=true nfeat=3 xyz=['1.6.0'] loc=DL/technology/m2e/milestones/1.6/ q=1.6.0
+  Mars.1
+      m2e.b3aggrcon contrib=true nfeat=3 xyz=['1.6.2'] loc=DL/releases/mars/201509251000/ q=1.6.2
+  Neon
+      m2e.b3aggrcon contrib=true nfeat=3 xyz=['1.7.0'] loc=DL/technology/m2e/releases/1.7/1.7.0.20160603-1933 q=1.7.0
+  OxygenPreRienaRemoval_9-8-2016
+      m2e.b3aggrcon contrib=false nfeat=3 xyz=['1.8.0'] loc=DL/technology/m2e/releases/1.8/1.8.0.20160809-1624 q=1.8.0
+  Neon.1
+      m2e.b3aggrcon contrib=true nfeat=3 xyz=['1.7.0'] loc=DL/technology/m2e/releases/1.7/1.7.0.20160603-1933 q=1.7.0
+  Neon.1a
+      m2e.b3aggrcon contrib=true nfeat=3 xyz=['1.7.0'] loc=DL/releases/neon/201609281000/ q=1.7.0
+  Neon.2 .. Neon.3
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.7.0'] loc=DL/technology/m2e/releases/1.7/1.7.0.20160603-1933 q=1.7.0
+  Neon.3_respin
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.7.0'] loc=DL/releases/neon/201703141400/ q=1.7.0
+  Oxygen
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.8.0'] loc=DL/technology/m2e/milestones/1.8/1.8.0.20170516-2043 q=1.8.0
+  Oxygen.1
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.8.1'] loc=DL/technology/m2e/milestones/1.8/1.8.1.20170728-1531 q=1.8.1
+  Oxygen.1a
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.8.2'] loc=DL/technology/m2e/milestones/1.8/1.8.2.20171005-1923 q=1.8.2
+  Oxygen.1a_respin
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.8.2'] loc=DL/technology/m2e/milestones/1.8/1.8.2.20171007-0217 q=1.8.2
+  Oxygen.2
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.8.1'] loc=DL/technology/m2e/milestones/1.8/1.8.1.20170728-1531 q=1.8.1
+  Oxygen.2_respin
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.8.2'] loc=DL/technology/m2e/milestones/1.8/1.8.2.20171007-0217 q=1.8.2
+  Oxygen.3
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.8.3'] loc=DL/technology/m2e/milestones/1.8/1.8.3.20180227-2137 q=1.8.3
+  PhotonM7
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.9.0'] loc=DL/technology/m2e/milestones/1.9/1.9.0.20180515-2017 q=1.9.0
+  PhotonRC4 .. Photon.0
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.9.0'] loc=DL/technology/m2e/milestones/1.9/1.9.0.20180606-2036 q=1.9.0
+  2018-09
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.9.1'] loc=DL/technology/m2e/milestones/1.9/1.9.1.20180912-1601 q=1.9.1
+  2018-12
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.10.0'] loc=DL/technology/m2e/milestones/1.10/1.10.0.20181127-2120 q=1.10.0
+  2019-03
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.11.0'] loc=DL/technology/m2e/milestones/1.11/1.11.0.20190220-2119 q=1.11.0
+  2019-06
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.12.0'] loc=DL/technology/m2e/milestones/1.12/1.12.0.20190529-1916 q=1.12.0
+  2019-09
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.13.0'] loc=DL/technology/m2e/milestones/1.13/1.13.0.20190716-1624 q=1.13.0
+  2019-12
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.14.0'] loc=DL/technology/m2e/milestones/1.14/1.14.0.20191209-1925/ q=1.14.0
+  2020-03
+      m2e.aggrcon contrib=true nfeat=3 xyz=['1.15.0'] loc=DL/technology/m2e/milestones/1.15/1.15.0.20200310-1746/ q=1.15.0
+  2020-06
+      m2e.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/technology/m2e/releases/1.16.0/ q=[1.16.0,1.16.1)
+  2020-09
+      m2e.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/technology/m2e/releases/1.16.2/ q=[1.16.0.20200318-1040]
+  2020-12
+      m2e.aggrcon contrib=true nfeat=4 xyz=[] loc=DL/technology/m2e/releases/1.17.1/ q=[1.17.0,1.17.1)
+  2021-03
+      m2e.aggrcon contrib=true nfeat=5 xyz=[] loc=DL/technology/m2e/releases/1.17.2/ q=
+  2021-06
+      m2e.aggrcon contrib=true nfeat=5 xyz=[] loc=DL/technology/m2e/releases/1.18.0/ q=
+  2021-09
+      m2e.aggrcon contrib=true nfeat=5 xyz=[] loc=DL/technology/m2e/releases/1.18.1/ q=
+  2021-12
+      m2e.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/technology/m2e/releases/1.19.0/ q=
+  2022-03 .. 2022-06
+      m2e.aggrcon contrib=true nfeat=6 xyz=[] loc=DL/technology/m2e/releases/1.20.1/ q=
+  2022-09
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.0.4 | DL/technology/m2e/m2e-wtp/releases/1.5.2/ q=[1.5.0.20220805-2025]
+  2022-12
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.1.2/ | DL/technology/m2e/m2e-wtp/releases/1.5.2/ q=[1.5.0.20220805-2025]
+  2023-03
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.2.1/ | DL/technology/m2e/m2e-wtp/releases/1.6.0/ q=
+  2023-06
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.3.0/ | DL/technology/m2e/m2e-wtp/releases/1.6.0/ q=
+  2023-09
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.4.0/ | DL/technology/m2e/m2e-wtp/releases/1.6.0/ q=
+  2023-12
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.5.0/ | DL/technology/m2e/m2e-wtp/releases/1.6.1/ q=
+  2024-03
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.6.0/ | DL/technology/m2e/m2e-wtp/releases/1.6.1/ q=
+  2024-06
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.6.1/ | DL/technology/m2e/m2e-wtp/releases/1.6.1/ q=
+  2024-09
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.6.2/ | DL/technology/m2e/m2e-wtp/releases/1.6.1/ q=
+  2024-12
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.7.0/ | DL/technology/m2e/m2e-wtp/releases/1.6.1/ q=
+  2025-03
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.8.0/ | DL/technology/m2e/m2e-wtp/releases/1.6.1/ q=
+  2025-06
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.9.0/ | DL/technology/m2e/m2e-wtp/releases/1.6.1/ q=
+  2025-09
+      m2e.aggrcon contrib=true nfeat=13 xyz=[] loc=DL/technology/m2e/releases/2.9.1/ | DL/technology/m2e/m2e-wtp/releases/1.6.1/ q=
+  2025-12
+      m2e.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/technology/m2e/releases/2.10.0 | DL/technology/m2e/m2e-wtp/releases/1.6.1/ q=
+  2026-03
+      m2e.aggrcon contrib=true nfeat=10 xyz=[] loc=DL/technology/m2e/releases/2.11.0 | DL/technology/m2e/m2e-wtp/releases/1.6.1/ q=

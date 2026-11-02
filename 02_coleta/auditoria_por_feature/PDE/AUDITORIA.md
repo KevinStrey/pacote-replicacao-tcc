@@ -1,0 +1,96 @@
+# Auditoria da coleta: PDE (`1-Repositorios/eclipse.pde`)
+
+Gerado por `scripts/auditar_feature.py`. Decisões: `5-Coleta_features/INVENTARIO.md` (M1–M18); recursos e equivalência com o piloto: `5-Coleta_features/RECURSOS.md`.
+
+## 1. Linha do tempo
+- Snapshots: **54** (JunoSR0 → 2026-09; índices globais 1..54); datas do calendário na série: 54; duplicatas removidas: 0; lacunas de presença atravessadas: 0.
+- História linear verificada (s00). .java de produção: 2381 → 3238.
+- Commits nos intervalos: 9736; válidos: 4593; importados por merge e excluídos (M6): 5143.
+
+## 2. Falhas de parsing do JavaParser (piloto: 0)
+- Versões de arquivo únicas: 26823; **falhas: 34**; métodos (sem anônimos/locais): 375584; descartados por chave duplicada no arquivo: 17; textos distintos: 64222.
+
+## 3. ChangeDistiller (piloto: 0 erros)
+- Chamadas: 33259; **erros (CDERROR): 0**.
+- CK: logs com exceção: 0 ; CSVs do Understand: 54 de 54.
+
+## 4. Taxas de match no join (piloto: ~100%)
+- Mínimo por release: evo_in_ck = 0.9992, evo_in_und = 1.0000, ck_in_evo = 0.9813, und_in_evo = 0.9366.
+- Média: evo_in_ck = 0.9999, evo_in_und = 1.0000. Tabela completa: `data/join_audit.csv`.
+
+## 5. Dataset e positivos por release
+- Linhas: **1215106**; positivos: **9325** (0.77%). A última release não tem rótulo.
+
+| Release (índice) | Tag | Métodos | Positivos | % |
+|---|---|---|---|---|
+| 1 | JunoSR0 | 20629 | 6 | 0.03 |
+| 2 | JunoSR1 | 20519 | 1582 | 7.71 |
+| 3 | JunoSR2 | 20677 | 98 | 0.47 |
+| 4 | KeplerPostRC4 | 20719 | 141 | 0.68 |
+| 5 | KeplerSR0 | 20562 | 837 | 4.07 |
+| 6 | KeplerSR1 | 20652 | 215 | 1.04 |
+| 7 | LunaSR0 | 20906 | 27 | 0.13 |
+| 8 | LunaRC4 | 21043 | 97 | 0.46 |
+| 9 | LunaSR2 | 21057 | 32 | 0.15 |
+| 10 | S201504150911 | 21078 | 633 | 3.00 |
+| 11 | Mars.1 | 21100 | 500 | 2.37 |
+| 12 | Neon | 21340 | 82 | 0.38 |
+| 13 | Neon.1 | 21375 | 232 | 1.09 |
+| 14 | Neon.2 | 21341 | 875 | 4.10 |
+| 15 | Neon.3 | 21453 | 142 | 0.66 |
+| 16 | Oxygen | 21660 | 394 | 1.82 |
+| 17 | Oxygen.1 | 21775 | 66 | 0.30 |
+| 18 | Oxygen.1a | 21741 | 385 | 1.77 |
+| 19 | Oxygen.2 | 21804 | 71 | 0.33 |
+| 20 | Oxygen.3 | 21784 | 142 | 0.65 |
+| 21 | Photon.0 | 21834 | 48 | 0.22 |
+| 22 | 2018-09 | 21811 | 141 | 0.65 |
+| 23 | 2018-12 | 21626 | 94 | 0.43 |
+| 24 | 2019-03 | 21652 | 59 | 0.27 |
+| 25 | 2019-06 | 21746 | 107 | 0.49 |
+| 26 | 2019-09 | 21825 | 85 | 0.39 |
+| 27 | 2019-12 | 21952 | 33 | 0.15 |
+| 28 | 2020-03 | 21827 | 32 | 0.15 |
+| 29 | 2020-06 | 21807 | 58 | 0.27 |
+| 30 | 2020-09 | 21817 | 91 | 0.42 |
+| 31 | 2020-12 | 21924 | 51 | 0.23 |
+| 32 | 2021-03 | 21985 | 61 | 0.28 |
+| 33 | 2021-06 | 22057 | 35 | 0.16 |
+| 34 | 2021-09 | 22012 | 36 | 0.16 |
+| 35 | 2021-12 | 22149 | 370 | 1.67 |
+| 36 | 2022-03 | 22348 | 132 | 0.59 |
+| 37 | 2022-06 | 23962 | 39 | 0.16 |
+| 38 | 2022-09 | 23995 | 31 | 0.13 |
+| 39 | 2022-12 | 23988 | 59 | 0.25 |
+| 40 | 2023-03 | 24048 | 73 | 0.30 |
+| 41 | 2023-06 | 23929 | 291 | 1.22 |
+| 42 | 2023-09 | 23975 | 114 | 0.48 |
+| 43 | 2023-12 | 24239 | 94 | 0.39 |
+| 44 | 2024-03 | 26845 | 73 | 0.27 |
+| 45 | 2024-06 | 27187 | 161 | 0.59 |
+| 46 | 2024-09 | 27245 | 40 | 0.15 |
+| 47 | 2024-12 | 27269 | 27 | 0.10 |
+| 48 | 2025-03 | 27295 | 91 | 0.33 |
+| 49 | 2025-06 | 27413 | 52 | 0.19 |
+| 50 | 2025-09 | 27539 | 33 | 0.12 |
+| 51 | 2025-12 | 27583 | 17 | 0.06 |
+| 52 | 2026-03 | 27580 | 82 | 0.30 |
+| 53 | 2026-06 | 27427 | 58 | 0.21 |
+
+## 6. Spot check das métricas evolutivas contra `git log -L`
+- Método: `org.eclipse.pde.launching.JUnitLaunchConfigurationDelegate.collectExecutionArguments(ILaunchConfiguration,List,List)` (arquivo `ui/org.eclipse.pde.launching/src/org/eclipse/pde/launching/JUnitLaunchConfigurationDelegate.java`, linhas 188,328 em 466a771eda)
+- Comando: `git -C 1-Repositorios/eclipse.pde log --no-merges --format=%H --no-patch -L188,328:ui/org.eclipse.pde.launching/src/org/eclipse/pde/launching/JUnitLaunchConfigurationDelegate.java 89de7d2cad..466a771eda`
+- Commits contados pela s05: 24 | listados pelo `git log -L`: 26 | em comum: 23 | contados e não listados: 1
+- Resultado: **VERIFICAR** (commits contados fora do `git log -L`: 25a41843de)
+
+## 7. Quebras de identidade de métodos (M28, ameaça à validade)
+- Nascimentos após o 1º snapshot: 9814; por mudança de pacote/classe: 159; em código importado (M6, heurística): 4799.
+- Efeito: histórico zerado (BOM = release da quebra; FRCH/CSB… recomeçam em 0) e método sem rótulo na transição. Detalhe: `data/identidade_metodos.csv`, `data/identidade_pares.csv`, `5-Coleta_features/AMEACA_identidade.md`.
+
+| Transição | Métodos | Nascidos / sumidos | Movidos | Importados |
+|---|---|---|---|---|
+| Mars.1 → Neon | 21543 | 308 / 35 | 0 | 218 |
+| 2022-03 → 2022-06 | 24230 | 1672 / 25 | 0 | 1627 |
+| 2023-09 → 2023-12 | 24536 | 350 / 121 | 0 | 251 |
+| 2023-12 → 2024-03 | 27129 | 2671 / 78 | 35 | 2548 |
+| 2025-03 → 2025-06 | 27711 | 188 / 16 | 0 | 155 |

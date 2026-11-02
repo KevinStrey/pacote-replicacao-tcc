@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-16 07:20:31 =====
+07:20:32 job fase1__temporal__principal__model2__ADA__XGBoost__teste | pid 26416 | threads 12
+07:20:32 treino=12747135 (pos=73031) avaliação=5311972 (pos=14656) colunas=98
+07:34:37   treino reamostrado: 25329017 linhas, 12654913 positivos
+07:37:38 AP=0.0072 AUC=0.6493 MCC=0.0334 F1(1)=0.0362 (1002 s de treino)
+07:37:51 ok fase1__temporal__principal__model2__ADA__XGBoost__teste 1039.0 s, pico de RAM 91.02 GB

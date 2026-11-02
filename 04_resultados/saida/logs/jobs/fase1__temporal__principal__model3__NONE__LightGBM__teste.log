@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 21:12:21 =====
+21:12:23 job fase1__temporal__principal__model3__NONE__LightGBM__teste | pid 25056 | threads 12
+21:12:23 treino=12747135 (pos=73031) avaliação=5311972 (pos=14656) colunas=16
+21:12:34   treino reamostrado: 12747135 linhas, 73031 positivos
+21:13:26 AP=0.0159 AUC=0.6865 MCC=0.0294 F1(1)=0.0102 (46 s de treino)
+21:13:37 ok fase1__temporal__principal__model3__NONE__LightGBM__teste 74.3 s, pico de RAM 20.28 GB

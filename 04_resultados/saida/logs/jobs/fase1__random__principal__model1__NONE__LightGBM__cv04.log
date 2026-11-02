@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-16 01:31:58 =====
+01:32:00 job fase1__random__principal__model1__NONE__LightGBM__cv04 | pid 40563 | threads 12
+01:32:02 treino=11377236 (pos=55242) avaliação=1264138 (pos=6139) colunas=82
+01:32:21   treino reamostrado: 11377236 linhas, 55242 positivos
+01:33:22 AP=0.1061 AUC=0.8471 MCC=0.0833 F1(1)=0.0292 (69 s de treino)
+01:33:22 ok fase1__random__principal__model1__NONE__LightGBM__cv04 81.6 s, pico de RAM 32.35 GB

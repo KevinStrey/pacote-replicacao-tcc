@@ -1,0 +1,32 @@
+          metric  importance_mean  importance_std        group  rank
+             WCH         0.196114        0.001990 evolutionary     1
+             WCD         0.174781        0.001425 evolutionary     2
+      CountInput         0.021750        0.000394   structural     3
+     cboModified         0.020724        0.000479   structural     4
+             LCH         0.017867        0.000456 evolutionary     5
+             BOM         0.016709        0.000471 evolutionary     6
+  uniqueWordsQty         0.016447        0.000350   structural     7
+             cbo         0.015248        0.000450   structural     8
+          fanout         0.015123        0.000315   structural     9
+             WFR         0.015055        0.000337 evolutionary    10
+           fanin         0.014808        0.000327   structural    11
+       CountLine         0.014489        0.000284   structural    12
+CountLineCodeExe         0.014193        0.000281   structural    13
+   CountLineCode         0.014084        0.000359   structural    14
+            FRCH         0.013476        0.000252 evolutionary    15
+           metric  information_gain  total_occurences        group  rank
+              WCD          0.022172            134087 evolutionary     1
+              WCH          0.014733            134087 evolutionary     2
+             ACDF          0.011469            134087 evolutionary     3
+             CSBS          0.006717            134087 evolutionary     4
+ CountLineCodeExe          0.006526            328721   structural     5
+    CountLineCode          0.006508            342707   structural     6
+        CountStmt          0.006102            342707   structural     7
+   CountSemicolon          0.006081            336035   structural     8
+              loc          0.005982            342707   structural     9
+     CountStmtExe          0.005947            328721   structural    10
+        CountLine          0.005865            342707   structural    11
+              LCD          0.005590            134087 evolutionary    12
+methodsInvokedQty          0.005102            262023   structural    13
+              rfc          0.005102            262023   structural    13
+      CountOutput          0.005080            333556   structural    14

@@ -1,0 +1,75 @@
+# Grade de experimentos e recursos (PLANO_TREINO.md, seções 5-7). Alterar aqui, não nos scripts.
+semente: 42
+
+# Colunas de entrada. 'line' (linha inicial do método no arquivo) fica fora (decisão D6 do piloto): não é métrica e
+# funciona como identificador do método. Listas idênticas às do piloto (4-Coleta_egit/scripts/s09_train.py).
+estruturais: [cbo, cboModified, fanin, fanout, wmc, rfc, loc, returnsQty, variablesQty, parametersQty,
+  methodsInvokedQty, methodsInvokedLocalQty, methodsInvokedIndirectLocalQty, loopQty, comparisonsQty, tryCatchQty,
+  parenthesizedExpsQty, stringLiteralsQty, numbersQty, assignmentsQty, mathOperationsQty, maxNestedBlocksQty,
+  anonymousClassesQty, innerClassesQty, lambdasQty, uniqueWordsQty, modifiers, logStatementsQty, hasJavaDoc,
+  AvgCyclomatic, AvgCyclomaticModified, AvgCyclomaticStrict, AvgEssential, AvgLine, AvgLineBlank, AvgLineCode,
+  AvgLineComment, CountClassBase, CountClassCoupled, CountClassDerived, CountDeclClass, CountDeclClassMethod,
+  CountDeclClassVariable, CountDeclFile, CountDeclFunction, CountDeclInstanceMethod, CountDeclInstanceVariable,
+  CountDeclMethod, CountDeclMethodAll, CountDeclMethodDefault, CountDeclMethodPrivate, CountDeclMethodProtected,
+  CountDeclMethodPublic, CountInput, CountLine, CountLineBlank, CountLineCode, CountLineCodeDecl, CountLineCodeExe,
+  CountLineComment, CountOutput, CountPath, CountSemicolon, CountStmt, CountStmtDecl, CountStmtExe, Cyclomatic,
+  CyclomaticModified, CyclomaticStrict, Essential, MaxCyclomatic, MaxCyclomaticModified, MaxCyclomaticStrict,
+  MaxEssential, MaxInheritanceTree, MaxNesting, PercentLackOfCohesion, RatioCommentToCode, SumCyclomatic,
+  SumCyclomaticModified, SumCyclomaticStrict, SumEssential]
+evolutivas: [BOM, TACH, FCH, LCH, CHO, FRCH, CHD, WCH, WCD, WFR, ATAF, LCA, LCD, CSB, CSBS, ACDF]
+conjuntos:              # model1/model2/model3 do cpmp
+  model1: [estruturais]
+  model2: [estruturais, evolutivas]
+  model3: [evolutivas]
+
+reamostragem: [NONE, ROS, SMOTE, ADA]   # só no treino (e dentro de cada parte da CV)
+
+protocolos:
+  temporal:             # treino = releases <= T; T = release (índice global) em que as linhas acumuladas chegam a 70%
+    fracao_treino: 0.70
+  random:               # 70/30 estratificado + CV estratificada no treino (comparabilidade com o cpmp)
+    fracao_teste: 0.30
+    cv_partes: 10
+
+fases:
+  fase1:                # resultados iniciais, sem MLP
+    protocolos: [temporal, random]
+    algoritmos: [RandomForest, DT, LogisticRegression, XGBoost, LightGBM, LinearSVC]
+  fase2:                # MLP só no temporal
+    protocolos: [temporal]
+    algoritmos: [MLP]
+  fase3:                # análise de sensibilidade (seção 7 do plano)
+    variante: sem_PTP_Scout_Mylyn
+    excluir_features: [PTP, Scout, Mylyn]
+    protocolos: [temporal, random]
+    metrica_selecao: PR AUC (AP)   # melhor configuração (conjunto x reamostragem x algoritmo) por protocolo
+    top_k: 1
+
+bootstrap:
+  reamostras: 1000
+
+teste_rapido:
+  fracao: 0.01          # amostra estratificada por feature x rótulo
+  cv_partes_executadas: 2
+  reamostras_bootstrap: 50
+
+recursos:
+  reserva_nucleos: 2            # núcleos deixados livres
+  reserva_ram_gb: 16            # RAM mantida livre; abaixo de metade disso o job mais recente é encerrado e
+                                # volta para a fila para rodar sozinho
+  threads:                      # threads por job (n_jobs e OMP/BLAS)
+    RandomForest: 12
+    XGBoost: 12
+    LightGBM: 12
+    DT: 1
+    LogisticRegression: 2
+    LinearSVC: 1
+    MLP: 4
+  # RAM estimada por job (GB) = (linhas de treino x colunas x 4 bytes) x multiplicador da reamostragem + extra do
+  # algoritmo (escala, reamostragem e treino em float64, como no piloto). Só serve para decidir quantos jobs rodam
+  # juntos; o vigia de memória é a proteção real.
+  mem_multiplicador: {NONE: 6, ROS: 12, SMOTE: 12, ADA: 14}
+  mem_base_gb: 1                # processo Python + bibliotecas
+  mem_extra_gb: {RandomForest: 20, DT: 4, LogisticRegression: 2, XGBoost: 6, LightGBM: 6, LinearSVC: 4, MLP: 4}
+  timeout_horas: 72             # por job
+  tentativas: 2                 # tentativas por job (falha por timeout não é repetida)

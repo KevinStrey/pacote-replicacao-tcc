@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 20:51:35 =====
+20:51:37 job fase1__random__principal__model1__SMOTE__DT__teste | pid 46498 | threads 1
+20:51:37 treino=126417 (pos=616) avaliação=54179 (pos=264) colunas=82
+20:51:37   treino reamostrado: 251602 linhas, 125801 positivos
+20:51:47 AP=0.0076 AUC=0.5278 MCC=0.0469 F1(1)=0.0512 (10 s de treino)
+20:51:47 ok fase1__random__principal__model1__SMOTE__DT__teste 10.8 s, pico de RAM 0.9 GB

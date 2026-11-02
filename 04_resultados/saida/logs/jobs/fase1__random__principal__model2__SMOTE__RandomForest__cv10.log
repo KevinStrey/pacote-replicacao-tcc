@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-18 09:45:36 =====
+09:45:38 job fase1__random__principal__model2__SMOTE__RandomForest__cv10 | pid 20921 | threads 12
+09:45:43 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=98
+09:47:17   treino reamostrado: 22643988 linhas, 11321994 positivos
+10:07:27 AP=0.1999 AUC=0.7919 MCC=0.1959 F1(1)=0.1996 (1284 s de treino)
+10:07:27 ok fase1__random__principal__model2__SMOTE__RandomForest__cv10 1308.4 s, pico de RAM 68.86 GB

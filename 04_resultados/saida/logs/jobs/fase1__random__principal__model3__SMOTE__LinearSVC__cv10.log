@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-16 04:03:39 =====
+04:03:41 job fase1__random__principal__model3__SMOTE__LinearSVC__cv10 | pid 25044 | threads 1
+04:03:44 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=16
+04:04:17   treino reamostrado: 22643988 linhas, 11321994 positivos
+04:08:33 AP=0.0446 AUC=0.6646 MCC=0.0719 F1(1)=0.0389 (282 s de treino)
+04:08:33 ok fase1__random__principal__model3__SMOTE__LinearSVC__cv10 292.3 s, pico de RAM 23.91 GB

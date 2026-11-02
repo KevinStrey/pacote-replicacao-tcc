@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 20:50:59 =====
+20:51:00 job fase1__temporal__principal__model1__ADA__DT__teste | pid 44976 | threads 1
+20:51:00 treino=127322 (pos=731) avaliação=53274 (pos=149) colunas=82
+20:51:02   treino reamostrado: 253242 linhas, 126651 positivos
+20:51:10 AP=0.0031 AUC=0.5097 MCC=0.0143 F1(1)=0.0164 (9 s de treino)
+20:51:10 ok fase1__temporal__principal__model1__ADA__DT__teste 9.7 s, pico de RAM 0.99 GB

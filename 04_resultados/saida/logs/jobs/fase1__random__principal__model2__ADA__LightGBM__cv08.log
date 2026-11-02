@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-19 05:36:24 =====
+05:36:26 job fase1__random__principal__model2__ADA__LightGBM__cv08 | pid 16176 | threads 12
+05:36:30 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=98
+05:45:29   treino reamostrado: 22647637 linhas, 11325643 positivos
+05:47:07 AP=0.1142 AUC=0.7776 MCC=0.1782 F1(1)=0.1819 (616 s de treino)
+05:47:07 ok fase1__random__principal__model2__ADA__LightGBM__cv08 641.4 s, pico de RAM 77.58 GB

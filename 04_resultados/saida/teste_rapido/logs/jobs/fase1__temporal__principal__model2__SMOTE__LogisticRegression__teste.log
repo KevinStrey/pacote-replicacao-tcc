@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 20:51:11 =====
+20:51:12 job fase1__temporal__principal__model2__SMOTE__LogisticRegression__teste | pid 45449 | threads 2
+20:51:12 treino=127322 (pos=731) avaliação=53274 (pos=149) colunas=98
+20:51:13   treino reamostrado: 253182 linhas, 126591 positivos
+20:51:20 AP=0.0160 AUC=0.7298 MCC=0.0412 F1(1)=0.0140 (8 s de treino)
+20:51:21 ok fase1__temporal__principal__model2__SMOTE__LogisticRegression__teste 8.2 s, pico de RAM 1.02 GB

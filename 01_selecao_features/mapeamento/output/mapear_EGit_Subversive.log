@@ -1,0 +1,9 @@
+simrel tags: 63 | excluded: 9 | calendar: 54
+
+=== EGit (egit, linha principal origin/master)
+  present: JunoSR0 -> 2026-09 | series: JunoSR0 -> 2026-09 | internal gaps crossed: none
+  snapshots: 54 (duplicates removed: 0) | prod .java 642 -> 995 | interval commits 4154 (imported excluded: 0)
+
+=== Subversive (subversive, linha principal origin/main)
+  present: JunoSR0 -> Oxygen.3 | series: JunoSR0 -> Oxygen.3 | internal gaps crossed: none
+  snapshots: 16 (duplicates removed: 4) | prod .java 1127 -> 1165 | interval commits 425 (imported excluded: 0)

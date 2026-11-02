@@ -1,0 +1,12 @@
+{
+ "atualizado": "2026-10-15 21:07:52",
+ "execucao": "teste_rapido",
+ "fase": "fase2",
+ "total": 12,
+ "ja_concluidos_antes": 0,
+ "concluidos_agora": 12,
+ "pendentes": 0,
+ "em_execucao": [],
+ "falhas": {},
+ "ram_livre_gb": 239.8
+}

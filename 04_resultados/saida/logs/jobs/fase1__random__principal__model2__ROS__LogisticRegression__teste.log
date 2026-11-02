@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-16 11:50:53 =====
+11:50:54 job fase1__random__principal__model2__ROS__LogisticRegression__teste | pid 34778 | threads 2
+11:50:54 treino=12641374 (pos=61381) avaliação=5417733 (pos=26306) colunas=98
+11:51:53   treino reamostrado: 25159986 linhas, 12579993 positivos
+12:01:01 AP=0.0377 AUC=0.8144 MCC=0.0834 F1(1)=0.0332 (581 s de treino)
+12:01:14 ok fase1__random__principal__model2__ROS__LogisticRegression__teste 619.3 s, pico de RAM 81.26 GB

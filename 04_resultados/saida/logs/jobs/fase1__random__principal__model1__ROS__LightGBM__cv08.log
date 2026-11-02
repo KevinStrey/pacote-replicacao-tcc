@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-16 22:43:03 =====
+22:43:04 job fase1__random__principal__model1__ROS__LightGBM__cv08 | pid 21225 | threads 12
+22:43:07 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=82
+22:44:01   treino reamostrado: 22643988 linhas, 11321994 positivos
+22:46:13 AP=0.0913 AUC=0.8419 MCC=0.0828 F1(1)=0.0290 (171 s de treino)
+22:46:13 ok fase1__random__principal__model1__ROS__LightGBM__cv08 188.4 s, pico de RAM 60.21 GB

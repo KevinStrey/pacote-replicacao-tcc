@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 21:07:52 =====
+21:07:53 job fase3__random__sem_PTP_Scout_Mylyn__model2__NONE__LightGBM__teste | pid 21727 | threads 12
+21:07:53 treino=112674 (pos=508) avaliação=48401 (pos=215) colunas=98
+21:07:54   treino reamostrado: 112674 linhas, 508 positivos
+21:07:55 AP=0.2057 AUC=0.8207 MCC=0.1203 F1(1)=0.0758 (1 s de treino)
+21:07:55 ok fase3__random__sem_PTP_Scout_Mylyn__model2__NONE__LightGBM__teste 1.6 s, pico de RAM 0.65 GB

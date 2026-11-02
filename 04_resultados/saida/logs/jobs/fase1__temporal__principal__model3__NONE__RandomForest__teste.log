@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 21:10:24 =====
+21:10:26 job fase1__temporal__principal__model3__NONE__RandomForest__teste | pid 23909 | threads 12
+21:10:26 treino=12747135 (pos=73031) avaliação=5311972 (pos=14656) colunas=16
+21:10:35   treino reamostrado: 12747135 linhas, 73031 positivos
+21:13:25 AP=0.0027 AUC=0.4449 MCC=0.0031 F1(1)=0.0061 (164 s de treino)
+21:13:37 ok fase1__temporal__principal__model3__NONE__RandomForest__teste 191.2 s, pico de RAM 27.92 GB

@@ -1,0 +1,30 @@
+equivalent commits ignored (M26): 49 of 675 commits with modified files
+changed method versions: 6248 | distinct text pairs to diff: 5769
+change events (release, method): 5430
+1 f2224498 methods: 22112
+2 f9f341ba methods: 22557
+3 dad968d8 methods: 19043
+4 9e0a662f methods: 19383
+5 343fb365 methods: 20160
+6 5663cb84 methods: 19222
+7 ce339339 methods: 19663
+8 98a56faf methods: 19665
+9 cad812bf methods: 14363
+10 640630c8 methods: 14364
+11 6093623f methods: 14363
+12 9259d0a1 methods: 14368
+13 5159d58c methods: 14368
+14 7ae28fae methods: 14368
+15 f63cfee5 methods: 14368
+16 2b945b3f methods: 14368
+17 843c3d31 methods: 14368
+20 290a68a5 methods: 14368
+21 40bcb0ec methods: 14352
+23 e0083dcb methods: 14352
+24 047aee10 methods: 14352
+25 1158a49b methods: 14352
+26 9bf4c1d7 methods: 14121
+27 efdadc85 methods: 14121
+28 de7d0f00 methods: 14099
+34 47cda24d methods: 14099
+rows: 419319

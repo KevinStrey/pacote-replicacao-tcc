@@ -1,0 +1,11 @@
+17:38:45 features: ['CVS', 'Subversive', 'GEF', 'EclipseLink', 'm2e', 'Mylyn', 'EGit', 'PTP', 'GMF Runtime', 'EMF', 'JDT', 'DataTools', 'WebTools', 'Scout', 'PDE', 'RAP', 'Window Builder', 'BIRT', 'CDT'] | RAM budget 5.0 GB | max procs 12 | log C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\logs\run_all_20261012_173845.log
+17:38:47 [Subversive] s00_timeline rc=0 1s
+17:38:52 [Subversive] s01_snapshots rc=0 5s
+17:38:53 [GEF] s00_timeline rc=0 2s
+17:38:59 [GEF] s01_snapshots rc=0 6s
+17:39:00 [EclipseLink] s00_timeline rc=0 1s
+17:39:13 [EclipseLink] s01_snapshots rc=0 12s
+17:39:16 [m2e] s00_timeline rc=0 3s
+17:39:28 [m2e] s01_snapshots rc=0 12s
+17:39:29 [Mylyn] s00_timeline rc=0 1s
+17:39:38 [Mylyn] s01_snapshots rc=1 9s

@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-17 14:58:51 =====
+14:58:53 job fase1__random__principal__model1__ADA__XGBoost__cv09 | pid 47052 | threads 12
+14:58:55 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=82
+15:07:30   treino reamostrado: 22661203 linhas, 11339209 positivos
+15:09:17 AP=0.0560 AUC=0.7862 MCC=0.1292 F1(1)=0.1180 (611 s de treino)
+15:09:17 ok fase1__random__principal__model1__ADA__XGBoost__cv09 624.3 s, pico de RAM 67.37 GB

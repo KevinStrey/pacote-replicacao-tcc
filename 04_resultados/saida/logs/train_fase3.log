@@ -1,0 +1,8 @@
+2026-10-21 03:29:52 fase 3: temporal <- fase1__temporal__principal__model2__ROS__LightGBM__teste (PR AUC (AP) = 0.0175)
+2026-10-21 03:29:52 fase 3: random <- fase1__random__principal__model2__ROS__XGBoost__teste (PR AUC (AP) = 0.2223)
+2026-10-21 03:29:52 principal fase3: 2 jobs, 0 já concluídos, 2 a executar | núcleos=46 orçamento RAM=223 GB reserva=16 GB timeout=72 h
+2026-10-21 03:29:52 início fase3__temporal__sem_PTP_Scout_Mylyn__model2__ROS__LightGBM__teste (threads=12, RAM estimada=61.4 GB)
+2026-10-21 03:29:52 início fase3__random__sem_PTP_Scout_Mylyn__model2__ROS__XGBoost__teste (threads=12, RAM estimada=60.0 GB)
+2026-10-21 03:33:03 fim fase3__temporal__sem_PTP_Scout_Mylyn__model2__ROS__LightGBM__teste em 190 s (1/2)
+2026-10-21 03:33:11 fim fase3__random__sem_PTP_Scout_Mylyn__model2__ROS__XGBoost__teste em 198 s (2/2)
+2026-10-21 03:33:13 fase3: concluídos agora 2, falhas 0, pendentes 0

@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 20:55:24 =====
+20:55:26 job fase1__random__principal__model3__ROS__XGBoost__cv01 | pid 8169 | threads 12
+20:55:26 treino=113775 (pos=555) avaliação=12642 (pos=61) colunas=16
+20:55:26   treino reamostrado: 226440 linhas, 113220 positivos
+20:55:26 AP=0.0859 AUC=0.4291 MCC=0.0190 F1(1)=0.0190 (0 s de treino)
+20:55:26 ok fase1__random__principal__model3__ROS__XGBoost__cv01 0.6 s, pico de RAM 0.44 GB

@@ -1,0 +1,39 @@
+feature,snapshot,tag,commit,java,prod,test,example,fora_escopo
+BIRT,primeiro,JunoSR0,8339b09c4,9670,7957,1551,162,0
+BIRT,ultimo,2020-06,dff3eaf55,9816,8050,1604,162,0
+CDT,primeiro,JunoSR0,679bcb0a1,8479,7259,1085,135,0
+CDT,ultimo,2026-09,5088ae6df,9071,7896,1005,170,0
+CVS,primeiro,JunoSR0,40ce66b2d,1609,536,147,132,794
+CVS,ultimo,2021-12,390841f1e,1605,523,151,132,799
+DataTools,primeiro,Oxygen.3,3b5fb7fbc,5045,4600,172,273,0
+DataTools,ultimo,2026-06,46532a2d4,5028,4639,168,221,0
+EGit,primeiro,JunoSR0,be1ae3c1e,790,642,148,0,0
+EGit,ultimo,2026-09,a2bdfcf06,1254,995,259,0,0
+EMF,primeiro,JunoSR0,b419d880e,2936,1540,1196,200,0
+EMF,ultimo,2026-09,5504314ab,3474,1918,1351,205,0
+EclipseLink,primeiro,JunoSR0,eefc5c186,15343,5467,9876,0,0
+EclipseLink,ultimo,LunaSR0,f367378dd,16705,5790,10915,0,0
+GEF,primeiro,JunoSR0,0a17cd7ad,1167,693,78,396,0
+GEF,ultimo,2026-09,6cbd12530,1383,780,103,500,0
+GMF Runtime,primeiro,JunoSR0,7fd498265,2025,1572,256,197,0
+GMF Runtime,ultimo,2026-09,c64d44ea1,2041,1587,257,197,0
+JDT,primeiro,JunoSR0,29b2c2184,6504,1458,5046,0,0
+JDT,ultimo,2026-09,8c40c7d2a,9437,1844,6063,0,1530
+PDE,primeiro,JunoSR0,89de7d2ca,5000,2381,2619,0,0
+PDE,ultimo,2026-09,466a771ed,6364,3238,3126,0,0
+Mylyn,primeiro,2023-06,916f7f48a,3131,2581,550,0,0
+Mylyn,ultimo,2026-09,af1cae907,4019,3188,831,0,0
+PTP,primeiro,JunoSR0,f2224498e,3230,3155,64,11,0
+PTP,ultimo,2021-09,47cda24d7,2079,2043,25,11,0
+RAP,primeiro,JunoSR0,8d7992a56,4513,2956,1372,185,0
+RAP,ultimo,2025-06,82edfd5b3,5360,3609,1505,246,0
+Scout,primeiro,JunoSR0,85a8580d4,2344,2279,65,0,0
+Scout,ultimo,2026-09,23596fbf5,4679,3161,1518,0,0
+Subversive,primeiro,JunoSR0,9466e2902,1233,1127,106,0,0
+Subversive,ultimo,Oxygen,fbd40e252,1271,1165,106,0,0
+WebTools,primeiro,JunoSR0,d7a180d81,3044,3044,0,0,0
+WebTools,ultimo,2026-09,ae05f7a9e,3853,3345,508,0,0
+Window Builder,primeiro,JunoSR0,bd8f55da8,4749,3703,1046,0,0
+Window Builder,ultimo,2026-09,c501232ee,3862,3052,781,29,0
+m2e,primeiro,JunoSR0,42829301c,634,625,9,0,0
+m2e,ultimo,2026-09,19318e846,980,840,140,0,0

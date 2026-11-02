@@ -1,0 +1,36 @@
+data: qui out 15 20:48:22 -03 2026
+host: vdi-cvi-peg-001
+usuário: uid=42576438(11855413906) gid=42467841(domain^users) groups=42467841(domain^users),130(fuse),42514467(aluno-ceavi),42514476(aluno-udesc),42517945(todos-ceavi),42517954(todos-udesc),42581128(m365-ativos-aluno-udesc),42582966(all-aluno-udesc),42587927(ceavi-usuarios-sistema_account),42594999(ceavi-academicos)
+Linux vdi-cvi-peg-001 5.4.0-150-generic #167~18.04.1-Ubuntu SMP Wed May 24 00:51:42 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+NAME="Ubuntu"
+VERSION="18.04.6 LTS (Bionic Beaver)"
+ID=ubuntu
+ID_LIKE=debian
+ldd (Ubuntu GLIBC 2.27-3ubuntu1.6) 2.27
+núcleos: 48
+              total        used        free      shared  buff/cache   available
+Mem:            251          25         183           1          42         223
+Swap:             0           0           0
+Filesystem                   Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-root  507G  406G   81G  84% /
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 1031556
+max locked memory       (kbytes, -l) 65536
+max memory size         (kbytes, -m) unlimited
+open files                      (-n) 65536
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) 8192
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 1031556
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+ 20:48:22 up 23 days,  3:55,  1 user,  load average: 2,37, 2,18, 2,07
+/usr/bin/screen
+/usr/bin/curl
+/usr/bin/wget
+/usr/bin/unzip

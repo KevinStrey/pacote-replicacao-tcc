@@ -1,0 +1,37 @@
+17:40:08 features: ['CVS', 'Subversive', 'GEF', 'EclipseLink', 'm2e', 'Mylyn', 'EGit', 'PTP', 'GMF Runtime', 'EMF', 'JDT', 'DataTools', 'WebTools', 'Scout', 'PDE', 'RAP', 'Window Builder', 'BIRT', 'CDT'] | RAM budget 3.1 GB | max procs 12 | log C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\logs\run_all_20261012_174008.log
+17:40:10 [Mylyn] s00_timeline rc=0 1s
+17:40:18 [Mylyn] s01_snapshots rc=0 8s
+17:40:20 [PTP] s00_timeline rc=0 2s
+17:40:40 [PTP] s01_snapshots rc=0 20s
+17:40:43 [GMF Runtime] s00_timeline rc=0 3s
+17:41:14 [GMF Runtime] s01_snapshots rc=0 31s
+17:41:17 [EMF] s00_timeline rc=0 3s
+17:41:54 [EMF] s01_snapshots rc=0 36s
+17:41:58 [JDT] s00_timeline rc=0 4s
+17:42:35 [JDT] s01_snapshots rc=0 37s
+17:42:36 [DataTools] s00_timeline rc=0 2s
+17:43:13 [DataTools] s01_snapshots rc=0 37s
+17:43:16 [WebTools] s00_timeline rc=0 3s
+17:44:07 [WebTools] s01_snapshots rc=0 51s
+17:44:11 [Scout] s00_timeline rc=0 4s
+17:45:03 [Scout] s01_snapshots rc=0 52s
+17:45:07 [PDE] s00_timeline rc=0 4s
+17:45:57 [PDE] s01_snapshots rc=0 50s
+17:46:00 [RAP] s00_timeline rc=0 3s
+17:46:51 [RAP] s01_snapshots rc=0 51s
+17:46:54 [Window Builder] s00_timeline rc=0 3s
+17:47:48 [Window Builder] s01_snapshots rc=0 55s
+17:47:52 [CDT] s00_timeline rc=0 4s
+17:50:23 [CDT] s01_snapshots rc=0 151s
+17:50:23 phase B: 1486 CK/Understand jobs
+17:50:51 [Subversive] s04_methods rc=0 29s
+17:50:55 [Subversive] s05_evometrics rc=0 3s
+17:50:55 phase B: 25 started, 1461 queued, 32s
+17:50:55 phase B: 50 started, 1436 queued, 32s
+17:51:25 [CVS] s07_join rc=0 22s
+17:51:27 [CVS] auditar_feature rc=1 1s
+17:51:27 ERROR CVS auditar_feature failed, see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\CVS\data\auditar_feature.log
+18:06:04 phase B: 75 started, 1411 queued, 941s
+18:14:09 phase B: 100 started, 1386 queued, 1427s
+18:21:22 ERROR Understand failed GEF 06_9ade08e3406b9bba64255b3946c32567ace3607a
+18:21:27 phase B: 125 started, 1361 queued, 1864s

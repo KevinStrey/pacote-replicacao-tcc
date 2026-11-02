@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-19 21:48:40 =====
+21:48:42 job fase2__temporal__principal__model3__SMOTE__MLP__teste | pid 17502 | threads 4
+21:48:42 treino=12747135 (pos=73031) avaliação=5311972 (pos=14656) colunas=16
+21:49:08   treino reamostrado: 25348208 linhas, 12674104 positivos
+23:47:35 AP=0.0108 AUC=0.6951 MCC=0.0370 F1(1)=0.0125 (7117 s de treino)
+23:47:45 ok fase2__temporal__principal__model3__SMOTE__MLP__teste 7143.7 s, pico de RAM 25.73 GB

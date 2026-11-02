@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-16 14:40:55 =====
+14:40:57 job fase1__random__principal__model2__ADA__DT__teste | pid 46350 | threads 1
+14:40:57 treino=12641374 (pos=61381) avaliação=5417733 (pos=26306) colunas=98
+16:28:24   treino reamostrado: 25168256 linhas, 12588263 positivos
+16:52:59 AP=0.0873 AUC=0.6196 MCC=0.1875 F1(1)=0.1889 (7898 s de treino)
+16:53:10 ok fase1__random__principal__model2__ADA__DT__teste 7933.2 s, pico de RAM 90.71 GB

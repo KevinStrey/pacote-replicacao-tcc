@@ -1,0 +1,9 @@
+
+===== tentativa 1 2026-10-15 20:51:07 =====
+20:51:08 job fase1__temporal__principal__model1__SMOTE__LightGBM__teste | pid 45323 | threads 12
+20:51:08 treino=127322 (pos=731) avaliação=53274 (pos=149) colunas=82
+20:51:09   treino reamostrado: 253182 linhas, 126591 positivos
+20:51:11 AP=0.0060 AUC=0.6828 MCC=-0.0030 F1(1)=0.0000 (3 s de treino)
+/home/CORP/11855413906/Desktop/treino_tcc/ambiente/lib/python3.12/site-packages/sklearn/metrics/_classification.py:614: UserWarning: A single label was found in 'y_true' and 'y_pred'. For the confusion matrix to have the correct shape, use the 'labels' parameter to pass all known labels.
+  warnings.warn(
+20:51:12 ok fase1__temporal__principal__model1__SMOTE__LightGBM__teste 3.2 s, pico de RAM 0.91 GB

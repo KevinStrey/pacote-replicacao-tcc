@@ -1,0 +1,57 @@
+# Auditoria da coleta: PTP (`1-Repositorios/ptp`)
+
+Gerado por `scripts/auditar_feature.py`. Decisões: `5-Coleta_features/INVENTARIO.md` (M1–M18); recursos e equivalência com o piloto: `5-Coleta_features/RECURSOS.md`.
+
+## 1. Linha do tempo
+- Snapshots: **26** (JunoSR0 → 2021-09; índices globais 1..34); datas do calendário na série: 51; duplicatas removidas: 25; lacunas de presença atravessadas: 0.
+- História linear verificada (s00). .java de produção: 3155 → 2043.
+- Commits nos intervalos: 1476; válidos: 1476; importados por merge e excluídos (M6): 0.
+
+## 2. Falhas de parsing do JavaParser (piloto: 0)
+- Versões de arquivo únicas: 8695; **falhas: 0**; métodos (sem anônimos/locais): 84341; descartados por chave duplicada no arquivo: 0; textos distintos: 30259.
+
+## 3. ChangeDistiller (piloto: 0 erros)
+- Chamadas: 4593; **erros (CDERROR): 0**.
+- CK: logs com exceção: 0 ; CSVs do Understand: 26 de 26.
+
+## 4. Taxas de match no join (piloto: ~100%)
+- Mínimo por release: evo_in_ck = 1.0000, evo_in_und = 1.0000, ck_in_evo = 0.9936, und_in_evo = 0.9993.
+- Média: evo_in_ck = 1.0000, evo_in_und = 1.0000. Tabela completa: `data/join_audit.csv`.
+
+## 5. Dataset e positivos por release
+- Linhas: **385714**; positivos: **1451** (0.38%). A última release não tem rótulo.
+
+| Release (índice) | Tag | Métodos | Positivos | % |
+|---|---|---|---|---|
+| 1 | JunoSR0 | 22085 | 71 | 0.32 |
+| 2 | JunoSR1 | 17418 | 308 | 1.77 |
+| 3 | JunoSR2 | 11564 | 382 | 3.30 |
+| 4 | KeplerPostRC4 | 19327 | 44 | 0.23 |
+| 5 | KeplerSR0 | 19118 | 130 | 0.68 |
+| 6 | KeplerSR1 | 19116 | 276 | 1.44 |
+| 7 | LunaSR0 | 19662 | 16 | 0.08 |
+| 8 | LunaRC4 | 14290 | 137 | 0.96 |
+| 9 | LunaSR2 | 14363 | 14 | 0.10 |
+| 10 | S201504150911 | 14358 | 13 | 0.09 |
+| 11 | Mars.1 | 14359 | 19 | 0.13 |
+| 12 | Neon | 14368 | 5 | 0.03 |
+| 13 | Neon.1 | 14368 | 0 | 0.00 |
+| 14 | Neon.2 | 14368 | 0 | 0.00 |
+| 15 | Neon.3 | 14368 | 0 | 0.00 |
+| 16 | Oxygen | 14368 | 0 | 0.00 |
+| 17 | Oxygen.1 | 14367 | 0 | 0.00 |
+| 20 | Oxygen.3 | 14351 | 10 | 0.07 |
+| 21 | Photon.0 | 14352 | 0 | 0.00 |
+| 23 | 2018-12 | 14352 | 0 | 0.00 |
+| 24 | 2019-03 | 14352 | 0 | 0.00 |
+| 25 | 2019-06 | 14121 | 2 | 0.01 |
+| 26 | 2019-09 | 14121 | 0 | 0.00 |
+| 27 | 2019-12 | 14099 | 19 | 0.13 |
+| 28 | 2020-03 | 14099 | 5 | 0.04 |
+
+## 6. Spot check das métricas evolutivas contra `git log -L`
+- Método: `org.eclipse.ptp.internal.rdt.sync.ui.menus.SyncMenuOperation.execute(ExecutionEvent)` (arquivo `rdt/org.eclipse.ptp.rdt.sync.ui/src/org/eclipse/ptp/internal/rdt/sync/ui/menus/SyncMenuOperation.java`, linhas 65,183 em 47cda24d74)
+- Comando: `git -C 1-Repositorios/ptp log --no-merges --format=%H --no-patch -L65,183:rdt/org.eclipse.ptp.rdt.sync.ui/src/org/eclipse/ptp/internal/rdt/sync/ui/menus/SyncMenuOperation.java f2224498eb..47cda24d74`
+- Commits contados pela s05: 11 | listados pelo `git log -L`: 16 | em comum: 11 | contados e não listados: 0
+- Resultado: **OK** (todos os commits contados estão no `git log -L`; os demais do git são mudanças em linhas vizinhas ou só de comentário/formatação)
+

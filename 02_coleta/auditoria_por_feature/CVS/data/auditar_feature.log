@@ -1,0 +1,65 @@
+# Auditoria da coleta: CVS (`1-Repositorios/org.eclipse.team.cvs`)
+
+Gerado por `scripts/auditar_feature.py`. Decisões: `5-Coleta_features/INVENTARIO.md` (M1–M18); recursos e equivalência com o piloto: `5-Coleta_features/RECURSOS.md`.
+
+## 1. Linha do tempo
+- Snapshots: **34** (JunoSR0 → 2021-12; índices globais 1..35); datas do calendário na série: 35; duplicatas removidas: 1; lacunas de presença atravessadas: 0.
+- História linear verificada (s00). .java de produção: 536 → 523.
+- Commits nos intervalos: 751; válidos: 693; importados por merge e excluídos (M6): 58.
+
+## 2. Falhas de parsing do JavaParser (piloto: 0)
+- Versões de arquivo únicas: 2417; **falhas: 0**; métodos (sem anônimos/locais): 32840; descartados por chave duplicada no arquivo: 0; textos distintos: 8333.
+
+## 3. ChangeDistiller (piloto: 0 erros)
+- Chamadas: 3373; **erros (CDERROR): 0**.
+- CK: logs com exceção: 0 ; CSVs do Understand: 34 de 34.
+
+## 4. Taxas de match no join (piloto: ~100%)
+- Mínimo por release: evo_in_ck = 1.0000, evo_in_und = 1.0000, ck_in_evo = 0.9959, und_in_evo = 0.9487.
+- Média: evo_in_ck = 1.0000, evo_in_und = 1.0000. Tabela completa: `data/join_audit.csv`.
+
+## 5. Dataset e positivos por release
+- Linhas: **172642**; positivos: **661** (0.38%). A última release não tem rótulo.
+
+| Release (índice) | Tag | Métodos | Positivos | % |
+|---|---|---|---|---|
+| 1 | JunoSR0 | 5288 | 2 | 0.04 |
+| 2 | JunoSR1 | 5290 | 4 | 0.08 |
+| 3 | JunoSR2 | 5290 | 2 | 0.04 |
+| 4 | KeplerPostRC4 | 5290 | 0 | 0.00 |
+| 5 | KeplerSR0 | 5290 | 0 | 0.00 |
+| 6 | KeplerSR1 | 5290 | 0 | 0.00 |
+| 7 | LunaSR0 | 5290 | 1 | 0.02 |
+| 8 | LunaRC4 | 5215 | 6 | 0.12 |
+| 9 | LunaSR2 | 5215 | 3 | 0.06 |
+| 11 | Mars.1 | 5215 | 2 | 0.04 |
+| 12 | Neon | 5215 | 10 | 0.19 |
+| 13 | Neon.1 | 5215 | 0 | 0.00 |
+| 14 | Neon.2 | 5215 | 2 | 0.04 |
+| 15 | Neon.3 | 5215 | 0 | 0.00 |
+| 16 | Oxygen | 5215 | 0 | 0.00 |
+| 17 | Oxygen.1 | 5215 | 0 | 0.00 |
+| 18 | Oxygen.1a | 5215 | 35 | 0.67 |
+| 19 | Oxygen.2 | 5215 | 33 | 0.63 |
+| 20 | Oxygen.3 | 5214 | 34 | 0.65 |
+| 21 | Photon.0 | 5214 | 4 | 0.08 |
+| 22 | 2018-09 | 5217 | 68 | 1.30 |
+| 23 | 2018-12 | 5217 | 47 | 0.90 |
+| 24 | 2019-03 | 5217 | 71 | 1.36 |
+| 25 | 2019-06 | 5217 | 305 | 5.85 |
+| 26 | 2019-09 | 5217 | 19 | 0.36 |
+| 27 | 2019-12 | 5217 | 3 | 0.06 |
+| 28 | 2020-03 | 5217 | 10 | 0.19 |
+| 29 | 2020-06 | 5217 | 0 | 0.00 |
+| 30 | 2020-09 | 5217 | 0 | 0.00 |
+| 31 | 2020-12 | 5217 | 0 | 0.00 |
+| 32 | 2021-03 | 5217 | 0 | 0.00 |
+| 33 | 2021-06 | 5217 | 0 | 0.00 |
+| 34 | 2021-09 | 5217 | 0 | 0.00 |
+
+## 6. Spot check das métricas evolutivas contra `git log -L`
+- Método: `org.eclipse.team.internal.ccvs.core.resources.RemoteModule.createRemoteModules(String[],ICVSRepositoryLocation,CVSTag)` (arquivo `bundles/org.eclipse.team.cvs.core/src/org/eclipse/team/internal/ccvs/core/resources/RemoteModule.java`, linhas 61,243 em 390841f1e3)
+- Comando: `git -C 1-Repositorios/org.eclipse.team.cvs log --no-merges --format=%H --no-patch -L61,243:bundles/org.eclipse.team.cvs.core/src/org/eclipse/team/internal/ccvs/core/resources/RemoteModule.java 40ce66b2dc..390841f1e3`
+- Commits contados pela s05: 6 | listados pelo `git log -L`: 7 | em comum: 6 | contados e não listados: 0
+- Resultado: **OK** (todos os commits contados estão no `git log -L`; os demais do git são mudanças em linhas vizinhas ou só de comentário/formatação)
+

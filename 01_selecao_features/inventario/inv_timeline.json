@@ -1,0 +1,6716 @@
+{
+ "BIRT": {
+  "feature": "BIRT",
+  "repository": "birt",
+  "folder": "birt",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 54,
+  "duplicates": {
+   "d08d790c": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "6dd60a34": [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "Neon.1"
+   ],
+   "71c06d08": [
+    "Oxygen.1a",
+    "Oxygen.1a_respin"
+   ],
+   "8e9ce5f6": [
+    "PhotonRC4",
+    "Photon.0"
+   ],
+   "dff3eaf5": [
+    "2020-06",
+    "2020-09",
+    "2020-12"
+   ]
+  },
+  "n_breaks": 3,
+  "off_mainline": [
+   {
+    "release": "JunoSR1",
+    "all": [
+     "JunoSR1"
+    ],
+    "commit": "7defdb21",
+    "date": "2012-09-19",
+    "branches": [
+     "master",
+     "origin",
+     "origin/master"
+    ],
+    "n_branches": 3,
+    "contained_in_tag": "v201210311502~73",
+    "prev_tag": "v201209121213"
+   },
+   {
+    "release": "KeplerSR1",
+    "all": [
+     "KeplerSR1"
+    ],
+    "commit": "26da5317",
+    "date": "2013-09-23",
+    "branches": [
+     "master",
+     "origin",
+     "origin/master"
+    ],
+    "n_branches": 3,
+    "contained_in_tag": "BIRT_4_6_0_Release_201606072112~188^2~96^2~178",
+    "prev_tag": "v201307151444"
+   },
+   {
+    "release": "LunaSR0",
+    "all": [
+     "LunaSR0",
+     "z20140805-2300",
+     "z20140806"
+    ],
+    "commit": "d08d790c",
+    "date": "2014-07-23",
+    "branches": [
+     "master",
+     "origin",
+     "origin/master"
+    ],
+    "n_branches": 3,
+    "contained_in_tag": "BIRT_4_6_0_Release_201606072112~188^2~91^2~13",
+    "prev_tag": "v201307151444"
+   },
+   {
+    "release": "OxygenPreRienaRemoval_9-8-2016",
+    "all": [
+     "Neon.1",
+     "OxygenPreRienaRemoval_9-8-2016"
+    ],
+    "commit": "6dd60a34",
+    "date": "2016-08-31",
+    "branches": [
+     "master",
+     "origin",
+     "origin/master"
+    ],
+    "n_branches": 3,
+    "contained_in_tag": "BIRT_4_7_0_Release_201706222054~33^2~7",
+    "prev_tag": "BIRT_4_6_0_Release_201606072112"
+   }
+  ],
+  "n_linear": 50,
+  "chain": [
+   [
+    "JunoSR0",
+    "3767e5c39c0eb69dfb7b789045156993d93aaf03"
+   ],
+   [
+    "JunoSR2",
+    "4ebbe74e54cfd5e6bd2b6b76fed5c3ca71fbe5dd"
+   ],
+   [
+    "KeplerPostRC4",
+    "9e5a196cacb3b618db8a8fa8ca18c75f9b14a740"
+   ],
+   [
+    "KeplerSR0",
+    "60d1a3bf3a9f986ab000031d10ca42191625f25a"
+   ],
+   [
+    "LunaRC4",
+    "d2d3afcf9a19e0d154322e7d6b18e5c91a5264d4"
+   ],
+   [
+    "LunaSR2",
+    "f07d287be584d23b2c5bc3492a28453d85cf7106"
+   ],
+   [
+    "S201504150911",
+    "7dbf1f0856316fe6cc6dae8f6c48fc39c04af00b"
+   ],
+   [
+    "Mars.1",
+    "57a2e6a6a651798c7a8e784d96f0166d56e4eba1"
+   ],
+   [
+    "Neon",
+    "b65ef731a188bf46086f533bf23cb8b6b005c7c3"
+   ],
+   [
+    "Neon.1a",
+    "993423e7a94b9392048021425263b5a092500a87"
+   ],
+   [
+    "Neon.2",
+    "deccc1059676bab9d7abc0dfacd6ce9adaf0efa8"
+   ],
+   [
+    "Neon.3",
+    "ffee5cf5c9fa7fc970f077e90b028b5da68aa59e"
+   ],
+   [
+    "Neon.3_respin",
+    "0b3f796f4c17069981c8c3c4ccc646e54214daee"
+   ],
+   [
+    "Oxygen",
+    "f1f0d75e5d0a99f155e4cff269f37d86371bda37"
+   ],
+   [
+    "Oxygen.1",
+    "99e88cb4c92b0e5976d5f0bd2ab6d58ac95b1b23"
+   ],
+   [
+    "Oxygen.1a",
+    "71c06d080ac33ca9c92cf75a76f57743aedc72d5"
+   ],
+   [
+    "Oxygen.2",
+    "0742e6524e37b581b82c0532d362fac1f5ee1199"
+   ],
+   [
+    "Oxygen.2_respin",
+    "f70c78daa5deb8aa3366808377d64e0c797d73cb"
+   ],
+   [
+    "Oxygen.3",
+    "0263896f86ed58ae5e69be05f3e5e5a6d4850032"
+   ],
+   [
+    "PhotonM7",
+    "1587754a5daf4c2ac733c5255bb5db20f52eeee5"
+   ],
+   [
+    "PhotonRC4",
+    "8e9ce5f6a29cc01ca41dee4dd6c17d3a34f19944"
+   ],
+   [
+    "2018-09",
+    "4e1cface78ce1d70730825a49d2ed532e48674d6"
+   ],
+   [
+    "2018-12",
+    "66e626ff76d91681f7a3d45525a8877aac697907"
+   ],
+   [
+    "2019-03",
+    "f89264810347de98702db45386a822aabc0fadbf"
+   ],
+   [
+    "2019-06",
+    "9f78e5f305b8b8c9ef10e257278bfdb16e67b09f"
+   ],
+   [
+    "2019-09",
+    "b99824072de7e7189d57296afeed8278f67298ca"
+   ],
+   [
+    "2019-12",
+    "173e7170d3a5b8e76a6dd629607205a94213fed5"
+   ],
+   [
+    "2020-03",
+    "3d4f3ba4c930dcd76ddd8715bdef45af67c62c29"
+   ],
+   [
+    "2020-06",
+    "dff3eaf55c18f294fadafc94c7bbcda83c65970c"
+   ],
+   [
+    "2021-03",
+    "af05d51d4c85415207fc902467ad65c0bf51a5a2"
+   ],
+   [
+    "2021-06",
+    "469ef0be1e79eb84fe7fc0a272db28f6048ec35e"
+   ],
+   [
+    "2021-09",
+    "47b0dcdec0180eaf82c70a0e4d92a8a2a10def01"
+   ],
+   [
+    "2021-12",
+    "bcb30c4dc8611b77420788cc3574c065563cd491"
+   ],
+   [
+    "2022-03",
+    "c69016782a507d4b86dea93f9622ea2fe22c0d7f"
+   ],
+   [
+    "2022-06",
+    "61340bd36e974971bb415424e5f148db440e6336"
+   ],
+   [
+    "2022-09",
+    "826bf9186ff87c4e613d0da0b34a6dd4096a6576"
+   ],
+   [
+    "2022-12",
+    "d65522c37dce93f5ffe63723452a03d83f71eec9"
+   ],
+   [
+    "2023-03",
+    "2c8d136ba2951d95f1e24e3c3372ef5e6cba6d63"
+   ],
+   [
+    "2023-06",
+    "bc427ee9f49149b0ea606d6c602d7a68dfd923cf"
+   ],
+   [
+    "2023-09",
+    "e89c983a0d8c065dcd54251c49867fc31da6271c"
+   ],
+   [
+    "2023-12",
+    "96394b3b0043b5f06c23d0b43c076c5ef48cca47"
+   ],
+   [
+    "2024-03",
+    "03dc43e3724ab6401a17c860292e4c0777b2e160"
+   ],
+   [
+    "2024-06",
+    "7eb0e6a9034db1ea78940a9e91f8362f56be5c22"
+   ],
+   [
+    "2024-09",
+    "e61ee04f91a5d8883d072367083d4918cc458531"
+   ],
+   [
+    "2024-12",
+    "ad83f4a839783cae77fbcd8c43b23f0e670fad74"
+   ],
+   [
+    "2025-03",
+    "8d31ca8773e2c04aef445195b1292c050e793c74"
+   ],
+   [
+    "2025-06",
+    "fa10432ad82ed56dde4705744d72bc5965e7b2ce"
+   ],
+   [
+    "2025-09",
+    "17820dd0e84ae6e34be79c8002c6f2d50069336f"
+   ],
+   [
+    "2025-12",
+    "ef4054b27ce384cb56f82676dfa2a0278669d8bd"
+   ],
+   [
+    "2026-03",
+    "4b0d172dccbae8f940c8ea43f8fa3aade95c3e2f"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "3767e5c39c0eb69dfb7b789045156993d93aaf03"
+  ],
+  "last": [
+   "2026-03",
+   "4b0d172dccbae8f940c8ea43f8fa3aade95c3e2f"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 5940
+ },
+ "CDT": {
+  "feature": "CDT",
+  "repository": "cdt",
+  "folder": "cdt",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 59,
+  "duplicates": {
+   "e26e8a60": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ]
+  },
+  "n_breaks": 16,
+  "off_mainline": [
+   {
+    "release": "JunoSR1",
+    "all": [
+     "JunoSR1"
+    ],
+    "commit": "f1c6b1f4",
+    "date": "2012-09-19",
+    "branches": [
+     "main",
+     "origin",
+     "origin/cdt_10_0",
+     "origin/cdt_10_1",
+     "origin/cdt_10_2",
+     "origin/cdt_10_3"
+    ],
+    "n_branches": 28,
+    "contained_in_tag": "CDT_9_11_0~68^2~472",
+    "prev_tag": ""
+   },
+   {
+    "release": "KeplerSR0",
+    "all": [
+     "KeplerSR0"
+    ],
+    "commit": "eb286477",
+    "date": "2013-08-01",
+    "branches": [
+     "origin/cdt_8_2"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "CDT_8_2_1~112",
+    "prev_tag": "CDT_8_2_0"
+   },
+   {
+    "release": "S201504150911",
+    "all": [
+     "S201504150911"
+    ],
+    "commit": "cb34c361",
+    "date": "2015-04-15",
+    "branches": [
+     "main",
+     "origin",
+     "origin/cdt_10_0",
+     "origin/cdt_10_1",
+     "origin/cdt_10_2",
+     "origin/cdt_10_3"
+    ],
+    "n_branches": 28,
+    "contained_in_tag": "CDT_9_11_0~68^2~46^2~194",
+    "prev_tag": ""
+   },
+   {
+    "release": "OxygenPreRienaRemoval_9-8-2016",
+    "all": [
+     "OxygenPreRienaRemoval_9-8-2016"
+    ],
+    "commit": "bb019068",
+    "date": "2016-09-07",
+    "branches": [
+     "origin/cdt_9_0"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "CDT_9_0_1"
+   },
+   {
+    "release": "Oxygen",
+    "all": [
+     "Oxygen"
+    ],
+    "commit": "ef6aeee5",
+    "date": "2017-06-14",
+    "branches": [
+     "main",
+     "origin",
+     "origin/cdt_10_0",
+     "origin/cdt_10_1",
+     "origin/cdt_10_2",
+     "origin/cdt_10_3"
+    ],
+    "n_branches": 28,
+    "contained_in_tag": "CDT_9_11_0~68^2~46^2~8",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.1",
+    "all": [
+     "Oxygen.1"
+    ],
+    "commit": "a6542611",
+    "date": "2017-09-13",
+    "branches": [
+     "origin/cdt_9_3"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "CDT_9_3_1"
+   },
+   {
+    "release": "Oxygen.1a",
+    "all": [
+     "Oxygen.1a"
+    ],
+    "commit": "3d04ec0c",
+    "date": "2017-10-04",
+    "branches": [
+     "main",
+     "origin",
+     "origin/cdt_10_0",
+     "origin/cdt_10_1",
+     "origin/cdt_10_2",
+     "origin/cdt_10_3"
+    ],
+    "n_branches": 28,
+    "contained_in_tag": "CDT_9_11_0~111^2~21",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.2",
+    "all": [
+     "Oxygen.2"
+    ],
+    "commit": "fea65eeb",
+    "date": "2017-12-04",
+    "branches": [
+     "origin/cdt_9_4"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "CDT_9_4_1~11",
+    "prev_tag": "CDT_9_4_0"
+   },
+   {
+    "release": "2020-12",
+    "all": [
+     "2020-12"
+    ],
+    "commit": "7c599b14",
+    "date": "2020-12-07",
+    "branches": [
+     "origin/cdt_10_1"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "CDT_10_1_0^0",
+    "prev_tag": "CDT_10_1_0"
+   },
+   {
+    "release": "2022-06",
+    "all": [
+     "2022-06"
+    ],
+    "commit": "d7190182",
+    "date": "2022-06-08",
+    "branches": [
+     "origin/cdt_10_7"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "CDT_10_7_0^0",
+    "prev_tag": "CDT_10_7_0"
+   },
+   {
+    "release": "2025-06",
+    "all": [
+     "2025-06"
+    ],
+    "commit": "74e7b504",
+    "date": "2025-06-04",
+    "branches": [
+     "origin/cdt_12_1"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "CDT_12_1_0^0",
+    "prev_tag": "CDT_12_1_0"
+   }
+  ],
+  "n_linear": 48,
+  "chain": [
+   [
+    "JunoSR0",
+    "c74cc8a309084c1aaee128b750eeefd834b3f550"
+   ],
+   [
+    "JunoSR2",
+    "8da0b43d309d36e47f3e16eb55bfc7fd22020738"
+   ],
+   [
+    "KeplerPostRC4",
+    "f7de7ad8487d30e0ccd299e568c1a6932b399c24"
+   ],
+   [
+    "KeplerSR1",
+    "331ff203d663eab8594b9af95eb3dcb0ac8c1c1c"
+   ],
+   [
+    "LunaSR0",
+    "e26e8a60c064b7eeb52b2029ad91ee35e03e2b5f"
+   ],
+   [
+    "LunaRC4",
+    "ae1b12338a3db79332089e24769511dd7b998603"
+   ],
+   [
+    "LunaSR2",
+    "ce34d2d48e4695646f08f49c266f639a5a676475"
+   ],
+   [
+    "Mars.1",
+    "2471f7e1d3b83e3b3cd16165e2754914fdbef7cc"
+   ],
+   [
+    "Neon",
+    "50634753163bd3df660432954772b36a25377842"
+   ],
+   [
+    "Neon.1",
+    "46d0c9633bc35321e8ee475636da00b3874b1a56"
+   ],
+   [
+    "Neon.1a",
+    "9f7af7a4936f73fe00e6bc2bfd22886f38a2a67d"
+   ],
+   [
+    "Neon.2",
+    "0d02aea06950a3a6cd34bbbd6b32621be0f46114"
+   ],
+   [
+    "Neon.3",
+    "212bbd011f5f7149412a8f5ced98709e33c7d486"
+   ],
+   [
+    "Neon.3_respin",
+    "8bfd2cdc227290be076666bf889c5018cdd1a5b2"
+   ],
+   [
+    "Oxygen.1a_respin",
+    "78380bf5f7ba9197f4b5e31826d903195d319d17"
+   ],
+   [
+    "Oxygen.2_respin",
+    "8618c34e5f526cced6b62e78549680edd28923a6"
+   ],
+   [
+    "Oxygen.3",
+    "d468345bc3ecaab157fbc7a423ec9b22740f22af"
+   ],
+   [
+    "PhotonM7",
+    "c16a31325b7c3ccce815f68aaec94bfae8177f65"
+   ],
+   [
+    "PhotonRC4",
+    "ac2363cb925ceaa477699497c2f252d72f47f45d"
+   ],
+   [
+    "Photon.0",
+    "29ed1fa6c40998edd13cbb39348e7ede951843f5"
+   ],
+   [
+    "2018-09",
+    "74eb81b0bb4ea86202047a407d7b6c7080426a82"
+   ],
+   [
+    "2018-12",
+    "c78246edeacae2e36e283efc0747bc038dc185a9"
+   ],
+   [
+    "2019-03",
+    "02ecf97abed499e41ca80d74b280dd41c60cf0be"
+   ],
+   [
+    "2019-06",
+    "0b9b9890ee1bce79eed3a8b4d876e18ddff9be65"
+   ],
+   [
+    "2019-09",
+    "7e4f3a84db67f87399a41a35ba11ac591ab9117e"
+   ],
+   [
+    "2019-12",
+    "4b7b3c5e79dd6e5ed0fdeeec70b351afe85a8219"
+   ],
+   [
+    "2020-03",
+    "5823d56a2d15c0719fb33b23cb1197af3a7ba71c"
+   ],
+   [
+    "2020-06",
+    "4bd9fed83b96dfc66d33ccdeb4d9fcddc9cac349"
+   ],
+   [
+    "2020-09",
+    "65a4d1c4249b09d8f8101848ce711bbbca4659f9"
+   ],
+   [
+    "2021-03",
+    "6874b7e0130678c4d151eb8f3b38237e046f1694"
+   ],
+   [
+    "2021-06",
+    "6352e0c207d468811700411f1b13f4224e2085de"
+   ],
+   [
+    "2021-09",
+    "c34816028c30cd60a49cd492f0f20a7f8fa28a27"
+   ],
+   [
+    "2021-12",
+    "71ad45b3825cf84bdc05649de9212253bf4775dd"
+   ],
+   [
+    "2022-03",
+    "db4bc74334cdc83af88b770743ee056375376c94"
+   ],
+   [
+    "2022-09",
+    "0610c366b79e1d3e09c09901d5b279350a1f5718"
+   ],
+   [
+    "2022-12",
+    "9114ac3ff2c18f8681b4936e1c973bcad1f6a958"
+   ],
+   [
+    "2023-03",
+    "2c30db5fd25429baed006a0d7bb2f9091bf462cc"
+   ],
+   [
+    "2023-06",
+    "d4c444eaeb0dd7f036dda6e6755f6f42a892043e"
+   ],
+   [
+    "2023-09",
+    "69bd1cb4cfcdfb876d4d878510cb397981ba07b0"
+   ],
+   [
+    "2023-12",
+    "029e4bda78636c2049e3298cc9c972c8328a39cb"
+   ],
+   [
+    "2024-03",
+    "221d346f6de82849e87556ac79bb1298bfd8b562"
+   ],
+   [
+    "2024-06",
+    "7fcfbb0f969e56007e236b14907736b387afd162"
+   ],
+   [
+    "2024-09",
+    "9b09dce3a05daef6aa2763de629e6f72650794ef"
+   ],
+   [
+    "2024-12",
+    "9e9be4a5e276e0e3104811f159ed68d0e7982c8b"
+   ],
+   [
+    "2025-03",
+    "f96dd1a385c249b1a2392d0e655eb403a8347ee5"
+   ],
+   [
+    "2025-09",
+    "8786db3dde3a0dcde11414d5365e9c15fc6f04d5"
+   ],
+   [
+    "2025-12",
+    "011e7d690b331c857244320a7e9dcb1b4f0ff54a"
+   ],
+   [
+    "2026-03",
+    "390ff4407c226ae2cb45394267b94a26947ba6d3"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "c74cc8a309084c1aaee128b750eeefd834b3f550"
+  ],
+  "last": [
+   "2026-03",
+   "390ff4407c226ae2cb45394267b94a26947ba6d3"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 15777
+ },
+ "CVS": {
+  "feature": "CVS",
+  "repository": "eclipse.cvs",
+  "folder": "org.eclipse.team.cvs",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 41,
+  "duplicates": {
+   "befe69b9": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "d31efa93": [
+    "LunaSR2",
+    "S201504150911"
+   ],
+   "96379011": [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "Neon.1"
+   ],
+   "bf2f6f45": [
+    "Neon.3",
+    "Neon.3_respin"
+   ],
+   "3c3f1a93": [
+    "Oxygen.1a",
+    "Oxygen.1a_respin"
+   ],
+   "010ef698": [
+    "PhotonRC4",
+    "Photon.0"
+   ],
+   "8e348bd7": [
+    "2022-03",
+    "2022-06",
+    "2022-09",
+    "2022-12",
+    "2023-03"
+   ],
+   "b7ef8d71": [
+    "2023-12",
+    "2024-03",
+    "2024-06",
+    "2024-09",
+    "2024-12",
+    "2025-03",
+    "2025-06",
+    "2025-09",
+    "2025-12",
+    "2026-03"
+   ]
+  },
+  "n_breaks": 6,
+  "off_mainline": [
+   {
+    "release": "LunaSR0",
+    "all": [
+     "LunaSR0",
+     "z20140805-2300",
+     "z20140806"
+    ],
+    "commit": "befe69b9",
+    "date": "2014-06-25",
+    "branches": [
+     "master",
+     "origin",
+     "origin/master"
+    ],
+    "n_branches": 3,
+    "contained_in_tag": "2023RC1~364^2~13",
+    "prev_tag": ""
+   },
+   {
+    "release": "Mars.1",
+    "all": [
+     "Mars.1"
+    ],
+    "commit": "7837b5f0",
+    "date": "2015-09-08",
+    "branches": [
+     "master",
+     "origin",
+     "origin/master"
+    ],
+    "n_branches": 3,
+    "contained_in_tag": "2023RC1~364^2~10",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.1",
+    "all": [
+     "Oxygen.1"
+    ],
+    "commit": "4a88aee8",
+    "date": "2017-08-16",
+    "branches": [
+     "master",
+     "origin",
+     "origin/master"
+    ],
+    "n_branches": 3,
+    "contained_in_tag": "2023RC1~364^2~1",
+    "prev_tag": ""
+   }
+  ],
+  "n_linear": 38,
+  "chain": [
+   [
+    "JunoSR0",
+    "40ce66b2dc9e5974544adc03994a37e677874b46"
+   ],
+   [
+    "JunoSR1",
+    "99d1066284f94d75c0f6566b198ad86cc72b47cc"
+   ],
+   [
+    "JunoSR2",
+    "51464728dbc3bb8f52da74ee420b9648150e22ea"
+   ],
+   [
+    "KeplerPostRC4",
+    "f17d479d1829d7c359958e6fc7bba00c58362e25"
+   ],
+   [
+    "KeplerSR0",
+    "f743d2de7592e078b2fd7b49dc80a884c6106536"
+   ],
+   [
+    "KeplerSR1",
+    "575d3264e92cf6beb8e37e2d7b862d081ed23372"
+   ],
+   [
+    "LunaRC4",
+    "1a707bfb443d1d8566d8c5dbe30b1498a6b03624"
+   ],
+   [
+    "LunaSR2",
+    "d31efa93808629d9a90d4b3bfd75f51b9d02d10a"
+   ],
+   [
+    "Neon",
+    "171068a26d7a979c58987e661e95a759548e1bfc"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "963790119a4768206366d366c83a446e0b7e2f98"
+   ],
+   [
+    "Neon.1a",
+    "fee84b205bc4d1d7a9aa184c66b77a30ed58dcd6"
+   ],
+   [
+    "Neon.2",
+    "97118c23b0193698f0b34f1468117c4070a797dc"
+   ],
+   [
+    "Neon.3",
+    "bf2f6f451d18389afe24218d9b08bc5dce79773b"
+   ],
+   [
+    "Oxygen",
+    "95c2979c2b0a297031f294e2715a09cdc5921853"
+   ],
+   [
+    "Oxygen.1a",
+    "3c3f1a936df1feb41163e74650b87b6bb1780562"
+   ],
+   [
+    "Oxygen.2",
+    "ed108a008a975414bae0ab68083b20569ec76bed"
+   ],
+   [
+    "Oxygen.2_respin",
+    "65234870b7249f18fd9b1f7e0822e83bb790361f"
+   ],
+   [
+    "Oxygen.3",
+    "40637379e4dccde9a1736e8103ba143ae8a8be4d"
+   ],
+   [
+    "PhotonM7",
+    "5e4727436bcdb4d509cb39aff99949886efa3b4c"
+   ],
+   [
+    "PhotonRC4",
+    "010ef698fc87044d3f105fa4db68d85b8632940b"
+   ],
+   [
+    "2018-09",
+    "8e85123c2b8eb876bb2caff9684437ba84a0023f"
+   ],
+   [
+    "2018-12",
+    "278cabeeb6c0e683a275394e61c5f79e15d22aaa"
+   ],
+   [
+    "2019-03",
+    "597d488e144fe64aa023bbabbdeb458c4a56f854"
+   ],
+   [
+    "2019-06",
+    "a4971de42d587d28f03a83345ae7b9e677d9fcb2"
+   ],
+   [
+    "2019-09",
+    "362cc70b11209d820a098e050dd0ce357a7d4bf1"
+   ],
+   [
+    "2019-12",
+    "b394cf9cd4027ce506d2114335f143aa9e37ee11"
+   ],
+   [
+    "2020-03",
+    "65940e4856f60a74a0d8b733fcce4f3c4db708e6"
+   ],
+   [
+    "2020-06",
+    "2b58a3b465ceb2d4fa35841459d2f6c3b874df92"
+   ],
+   [
+    "2020-09",
+    "bb2b60d3e1928ebb140ae783aa8e3aaf523061cb"
+   ],
+   [
+    "2020-12",
+    "de4586082ceb8daa5475f043babc6bb31b602a02"
+   ],
+   [
+    "2021-03",
+    "83f10dbd87536beaed84ab0e7919192a8181d56b"
+   ],
+   [
+    "2021-06",
+    "07e84408ae1c78131843db52f5a12d1cdad1e73b"
+   ],
+   [
+    "2021-09",
+    "db4119cc5f0ad4d373114f7acc0dab205ba8c53c"
+   ],
+   [
+    "2021-12",
+    "390841f1e3c11fc06f25213cd57314de2e693b4a"
+   ],
+   [
+    "2022-03",
+    "8e348bd773cd2ee4603a8bc4ceb8a98da93cb6cd"
+   ],
+   [
+    "2023-06",
+    "4ed6b01c21968070299de26833719a4380590065"
+   ],
+   [
+    "2023-09",
+    "d02870c0275fde8004733e8cee3c7b426c189977"
+   ],
+   [
+    "2023-12",
+    "b7ef8d716b8041fb92cd7fb132a7ebf3fe692315"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "40ce66b2dc9e5974544adc03994a37e677874b46"
+  ],
+  "last": [
+   "2023-12",
+   "b7ef8d716b8041fb92cd7fb132a7ebf3fe692315"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 769
+ },
+ "DataTools": {
+  "feature": "DataTools",
+  "repository": "datatools",
+  "folder": "datatools",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 33,
+  "duplicates": {
+   "9f2e351d": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806",
+    "LunaRC4",
+    "LunaSR2",
+    "S201504150911",
+    "Mars.1"
+   ],
+   "194715f0": [
+    "Neon",
+    "OxygenPreRienaRemoval_9-8-2016",
+    "Neon.1",
+    "Neon.1a",
+    "Neon.2"
+   ],
+   "7753eea1": [
+    "Neon.3",
+    "Neon.3_respin",
+    "Oxygen",
+    "Oxygen.1",
+    "Oxygen.1a",
+    "Oxygen.1a_respin",
+    "Oxygen.2"
+   ],
+   "21692cc0": [
+    "PhotonM7",
+    "PhotonRC4",
+    "Photon.0"
+   ],
+   "f27802e3": [
+    "2019-06",
+    "2019-09"
+   ],
+   "97973eec": [
+    "2020-03",
+    "2020-06"
+   ],
+   "35bf9ceb": [
+    "2021-09",
+    "2021-12"
+   ],
+   "4b901a82": [
+    "2022-03",
+    "2022-06",
+    "2022-09",
+    "2022-12",
+    "2023-03"
+   ],
+   "1ab7405d": [
+    "2024-03",
+    "2024-06"
+   ],
+   "97ce48d6": [
+    "2025-06",
+    "2025-09"
+   ],
+   "7d5b3803": [
+    "2025-12",
+    "2026-03"
+   ]
+  },
+  "n_breaks": 6,
+  "off_mainline": [
+   {
+    "release": "JunoSR0",
+    "all": [
+     "JunoSR0"
+    ],
+    "commit": "2146bd34",
+    "date": "2012-08-02",
+    "branches": [
+     "origin/DTP_1_8_2_Branch_a"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "DTP_1_8_1_RC4_201009141028"
+   },
+   {
+    "release": "JunoSR1",
+    "all": [
+     "JunoSR1"
+    ],
+    "commit": "e5a7fd4a",
+    "date": "2012-09-18",
+    "branches": [
+     "master",
+     "origin",
+     "origin/bump-to-new-version-remove-pack200-use-tycho2.5",
+     "origin/master"
+    ],
+    "n_branches": 4,
+    "contained_in_tag": "1.14.100.201805031905~104^2~22",
+    "prev_tag": ""
+   },
+   {
+    "release": "KeplerPostRC4",
+    "all": [
+     "KeplerPostRC4"
+    ],
+    "commit": "6a2681ca",
+    "date": "2013-06-04",
+    "branches": [
+     "master",
+     "origin",
+     "origin/bump-to-new-version-remove-pack200-use-tycho2.5",
+     "origin/master"
+    ],
+    "n_branches": 4,
+    "contained_in_tag": "1.14.100.201805031905~104^2~17",
+    "prev_tag": ""
+   },
+   {
+    "release": "LunaSR0",
+    "all": [
+     "LunaRC4",
+     "LunaSR0",
+     "LunaSR2",
+     "Mars.1",
+     "S201504150911",
+     "z20140805-2300",
+     "z20140806"
+    ],
+    "commit": "9f2e351d",
+    "date": "2014-07-21",
+    "branches": [
+     "origin/hudson"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "v201402260523"
+   },
+   {
+    "release": "Neon",
+    "all": [
+     "Neon.1",
+     "Neon.1a",
+     "Neon.2",
+     "Neon",
+     "OxygenPreRienaRemoval_9-8-2016"
+    ],
+    "commit": "194715f0",
+    "date": "2016-05-27",
+    "branches": [
+     "master",
+     "origin/DTP_1_14_x_corundum",
+     "origin",
+     "origin/bump-to-new-version-remove-pack200-use-tycho2.5",
+     "origin/master"
+    ],
+    "n_branches": 5,
+    "contained_in_tag": "DTP_1_14_1_Release~12",
+    "prev_tag": "DTP_1_12_0_Branch"
+   },
+   {
+    "release": "Neon.3",
+    "all": [
+     "Neon.3",
+     "Neon.3_respin",
+     "Oxygen.1",
+     "Oxygen.1a",
+     "Oxygen.1a_respin",
+     "Oxygen.2",
+     "Oxygen"
+    ],
+    "commit": "7753eea1",
+    "date": "2017-01-13",
+    "branches": [
+     "master",
+     "origin/DTP_1_14_x_corundum",
+     "origin",
+     "origin/bump-to-new-version-remove-pack200-use-tycho2.5",
+     "origin/master"
+    ],
+    "n_branches": 5,
+    "contained_in_tag": "DTP_1_14_1_Release~5",
+    "prev_tag": "DTP_1_12_0_Branch"
+   },
+   {
+    "release": "Oxygen.2_respin",
+    "all": [
+     "Oxygen.2_respin"
+    ],
+    "commit": "bddeea31",
+    "date": "2017-12-14",
+    "branches": [
+     "master",
+     "origin/DTP_1_14_x_corundum",
+     "origin",
+     "origin/bump-to-new-version-remove-pack200-use-tycho2.5",
+     "origin/master"
+    ],
+    "n_branches": 5,
+    "contained_in_tag": "DTP_1_14_1_Release^0",
+    "prev_tag": "DTP_1_14_1_Release"
+   }
+  ],
+  "n_linear": 26,
+  "chain": [
+   [
+    "JunoSR2",
+    "51692f28b3abaf5a49b0f0b3ebc3c7af899d06ec"
+   ],
+   [
+    "KeplerSR0",
+    "e7d705c55a1c95d545cb40f662961430c9c9fdce"
+   ],
+   [
+    "KeplerSR1",
+    "f40254edd226ede21a65e895368053b255e5e7d5"
+   ],
+   [
+    "Oxygen.3",
+    "3b5fb7fbcccee1a61012773c64ca6f1f932ee3f3"
+   ],
+   [
+    "PhotonM7",
+    "21692cc092dda37df2142942101fbaff423eebc4"
+   ],
+   [
+    "2018-09",
+    "94b8f95c45d0d9e4444af2d9244a5fd065a469e3"
+   ],
+   [
+    "2018-12",
+    "209258c8e9bf1b23d266aa518e47864250bb2bfe"
+   ],
+   [
+    "2019-03",
+    "0cdebb8165f564f4348fbed6b08c54427c77fdb9"
+   ],
+   [
+    "2019-06",
+    "f27802e342179dcc54a031e4e08af13c77bcc714"
+   ],
+   [
+    "2019-12",
+    "74cac893e323b283527b22ce3823ba462344aba2"
+   ],
+   [
+    "2020-03",
+    "97973eec4a36d509b7f88e2d7491d67a4698f76c"
+   ],
+   [
+    "2020-09",
+    "d12f82cd723f8dbf41639d34747038d07cdd41fc"
+   ],
+   [
+    "2020-12",
+    "f46d1b9e7375e311f2b1db2e40ed189f3c1e1d86"
+   ],
+   [
+    "2021-03",
+    "c70f69f70ed07c47c27f696630b88a3eaae0ed84"
+   ],
+   [
+    "2021-06",
+    "47e002ef0e726ccd138c552f92973cea3864e3c4"
+   ],
+   [
+    "2021-09",
+    "35bf9ceb237c172521a85769343d6ed0db7a1ed9"
+   ],
+   [
+    "2022-03",
+    "4b901a82e51c64bd154e3d34d55976e8e884ff6a"
+   ],
+   [
+    "2023-06",
+    "61f062f242ad7cbaf48e33eac373c2fbf8d7d55b"
+   ],
+   [
+    "2023-09",
+    "db2cc047b366af4ef43a55c94ff1ec4afabd0cc6"
+   ],
+   [
+    "2023-12",
+    "22b1b935815888c5092aefc202cea28bfb18ac8f"
+   ],
+   [
+    "2024-03",
+    "1ab7405dd64a8d0ab8ba23849933eaa46aeab77b"
+   ],
+   [
+    "2024-09",
+    "683a0f347873c9545926fd374e10da1c101c662e"
+   ],
+   [
+    "2024-12",
+    "28fd4ded266ebd721471b745988dc5f85547ffe9"
+   ],
+   [
+    "2025-03",
+    "daaa60f9523d48cc6a65d3b14c97cbba2a06ad91"
+   ],
+   [
+    "2025-06",
+    "97ce48d6e3d3653d1d84b3f9905eecb139362e1a"
+   ],
+   [
+    "2025-12",
+    "7d5b380305658e206a3f930be4ea3ffc71b73a98"
+   ]
+  ],
+  "first": [
+   "JunoSR2",
+   "51692f28b3abaf5a49b0f0b3ebc3c7af899d06ec"
+  ],
+  "last": [
+   "2025-12",
+   "7d5b380305658e206a3f930be4ea3ffc71b73a98"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 4894
+ },
+ "EGit": {
+  "feature": "EGit",
+  "repository": "egit",
+  "folder": "egit",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 59,
+  "duplicates": {
+   "df446a83": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ]
+  },
+  "n_breaks": 2,
+  "off_mainline": [
+   {
+    "release": "Mars.1",
+    "all": [
+     "Mars.1"
+    ],
+    "commit": "4cc706a2",
+    "date": "2015-09-23",
+    "branches": [
+     "origin/stable-4.0"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "v4.0.1.201506240215-r"
+   },
+   {
+    "release": "Oxygen.2_respin",
+    "all": [
+     "Oxygen.2_respin"
+    ],
+    "commit": "03cda165",
+    "date": "2017-12-15",
+    "branches": [
+     "master",
+     "origin",
+     "origin/master",
+     "origin/stable-4.10",
+     "origin/stable-4.11",
+     "origin/stable-4.9"
+    ],
+    "n_branches": 42,
+    "contained_in_tag": "v4.9.2.201712150930-r^0",
+    "prev_tag": "v4.9.2.201712150930-r"
+   }
+  ],
+  "n_linear": 57,
+  "chain": [
+   [
+    "JunoSR0",
+    "5d7d8383821d5669d56685df91dd04cc6c2a7a5c"
+   ],
+   [
+    "JunoSR1",
+    "94e5f7d9199692b2b3719f7dcbe0aec3ced79f3c"
+   ],
+   [
+    "JunoSR2",
+    "b90f4642b5d63ff2eb448fdc60bede40f48a3022"
+   ],
+   [
+    "KeplerPostRC4",
+    "e8497d977c07978e00c4b5a343fc0ff79b0f3b78"
+   ],
+   [
+    "KeplerSR0",
+    "cb94e50dcd5f8f473938a82ba47f43f2a3e487f2"
+   ],
+   [
+    "KeplerSR1",
+    "36e3c26f12ded6042101bde8e60b41162d0e847c"
+   ],
+   [
+    "LunaSR0",
+    "df446a839dbde14f291b1ecc5f2342a23aefab7e"
+   ],
+   [
+    "LunaRC4",
+    "b4547c7a8d78b3fbf70f2119021dcdd92894e801"
+   ],
+   [
+    "LunaSR2",
+    "b5c313639f094697029b8e57ab22dd344e68821d"
+   ],
+   [
+    "S201504150911",
+    "02f9ebaa09f8559bdc6731d975d735d4bbe4c67e"
+   ],
+   [
+    "Neon",
+    "53d89e34a754a01b596a25e845282b63715816de"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "3640b68ca9594261da1eff8f9134b442cf148276"
+   ],
+   [
+    "Neon.1",
+    "310f37ca03d89d3a498c94912a7790cd4e6c9050"
+   ],
+   [
+    "Neon.1a",
+    "482a60fe7e6fb1b1012365c05874bde0a632ea9e"
+   ],
+   [
+    "Neon.2",
+    "6cdb692cc5933a00079fcb1f520560e1312194d3"
+   ],
+   [
+    "Neon.3",
+    "2656dee5a88552c31069ec96767e73b3890fc4c2"
+   ],
+   [
+    "Neon.3_respin",
+    "28840afe9d76f7dfe73e4bc8704592df99011ec2"
+   ],
+   [
+    "Oxygen",
+    "3d93ae108ce1c16507924708788e87a241467d80"
+   ],
+   [
+    "Oxygen.1",
+    "65c68b362052a0be3f5daba1515daeb341ab4134"
+   ],
+   [
+    "Oxygen.1a",
+    "2c1c15574505ed98850d90df717df399be5622ad"
+   ],
+   [
+    "Oxygen.1a_respin",
+    "103c682e03e143e3d970a9dbe37e6630ac46231f"
+   ],
+   [
+    "Oxygen.2",
+    "eb33e5044d0a45ba9ac065298154812449676f74"
+   ],
+   [
+    "Oxygen.3",
+    "9c86e408b4c2e25b03a5fe05cc7571666dfae235"
+   ],
+   [
+    "PhotonM7",
+    "6f7be67e49a5431d3e786fac15d32c92c592546b"
+   ],
+   [
+    "PhotonRC4",
+    "ba0bcbfe69b2803c843c19b6e800b2525b227cb2"
+   ],
+   [
+    "Photon.0",
+    "935ac8cde63e319d6fd0d26f99de07d4151b7242"
+   ],
+   [
+    "2018-09",
+    "b3b288586115eca03868fb8a49b4094e8e903f51"
+   ],
+   [
+    "2018-12",
+    "972c2bc02afcdf0028703f8de1f87bd94aa3bb92"
+   ],
+   [
+    "2019-03",
+    "50510c63eb27a1aeb29b8e819b6a03a166b00e9f"
+   ],
+   [
+    "2019-06",
+    "92ac012b21f231dd31f2fa32cf23904966aa61cf"
+   ],
+   [
+    "2019-09",
+    "a5c18a18386979cbf3e3a3363ed186d9ea0a90aa"
+   ],
+   [
+    "2019-12",
+    "d40a44ea6f43c832cd2b0dbb98df88af974bc6c9"
+   ],
+   [
+    "2020-03",
+    "09d6a96217cd616d902a5287af5638bc57b3c4c2"
+   ],
+   [
+    "2020-06",
+    "9592984bffcd8722ace2bb5f5a1b15810842bcab"
+   ],
+   [
+    "2020-09",
+    "a19047cf62c5d814ee8bf53f3cc1803ef3bc3d6f"
+   ],
+   [
+    "2020-12",
+    "bfa933c9a0e5d5d3456a4f7ec52ed6237b64c0ff"
+   ],
+   [
+    "2021-03",
+    "7d99a7b447aef603fd24af7f37f93b5d78bd86ea"
+   ],
+   [
+    "2021-06",
+    "9b065cc53b9838234b89b2786c842bc58f8878d4"
+   ],
+   [
+    "2021-09",
+    "817d5e67de4ae10b428214ff24e2136c96fc7f96"
+   ],
+   [
+    "2021-12",
+    "f86740c9c5f4db9b4338e75b1fa960d195885b69"
+   ],
+   [
+    "2022-03",
+    "e643798f9760849ac6b17e6832a42a1040606ec5"
+   ],
+   [
+    "2022-06",
+    "de47994460fb585de16d5fca09a59677faf218ea"
+   ],
+   [
+    "2022-09",
+    "06b3489704372aedcf948f23d9faca08defda715"
+   ],
+   [
+    "2022-12",
+    "84d650231093517df7f556e510893d00cb1ec9da"
+   ],
+   [
+    "2023-03",
+    "0553e5967f536f07e514a7990c8721f5f5a5a2da"
+   ],
+   [
+    "2023-06",
+    "226ab5ce960229b8736953d6d5923b735b14467e"
+   ],
+   [
+    "2023-09",
+    "3b7ebdd2a28c50c87c411ef2473ec591f0b83fe7"
+   ],
+   [
+    "2023-12",
+    "91a6ddc55187a4b7b23697b8241de790a9a13fdb"
+   ],
+   [
+    "2024-03",
+    "856a0dc37ad7abb0cd285a80612f418869cf3f35"
+   ],
+   [
+    "2024-06",
+    "c8fe20b143f234964dba089f617a75bb623e6575"
+   ],
+   [
+    "2024-09",
+    "5172b30eae3a2b51d80d469a468693fa90d6f1ad"
+   ],
+   [
+    "2024-12",
+    "7557af19706c160257c1dbac1cc6279119215093"
+   ],
+   [
+    "2025-03",
+    "021bcbb6b5abdf61cd041d10c383ea34023d4da5"
+   ],
+   [
+    "2025-06",
+    "4bdb744d893f2a1ead3257c1b6d315f1081af207"
+   ],
+   [
+    "2025-09",
+    "6aef951ff3ae8e2b023f2bb36cdf4af64cb61849"
+   ],
+   [
+    "2025-12",
+    "2e38823603202bc4554ec582a417444b32729ca8"
+   ],
+   [
+    "2026-03",
+    "ebee8dbd58283ac4ecba2329d5af17fb8fddc9c4"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "5d7d8383821d5669d56685df91dd04cc6c2a7a5c"
+  ],
+  "last": [
+   "2026-03",
+   "ebee8dbd58283ac4ecba2329d5af17fb8fddc9c4"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 4602
+ },
+ "EMF": {
+  "feature": "EMF",
+  "repository": "org.eclipse.emf",
+  "folder": "org.eclipse.emf",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 56,
+  "duplicates": {
+   "a9f380d9": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "924503be": [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "Neon.1"
+   ],
+   "204aa082": [
+    "Oxygen.1a",
+    "Oxygen.1a_respin"
+   ],
+   "43199327": [
+    "PhotonRC4",
+    "Photon.0"
+   ]
+  },
+  "n_breaks": 3,
+  "off_mainline": [
+   {
+    "release": "JunoSR1",
+    "all": [
+     "JunoSR1"
+    ],
+    "commit": "d28fca74",
+    "date": "2012-09-19",
+    "branches": [
+     "master",
+     "origin",
+     "origin/master"
+    ],
+    "n_branches": 3,
+    "contained_in_tag": "XSD_R2_8_1~5",
+    "prev_tag": "XSD_R2_8_0"
+   },
+   {
+    "release": "LunaSR0",
+    "all": [
+     "LunaSR0",
+     "z20140805-2300",
+     "z20140806"
+    ],
+    "commit": "a9f380d9",
+    "date": "2014-07-29",
+    "branches": [
+     "origin/R2_10_maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "R2_10_1~39",
+    "prev_tag": "R2_10_0"
+   },
+   {
+    "release": "LunaRC4",
+    "all": [
+     "LunaRC4"
+    ],
+    "commit": "4bee6867",
+    "date": "2014-09-08",
+    "branches": [
+     "origin/R2_10_maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "R2_10_2~14",
+    "prev_tag": "R2_10_1"
+   }
+  ],
+  "n_linear": 53,
+  "chain": [
+   [
+    "JunoSR0",
+    "b419d880e1a3c8f03c9e033d2cf5133f19142313"
+   ],
+   [
+    "JunoSR2",
+    "3cf478a5556ffaddb52c8e81068089fda3ddbe71"
+   ],
+   [
+    "KeplerPostRC4",
+    "01645954183bb8b28779d862a2442903406f2a12"
+   ],
+   [
+    "KeplerSR0",
+    "a7fcd004b1acbb828b93648c94d5978a63138bff"
+   ],
+   [
+    "KeplerSR1",
+    "dc8397aade33df9aa25431c5f88fdf54a9410205"
+   ],
+   [
+    "LunaSR2",
+    "5ea9a54f2bb01610e6bdac2c9e74485e93a8a271"
+   ],
+   [
+    "S201504150911",
+    "b4cba4155fa6d567d31c2b1b799d593beb22d917"
+   ],
+   [
+    "Mars.1",
+    "96f14a9fa51ab7f4913685341afbb8490dd711ad"
+   ],
+   [
+    "Neon",
+    "a975209e57435ecda0749c10a45dea21b7013062"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "924503be70ad1eb5f3d166ad3d14e68ceacf1cf6"
+   ],
+   [
+    "Neon.1a",
+    "d70a386f844a9a2b9bf1b4f7bc964627d05e2022"
+   ],
+   [
+    "Neon.2",
+    "bbe91169dd389e943add91c76257dfa00763b48e"
+   ],
+   [
+    "Neon.3",
+    "4c10121b9b7ba00b46d1792ce592b6f413d1aae8"
+   ],
+   [
+    "Neon.3_respin",
+    "ca68a0fcf19605af894971eea4a3a410c261c65b"
+   ],
+   [
+    "Oxygen",
+    "39e89bbc44bb3c2535b713848961e07e0087d754"
+   ],
+   [
+    "Oxygen.1",
+    "07251512fbc7467334a97a8d838d7d93ae3556f6"
+   ],
+   [
+    "Oxygen.1a",
+    "204aa0826d6802c9f1a7dd5cf258761b34ebc5e7"
+   ],
+   [
+    "Oxygen.2",
+    "2890563fc0b0121a65d26e8d3f048b66156cf6c6"
+   ],
+   [
+    "Oxygen.2_respin",
+    "d589b6f021a7800e43c11ec9238de5ff1fb2c543"
+   ],
+   [
+    "Oxygen.3",
+    "6bbcf3a9e8ffd7e2558fa8d96fd46a765b122d95"
+   ],
+   [
+    "PhotonM7",
+    "53e094c68d2e1fadc5ef8da17abbbe721aea5f04"
+   ],
+   [
+    "PhotonRC4",
+    "431993270c73152c8d84931209adc84c5c32ab5e"
+   ],
+   [
+    "2018-09",
+    "c6d5b3bf2ad1176192d6b8084299d5c9d1345046"
+   ],
+   [
+    "2018-12",
+    "2c70efcd827adf6e2732ab4a0f75f521d2b760a9"
+   ],
+   [
+    "2019-03",
+    "77d979cf8559a26ca05db28af555bc3e7fcf2c71"
+   ],
+   [
+    "2019-06",
+    "063937d66a94e688eaa530b0ee8a8c751f2bb362"
+   ],
+   [
+    "2019-09",
+    "0ce137a34348e096c136e9dce16802100eaf5953"
+   ],
+   [
+    "2019-12",
+    "a55d3a346cf10476ae01a853eeda9378e402a5d4"
+   ],
+   [
+    "2020-03",
+    "fb0eeb635a3203b2d582f2bff47e5b792ceacd3b"
+   ],
+   [
+    "2020-06",
+    "7c53c3835f97b8625467b8c6a791db0a39f7c604"
+   ],
+   [
+    "2020-09",
+    "fb27b2600f70e48f7bcaa677ed278d832fb3c969"
+   ],
+   [
+    "2020-12",
+    "5a81b9548a1e4696fe41374d532fdd2b2e7f87fa"
+   ],
+   [
+    "2021-03",
+    "ddba8b9fe0208481dc3d73ccc692d5c346ea6bae"
+   ],
+   [
+    "2021-06",
+    "68599263e324c908f7e4043047f4bff666cb2d2d"
+   ],
+   [
+    "2021-09",
+    "9cf8896bd63472bc2f2d34ee80d5b31878e31faa"
+   ],
+   [
+    "2021-12",
+    "da01325072ca121610645205ac4bba7833ede24a"
+   ],
+   [
+    "2022-03",
+    "65965abc8b206790b28257bec8fa124478ab2984"
+   ],
+   [
+    "2022-06",
+    "dca85f95e6a915bd5b96d10838e881a15dcae02b"
+   ],
+   [
+    "2022-09",
+    "93724a2db76a06841d1e9ab2ad681612c743f493"
+   ],
+   [
+    "2022-12",
+    "ca4d09588ddf01f895fb498b6a9989f238dd739e"
+   ],
+   [
+    "2023-03",
+    "823d27818c87aebcddec36707925cccbb5ad0dda"
+   ],
+   [
+    "2023-06",
+    "f78051b00d4deee719c2c064085963285cd3ea4e"
+   ],
+   [
+    "2023-09",
+    "a3abc145453a0760957a85ed9a02a2307d9dd453"
+   ],
+   [
+    "2023-12",
+    "3a2840e17a9d3e4eb685c79522c4ae7ee6641bcc"
+   ],
+   [
+    "2024-03",
+    "2b463bfafcac5019e55f16b3f4f36d407913b3bf"
+   ],
+   [
+    "2024-06",
+    "932bf6219eb61d267b58eb0cbb9f33466f2f3855"
+   ],
+   [
+    "2024-09",
+    "9f0715b47a3f11042205ae599bf776a0fc785747"
+   ],
+   [
+    "2024-12",
+    "8f9afd06590b17bee8f450bff43ba444068429ed"
+   ],
+   [
+    "2025-03",
+    "95e42962d2c63b71590bb9994f422d770b48f0f7"
+   ],
+   [
+    "2025-06",
+    "1d0db25a697e26d05dd99bb735266004e5378af7"
+   ],
+   [
+    "2025-09",
+    "80322e97bb83801cbf73fc4be751f5de5c2f4b12"
+   ],
+   [
+    "2025-12",
+    "3f72ec7a806414337413fca387b42ca5352c09a6"
+   ],
+   [
+    "2026-03",
+    "47ea84d7fe507884c36b32f878c735e0a5ff66bb"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "b419d880e1a3c8f03c9e033d2cf5133f19142313"
+  ],
+  "last": [
+   "2026-03",
+   "47ea84d7fe507884c36b32f878c735e0a5ff66bb"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 2693
+ },
+ "EclipseLink": {
+  "feature": "EclipseLink",
+  "repository": "eclipselink",
+  "folder": "eclipselink",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [
+   "2021-06"
+  ],
+  "n_unique": 58,
+  "duplicates": {
+   "f367378d": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ]
+  },
+  "n_breaks": 34,
+  "off_mainline": [
+   {
+    "release": "JunoSR0",
+    "all": [
+     "JunoSR0"
+    ],
+    "commit": "55269ac7",
+    "date": "2012-08-03",
+    "branches": [
+     "origin/2.3"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.3.4-M1~50",
+    "prev_tag": ""
+   },
+   {
+    "release": "JunoSR2",
+    "all": [
+     "JunoSR2"
+    ],
+    "commit": "994a46b0",
+    "date": "2013-02-22",
+    "branches": [
+     "origin/2.4"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.4.2-RC1~52",
+    "prev_tag": "2.4.2-M5"
+   },
+   {
+    "release": "KeplerSR0",
+    "all": [
+     "KeplerSR0"
+    ],
+    "commit": "d50aac08",
+    "date": "2013-08-01",
+    "branches": [
+     "origin/2.5"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.5.1-RC1~21",
+    "prev_tag": "2.5.1-M1"
+   },
+   {
+    "release": "Neon.3",
+    "all": [
+     "Neon.3"
+    ],
+    "commit": "14e8bee6",
+    "date": "2017-02-28",
+    "branches": [
+     "origin/2.6_WAS"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.6.3_WAS~10",
+    "prev_tag": "2.6.2_WAS"
+   },
+   {
+    "release": "Neon.3_respin",
+    "all": [
+     "Neon.3_respin"
+    ],
+    "commit": "579f3bfa",
+    "date": "2017-03-13",
+    "branches": [
+     "origin/2.6"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.6.5-RC1~7",
+    "prev_tag": "2.6.4"
+   },
+   {
+    "release": "Oxygen.1",
+    "all": [
+     "Oxygen.1"
+    ],
+    "commit": "21cd36e2",
+    "date": "2017-09-11",
+    "branches": [
+     "origin/2.6_WAS"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "2.6.3_WAS"
+   },
+   {
+    "release": "Oxygen.1a",
+    "all": [
+     "Oxygen.1a"
+    ],
+    "commit": "c6702664",
+    "date": "2017-10-02",
+    "branches": [
+     "origin/2.7_WAS"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "2.7.0"
+   },
+   {
+    "release": "Oxygen.2",
+    "all": [
+     "Oxygen.2"
+    ],
+    "commit": "db3825e1",
+    "date": "2017-12-06",
+    "branches": [
+     "origin/2.7"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.7.1-RC1~10",
+    "prev_tag": "2.7.0"
+   },
+   {
+    "release": "Oxygen.2_respin",
+    "all": [
+     "Oxygen.2_respin"
+    ],
+    "commit": "686d3ccb",
+    "date": "2017-12-15",
+    "branches": [
+     "origin/2.6"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.6.6-RC1~6",
+    "prev_tag": "2.6.5"
+   },
+   {
+    "release": "Oxygen.3",
+    "all": [
+     "Oxygen.3"
+    ],
+    "commit": "5dbf9171",
+    "date": "2018-03-06",
+    "branches": [
+     "origin/2.7"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.7.2-RC1~52",
+    "prev_tag": "2.7.1"
+   },
+   {
+    "release": "2019-09",
+    "all": [
+     "2019-09"
+    ],
+    "commit": "2362273e",
+    "date": "2019-09-11",
+    "branches": [
+     "origin/2.6_WAS"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "2.6.3_WAS"
+   },
+   {
+    "release": "2021-09",
+    "all": [
+     "2021-09"
+    ],
+    "commit": "f54d43e2",
+    "date": "2021-09-08",
+    "branches": [
+     "origin/2.6_WAS"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "2.6.3_WAS"
+   },
+   {
+    "release": "2021-12",
+    "all": [
+     "2021-12"
+    ],
+    "commit": "de563579",
+    "date": "2021-11-30",
+    "branches": [
+     "origin/2.7"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.7.10-RC1",
+    "prev_tag": "2.7.10-RC1"
+   },
+   {
+    "release": "2022-03",
+    "all": [
+     "2022-03"
+    ],
+    "commit": "94fe194b",
+    "date": "2022-03-14",
+    "branches": [
+     "origin/2.6"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "2.6.9"
+   },
+   {
+    "release": "2022-09",
+    "all": [
+     "2022-09"
+    ],
+    "commit": "5fc36efa",
+    "date": "2022-09-09",
+    "branches": [
+     "origin/2.6"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "2.6.9"
+   },
+   {
+    "release": "2022-12",
+    "all": [
+     "2022-12"
+    ],
+    "commit": "099442d0",
+    "date": "2022-11-30",
+    "branches": [
+     "origin/3.0"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "3.0.4~23",
+    "prev_tag": "3.0.3"
+   },
+   {
+    "release": "2023-06",
+    "all": [
+     "2023-06"
+    ],
+    "commit": "96c4af71",
+    "date": "2023-06-12",
+    "branches": [
+     "origin/4.0"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "4.0.2-RC1",
+    "prev_tag": "4.0.2-RC1"
+   },
+   {
+    "release": "2023-09",
+    "all": [
+     "2023-09"
+    ],
+    "commit": "da743972",
+    "date": "2023-09-07",
+    "branches": [
+     "origin/2.7"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.7.14~20",
+    "prev_tag": "2.7.13"
+   },
+   {
+    "release": "2024-03",
+    "all": [
+     "2024-03"
+    ],
+    "commit": "37f7ad86",
+    "date": "2024-03-06",
+    "branches": [
+     "origin/4.0"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "4.0.3-RC1~7",
+    "prev_tag": "4.0.2"
+   },
+   {
+    "release": "2024-09",
+    "all": [
+     "2024-09"
+    ],
+    "commit": "ea091f7b",
+    "date": "2024-09-05",
+    "branches": [
+     "origin/2.7"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.7.16~8",
+    "prev_tag": "2.7.15"
+   },
+   {
+    "release": "2024-12",
+    "all": [
+     "2024-12"
+    ],
+    "commit": "2db47982",
+    "date": "2024-11-27",
+    "branches": [
+     "origin/2.7"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "2.7.16~5",
+    "prev_tag": "2.7.15"
+   },
+   {
+    "release": "2025-06",
+    "all": [
+     "2025-06"
+    ],
+    "commit": "dd435a38",
+    "date": "2025-06-03",
+    "branches": [
+     "origin/4.0"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "4.0.7-RC1~6",
+    "prev_tag": "4.0.6"
+   },
+   {
+    "release": "2025-12",
+    "all": [
+     "2025-12"
+    ],
+    "commit": "cefae0ee",
+    "date": "2025-12-04",
+    "branches": [
+     "origin/4.0"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "4.0.9"
+   }
+  ],
+  "n_linear": 35,
+  "chain": [
+   [
+    "JunoSR1",
+    "c5aa40a6bebe3caa13c9439baf4cb3aceb441b80"
+   ],
+   [
+    "KeplerPostRC4",
+    "feffef32c766572afcb1b74e2ddc681979027444"
+   ],
+   [
+    "KeplerSR1",
+    "68528217958a7c85af9c459dcecd6aaeb2bd11f2"
+   ],
+   [
+    "LunaSR0",
+    "f367378dd07446798bd91ffd54f61d9a49b81f94"
+   ],
+   [
+    "LunaRC4",
+    "63b34fd1d7d5aabb4a5eeb0d2ed1cdb4a182dffc"
+   ],
+   [
+    "LunaSR2",
+    "39ce7fb082d3c9e9c8385163a9a6cf4e2f758bff"
+   ],
+   [
+    "S201504150911",
+    "343c2cebe07ac69c6b179d89d5c823fdc2bd0ab7"
+   ],
+   [
+    "Mars.1",
+    "09fadf68fd0ea3f4e44e4496108779a1474c2afd"
+   ],
+   [
+    "Neon",
+    "06715d3e3f5ca19ff1d25ac07e649038420fa36c"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "bd0b348ec7cd489e455fe0a811228e2c3cb6a097"
+   ],
+   [
+    "Neon.1",
+    "86621f8953e8ed62ce8eacd9e2fe91f7e901fc62"
+   ],
+   [
+    "Neon.1a",
+    "0da74c79344b6cb7741c624732a1acb2bfdd26ee"
+   ],
+   [
+    "Neon.2",
+    "a60e644a0e483b498ad15b953b5b4e65aea46250"
+   ],
+   [
+    "Oxygen",
+    "1dfaa0142751bc7eba2bd3d4eda0f24f9b6a74e8"
+   ],
+   [
+    "Oxygen.1a_respin",
+    "78002f8698ef01d38c6bc6d82ab2b6cfdb54a04a"
+   ],
+   [
+    "PhotonM7",
+    "3f86d94f9f4c1737853ef29084d1a494c7c70ac2"
+   ],
+   [
+    "PhotonRC4",
+    "f00e5383e462313705e9ce1a5276861f3d7a3cda"
+   ],
+   [
+    "Photon.0",
+    "873cacb43ae6f46bf6b2cc6bfc02eb1de2b0c431"
+   ],
+   [
+    "2018-09",
+    "3e83f76f7d4e7275d9d277a4375083ed0bd437d8"
+   ],
+   [
+    "2018-12",
+    "a2edcb35dcef83c55d0bae09c2a386f96e13f121"
+   ],
+   [
+    "2019-03",
+    "266203334da593c7059bfaa00b15e9d688b9a100"
+   ],
+   [
+    "2019-06",
+    "7cbc0ad794c9641c6f8e46356925e3809ee91ac5"
+   ],
+   [
+    "2019-12",
+    "a5b5fb08eb1124d073fc37b4f7c5c315fdeac89a"
+   ],
+   [
+    "2020-03",
+    "0c6f99de67d67165d6cb682be5170f4d042360ef"
+   ],
+   [
+    "2020-06",
+    "17b0123878337decc8041806fad5bb4fae77f696"
+   ],
+   [
+    "2020-09",
+    "eb84e6b24d0517c764eb669a74b87505ca0c819a"
+   ],
+   [
+    "2020-12",
+    "b18124021426aa64ea03701fdb70afe024a764a2"
+   ],
+   [
+    "2021-03",
+    "c3dd2b744180a7151b1c7f1aab28ce32496e6ffb"
+   ],
+   [
+    "2022-06",
+    "e546902ccdf9e2c20f8ae7215694904c77669fe5"
+   ],
+   [
+    "2023-03",
+    "8ac1935575d461d3a51672c92a16062645e11bb3"
+   ],
+   [
+    "2023-12",
+    "149e9ce03de38b153ca117e4ce251a879b8d486b"
+   ],
+   [
+    "2024-06",
+    "b09fbb71a2f48b5fd66be3b223fa9afd86077968"
+   ],
+   [
+    "2025-03",
+    "a590a7a152a71b58abb295c0b55ff15b3c3a9332"
+   ],
+   [
+    "2025-09",
+    "2affbc9eca4381f3f4b08cb443c57ac1607be1db"
+   ],
+   [
+    "2026-03",
+    "d0c79f85a99e3ff7039ea557ca22e4d8f4f0267a"
+   ]
+  ],
+  "first": [
+   "JunoSR1",
+   "c5aa40a6bebe3caa13c9439baf4cb3aceb441b80"
+  ],
+  "last": [
+   "2026-03",
+   "d0c79f85a99e3ff7039ea557ca22e4d8f4f0267a"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 3406
+ },
+ "GEF": {
+  "feature": "GEF",
+  "repository": "gef-classic",
+  "folder": "gef-classic",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 32,
+  "duplicates": {
+   "8cab855e": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "d40a6827": [
+    "Neon.1",
+    "Neon.1a",
+    "Neon.2",
+    "Neon.3",
+    "Neon.3_respin"
+   ],
+   "c2e4f026": [
+    "Oxygen",
+    "Oxygen.1"
+   ],
+   "14563a9e": [
+    "Oxygen.1a",
+    "Oxygen.1a_respin",
+    "Oxygen.2",
+    "Oxygen.2_respin",
+    "Oxygen.3",
+    "PhotonM7",
+    "PhotonRC4",
+    "Photon.0",
+    "2018-09",
+    "2018-12",
+    "2019-03",
+    "2019-06",
+    "2019-09",
+    "2019-12",
+    "2020-03",
+    "2020-06",
+    "2020-09",
+    "2020-12",
+    "2021-03",
+    "2021-06",
+    "2021-09",
+    "2021-12",
+    "2022-03"
+   ]
+  },
+  "n_breaks": 1,
+  "off_mainline": [
+   {
+    "release": "JunoSR0",
+    "all": [
+     "JunoSR0"
+    ],
+    "commit": "bf45e8fe",
+    "date": "2012-07-27",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R3_26_maintenance",
+     "origin/issue1098",
+     "origin/master"
+    ],
+    "n_branches": 5,
+    "contained_in_tag": "R_3_22~92^2~11",
+    "prev_tag": ""
+   },
+   {
+    "release": "JunoSR1",
+    "all": [
+     "JunoSR1"
+    ],
+    "commit": "d71e13b4",
+    "date": "2012-08-27",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R3_26_maintenance",
+     "origin/issue1098",
+     "origin/master"
+    ],
+    "n_branches": 5,
+    "contained_in_tag": "R_3_22~92^2~5",
+    "prev_tag": ""
+   }
+  ],
+  "n_linear": 30,
+  "chain": [
+   [
+    "JunoSR2",
+    "dbf4cefdfa3affc361bc6c62174780d226e0481b"
+   ],
+   [
+    "KeplerPostRC4",
+    "22becd5e194c202292ea171743622ac373de20bf"
+   ],
+   [
+    "KeplerSR0",
+    "1878be82dbd09bf158c73c0aea87630529bde3e7"
+   ],
+   [
+    "KeplerSR1",
+    "9ade08e3406b9bba64255b3946c32567ace3607a"
+   ],
+   [
+    "LunaSR0",
+    "8cab855e309e791889be3a693aba929e6fe47d5f"
+   ],
+   [
+    "LunaRC4",
+    "5f5feab35c75d1f8150c1a09718a42fa871ce81d"
+   ],
+   [
+    "LunaSR2",
+    "89ebb3b9f9af3e0c375bd44e5902b4fe7486b9af"
+   ],
+   [
+    "S201504150911",
+    "13f2aaae7dc2f79da69fe052f66038d61a328b42"
+   ],
+   [
+    "Mars.1",
+    "f95f50aa24d5c888af282ccfd7d2a6c03ff4920a"
+   ],
+   [
+    "Neon",
+    "bcd6206f6c014e0d895ed30ae4d69afa1321af44"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "99633c23673c62953c14925d290d9291d0fc613f"
+   ],
+   [
+    "Neon.1",
+    "d40a6827ad9da9dd4e3c72c00f2ae57a1afcf1cc"
+   ],
+   [
+    "Oxygen",
+    "c2e4f0261bd205d5fbc947b8d6f6e1355e3b1389"
+   ],
+   [
+    "Oxygen.1a",
+    "14563a9e1f2af636a5364d195cf07dbff6f35fa6"
+   ],
+   [
+    "2022-06",
+    "5d2325e3ec4ba1057ae930ca27dc976e35bfb996"
+   ],
+   [
+    "2022-09",
+    "691b10b78c5eb33a0e5d9ce9041430c4d90ad276"
+   ],
+   [
+    "2022-12",
+    "4527e2327bb03d7668fee80301efc04643f43c29"
+   ],
+   [
+    "2023-03",
+    "608691122b37d926a4b6f4ba23571a68a8db063e"
+   ],
+   [
+    "2023-06",
+    "6a06384a4c3318d31e0b1ee969bbb4575b39188e"
+   ],
+   [
+    "2023-09",
+    "21264727f39233bba4d65581bd92f193395910d1"
+   ],
+   [
+    "2023-12",
+    "70c2969be53e51b54a7d2b95ed7c51b46c26b755"
+   ],
+   [
+    "2024-03",
+    "64bd301075c0b5f62bed57a09d027af5d865a5e5"
+   ],
+   [
+    "2024-06",
+    "d606e6287d69a4183c888bf4147b167c94ebfc83"
+   ],
+   [
+    "2024-09",
+    "4660b69397dbfb6823d0f1a58092cf58734ff75b"
+   ],
+   [
+    "2024-12",
+    "99a9190590f3cf1ba6882916911a115aac8a2567"
+   ],
+   [
+    "2025-03",
+    "79ce421cd25b857e8bba6905e17237eebc9454d3"
+   ],
+   [
+    "2025-06",
+    "52e81e7172431bebd2fc79243131f2dbe084136e"
+   ],
+   [
+    "2025-09",
+    "fd5f1a1e5019065ed26b2db243120272c3913bef"
+   ],
+   [
+    "2025-12",
+    "a64f5b170380ec3840534c03fb6f965189280d18"
+   ],
+   [
+    "2026-03",
+    "621550f90bdc0678e9a14a8d64a20e0f14512948"
+   ]
+  ],
+  "first": [
+   "JunoSR2",
+   "dbf4cefdfa3affc361bc6c62174780d226e0481b"
+  ],
+  "last": [
+   "2026-03",
+   "621550f90bdc0678e9a14a8d64a20e0f14512948"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 1211
+ },
+ "GMF Runtime": {
+  "feature": "GMF Runtime",
+  "repository": "gmf-runtime",
+  "folder": "gmf-runtime",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 46,
+  "duplicates": {
+   "fc2b41e0": [
+    "KeplerSR0",
+    "KeplerSR1"
+   ],
+   "505d9243": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "460d573b": [
+    "Neon",
+    "OxygenPreRienaRemoval_9-8-2016"
+   ],
+   "2a3b6e87": [
+    "Neon.1a",
+    "Neon.2"
+   ],
+   "03bdbb7f": [
+    "Neon.3",
+    "Neon.3_respin"
+   ],
+   "2c2d52f2": [
+    "Oxygen.1a",
+    "Oxygen.1a_respin"
+   ],
+   "ac83b0c5": [
+    "Oxygen.2",
+    "Oxygen.2_respin"
+   ],
+   "1eede5a8": [
+    "PhotonRC4",
+    "Photon.0",
+    "2018-09",
+    "2018-12",
+    "2019-03"
+   ],
+   "b656baae": [
+    "2019-06",
+    "2019-09"
+   ],
+   "8da7f095": [
+    "2020-06",
+    "2020-09"
+   ],
+   "505995fb": [
+    "2024-06",
+    "2024-09"
+   ]
+  },
+  "n_breaks": 6,
+  "off_mainline": [
+   {
+    "release": "JunoSR0",
+    "all": [
+     "JunoSR0"
+    ],
+    "commit": "d039a29f",
+    "date": "2012-05-19",
+    "branches": [
+     "origin/R1_6_maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "R2_2"
+   },
+   {
+    "release": "JunoSR2",
+    "all": [
+     "JunoSR2"
+    ],
+    "commit": "595975ce",
+    "date": "2013-02-11",
+    "branches": [
+     "origin/R1_6_maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "R2_2"
+   },
+   {
+    "release": "KeplerSR0",
+    "all": [
+     "KeplerSR0",
+     "KeplerSR1"
+    ],
+    "commit": "fc2b41e0",
+    "date": "2013-07-03",
+    "branches": [
+     "origin/R1_7_maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "R2_2"
+   },
+   {
+    "release": "Neon.3",
+    "all": [
+     "Neon.3",
+     "Neon.3_respin"
+    ],
+    "commit": "03bdbb7f",
+    "date": "2017-03-02",
+    "branches": [
+     "origin/R1_10_maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "R1_10_1^0",
+    "prev_tag": "R1_10_1"
+   }
+  ],
+  "n_linear": 42,
+  "chain": [
+   [
+    "JunoSR1",
+    "09bad3be36f1ba65e4bdad6ed3511b6084218e5b"
+   ],
+   [
+    "KeplerPostRC4",
+    "436609cab5d7aa329bede204a18f91778fb78d45"
+   ],
+   [
+    "LunaSR0",
+    "505d924318fd15d1a93e7e3492e0c8ec9202fc64"
+   ],
+   [
+    "LunaRC4",
+    "67a18064459884f4cae059f1c933c69f768dd4a3"
+   ],
+   [
+    "LunaSR2",
+    "28fa4488595be496c0276871d7d000925d1447e3"
+   ],
+   [
+    "S201504150911",
+    "80d69cf28f64c097ed354e702cddf496b2547878"
+   ],
+   [
+    "Mars.1",
+    "8912751aa9883fd00459978dd4eaec38e3f029cc"
+   ],
+   [
+    "Neon",
+    "460d573b0a1392f20e7eeaf0a4711b5b66d2ab26"
+   ],
+   [
+    "Neon.1",
+    "cb0f7f08b4e264d70844e4e41138e78fc6d42e11"
+   ],
+   [
+    "Neon.1a",
+    "2a3b6e8703edd7ebefc3e70f82f9024e805a517e"
+   ],
+   [
+    "Oxygen",
+    "04cdebec0e43654d076bccc2157b2722a4405e44"
+   ],
+   [
+    "Oxygen.1",
+    "7617792c3b7100414bd9ce2844d177b954a0d85f"
+   ],
+   [
+    "Oxygen.1a",
+    "2c2d52f29bef235bd09afadcc7da89b2790308be"
+   ],
+   [
+    "Oxygen.2",
+    "ac83b0c5bf7ab146b8b9c6c8b2f1ea03852ed93e"
+   ],
+   [
+    "Oxygen.3",
+    "564a0f3b172e53817012ada23211bc976de58ec1"
+   ],
+   [
+    "PhotonM7",
+    "587a51071208c6193dd497b4f7573c7969fc163d"
+   ],
+   [
+    "PhotonRC4",
+    "1eede5a890d2c74536db4f4822c9bff426b8f895"
+   ],
+   [
+    "2019-06",
+    "b656baae08190ab74b69be17fae813caed6212e0"
+   ],
+   [
+    "2019-12",
+    "e22fa3b5b0749567f23aa597185ae52872de59a2"
+   ],
+   [
+    "2020-03",
+    "6aa2b690f2ea783336b61448e27e651f521d3ced"
+   ],
+   [
+    "2020-06",
+    "8da7f095bcf01fde08a3f8f704546327119adb4e"
+   ],
+   [
+    "2020-12",
+    "f9e7c7b3011fb325e9f875ab33866295d826964d"
+   ],
+   [
+    "2021-03",
+    "d38ea5bd7847fefdc8d594960f961a40bd0c8d60"
+   ],
+   [
+    "2021-06",
+    "9088b5bfca86bab2bd3d5e1dd38b58ae69883a87"
+   ],
+   [
+    "2021-09",
+    "9984cee924e516631c4537729c47734f22e5948c"
+   ],
+   [
+    "2021-12",
+    "e7e6405a95be05e76027afee83af30cc7e75ba92"
+   ],
+   [
+    "2022-03",
+    "e515ae3ebf4dee515105aa6ff29410af6920049e"
+   ],
+   [
+    "2022-06",
+    "acaf43233d0bfea5ad5f2c069b7e8a3ea62f08b7"
+   ],
+   [
+    "2022-09",
+    "35b3760edc3d19b19329758f85537e458c5565e6"
+   ],
+   [
+    "2022-12",
+    "271ba17d6a3d3e9de9e799b053153e40c93658a3"
+   ],
+   [
+    "2023-03",
+    "b5ac6e57eda0697ffbb51568038985de0ef173ae"
+   ],
+   [
+    "2023-06",
+    "fcab6d4a4b95b70742e0e3ed1c7feb67e9e020e5"
+   ],
+   [
+    "2023-09",
+    "0860f4d97323299f07abe57bbe85fd44c73026cd"
+   ],
+   [
+    "2023-12",
+    "bf5eaefbd446cbff8fd12265802950a6ea64fec8"
+   ],
+   [
+    "2024-03",
+    "26d1c6bbab9cd2d0282e903229516d5b38e1c4cf"
+   ],
+   [
+    "2024-06",
+    "505995fb42bfd4e6d49b2e7a32eadde6011e3872"
+   ],
+   [
+    "2024-12",
+    "b3224a97b21088218ef1307d71af419d1019e46a"
+   ],
+   [
+    "2025-03",
+    "2bfabf401c62bd8fc825e3cc93ba04b27cc6a310"
+   ],
+   [
+    "2025-06",
+    "f8ad5905232d983a53dfede4898c1533eb4ec5c2"
+   ],
+   [
+    "2025-09",
+    "c1ed03bcf326a629f72c1ca4bc5e53a953ab06f7"
+   ],
+   [
+    "2025-12",
+    "e4302f344b7461e63981986234dbaccdf42d8fc2"
+   ],
+   [
+    "2026-03",
+    "ccc53e5a60bb094fc27554f5fef413ac825693b9"
+   ]
+  ],
+  "first": [
+   "JunoSR1",
+   "09bad3be36f1ba65e4bdad6ed3511b6084218e5b"
+  ],
+  "last": [
+   "2026-03",
+   "ccc53e5a60bb094fc27554f5fef413ac825693b9"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 425
+ },
+ "JDT": {
+  "feature": "JDT",
+  "repository": "eclipse.jdt.core",
+  "folder": "eclipse.jdt.core",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 59,
+  "duplicates": {
+   "5edc3ac0": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ]
+  },
+  "n_breaks": 6,
+  "off_mainline": [
+   {
+    "release": "JunoSR2",
+    "all": [
+     "JunoSR2"
+    ],
+    "commit": "6e01d046",
+    "date": "2013-02-24",
+    "branches": [
+     "master",
+     "origin/BETA_JAVA11",
+     "origin/BETA_JAVA12",
+     "origin/BETA_JAVA13",
+     "origin/BETA_JAVA14",
+     "origin/BETA_JAVA15"
+    ],
+    "n_branches": 83,
+    "contained_in_tag": "P20140215-1600~997",
+    "prev_tag": "R4_2"
+   },
+   {
+    "release": "Neon",
+    "all": [
+     "Neon"
+    ],
+    "commit": "588590c5",
+    "date": "2016-06-13",
+    "branches": [
+     "master",
+     "origin/BETA_JAVA11",
+     "origin/BETA_JAVA12",
+     "origin/BETA_JAVA13",
+     "origin/BETA_JAVA14",
+     "origin/BETA_JAVA15"
+    ],
+    "n_branches": 78,
+    "contained_in_tag": "P20160616-0900",
+    "prev_tag": "P20160616-0900"
+   },
+   {
+    "release": "Neon.1a",
+    "all": [
+     "Neon.1a"
+    ],
+    "commit": "f60167cf",
+    "date": "2016-10-06",
+    "branches": [
+     "master",
+     "origin/BETA_JAVA11",
+     "origin/BETA_JAVA12",
+     "origin/BETA_JAVA13",
+     "origin/BETA_JAVA14",
+     "origin/BETA_JAVA15"
+    ],
+    "n_branches": 78,
+    "contained_in_tag": "Y20161006-1000",
+    "prev_tag": "Y20161006-1000"
+   },
+   {
+    "release": "Photon.0",
+    "all": [
+     "Photon.0"
+    ],
+    "commit": "fa05b3f7",
+    "date": "2018-06-16",
+    "branches": [
+     "master",
+     "origin/BETA_JAVA11",
+     "origin/BETA_JAVA13",
+     "origin/BETA_JAVA14",
+     "origin/BETA_JAVA15",
+     "origin/BETA_JAVA16"
+    ],
+    "n_branches": 74,
+    "contained_in_tag": "I20180618-0800~1",
+    "prev_tag": "I20180615-0655"
+   },
+   {
+    "release": "2019-06",
+    "all": [
+     "2019-06"
+    ],
+    "commit": "739cde98",
+    "date": "2019-06-12",
+    "branches": [
+     "origin/manoj_544073_yield"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "S4_12_0_M3"
+   }
+  ],
+  "n_linear": 54,
+  "chain": [
+   [
+    "JunoSR0",
+    "308ce1529d0bb91113394dc94c8bd9e83fd91a69"
+   ],
+   [
+    "JunoSR1",
+    "d86f6722152173461a9e1580d1d40deb787e4119"
+   ],
+   [
+    "KeplerPostRC4",
+    "8411039eacb670f9964cb949d3cc86dcbeba1c88"
+   ],
+   [
+    "KeplerSR0",
+    "4cdd1f8c2ff41620decbc1c851f00b9241512965"
+   ],
+   [
+    "KeplerSR1",
+    "17b8ab7bd612d2abf48004e9edb4e0d158359c34"
+   ],
+   [
+    "LunaSR0",
+    "5edc3ac05bc6f8e85f1a7e1d06b088b66f43e581"
+   ],
+   [
+    "LunaRC4",
+    "0a42969cf5af4836de11a0ddb17424701edec007"
+   ],
+   [
+    "LunaSR2",
+    "db786a60645f0738c3e4c93c03142c921978dbe9"
+   ],
+   [
+    "S201504150911",
+    "96a1c4eb2fdb5445d2326ae03dc755cc22a50d35"
+   ],
+   [
+    "Mars.1",
+    "60778824f4bf80e0d58926de2175a29d947efbe8"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "02cebbcb8f87f3c49d7bec05024c9343a18d55a4"
+   ],
+   [
+    "Neon.1",
+    "eefd596996c834a817aa50e009602694db58d0de"
+   ],
+   [
+    "Neon.2",
+    "75dbfad04dfbe40d1b37046941276029b29a00e4"
+   ],
+   [
+    "Neon.3",
+    "ce31ee3f252ea55b686d3527a0818d8195fdad6c"
+   ],
+   [
+    "Neon.3_respin",
+    "493e699f57070b4f5a3e406f29132a8de737885b"
+   ],
+   [
+    "Oxygen",
+    "255fe8d2c334853dddf802f64ec964eb8fceb945"
+   ],
+   [
+    "Oxygen.1",
+    "9a39316c189235298947b6f52380404f073fe3bc"
+   ],
+   [
+    "Oxygen.1a",
+    "81530626b72494cec4650dc896adff36da207768"
+   ],
+   [
+    "Oxygen.1a_respin",
+    "c40ee9092388c0bd0f1f2c29c700be3a3fd9c4d2"
+   ],
+   [
+    "Oxygen.2",
+    "a678984d7982779ed3c443a9f934da63ceb684dd"
+   ],
+   [
+    "Oxygen.2_respin",
+    "9f791e145747d3b7ac469f0f7cb1c00bb2d32bd2"
+   ],
+   [
+    "Oxygen.3",
+    "72c96031477cccb152fc1c2eae04100e1a470be3"
+   ],
+   [
+    "PhotonM7",
+    "9401e537bc387f3e9ccb9acfdc8e74bfed863c6a"
+   ],
+   [
+    "PhotonRC4",
+    "e716cf8d34e535b1b38feb9143e66a9f395e67ea"
+   ],
+   [
+    "2018-09",
+    "46e68b50398f24356a22b46e72f55fb5194ce9a2"
+   ],
+   [
+    "2018-12",
+    "50513d7e9dde604699b9c1aade745e65a04cc192"
+   ],
+   [
+    "2019-03",
+    "3d16613b8a0e378e939a2183c4584c10eb598c9a"
+   ],
+   [
+    "2019-09",
+    "6a8cee1126829229d648db4ae0e5a6b70a5d4f13"
+   ],
+   [
+    "2019-12",
+    "121a2d96f450e52171a8a562a71331f4da6b621c"
+   ],
+   [
+    "2020-03",
+    "eae3ae38f0982820e1de548fa410e91e48d769c2"
+   ],
+   [
+    "2020-06",
+    "c1d29a674470b280bbecdf8b1759226bdc50549b"
+   ],
+   [
+    "2020-09",
+    "6b5d4776cb2e527ee5aaf3bb561dc2206d981165"
+   ],
+   [
+    "2020-12",
+    "d39f211624807d87052626db1631c06f6520162a"
+   ],
+   [
+    "2021-03",
+    "ac13270d68d49dcf7cc70a09a22be9b7d1ff569a"
+   ],
+   [
+    "2021-06",
+    "c2d6207a81bedea241579f33a6bc55967920dbaf"
+   ],
+   [
+    "2021-09",
+    "35b3934447084eba6d794357fffc67e2fb9f5552"
+   ],
+   [
+    "2021-12",
+    "effa6e8a32a05e9a43f8f54ccc4dd2a666604281"
+   ],
+   [
+    "2022-03",
+    "eaf6ea06a705a02d82969f31b6d0fc581d24fdd9"
+   ],
+   [
+    "2022-06",
+    "c1ea9514cbef6993555ec93f1c1877fa7bdb8535"
+   ],
+   [
+    "2022-09",
+    "1ae0e0644ee8e2db9f8023185fea09a7362e0240"
+   ],
+   [
+    "2022-12",
+    "0e5761841a0fdab0917c279855ed7acba063183c"
+   ],
+   [
+    "2023-03",
+    "ad2866c4e9e8626142fb30254eb9048dc2fa138b"
+   ],
+   [
+    "2023-06",
+    "c60c1806d799db972142a19499a493094331ab84"
+   ],
+   [
+    "2023-09",
+    "c687d14fdc55fc596759c7a5bc753b41c2cf767c"
+   ],
+   [
+    "2023-12",
+    "420cf8cea5b8e7a818a115d273613182c0f75a22"
+   ],
+   [
+    "2024-03",
+    "c648d35069922c6cebf7dbd773d7fe509f3c3afa"
+   ],
+   [
+    "2024-06",
+    "a02bebb74b4e8e8ffb290c439d9b286882322345"
+   ],
+   [
+    "2024-09",
+    "84daab04da0077def006796a1d310e0489ca83c0"
+   ],
+   [
+    "2024-12",
+    "681dc0aff701f3bfe3109d43b838b0894c6d2cdd"
+   ],
+   [
+    "2025-03",
+    "89e70ced128ca704cc8ee7ffbfa0a812d341e5b8"
+   ],
+   [
+    "2025-06",
+    "a9fec36e539ba6e9b92677abb461bac60ba7bf83"
+   ],
+   [
+    "2025-09",
+    "8c02407cc76ef133739debd964448d93bd56d38c"
+   ],
+   [
+    "2025-12",
+    "7e87ad5a5ed1189e552bebf0d7ab1d81a0ed3b6b"
+   ],
+   [
+    "2026-03",
+    "c9cb9ed549bd265e670138c2341aa5c1df1b403d"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "308ce1529d0bb91113394dc94c8bd9e83fd91a69"
+  ],
+  "last": [
+   "2026-03",
+   "c9cb9ed549bd265e670138c2341aa5c1df1b403d"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 8616
+ },
+ "Mylyn": {
+  "feature": "Mylyn",
+  "repository": "org.eclipse.mylyn",
+  "folder": "org.eclipse.mylyn",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 59,
+  "duplicates": {
+   "70939a83": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ]
+  },
+  "n_breaks": 29,
+  "off_mainline": [
+   {
+    "release": "JunoSR0",
+    "all": [
+     "JunoSR0"
+    ],
+    "commit": "33d1bc47",
+    "date": "2012-08-03",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~62^2~56",
+    "prev_tag": ""
+   },
+   {
+    "release": "JunoSR1",
+    "all": [
+     "JunoSR1"
+    ],
+    "commit": "b73a9a57",
+    "date": "2012-09-19",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~1074",
+    "prev_tag": ""
+   },
+   {
+    "release": "JunoSR2",
+    "all": [
+     "JunoSR2"
+    ],
+    "commit": "003b33a9",
+    "date": "2013-02-20",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~66^2~527",
+    "prev_tag": ""
+   },
+   {
+    "release": "KeplerSR0",
+    "all": [
+     "KeplerSR0"
+    ],
+    "commit": "0fb592ec",
+    "date": "2013-08-01",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~1023",
+    "prev_tag": ""
+   },
+   {
+    "release": "KeplerSR1",
+    "all": [
+     "KeplerSR1"
+    ],
+    "commit": "f14dc2c3",
+    "date": "2013-09-23",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~66^2~351",
+    "prev_tag": ""
+   },
+   {
+    "release": "LunaSR0",
+    "all": [
+     "LunaSR0",
+     "z20140805-2300",
+     "z20140806"
+    ],
+    "commit": "70939a83",
+    "date": "2014-07-25",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~66^2~218",
+    "prev_tag": ""
+   },
+   {
+    "release": "LunaRC4",
+    "all": [
+     "LunaRC4"
+    ],
+    "commit": "a6c06aa4",
+    "date": "2014-09-16",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~879",
+    "prev_tag": ""
+   },
+   {
+    "release": "LunaSR2",
+    "all": [
+     "LunaSR2"
+    ],
+    "commit": "fc7865e6",
+    "date": "2015-02-27",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~856",
+    "prev_tag": ""
+   },
+   {
+    "release": "S201504150911",
+    "all": [
+     "S201504150911"
+    ],
+    "commit": "8e38fbf5",
+    "date": "2015-04-09",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~835",
+    "prev_tag": ""
+   },
+   {
+    "release": "Mars.1",
+    "all": [
+     "Mars.1"
+    ],
+    "commit": "64285d78",
+    "date": "2015-09-20",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~65^2~81",
+    "prev_tag": ""
+   },
+   {
+    "release": "Neon",
+    "all": [
+     "Neon"
+    ],
+    "commit": "fbeec07e",
+    "date": "2016-06-09",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~63^2~137",
+    "prev_tag": ""
+   },
+   {
+    "release": "OxygenPreRienaRemoval_9-8-2016",
+    "all": [
+     "OxygenPreRienaRemoval_9-8-2016"
+    ],
+    "commit": "be0a6774",
+    "date": "2016-09-07",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 18,
+    "contained_in_tag": "R_3_21_0~1",
+    "prev_tag": "R_3_19_0"
+   },
+   {
+    "release": "Neon.1",
+    "all": [
+     "Neon.1"
+    ],
+    "commit": "384acbe8",
+    "date": "2016-09-13",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~63^2~85",
+    "prev_tag": ""
+   },
+   {
+    "release": "Neon.1a",
+    "all": [
+     "Neon.1a"
+    ],
+    "commit": "572e3930",
+    "date": "2016-10-05",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 17,
+    "contained_in_tag": "R_3_22_0~27",
+    "prev_tag": "R_3_21_0"
+   },
+   {
+    "release": "Neon.2",
+    "all": [
+     "Neon.2"
+    ],
+    "commit": "9acc8ea6",
+    "date": "2016-12-06",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~64^2~33",
+    "prev_tag": ""
+   },
+   {
+    "release": "Neon.3",
+    "all": [
+     "Neon.3"
+    ],
+    "commit": "d8c3098a",
+    "date": "2017-03-06",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~610",
+    "prev_tag": ""
+   },
+   {
+    "release": "Neon.3_respin",
+    "all": [
+     "Neon.3_respin"
+    ],
+    "commit": "7b5af6ca",
+    "date": "2017-03-13",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~580",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen",
+    "all": [
+     "Oxygen"
+    ],
+    "commit": "11ababb4",
+    "date": "2017-06-14",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~66^2~42",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.1",
+    "all": [
+     "Oxygen.1"
+    ],
+    "commit": "da60acca",
+    "date": "2017-09-12",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~505",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.1a",
+    "all": [
+     "Oxygen.1a"
+    ],
+    "commit": "61ba50bf",
+    "date": "2017-10-05",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~500",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.2",
+    "all": [
+     "Oxygen.2"
+    ],
+    "commit": "de0f7848",
+    "date": "2017-12-03",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~480",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.2_respin",
+    "all": [
+     "Oxygen.2_respin"
+    ],
+    "commit": "ff7d1f6e",
+    "date": "2017-12-13",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~479",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.3",
+    "all": [
+     "Oxygen.3"
+    ],
+    "commit": "9cf1609d",
+    "date": "2018-03-02",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~454",
+    "prev_tag": ""
+   },
+   {
+    "release": "Photon.0",
+    "all": [
+     "Photon.0"
+    ],
+    "commit": "312f9cba",
+    "date": "2018-06-16",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~63^2~25",
+    "prev_tag": ""
+   },
+   {
+    "release": "2018-12",
+    "all": [
+     "2018-12"
+    ],
+    "commit": "372e02c2",
+    "date": "2018-12-12",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~412",
+    "prev_tag": ""
+   },
+   {
+    "release": "2019-09",
+    "all": [
+     "2019-09"
+    ],
+    "commit": "2a0da6dc",
+    "date": "2019-09-11",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~95",
+    "prev_tag": "R_3_25_0"
+   },
+   {
+    "release": "2022-03",
+    "all": [
+     "2022-03"
+    ],
+    "commit": "2226ba73",
+    "date": "2022-03-10",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~198",
+    "prev_tag": ""
+   },
+   {
+    "release": "2022-06",
+    "all": [
+     "2022-06"
+    ],
+    "commit": "fc9c054c",
+    "date": "2022-05-31",
+    "branches": [
+     "origin/m_3_25_x"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "R_3_25_2"
+   },
+   {
+    "release": "2022-09",
+    "all": [
+     "2022-09"
+    ],
+    "commit": "2ca96e09",
+    "date": "2022-09-06",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_4_1_0~17^2~2^2~181",
+    "prev_tag": ""
+   },
+   {
+    "release": "2022-12",
+    "all": [
+     "2022-12"
+    ],
+    "commit": "dc6e7e0f",
+    "date": "2022-12-05",
+    "branches": [
+     "main",
+     "origin/1147-re-enabled-tasklistnotifier-popup",
+     "origin/1217-use-github-api",
+     "origin/1219-use-notificationpopup-from-jface",
+     "origin/1242_setup_generate_baseline",
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "R_3_26_0~67^2~4^2~4^2",
+    "prev_tag": ""
+   },
+   {
+    "release": "2024-06",
+    "all": [
+     "2024-06"
+    ],
+    "commit": "1516adba",
+    "date": "2024-06-08",
+    "branches": [
+     "origin/534-multipass-update-2"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "R_4_3_0"
+   }
+  ],
+  "n_linear": 28,
+  "chain": [
+   [
+    "KeplerPostRC4",
+    "dc4a6439fa8e8ca2785cdf149b9ac3b757372f75"
+   ],
+   [
+    "Oxygen.1a_respin",
+    "bf3078c6f6b58eca5a3bcefccde4c58a568ee11e"
+   ],
+   [
+    "PhotonM7",
+    "d2453b8a2727c03aff12875cd51b7104ec271036"
+   ],
+   [
+    "PhotonRC4",
+    "8c7ddbd147277dbf4164878ad10443cfd0a2ee21"
+   ],
+   [
+    "2018-09",
+    "6d253795d9f2a36a67608d215f7484e8acb486b4"
+   ],
+   [
+    "2019-03",
+    "499a68217c5bbcab59f091504c149dd4465ea955"
+   ],
+   [
+    "2019-06",
+    "538ad318ab1a88613817f1a2c8816e4639b78c25"
+   ],
+   [
+    "2019-12",
+    "ba4b9dc6758e7121c5eff150771b81f2fed275c7"
+   ],
+   [
+    "2020-03",
+    "c749931f769858d73b9c93ea4d819e8d665335f7"
+   ],
+   [
+    "2020-06",
+    "04d55b69c1eefc45173af9a2fe5a489e4edb1d52"
+   ],
+   [
+    "2020-09",
+    "2fec566589996dd61c508a917f86545eacec25b6"
+   ],
+   [
+    "2020-12",
+    "9fa7c7e12ee1a728d7af93804018e5cc5f7fef85"
+   ],
+   [
+    "2021-03",
+    "ed45ec56001b68adcf7aaaafd02c4d259724508c"
+   ],
+   [
+    "2021-06",
+    "e7c49921b9fc4b249903a9aa5e2a605b18d9ede2"
+   ],
+   [
+    "2021-09",
+    "147e286cea26df5b18fdb9426d585a4c19d89811"
+   ],
+   [
+    "2021-12",
+    "f764298a6f738ef479b32f3bde4544df49fc7cb3"
+   ],
+   [
+    "2023-03",
+    "5859be1ff79f3c5ec69c9c1b05cb59e306918d63"
+   ],
+   [
+    "2023-06",
+    "f47e3cc5614ad4cdd9bd357f1fa8608a0a2c0bff"
+   ],
+   [
+    "2023-09",
+    "fa4b8540326b904a948d272ebeff9e59befd4579"
+   ],
+   [
+    "2023-12",
+    "7a3c78c378604d9c4bc4873b0275af3457d764bb"
+   ],
+   [
+    "2024-03",
+    "aa83e9d59ba6b865596ec16394bb5b6c796ef2ed"
+   ],
+   [
+    "2024-09",
+    "18a99edf1426137f701b3daf11d404bde981714b"
+   ],
+   [
+    "2024-12",
+    "4ad68b1477ce886787264fb3a2d595df0d708143"
+   ],
+   [
+    "2025-03",
+    "2cad31ba58a169086c280013198efe3afb752045"
+   ],
+   [
+    "2025-06",
+    "98630de6174b4e98f491c16a447a761a04e3bb76"
+   ],
+   [
+    "2025-09",
+    "f5bc7635aee4d2243e44ced5b540024cc502548d"
+   ],
+   [
+    "2025-12",
+    "bd9642783ec7d08f982a07b7a05b6a5176bd3c8d"
+   ],
+   [
+    "2026-03",
+    "b383d19be4444dfc09d146de1388bc9ec64c1415"
+   ]
+  ],
+  "first": [
+   "KeplerPostRC4",
+   "dc4a6439fa8e8ca2785cdf149b9ac3b757372f75"
+  ],
+  "last": [
+   "2026-03",
+   "b383d19be4444dfc09d146de1388bc9ec64c1415"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 21541
+ },
+ "PDE": {
+  "feature": "PDE",
+  "repository": "eclipse.pde",
+  "folder": "eclipse.pde",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 59,
+  "duplicates": {
+   "56e820cd": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ]
+  },
+  "n_breaks": 19,
+  "off_mainline": [
+   {
+    "release": "JunoSR0",
+    "all": [
+     "JunoSR0"
+    ],
+    "commit": "4a9e185f",
+    "date": "2012-07-30",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_10_maintenance",
+     "origin/R4_11_maintenance",
+     "origin/R4_12_maintenance",
+     "origin/R4_13_maintenance"
+    ],
+    "n_branches": 52,
+    "contained_in_tag": "I20160308-0800~8^2~39",
+    "prev_tag": ""
+   },
+   {
+    "release": "JunoSR2",
+    "all": [
+     "JunoSR2"
+    ],
+    "commit": "89521d0c",
+    "date": "2013-02-22",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_24_maintenance",
+     "origin/R4_25_maintenance",
+     "origin/R4_26_maintenance",
+     "origin/R4_27_maintenance"
+    ],
+    "n_branches": 34,
+    "contained_in_tag": "I20220502-1800~1^2^2~227",
+    "prev_tag": ""
+   },
+   {
+    "release": "LunaSR0",
+    "all": [
+     "LunaSR0",
+     "z20140805-2300",
+     "z20140806"
+    ],
+    "commit": "56e820cd",
+    "date": "2014-07-28",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_31_maintenance",
+     "origin/R4_32_maintenance",
+     "origin/R4_33_maintenance",
+     "origin/R4_34_maintenance"
+    ],
+    "n_branches": 27,
+    "contained_in_tag": "I20240128-1800~2^2~4^2~483",
+    "prev_tag": ""
+   },
+   {
+    "release": "LunaRC4",
+    "all": [
+     "LunaRC4"
+    ],
+    "commit": "82b345f7",
+    "date": "2014-09-17",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_31_maintenance",
+     "origin/R4_32_maintenance",
+     "origin/R4_33_maintenance",
+     "origin/R4_34_maintenance"
+    ],
+    "n_branches": 27,
+    "contained_in_tag": "I20231127-0750~2^2~2^2~374",
+    "prev_tag": ""
+   },
+   {
+    "release": "LunaSR2",
+    "all": [
+     "LunaSR2"
+    ],
+    "commit": "334fc258",
+    "date": "2015-02-27",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_31_maintenance",
+     "origin/R4_32_maintenance",
+     "origin/R4_33_maintenance",
+     "origin/R4_34_maintenance"
+    ],
+    "n_branches": 27,
+    "contained_in_tag": "I20231127-0750~2^2~2^2~367",
+    "prev_tag": ""
+   },
+   {
+    "release": "Neon",
+    "all": [
+     "Neon"
+    ],
+    "commit": "72b301a3",
+    "date": "2016-06-10",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_31_maintenance",
+     "origin/R4_32_maintenance",
+     "origin/R4_33_maintenance",
+     "origin/R4_34_maintenance"
+    ],
+    "n_branches": 27,
+    "contained_in_tag": "I20231127-0750~2^2~2^2~331",
+    "prev_tag": ""
+   },
+   {
+    "release": "Neon.3",
+    "all": [
+     "Neon.3"
+    ],
+    "commit": "ba5ec30c",
+    "date": "2017-03-08",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_31_maintenance",
+     "origin/R4_32_maintenance",
+     "origin/R4_33_maintenance",
+     "origin/R4_34_maintenance"
+    ],
+    "n_branches": 27,
+    "contained_in_tag": "I20231127-0750~2^2~2^2~323",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.1",
+    "all": [
+     "Oxygen.1"
+    ],
+    "commit": "7ef1c73e",
+    "date": "2017-09-13",
+    "branches": [],
+    "n_branches": 0,
+    "contained_in_tag": "U20170913-1050",
+    "prev_tag": "U20170913-1050"
+   },
+   {
+    "release": "Oxygen.2_respin",
+    "all": [
+     "Oxygen.2_respin"
+    ],
+    "commit": "f870b0cd",
+    "date": "2017-12-15",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_24_maintenance",
+     "origin/R4_25_maintenance",
+     "origin/R4_26_maintenance",
+     "origin/R4_27_maintenance"
+    ],
+    "n_branches": 34,
+    "contained_in_tag": "I20220502-1800~1^2^2~124",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.3",
+    "all": [
+     "Oxygen.3"
+    ],
+    "commit": "7ab0a661",
+    "date": "2018-03-07",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_31_maintenance",
+     "origin/R4_32_maintenance",
+     "origin/R4_33_maintenance",
+     "origin/R4_34_maintenance"
+    ],
+    "n_branches": 27,
+    "contained_in_tag": "I20240128-1800~2^2~4^2~257",
+    "prev_tag": ""
+   },
+   {
+    "release": "2019-12",
+    "all": [
+     "2019-12"
+    ],
+    "commit": "345c7006",
+    "date": "2019-12-11",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_24_maintenance",
+     "origin/R4_25_maintenance",
+     "origin/R4_26_maintenance",
+     "origin/R4_27_maintenance"
+    ],
+    "n_branches": 34,
+    "contained_in_tag": "I20220502-1800~1^2^2~62",
+    "prev_tag": ""
+   },
+   {
+    "release": "2022-12",
+    "all": [
+     "2022-12"
+    ],
+    "commit": "e02a7a46",
+    "date": "2022-12-01",
+    "branches": [
+     "master",
+     "origin",
+     "origin/R4_31_maintenance",
+     "origin/R4_32_maintenance",
+     "origin/R4_33_maintenance",
+     "origin/R4_34_maintenance"
+    ],
+    "n_branches": 27,
+    "contained_in_tag": "I20231127-0750~2^2~2^2~38",
+    "prev_tag": ""
+   }
+  ],
+  "n_linear": 47,
+  "chain": [
+   [
+    "JunoSR1",
+    "5208d137cb542a98cdcf215dabb1202857d04a0b"
+   ],
+   [
+    "KeplerPostRC4",
+    "b19a80d4b4a77367c805d541d8c264b8e90b30f5"
+   ],
+   [
+    "KeplerSR0",
+    "6ba1c02eae5ff0fc790d4b1a7bca0513142792e6"
+   ],
+   [
+    "KeplerSR1",
+    "e6f525df8e19d335e8fad2ecf2c3d64de751196e"
+   ],
+   [
+    "S201504150911",
+    "4029ef0ec0a5a9fd5dafbfea7534336d9a13c695"
+   ],
+   [
+    "Mars.1",
+    "95ad7b194d9a98b93cd129f464dd5380842cf3a9"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "fe11360edec663af2c07c62defa68eaf1d8b007e"
+   ],
+   [
+    "Neon.1",
+    "3fb6647f7c0f9cf0b817c77b7a33227c746305c5"
+   ],
+   [
+    "Neon.1a",
+    "7955a54d253ac3800a8b1281b777d36c9350b439"
+   ],
+   [
+    "Neon.2",
+    "d62f33970d541497b2e4d79a252241406b3f25d4"
+   ],
+   [
+    "Neon.3_respin",
+    "e4bb30de813a5056165b1744ed0716224374727f"
+   ],
+   [
+    "Oxygen",
+    "a2cb6cabf3c2bd55e3c9f5767ee849f3ed03f5cd"
+   ],
+   [
+    "Oxygen.1a",
+    "39adffe24b0ab9e1577bb234278d0b5e7ea17ca6"
+   ],
+   [
+    "Oxygen.1a_respin",
+    "6806a417f990d8125a19e8f3104ff59f8c28c32c"
+   ],
+   [
+    "Oxygen.2",
+    "c0049a4412f15f1e9638e998adb52d2aacb4decd"
+   ],
+   [
+    "PhotonM7",
+    "e7a7976df3c6f971ddc6e6c3e03612d22b6018e0"
+   ],
+   [
+    "PhotonRC4",
+    "4f2df0738794a698de1f1e2a55255a1848870bf1"
+   ],
+   [
+    "Photon.0",
+    "740dc50afe044823533b4b072097ae75cffdc45b"
+   ],
+   [
+    "2018-09",
+    "7337e83b93b757b95d3b20b9c4997931902c9bd9"
+   ],
+   [
+    "2018-12",
+    "3978e8fc759d4c5e81924fbd517039665bf024e3"
+   ],
+   [
+    "2019-03",
+    "9f230ca478a8f63c675ba7c6bfeef5141c73565a"
+   ],
+   [
+    "2019-06",
+    "5f12b87308e18a3b1af4a03b54c8336a12c59b56"
+   ],
+   [
+    "2019-09",
+    "58833535613e362f2cf13cc2a6de012259fd1cee"
+   ],
+   [
+    "2020-03",
+    "ae6a95052678cf4eb963cf541f0b575d37533511"
+   ],
+   [
+    "2020-06",
+    "4c3efb60b0014ff1ef95c33cdf0ef3f6d433dc52"
+   ],
+   [
+    "2020-09",
+    "2fd512d7a9ea04ae6d7834bb1047a357fdd77466"
+   ],
+   [
+    "2020-12",
+    "4cebb57d364c3c564557499ad2300df5bd6bf8e8"
+   ],
+   [
+    "2021-03",
+    "388ac40c63db5fd7b14d0b80be79ade2169e9216"
+   ],
+   [
+    "2021-06",
+    "81ef921583c00ff7eb77f1590f4c5d11c0545585"
+   ],
+   [
+    "2021-09",
+    "d6d829ec89b8714810aae1f2ab95867279859dc9"
+   ],
+   [
+    "2021-12",
+    "89a89639c0c8f602335422e2fa5696b75618146a"
+   ],
+   [
+    "2022-03",
+    "2ae8a6ac23b3522ba4210204474d81d9da3abf0a"
+   ],
+   [
+    "2022-06",
+    "36b87ff2d4a4192fc9baa1fafa970a966464f506"
+   ],
+   [
+    "2022-09",
+    "a0df49dfeec924c18e154594a41019fbfd8d0aae"
+   ],
+   [
+    "2023-03",
+    "e1b12dfcdd3376654b36ae92a40cd091ca89891b"
+   ],
+   [
+    "2023-06",
+    "9690ac3e264523a1b6ad7a32937ebae59a8f2a4b"
+   ],
+   [
+    "2023-09",
+    "d6bd4d742496807eecb302eaa6d3c865f92d49a5"
+   ],
+   [
+    "2023-12",
+    "5a3eebe3989621aa6f5e97a58b986024bc962416"
+   ],
+   [
+    "2024-03",
+    "be45b894abed8caa9dfb45ad9080c5395db1bd8a"
+   ],
+   [
+    "2024-06",
+    "b0dc38abfc249283279cf2781a978090ee086ae8"
+   ],
+   [
+    "2024-09",
+    "0953a33f0825a551ba91983b9f80bb3a95ebf5e9"
+   ],
+   [
+    "2024-12",
+    "bb04e28f79f2eb22d3571de334a70b7a89b7f65f"
+   ],
+   [
+    "2025-03",
+    "cbc3b1b944fdba75fa59c3d8dab1eab7f0364a11"
+   ],
+   [
+    "2025-06",
+    "3807d8ba6dee5a3bc871416a1fb56ba40a94d8d6"
+   ],
+   [
+    "2025-09",
+    "0a4c7260eb34ca4d501a3f0f802d80942a238935"
+   ],
+   [
+    "2025-12",
+    "df29a670cd9da4880e63b851c280ddb7289a737e"
+   ],
+   [
+    "2026-03",
+    "12eae51a588dfcfad1eaea5174d43651c7fd427e"
+   ]
+  ],
+  "first": [
+   "JunoSR1",
+   "5208d137cb542a98cdcf215dabb1202857d04a0b"
+  ],
+  "last": [
+   "2026-03",
+   "12eae51a588dfcfad1eaea5174d43651c7fd427e"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 9608
+ },
+ "PTP": {
+  "feature": "PTP",
+  "repository": "ptp",
+  "folder": "ptp",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 27,
+  "duplicates": {
+   "ce339339": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "5159d58c": [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "Neon.1",
+    "Neon.1a"
+   ],
+   "f63cfee5": [
+    "Neon.3",
+    "Neon.3_respin"
+   ],
+   "9b58f4f9": [
+    "Oxygen.1",
+    "Oxygen.1a",
+    "Oxygen.1a_respin",
+    "Oxygen.2",
+    "Oxygen.2_respin"
+   ],
+   "40bcb0ec": [
+    "PhotonRC4",
+    "Photon.0",
+    "2018-09"
+   ],
+   "de7d0f00": [
+    "2020-03",
+    "2020-06",
+    "2020-09",
+    "2020-12",
+    "2021-03",
+    "2021-06"
+   ],
+   "47cda24d": [
+    "2021-09",
+    "2021-12",
+    "2022-03",
+    "2022-06",
+    "2022-09",
+    "2022-12",
+    "2023-03",
+    "2023-06",
+    "2023-09",
+    "2023-12",
+    "2024-03",
+    "2024-06",
+    "2024-09",
+    "2024-12",
+    "2025-03",
+    "2025-06",
+    "2025-09",
+    "2025-12",
+    "2026-03"
+   ]
+  },
+  "n_breaks": 2,
+  "off_mainline": [
+   {
+    "release": "Oxygen.1",
+    "all": [
+     "Oxygen.1",
+     "Oxygen.1a",
+     "Oxygen.1a_respin",
+     "Oxygen.2",
+     "Oxygen.2_respin"
+    ],
+    "commit": "9b58f4f9",
+    "date": "2017-08-29",
+    "branches": [
+     "origin/ptp_9_1"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "PTP_9_1_0"
+   },
+   {
+    "release": "Oxygen.3",
+    "all": [
+     "Oxygen.3"
+    ],
+    "commit": "dd13c35f",
+    "date": "2018-02-22",
+    "branches": [
+     "origin/ptp_9_1"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "PTP_9_1_0"
+   }
+  ],
+  "n_linear": 25,
+  "chain": [
+   [
+    "JunoSR0",
+    "f2224498eb085071487580144748f4b370c22fc2"
+   ],
+   [
+    "JunoSR1",
+    "f9f341ba3b6a81f1a4f1e8c1d167142b84dcb580"
+   ],
+   [
+    "JunoSR2",
+    "eee1481772e56b2efbf3be1e15a4aca7f8100672"
+   ],
+   [
+    "KeplerPostRC4",
+    "9e0a662fa04da7150d74411cae28e23861d9a5e2"
+   ],
+   [
+    "KeplerSR0",
+    "cf9e7c11a5a973301ade7e86972f5908b41043e1"
+   ],
+   [
+    "KeplerSR1",
+    "5663cb84faa9409b783dc122d501ffa90757b9ca"
+   ],
+   [
+    "LunaSR0",
+    "ce3393390711bf7d8d5b444409892d1ff75490a5"
+   ],
+   [
+    "LunaRC4",
+    "98a56faf07ef08abac2e6d5d1c6234e4a7dcfc43"
+   ],
+   [
+    "LunaSR2",
+    "cad812bfc30579d41d1fb96d6a564c81ec1d7aef"
+   ],
+   [
+    "S201504150911",
+    "640630c85bc0dfcf6981400e1744e6ebe5fcb721"
+   ],
+   [
+    "Mars.1",
+    "d29bd0001cd96e543bf4414362e103a900ce5624"
+   ],
+   [
+    "Neon",
+    "9259d0a14a8278434420ecfa4cda76d738b3205f"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "5159d58c7f9f98a166dd19b52a923099ef2ddee9"
+   ],
+   [
+    "Neon.2",
+    "7ae28fae871122cf3ead91cc8a1b0d753cae543d"
+   ],
+   [
+    "Neon.3",
+    "f63cfee53c55bbe9f4d15755f5dcf2b2ba51aef0"
+   ],
+   [
+    "Oxygen",
+    "2b945b3f07b8c8a3377276732f76cde57eda5d3b"
+   ],
+   [
+    "PhotonM7",
+    "1248d7cd8c939570c08fe0090ee4185e3cf8c17b"
+   ],
+   [
+    "PhotonRC4",
+    "40bcb0ece8e4c271effedb728392f39b0dfeff5f"
+   ],
+   [
+    "2018-12",
+    "e0083dcb17aa3d30c9227e7552702960aadad44a"
+   ],
+   [
+    "2019-03",
+    "047aee100c989827894a95821587119c4e9740c6"
+   ],
+   [
+    "2019-06",
+    "1158a49b8a3c4111f27360ba7dae74c3b5886c24"
+   ],
+   [
+    "2019-09",
+    "9bf4c1d7f19fc109936c85dc739e46dd09fd5ac7"
+   ],
+   [
+    "2019-12",
+    "efdadc851b2f47149797180f947465dfa9c7f8fc"
+   ],
+   [
+    "2020-03",
+    "de7d0f00a554ca3c18ebed0fa1d2f8fd3e34a9ed"
+   ],
+   [
+    "2021-09",
+    "47cda24d74701d40908ccffaf45cbb55a14aa387"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "f2224498eb085071487580144748f4b370c22fc2"
+  ],
+  "last": [
+   "2021-09",
+   "47cda24d74701d40908ccffaf45cbb55a14aa387"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 1652
+ },
+ "RAP": {
+  "feature": "RAP",
+  "repository": "org.eclipse.rap",
+  "folder": "org.eclipse.rap",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 55,
+  "duplicates": {
+   "b3f4e97a": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "b475508a": [
+    "Neon.3",
+    "Neon.3_respin"
+   ],
+   "f62bd589": [
+    "Oxygen.1",
+    "Oxygen.1a",
+    "Oxygen.1a_respin"
+   ],
+   "16766970": [
+    "PhotonRC4",
+    "Photon.0"
+   ]
+  },
+  "n_breaks": 5,
+  "off_mainline": [
+   {
+    "release": "Neon.1a",
+    "all": [
+     "Neon.1a"
+    ],
+    "commit": "c5cd709d",
+    "date": "2016-09-28",
+    "branches": [
+     "origin/streams/3.1-maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "3.1.1-SR1^0",
+    "prev_tag": "3.1.1-SR1"
+   },
+   {
+    "release": "Neon.2",
+    "all": [
+     "Neon.2"
+    ],
+    "commit": "220db1c0",
+    "date": "2016-11-30",
+    "branches": [
+     "origin/streams/3.1-maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "3.1.2-RC3^0",
+    "prev_tag": "3.1.2-SR2"
+   },
+   {
+    "release": "Neon.3",
+    "all": [
+     "Neon.3",
+     "Neon.3_respin"
+    ],
+    "commit": "b475508a",
+    "date": "2017-03-08",
+    "branches": [
+     "origin/streams/3.1-maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "3.1.2-SR2a^0",
+    "prev_tag": "3.1.2-SR2a"
+   },
+   {
+    "release": "Oxygen.3",
+    "all": [
+     "Oxygen.3"
+    ],
+    "commit": "c62d0def",
+    "date": "2018-03-05",
+    "branches": [
+     "origin/streams/3.4-maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "3.4.0-SR1^0",
+    "prev_tag": "3.4.0-SR1"
+   },
+   {
+    "release": "2023-09",
+    "all": [
+     "2023-09"
+    ],
+    "commit": "7af35116",
+    "date": "2023-09-06",
+    "branches": [
+     "origin/streams/3.25-maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "3.25.1-R^0",
+    "prev_tag": "3.25.1-R"
+   }
+  ],
+  "n_linear": 50,
+  "chain": [
+   [
+    "JunoSR0",
+    "8d7992a5694f6c7b776eb4d45d3700a4bf8e0e65"
+   ],
+   [
+    "JunoSR1",
+    "cfe264928ed87d4b0b11c3ec4e48502b186e0044"
+   ],
+   [
+    "JunoSR2",
+    "48356638e6b171eca543d780a995029bb5f6fcd4"
+   ],
+   [
+    "KeplerPostRC4",
+    "69a31335caf32c0edbecb2662f90458129cc2501"
+   ],
+   [
+    "KeplerSR0",
+    "9a1e7584bb83b17ca197675f5684c76e69a5d3fe"
+   ],
+   [
+    "KeplerSR1",
+    "7ccd138f02817ff71d74737a7f14ea0e2452d5dd"
+   ],
+   [
+    "LunaSR0",
+    "b3f4e97a7fc3215b7346f53fd2bef8eb6fcb9440"
+   ],
+   [
+    "LunaRC4",
+    "435ec43f1cc7041418a10b4f2cf2b2e6bc7c9bf4"
+   ],
+   [
+    "LunaSR2",
+    "b8d27cdf3c6e6d6b1cde851d7e35beadd65f4f95"
+   ],
+   [
+    "S201504150911",
+    "499fcb2cc73741f79088ec515596f39d974688d3"
+   ],
+   [
+    "Mars.1",
+    "acd83df132e243075eae9ee2ccf73069953a5fe3"
+   ],
+   [
+    "Neon",
+    "ae731db6b68df22cd2788b554ee4cf7c884df11b"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "27bd3cd2161d8be9a1b27669f9d22a428a85f635"
+   ],
+   [
+    "Neon.1",
+    "4f624cae815fc953dea418ab3be4213055ebb3a2"
+   ],
+   [
+    "Oxygen",
+    "e674cd0de73c1420c7ce38cddf671944ff56a1ee"
+   ],
+   [
+    "Oxygen.1",
+    "f62bd5892f783561bb9ccd503831a9a6a3af8f41"
+   ],
+   [
+    "Oxygen.2",
+    "a719a6f40ff82bd433804102e766ecc0abb348b1"
+   ],
+   [
+    "Oxygen.2_respin",
+    "86879549f552b6260bd974aa5754e493de9a20c9"
+   ],
+   [
+    "PhotonM7",
+    "26cc0b441b850ee6b9f200ee8679e597f3aaf84f"
+   ],
+   [
+    "PhotonRC4",
+    "1676697011895c0ed5171f34cf43368955ac1cdb"
+   ],
+   [
+    "2018-09",
+    "89b5b79f032992dccbf61d6c47230b8bd2ec3fb9"
+   ],
+   [
+    "2018-12",
+    "11f27e53553e8f017994bd05a55822be2391fbd7"
+   ],
+   [
+    "2019-03",
+    "c669a5fa707c9a92aba1228ab99679ae509461ff"
+   ],
+   [
+    "2019-06",
+    "212d38cab8db0b0d4a743876b9f79e29eca94078"
+   ],
+   [
+    "2019-09",
+    "052ecd73ae6ce295aea6166c85698835d3a62794"
+   ],
+   [
+    "2019-12",
+    "ddaca228518e7f1e8a12d2671e8150c0f724231b"
+   ],
+   [
+    "2020-03",
+    "1902b93e3e65305cc394c9f628a510b4978d342e"
+   ],
+   [
+    "2020-06",
+    "697acf7c0a5d9780b322e48a21aeb853948de0ed"
+   ],
+   [
+    "2020-09",
+    "d6216afa368dc646880cca819bb27fbffa7261c7"
+   ],
+   [
+    "2020-12",
+    "aeb87f3e780ea591a61f0a928e784bd380f82a51"
+   ],
+   [
+    "2021-03",
+    "30a40e909920c79e073eb8a0c5c4b533b5c0298c"
+   ],
+   [
+    "2021-06",
+    "eaf54ab416680ac52c6e0cad1ef9069224ed2ce7"
+   ],
+   [
+    "2021-09",
+    "8200789af56a0dcd2f57142d598b471aaff3500f"
+   ],
+   [
+    "2021-12",
+    "932eee66605d9662c0396e5632ed977b23030534"
+   ],
+   [
+    "2022-03",
+    "94359132b300ef6fbcdbf1f9bc3a8b7a37380d53"
+   ],
+   [
+    "2022-06",
+    "5d5a818c12e2251ccf222523c5588b004a2b51ad"
+   ],
+   [
+    "2022-09",
+    "a5f857db0fd298714e0b0077787586113d689b7c"
+   ],
+   [
+    "2022-12",
+    "5a3a92b3b970d6cb6c1122b3556cfb3ce561980b"
+   ],
+   [
+    "2023-03",
+    "a1d8ac402b8725349ebd0ffff5f67055ecdafdcf"
+   ],
+   [
+    "2023-06",
+    "a8ffd5a28f8ed7cd1cb5d3ca04019fd4ab192a0c"
+   ],
+   [
+    "2023-12",
+    "fd87bdc6c7336f2270a2344956c942d08afa85b7"
+   ],
+   [
+    "2024-03",
+    "7c324570f118cb0781e397aed066a0cd631611fc"
+   ],
+   [
+    "2024-06",
+    "7c52e752d80cba7a7c7b5cd7ec68b615b3df45e5"
+   ],
+   [
+    "2024-09",
+    "1fbb6fb105c12a76d27cbc71c882d0a7e603e1d7"
+   ],
+   [
+    "2024-12",
+    "9e4918411d018116741a5ee4251f307e2d2e033e"
+   ],
+   [
+    "2025-03",
+    "70ab208bf6bce617a851a2fee327a9fa9feefaff"
+   ],
+   [
+    "2025-06",
+    "82edfd5b32ac75571a4a4e1f55a98b08c151e99f"
+   ],
+   [
+    "2025-09",
+    "871102254f14aa8c4b71d054061b83ab6d417e96"
+   ],
+   [
+    "2025-12",
+    "b7d137b321955cee74a15dd5390ca7f74011ee98"
+   ],
+   [
+    "2026-03",
+    "2d9a81d4494b4f1e9e98ff8428fe376a60fc0512"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "8d7992a5694f6c7b776eb4d45d3700a4bf8e0e65"
+  ],
+  "last": [
+   "2026-03",
+   "2d9a81d4494b4f1e9e98ff8428fe376a60fc0512"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 3285
+ },
+ "Scout": {
+  "feature": "Scout",
+  "repository": "scout.rt",
+  "folder": "scout.rt",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 59,
+  "duplicates": {
+   "276597d9": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ]
+  },
+  "n_breaks": 26,
+  "off_mainline": [
+   {
+    "release": "LunaRC4",
+    "all": [
+     "LunaRC4"
+    ],
+    "commit": "654bfa1d",
+    "date": "2014-09-17",
+    "branches": [
+     "releases/26.2",
+     "origin",
+     "origin/features/23.1/testing_library",
+     "origin/features/abur/22.0/invokeInitPageOnlyOnce",
+     "origin/features/abur/23.2/TreeUpdateNodeSize",
+     "origin/features/abur/restLookupSupport"
+    ],
+    "n_branches": 242,
+    "contained_in_tag": "5.2.0.B002~47^2~286^2~2557",
+    "prev_tag": ""
+   },
+   {
+    "release": "S201504150911",
+    "all": [
+     "S201504150911"
+    ],
+    "commit": "514077db",
+    "date": "2015-04-15",
+    "branches": [
+     "releases/26.2",
+     "origin",
+     "origin/features/23.1/testing_library",
+     "origin/features/abur/22.0/invokeInitPageOnlyOnce",
+     "origin/features/abur/23.2/TreeUpdateNodeSize",
+     "origin/features/abur/restLookupSupport"
+    ],
+    "n_branches": 242,
+    "contained_in_tag": "5.2.0.B002~47^2~286^2~1407",
+    "prev_tag": ""
+   },
+   {
+    "release": "Mars.1",
+    "all": [
+     "Mars.1"
+    ],
+    "commit": "ebd04590",
+    "date": "2015-09-23",
+    "branches": [
+     "releases/26.2",
+     "origin",
+     "origin/features/23.1/testing_library",
+     "origin/features/abur/22.0/invokeInitPageOnlyOnce",
+     "origin/features/abur/23.2/TreeUpdateNodeSize",
+     "origin/features/abur/restLookupSupport"
+    ],
+    "n_branches": 242,
+    "contained_in_tag": "5.2.0.B002~47^2~247",
+    "prev_tag": ""
+   },
+   {
+    "release": "Neon.3_respin",
+    "all": [
+     "Neon.3_respin"
+    ],
+    "commit": "c27be51c",
+    "date": "2017-03-14",
+    "branches": [],
+    "n_branches": 0,
+    "contained_in_tag": "6.1.0.M6^0",
+    "prev_tag": "6.1.0.M6"
+   },
+   {
+    "release": "Oxygen",
+    "all": [
+     "Oxygen"
+    ],
+    "commit": "eefab421",
+    "date": "2017-06-14",
+    "branches": [
+     "origin/releases/6.1.x"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "6.1.0.B013~30",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "PhotonM7",
+    "all": [
+     "PhotonM7"
+    ],
+    "commit": "1f860aeb",
+    "date": "2018-05-17",
+    "branches": [
+     "origin/releases/7.0.x"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "7.0.300.009~8",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2019-12",
+    "all": [
+     "2019-12"
+    ],
+    "commit": "51af2628",
+    "date": "2019-12-10",
+    "branches": [
+     "origin/features/cgu/9.0.x/ci",
+     "origin/releases/9.0.x"
+    ],
+    "n_branches": 2,
+    "contained_in_tag": "9.0.0.034~10",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2020-03",
+    "all": [
+     "2020-03"
+    ],
+    "commit": "38d523a1",
+    "date": "2020-03-11",
+    "branches": [
+     "origin/features/cgu/9.0.x/ci",
+     "origin/releases/9.0.x"
+    ],
+    "n_branches": 2,
+    "contained_in_tag": "9.0.0.038~33",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2020-06",
+    "all": [
+     "2020-06"
+    ],
+    "commit": "e285c43d",
+    "date": "2020-06-10",
+    "branches": [
+     "origin/features/awe/16.2/322260_cx_francais",
+     "origin/features/cgu/10.0/ci",
+     "origin/features/mru/263577_doTypeNames",
+     "origin/features/mru/269382_kerberos",
+     "origin/features/pbazzi/jackson-per-call-attributes",
+     "origin/features/pbazzi/rest-refactor-closing-apache-connector"
+    ],
+    "n_branches": 7,
+    "contained_in_tag": "10.0.24~11",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2021-03",
+    "all": [
+     "2021-03"
+    ],
+    "commit": "4c355da1",
+    "date": "2021-03-10",
+    "branches": [
+     "origin/features/awe/16.2/322260_cx_francais",
+     "origin/features/cgu/10.0/ci",
+     "origin/features/pbazzi/jackson-per-call-attributes",
+     "origin/features/pbazzi/rest-refactor-closing-apache-connector",
+     "origin/releases/10.0"
+    ],
+    "n_branches": 5,
+    "contained_in_tag": "10.0.48~11",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2021-09",
+    "all": [
+     "2021-09"
+    ],
+    "commit": "48d850c6",
+    "date": "2021-09-08",
+    "branches": [
+     "origin/features/aeg/11.0/320004",
+     "origin/features/aeg/11.0/update-json-desktop-test",
+     "origin/features/avd/typos",
+     "origin/features/avd/typos2",
+     "origin/features/cgu/11.0/ci",
+     "origin/features/pbazzi/237883-rest-proxy"
+    ],
+    "n_branches": 7,
+    "contained_in_tag": "11.0.34~1",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2022-03",
+    "all": [
+     "2022-03"
+    ],
+    "commit": "04328494",
+    "date": "2022-03-14",
+    "branches": [],
+    "n_branches": 0,
+    "contained_in_tag": "22.0.2-beta.2",
+    "prev_tag": "22.0.2-beta.2"
+   },
+   {
+    "release": "2022-06",
+    "all": [
+     "2022-06"
+    ],
+    "commit": "93b5ee5f",
+    "date": "2022-06-10",
+    "branches": [
+     "origin/features/cgu/10.0/ci",
+     "origin/releases/10.0"
+    ],
+    "n_branches": 2,
+    "contained_in_tag": "10.0.61~4",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2022-12",
+    "all": [
+     "2022-12"
+    ],
+    "commit": "bbb50b76",
+    "date": "2022-12-05",
+    "branches": [
+     "origin/features/aeg/11.0/320004",
+     "origin/features/cgu/11.0/ci",
+     "origin/releases/11.0"
+    ],
+    "n_branches": 3,
+    "contained_in_tag": "11.0.58~3",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2023-03",
+    "all": [
+     "2023-03"
+    ],
+    "commit": "c7093892",
+    "date": "2023-03-29",
+    "branches": [
+     "origin/features/csk/23.2/treeNode_extension"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2023-06",
+    "all": [
+     "2023-06"
+    ],
+    "commit": "681a0307",
+    "date": "2023-06-12",
+    "branches": [
+     "origin/features/sme/23.2/338674_extensibility_of_desktop_and_session"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2023-09",
+    "all": [
+     "2023-09"
+    ],
+    "commit": "07d4892f",
+    "date": "2023-09-07",
+    "branches": [
+     "origin/features/nsd/23.2/348303_Restarbeiten_TypeScript_migration"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2024-09",
+    "all": [
+     "2024-09"
+    ],
+    "commit": "23fb4663",
+    "date": "2024-09-06",
+    "branches": [
+     "origin/features/abur/23.2/TreeUpdateNodeSize",
+     "origin/features/nsd/23.2/traces_ipa",
+     "origin/releases/23.2"
+    ],
+    "n_branches": 3,
+    "contained_in_tag": "23.2.27~4",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2025-03",
+    "all": [
+     "2025-03"
+    ],
+    "commit": "0046a1b7",
+    "date": "2025-03-05",
+    "branches": [
+     "origin/features/bsh/24.2/301956_table_orphan_rows",
+     "origin/features/knicksaas/24.2/improve_calendar_component_drag_n_drop",
+     "origin/features/lto/24.2/387153-normalize",
+     "origin/features/lto/24.2/csv-helper",
+     "origin/hotfixes/24.2.23",
+     "origin/hotfixes/24.2.28"
+    ],
+    "n_branches": 7,
+    "contained_in_tag": "24.2.22~4",
+    "prev_tag": "Neon_M5"
+   },
+   {
+    "release": "2025-12",
+    "all": [
+     "2025-12"
+    ],
+    "commit": "3c12cb70",
+    "date": "2025-12-05",
+    "branches": [
+     "origin/features/bsh/26.1/custom_columns_tmp_1205",
+     "origin/features/bsh/26.1/custom_columns_tmp_1208"
+    ],
+    "n_branches": 2,
+    "contained_in_tag": "",
+    "prev_tag": "Neon_M5"
+   }
+  ],
+  "n_linear": 39,
+  "chain": [
+   [
+    "JunoSR0",
+    "85a8580d47889bc30be2e29f5e1caa50239be501"
+   ],
+   [
+    "JunoSR1",
+    "0040c82208cbbf1da96be817f611a21718d1f465"
+   ],
+   [
+    "JunoSR2",
+    "53b87bda4f4264aca089cd90de5b64a4fb2a2f71"
+   ],
+   [
+    "KeplerPostRC4",
+    "20249e0a12e505fb6c3cc1d95d80373421d20aed"
+   ],
+   [
+    "KeplerSR0",
+    "946d6736bdac6ee7f38278f60d1c7ab4d153ce8b"
+   ],
+   [
+    "KeplerSR1",
+    "686209592c149c19c5e89d1bb23ec1378d923c1e"
+   ],
+   [
+    "LunaSR0",
+    "276597d976931e156712749912a22b48d23e0cad"
+   ],
+   [
+    "LunaSR2",
+    "a2ba392de8a894ab7afccd633c421751f8e6f303"
+   ],
+   [
+    "Neon",
+    "56e337fffdba133dc4e73009edf820861c9ec89c"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "9afff5af6a4685e385d935c6ddf946cbc1567ce4"
+   ],
+   [
+    "Neon.1",
+    "6edd40db1e8f6f60391ac6f833b164f88b212258"
+   ],
+   [
+    "Neon.1a",
+    "6372660acf2289c39af734e60b77412e55f5b9cc"
+   ],
+   [
+    "Neon.2",
+    "de2bcb86572b18cff46e346e23e4b8ba0e411646"
+   ],
+   [
+    "Neon.3",
+    "8019ab141b48ac68fda0c3521c10a6b8b8a3628d"
+   ],
+   [
+    "Oxygen.1",
+    "96b39ed1460caf917ec2f407c1b57db6714c171b"
+   ],
+   [
+    "Oxygen.1a",
+    "df8fb436b7f59c1f60fd37b192b26814b365d5fe"
+   ],
+   [
+    "Oxygen.1a_respin",
+    "906de45f0463b11b0560743f7cc92aa62df0d5e4"
+   ],
+   [
+    "Oxygen.2",
+    "520491bfb9ce011b6a7255e03e5a4d29c194d0fe"
+   ],
+   [
+    "Oxygen.2_respin",
+    "1439b7d074db95f890e8b5dabff017b6f1a40360"
+   ],
+   [
+    "Oxygen.3",
+    "c7f159fb440aa65c8eaaecf4ec69d1fd5616f4e7"
+   ],
+   [
+    "PhotonRC4",
+    "b474cc1f42226ecabf1ece3d7e4c95666f20b6dd"
+   ],
+   [
+    "Photon.0",
+    "4518c61e360e69ce1af2f005787f157ad4c03615"
+   ],
+   [
+    "2018-09",
+    "98c647195378091209f027a4b3dbec396b3c005f"
+   ],
+   [
+    "2018-12",
+    "9a80baec9fb700abb4f694433cc1193cda54eb0f"
+   ],
+   [
+    "2019-03",
+    "28e71509b69a65d4720674c4051c6da4c76f795a"
+   ],
+   [
+    "2019-06",
+    "645d6e61e68282eb2cb4f74d8c6f8658b44701c6"
+   ],
+   [
+    "2019-09",
+    "15c824aeabf165576749b1021e047fb7d69cfb06"
+   ],
+   [
+    "2020-09",
+    "6c34eed74a813af1696b0576c2fa8109bdbd59d0"
+   ],
+   [
+    "2020-12",
+    "eeb07ca1dcd1bcfcc8eaa0bcfa0e854a74092301"
+   ],
+   [
+    "2021-06",
+    "aab255e23a72a7fecfb2405c920149daae470922"
+   ],
+   [
+    "2021-12",
+    "5c7f32c337d4fdc42131c9d215866ead312395b5"
+   ],
+   [
+    "2022-09",
+    "08ad2f24709758f5128060d67cc3412da889dad4"
+   ],
+   [
+    "2023-12",
+    "1416598d2dd5a6ca3011305e3d3c50353b8066e1"
+   ],
+   [
+    "2024-03",
+    "cab55c638fac62cc15047ef97268d5c0683849e5"
+   ],
+   [
+    "2024-06",
+    "bd8529dc6b32363b5e2b84976f6a8f73bca36ad6"
+   ],
+   [
+    "2024-12",
+    "2c17e831b76c1d2cd8ba3cbebc0ebaf4dba86f22"
+   ],
+   [
+    "2025-06",
+    "8e3f426b2986d40d6bdb78e04fe67a2c83eb67ce"
+   ],
+   [
+    "2025-09",
+    "c3a4da92e3118b8ae7ee2ec3a04f50081bdfcb39"
+   ],
+   [
+    "2026-03",
+    "5a5ff352b83a6ced8e76121dd6f7aee3b2017ea7"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "85a8580d47889bc30be2e29f5e1caa50239be501"
+  ],
+  "last": [
+   "2026-03",
+   "5a5ff352b83a6ced8e76121dd6f7aee3b2017ea7"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 16968
+ },
+ "Subversive": {
+  "feature": "Subversive",
+  "repository": "subclipse",
+  "folder": "subclipse",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 44,
+  "duplicates": {
+   "4a75102a": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "ec2f9ec8": [
+    "Neon.1",
+    "Neon.1a"
+   ],
+   "657019a7": [
+    "Neon.3",
+    "Neon.3_respin",
+    "Oxygen"
+   ],
+   "d4db021b": [
+    "Oxygen.1",
+    "Oxygen.1a",
+    "Oxygen.1a_respin"
+   ],
+   "841a6d1b": [
+    "Oxygen.2",
+    "Oxygen.2_respin"
+   ],
+   "43b895ad": [
+    "PhotonRC4",
+    "Photon.0"
+   ],
+   "2f5eb8e4": [
+    "2019-03",
+    "2019-06",
+    "2019-09",
+    "2019-12"
+   ],
+   "faec7378": [
+    "2023-12",
+    "2024-03",
+    "2024-06",
+    "2024-09"
+   ],
+   "35c348dd": [
+    "2024-12",
+    "2025-03"
+   ],
+   "aa338501": [
+    "2025-06",
+    "2025-09"
+   ]
+  },
+  "n_breaks": 2,
+  "off_mainline": [
+   {
+    "release": "PhotonM7",
+    "all": [
+     "PhotonM7"
+    ],
+    "commit": "67627a97",
+    "date": "2018-04-27",
+    "branches": [
+     "origin/release/4.2.x"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "4.2.4"
+   },
+   {
+    "release": "2018-12",
+    "all": [
+     "2018-12"
+    ],
+    "commit": "6846f324",
+    "date": "2018-12-05",
+    "branches": [
+     "master",
+     "origin",
+     "origin/dependabot/github_actions/all-updates-0924709c20",
+     "origin/issue48",
+     "origin/master"
+    ],
+    "n_branches": 5,
+    "contained_in_tag": "4.3.0~22",
+    "prev_tag": "4.2.4"
+   }
+  ],
+  "n_linear": 42,
+  "chain": [
+   [
+    "JunoSR0",
+    "e6db76f877eba30ffa58e56e8a40ccf82559d5e2"
+   ],
+   [
+    "JunoSR1",
+    "75df1340a9dbff3203e7b5ba11637d26c22563f8"
+   ],
+   [
+    "JunoSR2",
+    "6a14432c37fdb6325796ee3114e90d7063b38a2d"
+   ],
+   [
+    "KeplerPostRC4",
+    "8e9fc953c301ec1fdf957ee97378473b816b4520"
+   ],
+   [
+    "KeplerSR0",
+    "070b8059fadf0e905edceae9b244969f7f2e9ce6"
+   ],
+   [
+    "KeplerSR1",
+    "9ed205a1c4c76807351ed59b5574f8bd780bae61"
+   ],
+   [
+    "LunaSR0",
+    "4a75102a2adf705cfe471d6b46abd687a500b01b"
+   ],
+   [
+    "LunaRC4",
+    "f59180007d72e1c907d744d68f67b469f2b4cd52"
+   ],
+   [
+    "LunaSR2",
+    "e0cc582011a99080be2cc1e617f4a4bcdf1e4cc8"
+   ],
+   [
+    "S201504150911",
+    "a2e7c338e1231fb010612c260aec11297ac97e99"
+   ],
+   [
+    "Mars.1",
+    "8d6ed1a02f2743dc6043e9b63e10c42768f2d5ca"
+   ],
+   [
+    "Neon",
+    "f8829ef1687912f56d495a3270baa122ba836fc6"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "0c98b9c44f7553e774769c930eea10c697132bfa"
+   ],
+   [
+    "Neon.1",
+    "ec2f9ec8c55a6960a20bbcff3b992903b12a44a8"
+   ],
+   [
+    "Neon.2",
+    "9dccf998be71cc9a0f8ff3412730f9c9ef558352"
+   ],
+   [
+    "Neon.3",
+    "657019a714a587233c4fc3485f06ba2291ffd77e"
+   ],
+   [
+    "Oxygen.1",
+    "d4db021bf70b6c222ca1f8dbda8cbf3e01f0820f"
+   ],
+   [
+    "Oxygen.2",
+    "841a6d1bc616bfe7a5231e3f2404c6dee0c9352c"
+   ],
+   [
+    "Oxygen.3",
+    "55b89ac70d505462c312bfd68ef59ba2ed70bdee"
+   ],
+   [
+    "PhotonRC4",
+    "43b895ada8c957c66f9066259c37835edcf9eea3"
+   ],
+   [
+    "2018-09",
+    "88a4d1c24a1cda85b777dd8f73fa39e485018cac"
+   ],
+   [
+    "2019-03",
+    "2f5eb8e4b713747aa2a1f71982c3fe801ce8f750"
+   ],
+   [
+    "2020-03",
+    "c4f7b1061e833fb6e8983c209eeba5cb9b500f5c"
+   ],
+   [
+    "2020-06",
+    "2b12d26c2cb8ac945b789287a74c21caf340a6bb"
+   ],
+   [
+    "2020-09",
+    "f06c2b2c5285c7900ae93284f218a62fc5449074"
+   ],
+   [
+    "2020-12",
+    "3a0f5cb8a3109621463d0d811d1492071183a4a8"
+   ],
+   [
+    "2021-03",
+    "12e1c2f19ce4b077a70e2f1a72e6ddb4f80b1cfb"
+   ],
+   [
+    "2021-06",
+    "09d259b4996b4acc1ee5b24cb25a9804243b877c"
+   ],
+   [
+    "2021-09",
+    "29bc9ecfd5f74a04278a1b45868c3aba4cdb2bda"
+   ],
+   [
+    "2021-12",
+    "0d7412c109e1d24f93e0f58b689c099ebb0fc92b"
+   ],
+   [
+    "2022-03",
+    "7e5556335cfe1b45075e4bec355795b185327ff4"
+   ],
+   [
+    "2022-06",
+    "191c5e4c197c484cfb7b5ddec4af08daaba068c3"
+   ],
+   [
+    "2022-09",
+    "217b9dc032b57b62c949f0de6d18b6cd452a0cb9"
+   ],
+   [
+    "2022-12",
+    "b449b399b0a997e7ca7e04fb1e73a43bb4ccb796"
+   ],
+   [
+    "2023-03",
+    "8c48ea25e17052d75179f54e8bab8b190e193b20"
+   ],
+   [
+    "2023-06",
+    "8b703e326b3b9a7c821369a540c4a702d7677e7c"
+   ],
+   [
+    "2023-09",
+    "8fd258979c593c47f54cae889580039be40c06a6"
+   ],
+   [
+    "2023-12",
+    "faec73788333473572ebb1cc1d2c2986d6ba7fe9"
+   ],
+   [
+    "2024-12",
+    "35c348dd51862d2c8332f97372a460d992e244ba"
+   ],
+   [
+    "2025-06",
+    "aa338501b524bf9392970eb67831d80e0540f1b5"
+   ],
+   [
+    "2025-12",
+    "776381af0ad1174e5db82f052194c71a7fb0cce4"
+   ],
+   [
+    "2026-03",
+    "4e5be746ed187401275ffddda12157af243f5308"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "e6db76f877eba30ffa58e56e8a40ccf82559d5e2"
+  ],
+  "last": [
+   "2026-03",
+   "4e5be746ed187401275ffddda12157af243f5308"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 456
+ },
+ "WebTools": {
+  "feature": "WebTools",
+  "repository": "webtools.javaee",
+  "folder": "webtools.javaee",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 42,
+  "duplicates": {
+   "c51811e9": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "7c9fc516": [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "Neon.1",
+    "Neon.1a",
+    "Neon.2"
+   ],
+   "db1d4bc6": [
+    "Neon.3",
+    "Neon.3_respin"
+   ],
+   "5661ba4d": [
+    "Oxygen.1a",
+    "Oxygen.1a_respin"
+   ],
+   "5462e766": [
+    "PhotonRC4",
+    "Photon.0"
+   ],
+   "6333b839": [
+    "2018-09",
+    "2018-12",
+    "2019-03"
+   ],
+   "68631806": [
+    "2019-06",
+    "2019-09"
+   ],
+   "bfb7ef4f": [
+    "2019-12",
+    "2020-03",
+    "2020-06"
+   ],
+   "29e9635d": [
+    "2020-09",
+    "2020-12"
+   ],
+   "03bbc856": [
+    "2021-06",
+    "2021-09"
+   ],
+   "e2e839f2": [
+    "2022-09",
+    "2022-12"
+   ],
+   "8751ed94": [
+    "2023-09",
+    "2023-12"
+   ],
+   "7bc6cec1": [
+    "2024-09",
+    "2024-12"
+   ],
+   "1b27e392": [
+    "2025-12",
+    "2026-03"
+   ]
+  },
+  "n_breaks": 9,
+  "off_mainline": [
+   {
+    "release": "JunoSR0",
+    "all": [
+     "JunoSR0"
+    ],
+    "commit": "063cc639",
+    "date": "2012-07-16",
+    "branches": [],
+    "n_branches": 0,
+    "contained_in_tag": "v201207161555",
+    "prev_tag": "v201207161555"
+   },
+   {
+    "release": "JunoSR1",
+    "all": [
+     "JunoSR1"
+    ],
+    "commit": "b1f1b761",
+    "date": "2012-09-17",
+    "branches": [
+     "origin/R3_2_5_1_patches"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "v201209180000^0",
+    "prev_tag": "v201209180000"
+   },
+   {
+    "release": "KeplerSR0",
+    "all": [
+     "KeplerSR0"
+    ],
+    "commit": "972341e3",
+    "date": "2013-07-24",
+    "branches": [
+     "origin/R3_2_5_patches"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "v201307241900^0",
+    "prev_tag": "v201307241900"
+   },
+   {
+    "release": "KeplerSR1",
+    "all": [
+     "KeplerSR1"
+    ],
+    "commit": "e9101c83",
+    "date": "2013-09-11",
+    "branches": [
+     "master",
+     "origin/3.10.x",
+     "origin",
+     "origin/master"
+    ],
+    "n_branches": 4,
+    "contained_in_tag": "3.10.0~39^2~17",
+    "prev_tag": ""
+   },
+   {
+    "release": "LunaSR0",
+    "all": [
+     "LunaSR0",
+     "z20140805-2300",
+     "z20140806"
+    ],
+    "commit": "c51811e9",
+    "date": "2014-07-28",
+    "branches": [
+     "origin/R3_4_2_patches"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "v201407282130^0",
+    "prev_tag": "v201407282130"
+   },
+   {
+    "release": "Oxygen",
+    "all": [
+     "Oxygen"
+    ],
+    "commit": "43a5d659",
+    "date": "2017-05-16",
+    "branches": [
+     "master",
+     "origin/3.10.x",
+     "origin",
+     "origin/master"
+    ],
+    "n_branches": 4,
+    "contained_in_tag": "3.10.0~60^2~2",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.2",
+    "all": [
+     "Oxygen.2"
+    ],
+    "commit": "cef76a86",
+    "date": "2017-11-30",
+    "branches": [
+     "origin/R3_9_maintenance"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "R3_9_1a"
+   }
+  ],
+  "n_linear": 35,
+  "chain": [
+   [
+    "JunoSR2",
+    "638c52c3b12600f6a3b0ef2e3995c623e8f452f2"
+   ],
+   [
+    "KeplerPostRC4",
+    "8c94b6abbf2e9aceda4d6c458e543210b17c72d0"
+   ],
+   [
+    "LunaRC4",
+    "9075e61cff0a95f72a7e49b75251780edaa0a058"
+   ],
+   [
+    "LunaSR2",
+    "e4cef7f45ece47e55ccf21378252194427503150"
+   ],
+   [
+    "S201504150911",
+    "c461c25a2e40eca1e2558eb570fe59d90b649f4b"
+   ],
+   [
+    "Mars.1",
+    "a81fe5b6c40f6c7613bf64325451ae025bf0125c"
+   ],
+   [
+    "Neon",
+    "c271405ce3f29d733a50b0abb4d01941c96a6a9a"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "7c9fc5163a8c85bcefa8fff320f75ceddde9dc14"
+   ],
+   [
+    "Neon.3",
+    "db1d4bc60ddb87b1790340a1cec7dd6b8e450d4e"
+   ],
+   [
+    "Oxygen.1",
+    "93da6cd4cbaef5ac2a87e72f35364c10025e056a"
+   ],
+   [
+    "Oxygen.1a",
+    "5661ba4dc51211339e09daa74eb20bf9d8433d37"
+   ],
+   [
+    "Oxygen.2_respin",
+    "eb93a9c48bd709731366e7e43006caa939721f27"
+   ],
+   [
+    "Oxygen.3",
+    "7500821ec81657bafc1c6411d79547266d7befb8"
+   ],
+   [
+    "PhotonM7",
+    "5168f5f55a8d6a3940c83927975a77389098e949"
+   ],
+   [
+    "PhotonRC4",
+    "5462e7660c53030225f2152353c94967fd5ebfb8"
+   ],
+   [
+    "2018-09",
+    "6333b8395d4698c6a0f8a6338c0835ca3d0bc279"
+   ],
+   [
+    "2019-06",
+    "686318068a1d6374e5d9b83ccabac73ae44edd3c"
+   ],
+   [
+    "2019-12",
+    "bfb7ef4f2e3f60d30ea56253ce502ef9fb180832"
+   ],
+   [
+    "2020-09",
+    "29e9635d80800d4620f5752a3896f58078d995f8"
+   ],
+   [
+    "2021-03",
+    "78668ee96e7f71a3f49c0b2888e25c8154e64764"
+   ],
+   [
+    "2021-06",
+    "03bbc8568a57401aa555be9a61bab7b8aae4a14d"
+   ],
+   [
+    "2021-12",
+    "d1865ae278fc5b7bcc1c067ee86247e12c160a65"
+   ],
+   [
+    "2022-03",
+    "f18901b5c93914ba1af9a9418bf8a8bfa17eab9c"
+   ],
+   [
+    "2022-06",
+    "6ded3e64178b75d0eef443d48aca375ae97cc4c9"
+   ],
+   [
+    "2022-09",
+    "e2e839f2e17c77a83f1cfb38c6307746e1f3eea9"
+   ],
+   [
+    "2023-03",
+    "d09189b89c1915675163153831a5189757804199"
+   ],
+   [
+    "2023-06",
+    "4e67f7f333c900184fb77626e3c9ab89e8cc50a8"
+   ],
+   [
+    "2023-09",
+    "8751ed94486c6ec960fefaaa2b2c7b759bc7d2cb"
+   ],
+   [
+    "2024-03",
+    "22927bb365025cf747d1094c2a34b28232bf0190"
+   ],
+   [
+    "2024-06",
+    "da4d7804c602153209bb88f8edc223d2d554f78c"
+   ],
+   [
+    "2024-09",
+    "7bc6cec121fd043f8a4079fb5913def6efd147c3"
+   ],
+   [
+    "2025-03",
+    "1663ddeb42dc415e9e9e9c3bbf874a30355e3c34"
+   ],
+   [
+    "2025-06",
+    "f7fc58c432a7df410c922dd4b6447ee1ff2ea8d5"
+   ],
+   [
+    "2025-09",
+    "ffe0e73f2395d7f0c8eebd9c3a550c26902509a4"
+   ],
+   [
+    "2025-12",
+    "1b27e3927e3d033f0c26d1ea02c96100f5ade643"
+   ]
+  ],
+  "first": [
+   "JunoSR2",
+   "638c52c3b12600f6a3b0ef2e3995c623e8f452f2"
+  ],
+  "last": [
+   "2025-12",
+   "1b27e3927e3d033f0c26d1ea02c96100f5ade643"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 2424
+ },
+ "Window Builder": {
+  "feature": "Window Builder",
+  "repository": "windowbuilder",
+  "folder": "windowbuilder",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 47,
+  "duplicates": {
+   "0330cc7c": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "fa38bff9": [
+    "LunaSR2",
+    "S201504150911"
+   ],
+   "4beb5d23": [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "Neon.1",
+    "Neon.1a"
+   ],
+   "57b43fa2": [
+    "Neon.3",
+    "Neon.3_respin"
+   ],
+   "0d2bbc94": [
+    "Oxygen",
+    "Oxygen.1",
+    "Oxygen.1a",
+    "Oxygen.1a_respin"
+   ],
+   "571dc2a3": [
+    "PhotonM7",
+    "PhotonRC4",
+    "Photon.0",
+    "2018-09"
+   ],
+   "2e906633": [
+    "2019-06",
+    "2019-09"
+   ],
+   "5f70d71d": [
+    "2020-06",
+    "2020-09"
+   ]
+  },
+  "n_breaks": 0,
+  "off_mainline": [],
+  "n_linear": 47,
+  "chain": [
+   [
+    "JunoSR0",
+    "bd8f55da82fc1b82517f6c5f7f0ce7c71f064d79"
+   ],
+   [
+    "JunoSR1",
+    "536c8c8ecbf23ef18004708bc9bdc20e6e3548b6"
+   ],
+   [
+    "JunoSR2",
+    "10e53bb9c4dc0189d9f1741272751f00a1c6a55d"
+   ],
+   [
+    "KeplerPostRC4",
+    "c329a91b76f550cd4eb51b9fdfc6f90622745f44"
+   ],
+   [
+    "KeplerSR0",
+    "6de0b1982c077d795e7f0a068825c013a5a62c03"
+   ],
+   [
+    "KeplerSR1",
+    "bcad4d9af4e1747f0ff87da3f42166a27b3a52c5"
+   ],
+   [
+    "LunaSR0",
+    "0330cc7ce6329f40b77d898a04d430eb6f205e0c"
+   ],
+   [
+    "LunaRC4",
+    "ddb982ee34f307609437cf9befe7a6bad20dd8a9"
+   ],
+   [
+    "LunaSR2",
+    "fa38bff9c194c06ec3bd2e25f9d0e0f8c82227e5"
+   ],
+   [
+    "Mars.1",
+    "b3e352482d392f13f57b586b3916b770f391f104"
+   ],
+   [
+    "Neon",
+    "c4e0ead9dde1c8c64116c921f9d7b63cb2d4a54a"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "4beb5d2356a0330b75229f6c3535e30c7525b88d"
+   ],
+   [
+    "Neon.2",
+    "e9526ca7d8e21a435771db67ec1b29a2067906d3"
+   ],
+   [
+    "Neon.3",
+    "57b43fa2b78abcbe90cfe9e62cc71796b2c1a80a"
+   ],
+   [
+    "Oxygen",
+    "0d2bbc94cebd268721e3d34ac4f2f798dd70952f"
+   ],
+   [
+    "Oxygen.2",
+    "5a09a1a0fac040d27683dcf3a9119ed28961d8e0"
+   ],
+   [
+    "Oxygen.2_respin",
+    "682be225c3fa9d71e8e8fc64cce2c772c66b4bcc"
+   ],
+   [
+    "Oxygen.3",
+    "47e9177ee99229551055602303376566e933b136"
+   ],
+   [
+    "PhotonM7",
+    "571dc2a308dd38f285f46e4e3479c57c5dff781a"
+   ],
+   [
+    "2018-12",
+    "ffc06de7f28dd4c635959a030673ecd8e681553c"
+   ],
+   [
+    "2019-03",
+    "17700c4f6133fabb544b314d44a5e7fb724b9c5a"
+   ],
+   [
+    "2019-06",
+    "2e906633c59ac09d975cb2fe0c6256d043bf876b"
+   ],
+   [
+    "2019-12",
+    "6912838e8f92e2033f9cd26a7b0269a662c234b2"
+   ],
+   [
+    "2020-03",
+    "76a144d285d72878bc01ab6e9198b3d356c81349"
+   ],
+   [
+    "2020-06",
+    "5f70d71df9265ce71bce9dff447dc366dbe955bd"
+   ],
+   [
+    "2020-12",
+    "dae4bc39f8741ec22edc914440444491cb989c6d"
+   ],
+   [
+    "2021-03",
+    "38926a364b1904459d44f6742e7573b76f14ec5d"
+   ],
+   [
+    "2021-06",
+    "4ed27bca9e14baafd755899a1e5fb93aa9e3d674"
+   ],
+   [
+    "2021-09",
+    "9238c956e6da67cb0ef3c3566cfc835ae2d00c23"
+   ],
+   [
+    "2021-12",
+    "7f7b3130b0fc17e9f20b629d440b2258412b09a9"
+   ],
+   [
+    "2022-03",
+    "b7d3d540d933b93b5e867a5cd10a21fddc828bdc"
+   ],
+   [
+    "2022-06",
+    "d8e332a41eace140e96ce8836fe0f949022bf07b"
+   ],
+   [
+    "2022-09",
+    "e1c0db7b3bb62f3274fe89df2fa940fab9f81908"
+   ],
+   [
+    "2022-12",
+    "06ff485102ce83f83082dc2d9ef0e6720286afc5"
+   ],
+   [
+    "2023-03",
+    "7ce471952756cadc4fd6d2da3d94f18c04f1a6ab"
+   ],
+   [
+    "2023-06",
+    "4d7d79c2858324a0cab026d03faba424b07f96d8"
+   ],
+   [
+    "2023-09",
+    "5749a0877030439f5746261d072a120ed8ef4b78"
+   ],
+   [
+    "2023-12",
+    "2581b56875d2f99498ef224a0eb59212694754f2"
+   ],
+   [
+    "2024-03",
+    "a3a4e6673ee02c1cd6aaccfe7af396f4d6ae86a6"
+   ],
+   [
+    "2024-06",
+    "b7b7c51783004b38a711ddfb8402865853bd1904"
+   ],
+   [
+    "2024-09",
+    "6935b9a13ade5ac4ff22d381b9635725a48d3dd9"
+   ],
+   [
+    "2024-12",
+    "748186c5ac31430956688ccb66aedefaf2c06a65"
+   ],
+   [
+    "2025-03",
+    "085b69cac3262230582400776c4aaf02a07f85d3"
+   ],
+   [
+    "2025-06",
+    "b234390355dcef659063a5e7a66f5306753acb31"
+   ],
+   [
+    "2025-09",
+    "1c449360cf1a6a87c6186aec14d3839c4572c96b"
+   ],
+   [
+    "2025-12",
+    "419c6fe1846316f302352d5b91205eea4e207b07"
+   ],
+   [
+    "2026-03",
+    "7bf365b7c30f443bcb14e37b011288aa00fc20cd"
+   ]
+  ],
+  "first": [
+   "JunoSR0",
+   "bd8f55da82fc1b82517f6c5f7f0ce7c71f064d79"
+  ],
+  "last": [
+   "2026-03",
+   "7bf365b7c30f443bcb14e37b011288aa00fc20cd"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 1355
+ },
+ "m2e": {
+  "feature": "m2e",
+  "repository": "m2e-core",
+  "folder": "m2e-core",
+  "exists": true,
+  "n_releases": 61,
+  "bad_status": [],
+  "missing_commit": [],
+  "n_unique": 57,
+  "duplicates": {
+   "04dade2a": [
+    "LunaSR0",
+    "z20140805-2300",
+    "z20140806"
+   ],
+   "0ef4fbcb": [
+    "Neon.3",
+    "Neon.3_respin"
+   ],
+   "c304dad5": [
+    "PhotonRC4",
+    "Photon.0"
+   ]
+  },
+  "n_breaks": 11,
+  "off_mainline": [
+   {
+    "release": "JunoSR0",
+    "all": [
+     "JunoSR0"
+    ],
+    "commit": "a981bd76",
+    "date": "2012-08-03",
+    "branches": [
+     "main",
+     "origin",
+     "origin/bugfix/adjust-import-versions-for-maven-runtime",
+     "origin/bugfix/interpolate-model-prior-import",
+     "origin/bugfix/never-return-pom-path-for-non-pom-artifacts",
+     "origin/copilot/upgrade-maven-runtime-to-4"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "2.0~185^2~91",
+    "prev_tag": ""
+   },
+   {
+    "release": "S201504150911",
+    "all": [
+     "S201504150911"
+    ],
+    "commit": "4ef1f299",
+    "date": "2015-04-13",
+    "branches": [
+     "origin/m2e-1.5.x"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "milestones/1.5/1.5.2.20150413-2215",
+    "prev_tag": "milestones/1.5/1.5.2.20150413-2215"
+   },
+   {
+    "release": "Neon",
+    "all": [
+     "Neon"
+    ],
+    "commit": "535bbff4",
+    "date": "2016-06-08",
+    "branches": [
+     "main",
+     "origin",
+     "origin/bugfix/adjust-import-versions-for-maven-runtime",
+     "origin/bugfix/interpolate-model-prior-import",
+     "origin/bugfix/never-return-pom-path-for-non-pom-artifacts",
+     "origin/copilot/upgrade-maven-runtime-to-4"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "2.0~185^2~49",
+    "prev_tag": ""
+   },
+   {
+    "release": "Oxygen.1",
+    "all": [
+     "Oxygen.1"
+    ],
+    "commit": "2f1326cf",
+    "date": "2017-09-13",
+    "branches": [
+     "origin/m2e-1.8.x"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "milestones/1.8/1.8.2.20171007-0217~8",
+    "prev_tag": "milestones/1.8/1.8.1.20170728-1531"
+   },
+   {
+    "release": "Oxygen.1a_respin",
+    "all": [
+     "Oxygen.1a_respin"
+    ],
+    "commit": "a871a684",
+    "date": "2017-10-06",
+    "branches": [
+     "origin/m2e-1.8.x"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "milestones/1.8/1.8.2.20171007-0217",
+    "prev_tag": "milestones/1.8/1.8.2.20171007-0217"
+   },
+   {
+    "release": "Oxygen.3",
+    "all": [
+     "Oxygen.3"
+    ],
+    "commit": "8ee42385",
+    "date": "2018-02-26",
+    "branches": [
+     "main",
+     "origin",
+     "origin/bugfix/adjust-import-versions-for-maven-runtime",
+     "origin/bugfix/interpolate-model-prior-import",
+     "origin/bugfix/never-return-pom-path-for-non-pom-artifacts",
+     "origin/copilot/upgrade-maven-runtime-to-4"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "2.0~185^2~41",
+    "prev_tag": ""
+   },
+   {
+    "release": "PhotonM7",
+    "all": [
+     "PhotonM7"
+    ],
+    "commit": "cd000d90",
+    "date": "2018-05-15",
+    "branches": [
+     "main",
+     "origin",
+     "origin/bugfix/adjust-import-versions-for-maven-runtime",
+     "origin/bugfix/interpolate-model-prior-import",
+     "origin/bugfix/never-return-pom-path-for-non-pom-artifacts",
+     "origin/copilot/upgrade-maven-runtime-to-4"
+    ],
+    "n_branches": 12,
+    "contained_in_tag": "2.0~185^2~34",
+    "prev_tag": ""
+   },
+   {
+    "release": "2025-12",
+    "all": [
+     "2025-12"
+    ],
+    "commit": "f223e393",
+    "date": "2025-12-05",
+    "branches": [
+     "origin/bugfix/interpolate-model-prior-import"
+    ],
+    "n_branches": 1,
+    "contained_in_tag": "",
+    "prev_tag": "2.10.0"
+   }
+  ],
+  "n_linear": 49,
+  "chain": [
+   [
+    "JunoSR1",
+    "c6c6f910068295aaeedd72c99c0605eb422abe20"
+   ],
+   [
+    "JunoSR2",
+    "be7c29dfb8239a08acd6a719841569858db3f2f3"
+   ],
+   [
+    "KeplerPostRC4",
+    "7f943c9e10b30a74763e6d0c0b7aea9386db4dfd"
+   ],
+   [
+    "KeplerSR0",
+    "61f95d53ba4c44af04b0347a8c3f8ca44a81f6e8"
+   ],
+   [
+    "KeplerSR1",
+    "ca8878d7b261bab75cd86e00176c387dd90fc88b"
+   ],
+   [
+    "LunaSR0",
+    "04dade2a891c158558ea8aebe36e5c8ba2dbe111"
+   ],
+   [
+    "LunaRC4",
+    "6d2dcbf71c8bd7aded579fbe7f51c5a83ccc8d41"
+   ],
+   [
+    "LunaSR2",
+    "991a764bb4db30013b4f0f761baefedc5ce58cc5"
+   ],
+   [
+    "Mars.1",
+    "2247e9e5802f4fe1d275b3eb80808fa1574e7198"
+   ],
+   [
+    "OxygenPreRienaRemoval_9-8-2016",
+    "0872a369238f0408125ac2703cc0ff6b5388c21f"
+   ],
+   [
+    "Neon.1",
+    "eafaf78f436b8475cf9ec62e8f2b35d1210d84c1"
+   ],
+   [
+    "Neon.1a",
+    "f2699401cccb8f8937eb183bb30e89c351b07aad"
+   ],
+   [
+    "Neon.2",
+    "ea414f0aa0fbc234fd1795f94f6bcfed8188674f"
+   ],
+   [
+    "Neon.3",
+    "0ef4fbcb5815beef7f8013e90e6986d22f097528"
+   ],
+   [
+    "Oxygen",
+    "451808222c3dad3a0ab5a530b75e94e006041f71"
+   ],
+   [
+    "Oxygen.1a",
+    "63e7b680ffd81fe7802c667fb1c077e46a6a74ca"
+   ],
+   [
+    "Oxygen.2",
+    "bc287cf165dadea3b5411f9cff94e320eb8516ee"
+   ],
+   [
+    "Oxygen.2_respin",
+    "a22f29f4665530c55b9ac747baf46ca632878991"
+   ],
+   [
+    "PhotonRC4",
+    "c304dad55ce0f80d2cfcf75497280148ecdf1baf"
+   ],
+   [
+    "2018-09",
+    "fda7930db940ecd44b8f22c08478f389aa26aaf3"
+   ],
+   [
+    "2018-12",
+    "f13f3346eb19e1a98c0271d4b08faa6ac5c5c9b3"
+   ],
+   [
+    "2019-03",
+    "c5392da6bab9893bcbf5b43f651abe48d5819bea"
+   ],
+   [
+    "2019-06",
+    "665e15ce7b693dadc1b2a05efd511ce7aedbd697"
+   ],
+   [
+    "2019-09",
+    "11e1759f20f54b6ed36c25a6ab1f690999867e9a"
+   ],
+   [
+    "2019-12",
+    "acf8703b40fd6aebecd9a00ef2c57536cdb55ac5"
+   ],
+   [
+    "2020-03",
+    "8328691915d0e67544c97597b0ea02d559f0f4ea"
+   ],
+   [
+    "2020-06",
+    "d53d22d98f2ac6d1f7124e146df8ed6fb22f6a75"
+   ],
+   [
+    "2020-09",
+    "3e5f67a85cd2d2886086f9f0583b2d9b10c0a5cc"
+   ],
+   [
+    "2020-12",
+    "50a5edd278f7c4ea4cadcd2b4ba4aacde94c88c9"
+   ],
+   [
+    "2021-03",
+    "3e490a0a3c03523804604c5fe8c8dc55e985408c"
+   ],
+   [
+    "2021-06",
+    "234b378ec1b1c9ca1a2713e672c584adef4ff242"
+   ],
+   [
+    "2021-09",
+    "aa8a5266857f8a9c5746043ac5ae2b584bfbe3b3"
+   ],
+   [
+    "2021-12",
+    "cb2905b33bdbdbbfbd7a422e5b0d76ace2bbd300"
+   ],
+   [
+    "2022-03",
+    "dbf81d450b5baef13072d31492d9079607ac217a"
+   ],
+   [
+    "2022-06",
+    "c76ec876c69518c98e5bd3c4d09ee1713a41d020"
+   ],
+   [
+    "2022-09",
+    "2efa3542a0c5478f3b7ccb74e461cc9597ad2d7a"
+   ],
+   [
+    "2022-12",
+    "5abfe3578e059a1d5de90fe310327002ad5c4c83"
+   ],
+   [
+    "2023-03",
+    "43bba83d5d9d789e2a2f2749827b667bd7f94855"
+   ],
+   [
+    "2023-06",
+    "c008eb1339fc63bd71d490679ea3304e7abd574c"
+   ],
+   [
+    "2023-09",
+    "907cc57ade46bd34b17fd4d4beb70aaa6f292622"
+   ],
+   [
+    "2023-12",
+    "348ef88b0d92833eff038d721a98ccf50e9ef4fd"
+   ],
+   [
+    "2024-03",
+    "112488c013ba85ea43ad104296e391e68bd9fb50"
+   ],
+   [
+    "2024-06",
+    "9deadde94ccf8ceec05c7672a6829df778619ef6"
+   ],
+   [
+    "2024-09",
+    "fc65987d275262efa2dc14f23e1013989e0270ad"
+   ],
+   [
+    "2024-12",
+    "02d733c939e83248b12fbae40a195f27aa524e33"
+   ],
+   [
+    "2025-03",
+    "66b65ce74be066900570625791baa014049a7853"
+   ],
+   [
+    "2025-06",
+    "db6dd23d3ee8d781b0238896324f0e09bb60a874"
+   ],
+   [
+    "2025-09",
+    "bc9f5368675e410de0ad65a7883c70baf59e562c"
+   ],
+   [
+    "2026-03",
+    "4348a43f430061560138375c368b3e5a4a81d863"
+   ]
+  ],
+  "first": [
+   "JunoSR1",
+   "c6c6f910068295aaeedd72c99c0605eb422abe20"
+  ],
+  "last": [
+   "2026-03",
+   "4348a43f430061560138375c368b3e5a4a81d863"
+  ],
+  "gaps_zero_or_small": 0,
+  "commits_total_interval": 2240
+ }
+}

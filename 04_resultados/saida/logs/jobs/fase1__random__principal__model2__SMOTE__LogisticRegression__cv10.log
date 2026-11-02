@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-18 12:19:13 =====
+12:19:15 job fase1__random__principal__model2__SMOTE__LogisticRegression__cv10 | pid 28681 | threads 2
+12:19:18 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=98
+12:20:33   treino reamostrado: 22643988 linhas, 11321994 positivos
+12:31:49 AP=0.0367 AUC=0.8099 MCC=0.0788 F1(1)=0.0312 (740 s de treino)
+12:31:49 ok fase1__random__principal__model2__SMOTE__LogisticRegression__cv10 754.8 s, pico de RAM 68.85 GB

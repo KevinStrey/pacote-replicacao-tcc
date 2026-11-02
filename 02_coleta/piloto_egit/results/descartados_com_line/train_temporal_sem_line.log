@@ -1,0 +1,11 @@
+removed features: ['line']
+dataset: (342707, 152) positives: 4073 (1.19%)
+
+=== protocol temporal: train releases 1..42, test 43..56 | train=240793 (pos=3978) test=101914 (pos=95)
+temporal model1 NONE  RandomForest       AUC=0.632 AP=0.004 F1(1)=0.008 MCC=0.017 cvAUC=nan (8.3s)
+temporal model1 NONE  DT                 AUC=0.506 AP=0.002 F1(1)=0.004 MCC=0.007 cvAUC=nan (3.3s)
+temporal model1 NONE  LogisticRegression AUC=0.766 AP=0.008 F1(1)=0.005 MCC=0.030 cvAUC=nan (4.5s)
+temporal model1 NONE  MLP                AUC=0.777 AP=0.009 F1(1)=0.018 MCC=0.027 cvAUC=nan (69.2s)
+temporal model1 ROS   RandomForest       AUC=0.607 AP=0.004 F1(1)=0.002 MCC=0.002 cvAUC=nan (30.0s)
+temporal model1 ROS   DT                 AUC=0.501 AP=0.002 F1(1)=0.004 MCC=0.005 cvAUC=nan (8.8s)
+temporal model1 ROS   LogisticRegression AUC=0.766 AP=0.007 F1(1)=0.006 MCC=0.032 cvAUC=nan (11.9s)

@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-16 02:47:00 =====
+02:47:02 job fase1__random__principal__model3__SMOTE__DT__cv10 | pid 2651 | threads 1
+02:47:04 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=16
+02:47:36   treino reamostrado: 22643988 linhas, 11321994 positivos
+02:50:47 AP=0.0593 AUC=0.5759 MCC=0.0634 F1(1)=0.0403 (217 s de treino)
+02:50:47 ok fase1__random__principal__model3__SMOTE__DT__cv10 225.2 s, pico de RAM 23.67 GB

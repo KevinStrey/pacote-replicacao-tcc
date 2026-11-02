@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-16 18:20:50 =====
+18:20:52 job fase1__random__principal__model2__NONE__LinearSVC__cv02 | pid 2037 | threads 1
+18:20:54 treino=11377236 (pos=55243) avaliação=1264138 (pos=6138) colunas=98
+18:21:16   treino reamostrado: 11377236 linhas, 55243 positivos
+19:19:18 AP=0.0438 AUC=0.8212 MCC=0.0872 F1(1)=0.0354 (3491 s de treino)
+19:19:18 ok fase1__random__principal__model2__NONE__LinearSVC__cv02 3505.9 s, pico de RAM 41.03 GB

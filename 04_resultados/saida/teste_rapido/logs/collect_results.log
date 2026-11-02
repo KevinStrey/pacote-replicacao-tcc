@@ -1,0 +1,19 @@
+2026-10-15 21:08:02 158 configurações avaliadas no teste, 144 partes de CV
+2026-10-15 21:08:02 bootstrap: 15 tarefas, 50 reamostras, 15 processos
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__random__principal__model2__NONE__LightGBM__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__random__principal__model2__SMOTE__XGBoost__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__random__principal__model2__SMOTE__RandomForest__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__random__principal__model2__NONE__LogisticRegression__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__random__principal__model2__ROS__LinearSVC__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__random__principal__model3__ROS__DT__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__temporal__principal__model2__NONE__LogisticRegression__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__temporal__principal__model2__NONE__LinearSVC__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase2__temporal__principal__model1__ADA__MLP__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__temporal__principal__model2__SMOTE__LightGBM__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__temporal__principal__model2__ADA__XGBoost__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__temporal__principal__model2__SMOTE__RandomForest__teste
+2026-10-15 21:08:02 bootstrap ok: ic__fase1__temporal__principal__model3__NONE__DT__teste
+2026-10-15 21:08:02 bootstrap ok: par__fase3__random__sem_PTP_Scout_Mylyn__model2__NONE__LightGBM__teste
+2026-10-15 21:08:02 bootstrap ok: par__fase3__temporal__sem_PTP_Scout_Mylyn__model2__NONE__LogisticRegression__teste
+2026-10-15 21:08:28 nível de feature: 84 configurações temporais analisadas
+2026-10-15 21:08:28 coleta concluída em 27 s

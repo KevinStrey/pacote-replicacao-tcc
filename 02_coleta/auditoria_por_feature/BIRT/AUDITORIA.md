@@ -1,0 +1,63 @@
+# Auditoria da coleta: BIRT (`1-Repositorios/birt`)
+
+Gerado por `scripts/auditar_feature.py`. Decisões: `5-Coleta_features/INVENTARIO.md` (M1–M18); recursos e equivalência com o piloto: `5-Coleta_features/RECURSOS.md`.
+
+## 1. Linha do tempo
+- Snapshots: **27** (JunoSR0 → 2020-06; índices globais 1..29); datas do calendário na série: 30; duplicatas removidas: 3; lacunas de presença atravessadas: 0.
+- História linear verificada (s00). .java de produção: 7957 → 8050.
+- Commits nos intervalos: 2919; válidos: 2919; importados por merge e excluídos (M6): 0.
+
+## 2. Falhas de parsing do JavaParser (piloto: 0)
+- Versões de arquivo únicas: 11240; **falhas: 1**; métodos (sem anônimos/locais): 171218; descartados por chave duplicada no arquivo: 18; textos distintos: 75605.
+
+## 3. ChangeDistiller (piloto: 0 erros)
+- Chamadas: 2331; **erros (CDERROR): 0**.
+- CK: logs com exceção: 0 ; CSVs do Understand: 27 de 27.
+
+## 4. Taxas de match no join (piloto: ~100%)
+- Mínimo por release: evo_in_ck = 0.9998, evo_in_und = 1.0000, ck_in_evo = 0.9945, und_in_evo = 0.9996.
+- Média: evo_in_ck = 0.9998, evo_in_und = 1.0000. Tabela completa: `data/join_audit.csv`.
+
+## 5. Dataset e positivos por release
+- Linhas: **2041029**; positivos: **1867** (0.09%). A última release não tem rótulo.
+
+| Release (índice) | Tag | Métodos | Positivos | % |
+|---|---|---|---|---|
+| 1 | JunoSR0 | 77418 | 25 | 0.03 |
+| 4 | KeplerPostRC4 | 77429 | 1 | 0.00 |
+| 5 | KeplerSR0 | 77284 | 477 | 0.62 |
+| 6 | KeplerSR1 | 77802 | 48 | 0.06 |
+| 7 | LunaSR0 | 77823 | 17 | 0.02 |
+| 8 | LunaRC4 | 77562 | 730 | 0.94 |
+| 9 | LunaSR2 | 78482 | 17 | 0.02 |
+| 10 | S201504150911 | 78484 | 58 | 0.07 |
+| 11 | Mars.1 | 78526 | 253 | 0.32 |
+| 12 | Neon | 78751 | 20 | 0.03 |
+| 13 | Neon.1 | 78779 | 14 | 0.02 |
+| 14 | Neon.2 | 78785 | 17 | 0.02 |
+| 15 | Neon.3 | 78789 | 20 | 0.03 |
+| 16 | Oxygen | 78770 | 64 | 0.08 |
+| 17 | Oxygen.1 | 78805 | 0 | 0.00 |
+| 18 | Oxygen.1a | 78806 | 9 | 0.01 |
+| 19 | Oxygen.2 | 78807 | 18 | 0.02 |
+| 20 | Oxygen.3 | 78819 | 18 | 0.02 |
+| 21 | Photon.0 | 78829 | 15 | 0.02 |
+| 22 | 2018-09 | 78880 | 17 | 0.02 |
+| 23 | 2018-12 | 78897 | 4 | 0.01 |
+| 24 | 2019-03 | 78898 | 5 | 0.01 |
+| 25 | 2019-06 | 78897 | 11 | 0.01 |
+| 26 | 2019-09 | 78900 | 0 | 0.00 |
+| 27 | 2019-12 | 78901 | 7 | 0.01 |
+| 28 | 2020-03 | 78906 | 2 | 0.00 |
+
+## 6. Spot check das métricas evolutivas contra `git log -L`
+- Método: `org.eclipse.birt.report.engine.emitter.pptx.TextWriter.startBlockText(int,int,int,int,ContainerArea)` (arquivo `engine/org.eclipse.birt.report.engine.emitter.pptx/src/org/eclipse/birt/report/engine/emitter/pptx/TextWriter.java`, linhas 456,637 em dff3eaf55c)
+- Comando: `git -C 1-Repositorios/birt log --no-merges --format=%H --no-patch -L456,637:engine/org.eclipse.birt.report.engine.emitter.pptx/src/org/eclipse/birt/report/engine/emitter/pptx/TextWriter.java 8339b09c48..dff3eaf55c`
+- Commits contados pela s05: 28 | listados pelo `git log -L`: 18 | em comum: 12 | contados e não listados: 16
+- Resultado: **VERIFICAR** (commits contados fora do `git log -L`: 16a0ab33df, 22e9bfab11, 24e6c55b2c, 2e3831ba07, 35e5248626, 48a0b512e8, 53bcbd5eb9, 645d5221a6, 7e3ae5c36b, 89dcda7562)
+
+## 7. Quebras de identidade de métodos (M28, ameaça à validade)
+- Nascimentos após o 1º snapshot: 2109; por mudança de pacote/classe: 60; em código importado (M6, heurística): 0.
+- Efeito: histórico zerado (BOM = release da quebra; FRCH/CSB… recomeçam em 0) e método sem rótulo na transição. Detalhe: `data/identidade_metodos.csv`, `data/identidade_pares.csv`, `5-Coleta_features/AMEACA_identidade.md`.
+
+- Nenhuma transição acima do limite (≥ 100 ou ≥ 1% dos métodos).

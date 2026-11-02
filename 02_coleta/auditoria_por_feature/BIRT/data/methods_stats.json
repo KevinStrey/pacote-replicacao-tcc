@@ -1,0 +1,9 @@
+{
+ "blobs": 11240,
+ "parse_ok": 11239,
+ "anonymous_or_local": 10025,
+ "methods": 171218,
+ "duplicate_key": 18,
+ "parse_fail": 1,
+ "distinct_texts": 75605
+}

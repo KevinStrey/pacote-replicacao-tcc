@@ -1,0 +1,72 @@
+14:23:02 [BIRT] s07_join rc=0 199s
+14:23:06 [BIRT] auditar_feature rc=0 4s
+14:23:06 [BIRT] M26 DONE
+14:23:13 [CVS] s05_evometrics rc=0 7s
+14:23:30 [CVS] s07_join rc=0 17s
+14:23:31 [CVS] auditar_feature rc=0 1s
+14:23:31 [CVS] M26 DONE
+14:23:39 [Subversive] s05_evometrics rc=0 8s
+14:23:51 [Subversive] s07_join rc=0 12s
+14:23:52 [Subversive] auditar_feature rc=0 1s
+14:23:52 [Subversive] M26 DONE
+14:24:07 [GEF] s05_evometrics rc=0 15s
+14:24:30 [GEF] s07_join rc=0 23s
+14:24:31 [GEF] auditar_feature rc=0 1s
+14:24:31 [GEF] M26 DONE
+14:25:02 [EclipseLink] s05_evometrics rc=0 31s
+14:25:44 [EclipseLink] s07_join rc=0 42s
+14:25:46 [EclipseLink] auditar_feature rc=0 2s
+14:25:46 [EclipseLink] M26 DONE
+14:26:12 [m2e] s05_evometrics rc=0 26s
+14:26:51 [m2e] s07_join rc=0 39s
+14:26:52 [m2e] auditar_feature rc=0 1s
+14:26:52 [m2e] M26 DONE
+14:27:05 [Mylyn] s05_evometrics rc=0 13s
+14:27:33 [Mylyn] s07_join rc=0 28s
+14:27:34 [Mylyn] auditar_feature rc=0 1s
+14:27:34 [Mylyn] M26 DONE
+14:28:22 [EGit] s05_evometrics rc=0 47s
+14:30:12 [EGit] s07_join rc=0 110s
+14:30:40 [EGit] auditar_feature rc=0 27s
+14:30:41 [EGit] M26 DONE
+14:37:11 [PTP] s05_evometrics rc=0 390s
+14:51:10 [PTP] s07_join rc=0 839s
+14:51:43 [PTP] auditar_feature rc=0 33s
+14:51:44 [PTP] M26 DONE
+14:56:29 [GMF Runtime] s05_evometrics rc=0 285s
+15:13:54 [GMF Runtime] s07_join rc=0 1045s
+15:14:24 [GMF Runtime] auditar_feature rc=0 30s
+15:14:25 [GMF Runtime] M26 DONE
+18:59:19 [EMF] s05_evometrics rc=0 13493s
+19:01:24 [EMF] s07_join rc=0 125s
+19:01:26 [EMF] auditar_feature rc=0 2s
+19:01:26 [EMF] M26 DONE
+19:08:41 [JDT] s05_evometrics rc=0 435s
+19:10:53 [JDT] s07_join rc=0 132s
+19:10:57 [JDT] auditar_feature rc=0 4s
+19:10:57 [JDT] M26 DONE
+19:27:56 [DataTools] s05_evometrics rc=0 1019s
+19:29:35 [DataTools] s07_join rc=0 99s
+19:29:37 [DataTools] auditar_feature rc=0 2s
+19:29:37 [DataTools] M26 DONE
+19:30:06 [WebTools] s05_evometrics rc=0 29s
+19:31:53 [WebTools] s07_join rc=0 107s
+19:31:55 [WebTools] auditar_feature rc=0 2s
+19:31:55 [WebTools] M26 DONE
+19:34:06 [Scout] s05_evometrics rc=0 131s
+19:36:12 [Scout] s07_join rc=0 126s
+19:36:15 [Scout] auditar_feature rc=0 3s
+19:36:15 [Scout] M26 DONE
+19:37:29 [PDE] s05_evometrics rc=0 74s
+19:39:20 [PDE] s07_join rc=0 111s
+19:39:22 [PDE] auditar_feature rc=0 2s
+19:39:22 [PDE] M26 DONE
+19:40:08 [RAP] s05_evometrics rc=0 46s
+19:42:06 [RAP] s07_join rc=0 118s
+19:42:07 [RAP] auditar_feature rc=0 1s
+19:42:07 [RAP] M26 DONE
+19:42:40 [Window Builder] s05_evometrics rc=0 33s
+19:44:07 [Window Builder] s07_join rc=0 87s
+19:44:09 [Window Builder] auditar_feature rc=0 2s
+19:44:09 [Window Builder] M26 DONE
+ALL_DONE

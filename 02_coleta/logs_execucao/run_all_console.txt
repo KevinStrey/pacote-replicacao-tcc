@@ -1,0 +1,134 @@
+13:12:26 features: ['CVS', 'Subversive', 'GEF', 'EclipseLink', 'm2e', 'Mylyn', 'EGit', 'PTP', 'GMF Runtime', 'EMF', 'JDT', 'DataTools', 'WebTools', 'Scout', 'PDE', 'RAP', 'Window Builder', 'BIRT', 'CDT'] | RAM budget 2.6 GB | max procs 12 | log C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\logs\run_all_20261014_131226.log
+13:12:26 phase B: 1486 CK/Understand jobs
+13:13:28 [WebTools] s04_methods rc=0 62s
+13:13:54 [WebTools] s05_evometrics rc=0 26s
+13:13:54 phase B: 25 started, 1461 queued, 88s
+13:13:54 phase B: 50 started, 1436 queued, 88s
+13:13:54 phase B: 75 started, 1411 queued, 88s
+13:14:18 [CVS] s07_join rc=0 22s
+13:14:20 [CVS] auditar_feature rc=0 2s
+13:14:20 [CVS] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\CVS\AUDITORIA.md
+13:14:49 [WebTools] s06_change_distiller rc=0 55s
+13:14:49 phase B: 100 started, 1386 queued, 144s
+13:15:01 [Subversive] s07_join rc=0 10s
+13:15:02 [Subversive] auditar_feature rc=0 1s
+13:15:02 [Subversive] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\Subversive\AUDITORIA.md
+13:17:41 [Scout] s04_methods rc=0 172s
+13:17:41 phase B: 125 started, 1361 queued, 315s
+13:17:41 phase B: 150 started, 1336 queued, 315s
+13:18:04 [GEF] s07_join rc=0 23s
+13:18:05 [GEF] auditar_feature rc=0 1s
+13:18:05 [GEF] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\GEF\AUDITORIA.md
+13:18:12 [Scout] s05_evometrics rc=0 31s
+13:19:37 [Scout] s06_change_distiller rc=0 85s
+13:19:37 phase B: 175 started, 1311 queued, 431s
+13:19:37 phase B: 200 started, 1286 queued, 431s
+13:19:37 phase B: 225 started, 1261 queued, 431s
+13:19:37 phase B: 250 started, 1236 queued, 431s
+13:19:37 phase B: 275 started, 1211 queued, 431s
+13:19:37 phase B: 300 started, 1186 queued, 431s
+13:19:37 phase B: 325 started, 1161 queued, 431s
+13:19:37 phase B: 350 started, 1136 queued, 431s
+13:19:37 phase B: 375 started, 1111 queued, 431s
+13:19:37 phase B: 400 started, 1086 queued, 431s
+13:19:37 phase B: 425 started, 1061 queued, 431s
+13:19:37 phase B: 450 started, 1036 queued, 431s
+13:19:37 phase B: 475 started, 1011 queued, 431s
+13:19:37 phase B: 500 started, 986 queued, 431s
+13:19:37 phase B: 525 started, 961 queued, 431s
+13:19:37 phase B: 550 started, 936 queued, 431s
+13:19:37 phase B: 575 started, 911 queued, 431s
+13:19:37 phase B: 600 started, 886 queued, 431s
+13:19:37 phase B: 625 started, 861 queued, 431s
+13:19:37 phase B: 650 started, 836 queued, 431s
+13:19:37 phase B: 675 started, 811 queued, 431s
+13:19:37 phase B: 700 started, 786 queued, 431s
+13:19:37 phase B: 725 started, 761 queued, 431s
+13:20:09 ERROR CK failed JDT 53_31e5a1fa71c6cb864509bbab48507ae172aefdb1
+13:20:09 ERROR CK failed JDT 54_8c40c7d2ae12c0a32ab3cca1ab31b53956c65d51
+13:20:09 phase B: 750 started, 736 queued, 463s
+13:20:40 ERROR CK failed JDT 51_7e87ad5a5ed1189e552bebf0d7ab1d81a0ed3b6b
+13:20:40 ERROR CK failed JDT 52_c9cb9ed549bd265e670138c2341aa5c1df1b403d
+13:21:08 [EclipseLink] s07_join rc=0 83s
+13:21:13 [EclipseLink] auditar_feature rc=0 4s
+13:21:13 [EclipseLink] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\EclipseLink\AUDITORIA.md
+13:21:20 ERROR CK failed JDT 49_482d4ba4c7d12e5e989bac859e51b1f0e060d81c
+13:21:20 ERROR CK failed JDT 50_71b98650c1d86d05169c732f2ec94166123c8afb
+13:22:00 ERROR CK failed JDT 48_89e70ced128ca704cc8ee7ffbfa0a812d341e5b8
+13:22:00 ERROR CK failed JDT 47_681dc0aff701f3bfe3109d43b838b0894c6d2cdd
+13:22:41 ERROR CK failed JDT 46_f32a0771c56c3ffadcef27bd33901a9f6e91396b
+13:22:41 phase B: 775 started, 711 queued, 615s
+13:22:42 ERROR CK failed JDT 45_a02bebb74b4e8e8ffb290c439d9b286882322345
+13:22:42 phase B: 800 started, 686 queued, 616s
+13:22:42 phase B: 825 started, 661 queued, 616s
+13:22:42 phase B: 850 started, 636 queued, 616s
+13:22:42 phase B: 875 started, 611 queued, 616s
+13:22:42 phase B: 900 started, 586 queued, 616s
+13:22:42 phase B: 925 started, 561 queued, 616s
+13:22:42 phase B: 950 started, 536 queued, 616s
+13:22:42 phase B: 975 started, 511 queued, 616s
+13:22:42 phase B: 1000 started, 486 queued, 616s
+13:22:42 phase B: 1025 started, 461 queued, 616s
+13:22:42 phase B: 1050 started, 436 queued, 616s
+13:22:42 phase B: 1075 started, 411 queued, 616s
+13:22:42 phase B: 1100 started, 386 queued, 616s
+13:22:42 phase B: 1125 started, 361 queued, 616s
+13:22:42 phase B: 1150 started, 336 queued, 616s
+13:22:42 phase B: 1175 started, 311 queued, 616s
+13:22:42 phase B: 1200 started, 286 queued, 616s
+13:22:42 phase B: 1225 started, 261 queued, 616s
+13:22:42 phase B: 1250 started, 236 queued, 616s
+13:22:42 phase B: 1275 started, 211 queued, 616s
+13:22:42 phase B: 1300 started, 186 queued, 616s
+13:22:42 phase B: 1325 started, 161 queued, 616s
+13:22:46 [m2e] s07_join rc=0 93s
+13:22:48 [m2e] auditar_feature rc=0 2s
+13:22:48 [m2e] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\m2e\AUDITORIA.md
+13:23:31 [Mylyn] s07_join rc=0 43s
+13:23:36 [Mylyn] auditar_feature rc=0 5s
+13:23:36 [Mylyn] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\Mylyn\AUDITORIA.md
+13:24:15 [EGit] s07_join rc=0 39s
+13:24:16 [EGit] auditar_feature rc=0 1s
+13:24:16 [EGit] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\EGit\AUDITORIA.md
+13:25:07 [PTP] s07_join rc=0 51s
+13:25:09 [PTP] auditar_feature rc=0 1s
+13:25:09 [PTP] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\PTP\AUDITORIA.md
+13:26:15 [GMF Runtime] s07_join rc=0 66s
+13:26:17 [GMF Runtime] auditar_feature rc=0 2s
+13:26:17 [GMF Runtime] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\GMF_Runtime\AUDITORIA.md
+13:28:58 [EMF] s07_join rc=0 161s
+13:29:00 [EMF] auditar_feature rc=0 2s
+13:29:00 [EMF] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\EMF\AUDITORIA.md
+13:30:48 [JDT] s07_join rc=1 108s
+13:30:48 ERROR JDT s07_join failed, see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\JDT\data\s07_join.log
+13:32:50 [DataTools] s07_join rc=0 123s
+13:32:53 [DataTools] auditar_feature rc=0 2s
+13:32:53 [DataTools] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\DataTools\AUDITORIA.md
+13:35:52 [WebTools] s07_join rc=0 179s
+13:35:58 [WebTools] auditar_feature rc=0 6s
+13:35:58 [WebTools] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\WebTools\AUDITORIA.md
+13:38:49 [Scout] s07_join rc=0 171s
+13:38:54 [Scout] auditar_feature rc=0 4s
+13:38:54 [Scout] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\Scout\AUDITORIA.md
+13:41:25 [PDE] s07_join rc=0 152s
+13:41:28 [PDE] auditar_feature rc=0 3s
+13:41:28 [PDE] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\PDE\AUDITORIA.md
+13:41:34 phase B: 1350 started, 136 queued, 1748s
+13:41:34 phase B: 1375 started, 111 queued, 1748s
+13:41:34 phase B: 1400 started, 86 queued, 1748s
+13:43:49 [RAP] s07_join rc=0 142s
+13:43:52 [RAP] auditar_feature rc=0 2s
+13:43:52 [RAP] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\RAP\AUDITORIA.md
+13:45:33 [Window Builder] s07_join rc=0 101s
+13:45:34 [Window Builder] auditar_feature rc=0 2s
+13:45:34 [Window Builder] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\Window_Builder\AUDITORIA.md
+13:48:54 [BIRT] s07_join rc=0 199s
+13:48:57 [BIRT] auditar_feature rc=0 3s
+13:48:57 [BIRT] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\BIRT\AUDITORIA.md
+19:37:47 phase B: 1425 started, 61 queued, 23121s
+21:01:54 phase B: 1450 started, 36 queued, 28168s
+21:19:40 phase B: 1475 started, 11 queued, 29234s
+21:32:45 [CDT] s07_join rc=0 298s
+21:32:49 [CDT] auditar_feature rc=0 3s
+21:32:49 [CDT] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\CDT\AUDITORIA.md
+21:32:59 finished with 11 errors: ['CK failed JDT 53_31e5a1fa71c6cb864509bbab48507ae172aefdb1', 'CK failed JDT 54_8c40c7d2ae12c0a32ab3cca1ab31b53956c65d51', 'CK failed JDT 51_7e87ad5a5ed1189e552bebf0d7ab1d81a0ed3b6b', 'CK failed JDT 52_c9cb9ed549bd265e670138c2341aa5c1df1b403d', 'CK failed JDT 49_482d4ba4c7d12e5e989bac859e51b1f0e060d81c']

@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 21:20:45 =====
+21:20:47 job fase1__random__principal__model3__NONE__LogisticRegression__cv10 | pid 31123 | threads 2
+21:20:50 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=16
+21:20:58   treino reamostrado: 11377237 linhas, 55243 positivos
+21:21:30 AP=0.0330 AUC=0.6598 MCC=0.0616 F1(1)=0.0336 (33 s de treino)
+21:21:30 ok fase1__random__principal__model3__NONE__LogisticRegression__cv10 42.5 s, pico de RAM 18.11 GB

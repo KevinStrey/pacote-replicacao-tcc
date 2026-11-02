@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-19 03:39:44 =====
+03:39:45 job fase1__random__principal__model2__ADA__LogisticRegression__cv09 | pid 12810 | threads 2
+03:39:48 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=98
+04:24:21   treino reamostrado: 22632061 linhas, 11310067 positivos
+04:41:25 AP=0.0289 AUC=0.8083 MCC=0.0770 F1(1)=0.0288 (3686 s de treino)
+04:41:26 ok fase1__random__principal__model2__ADA__LogisticRegression__cv09 3700.3 s, pico de RAM 77.53 GB

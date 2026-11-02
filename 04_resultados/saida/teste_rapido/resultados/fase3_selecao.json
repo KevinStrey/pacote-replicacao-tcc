@@ -1,0 +1,12 @@
+[
+ {
+  "protocolo": "temporal",
+  "origem": "fase1__temporal__principal__model2__NONE__LogisticRegression__teste",
+  "metrica": 0.02015035436816242
+ },
+ {
+  "protocolo": "random",
+  "origem": "fase1__random__principal__model2__NONE__LightGBM__teste",
+  "metrica": 0.18779364309582783
+ }
+]

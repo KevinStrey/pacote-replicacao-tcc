@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 21:24:19 =====
+21:24:22 job fase1__temporal__principal__model2__NONE__LogisticRegression__teste | pid 33947 | threads 2
+21:24:22 treino=12747135 (pos=73031) avaliação=5311972 (pos=14656) colunas=98
+21:25:11   treino reamostrado: 12747135 linhas, 73031 positivos
+21:35:43 AP=0.0096 AUC=0.7375 MCC=0.0433 F1(1)=0.0146 (649 s de treino)
+21:35:55 ok fase1__temporal__principal__model2__NONE__LogisticRegression__teste 693.5 s, pico de RAM 46.11 GB

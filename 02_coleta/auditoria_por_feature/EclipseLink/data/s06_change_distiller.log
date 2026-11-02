@@ -1,0 +1,8 @@
+1->2: common=68072 changed=683
+2->3: common=62388 changed=2197
+3->4: common=69063 changed=1230
+4->5: common=70470 changed=445
+5->6: common=70793 changed=240
+6->7: common=72148 changed=1531
+ChangeDistiller calls: 6326 | returned rows: 6326 | zero rows (identical text): 406608 | CDERROR: 0
+

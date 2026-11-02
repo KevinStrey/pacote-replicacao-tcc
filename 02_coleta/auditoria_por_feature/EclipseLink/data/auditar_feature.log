@@ -1,0 +1,38 @@
+# Auditoria da coleta: EclipseLink (`1-Repositorios/eclipselink`)
+
+Gerado por `scripts/auditar_feature.py`. Decisões: `5-Coleta_features/INVENTARIO.md` (M1–M18); recursos e equivalência com o piloto: `5-Coleta_features/RECURSOS.md`.
+
+## 1. Linha do tempo
+- Snapshots: **7** (JunoSR0 → LunaSR0; índices globais 1..7); datas do calendário na série: 7; duplicatas removidas: 0; lacunas de presença atravessadas: 0.
+- História linear verificada (s00). .java de produção: 5467 → 5790.
+- Commits nos intervalos: 1511; válidos: 1511; importados por merge e excluídos (M6): 0.
+
+## 2. Falhas de parsing do JavaParser (piloto: 0)
+- Versões de arquivo únicas: 14446; **falhas: 1**; métodos (sem anônimos/locais): 333623; descartados por chave duplicada no arquivo: 25; textos distintos: 79262.
+
+## 3. ChangeDistiller (piloto: 0 erros)
+- Chamadas: 6326; **erros (CDERROR): 0**.
+- CK: logs com exceção: 0 ; CSVs do Understand: 7 de 7.
+
+## 4. Taxas de match no join (piloto: ~100%)
+- Mínimo por release: evo_in_ck = 1.0000, evo_in_und = 1.0000, ck_in_evo = 0.9986, und_in_evo = 0.9924.
+- Média: evo_in_ck = 1.0000, evo_in_und = 1.0000. Tabela completa: `data/join_audit.csv`.
+
+## 5. Dataset e positivos por release
+- Linhas: **412930**; positivos: **4543** (1.10%). A última release não tem rótulo.
+
+| Release (índice) | Tag | Métodos | Positivos | % |
+|---|---|---|---|---|
+| 1 | JunoSR0 | 68072 | 395 | 0.58 |
+| 2 | JunoSR1 | 62388 | 1587 | 2.54 |
+| 3 | JunoSR2 | 69062 | 994 | 1.44 |
+| 4 | KeplerPostRC4 | 70469 | 393 | 0.56 |
+| 5 | KeplerSR0 | 70792 | 210 | 0.30 |
+| 6 | KeplerSR1 | 72147 | 964 | 1.34 |
+
+## 6. Spot check das métricas evolutivas contra `git log -L`
+- Método: `org.eclipse.persistence.internal.oxm.record.SAXUnmarshallerHandler.startElement(String,String,String,Attributes)` (arquivo `foundation/org.eclipse.persistence.core/src/org/eclipse/persistence/internal/oxm/record/SAXUnmarshallerHandler.java`, linhas 179,382 em f367378dd0)
+- Comando: `git -C 1-Repositorios/eclipselink log --no-merges --format=%H --no-patch -L179,382:foundation/org.eclipse.persistence.core/src/org/eclipse/persistence/internal/oxm/record/SAXUnmarshallerHandler.java eefc5c186e..f367378dd0`
+- Commits contados pela s05: 23 | listados pelo `git log -L`: 23 | em comum: 23 | contados e não listados: 0
+- Resultado: **OK** (todos os commits contados estão no `git log -L`; os demais do git são mudanças em linhas vizinhas ou só de comentário/formatação)
+

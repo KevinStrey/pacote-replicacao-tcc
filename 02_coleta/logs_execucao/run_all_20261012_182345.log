@@ -1,0 +1,17 @@
+18:23:45 features: ['CVS', 'Subversive', 'GEF', 'EclipseLink', 'm2e', 'Mylyn', 'EGit', 'PTP', 'GMF Runtime', 'EMF', 'JDT', 'DataTools', 'WebTools', 'Scout', 'PDE', 'RAP', 'Window Builder', 'BIRT', 'CDT'] | RAM budget 2.0 GB | max procs 12 | log C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\logs\run_all_20261012_182345.log
+18:23:45 phase B: 1486 CK/Understand jobs
+18:23:53 [Subversive] s06_change_distiller rc=0 8s
+18:23:53 phase B: 25 started, 1461 queued, 8s
+18:24:41 [GEF] s04_methods rc=0 48s
+18:24:49 [GEF] s05_evometrics rc=0 7s
+18:24:49 phase B: 50 started, 1436 queued, 63s
+18:24:49 phase B: 75 started, 1411 queued, 63s
+18:24:49 phase B: 100 started, 1386 queued, 63s
+18:24:49 phase B: 125 started, 1361 queued, 63s
+18:25:15 [CVS] s07_join rc=0 19s
+18:25:16 [CVS] auditar_feature rc=0 1s
+18:25:16 [CVS] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\CVS\AUDITORIA.md
+18:25:27 [Subversive] s07_join rc=0 11s
+18:25:28 [Subversive] auditar_feature rc=0 1s
+18:25:28 [Subversive] FEATURE DONE - see C:\Users\Kevin Strey\Desktop\TCC-LPS-Prediction\5-Coleta_features\Subversive\AUDITORIA.md
+18:29:48 phase B: 150 started, 1336 queued, 363s

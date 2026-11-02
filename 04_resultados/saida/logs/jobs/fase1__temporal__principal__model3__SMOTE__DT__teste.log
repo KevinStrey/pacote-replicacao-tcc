@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 21:14:54 =====
+21:14:56 job fase1__temporal__principal__model3__SMOTE__DT__teste | pid 26723 | threads 1
+21:14:56 treino=12747135 (pos=73031) avaliação=5311972 (pos=14656) colunas=16
+21:15:43   treino reamostrado: 25348208 linhas, 12674104 positivos
+21:19:23 AP=0.0033 AUC=0.4506 MCC=0.0068 F1(1)=0.0069 (251 s de treino)
+21:19:34 ok fase1__temporal__principal__model3__SMOTE__DT__teste 278.0 s, pico de RAM 25.73 GB

@@ -1,0 +1,15 @@
+41->42: common=17891 changed=33
+42->43: common=17498 changed=258
+43->44: common=24086 changed=6922
+44->45: common=24087 changed=127
+45->46: common=24086 changed=92
+46->47: common=24109 changed=0
+47->48: common=24109 changed=5
+48->49: common=24109 changed=5
+49->50: common=23584 changed=68
+50->51: common=23642 changed=162
+51->52: common=23665 changed=5
+52->53: common=23601 changed=69
+53->54: common=22242 changed=105
+ChangeDistiller calls: 7851 | returned rows: 7851 | zero rows (identical text): 288858 | CDERROR: 0
+

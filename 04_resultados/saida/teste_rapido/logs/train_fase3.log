@@ -1,0 +1,8 @@
+2026-10-15 21:07:52 fase 3: temporal <- fase1__temporal__principal__model2__NONE__LogisticRegression__teste (PR AUC (AP) = 0.0202)
+2026-10-15 21:07:52 fase 3: random <- fase1__random__principal__model2__NONE__LightGBM__teste (PR AUC (AP) = 0.1878)
+2026-10-15 21:07:52 teste_rapido fase3: 2 jobs, 0 já concluídos, 2 a executar | núcleos=46 orçamento RAM=238 GB reserva=2 GB timeout=72 h
+2026-10-15 21:07:52 início fase3__temporal__sem_PTP_Scout_Mylyn__model2__NONE__LogisticRegression__teste (threads=2, RAM estimada=1.2 GB)
+2026-10-15 21:07:52 início fase3__random__sem_PTP_Scout_Mylyn__model2__NONE__LightGBM__teste (threads=12, RAM estimada=1.6 GB)
+2026-10-15 21:07:56 fim fase3__random__sem_PTP_Scout_Mylyn__model2__NONE__LightGBM__teste em 4 s (1/2)
+2026-10-15 21:07:58 fim fase3__temporal__sem_PTP_Scout_Mylyn__model2__NONE__LogisticRegression__teste em 6 s (2/2)
+2026-10-15 21:08:00 fase3: concluídos agora 2, falhas 0, pendentes 0

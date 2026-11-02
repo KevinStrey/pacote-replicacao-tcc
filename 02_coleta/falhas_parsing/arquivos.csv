@@ -1,0 +1,128 @@
+feature,path,causa,linha_com_erro,releases_no_treino,primeira,ultima,metodos_linhas,mudancas_em_commits
+BIRT,engine/org.eclipse.birt.report.engine.emitter.docx/src/org/eclipse/birt/report/engine/emitter/docx/DocxEmitterImpl.java,erro de sintaxe no próprio código,{,0,,,0,1
+EMF,plugins/org.eclipse.emf.ecore.xcore.ui/src/org/eclipse/emf/ecore/xcore/ui/labeling/XcoreLabelProvider.xtend,arquivo não Java,,0,,,0,1
+EclipseLink,foundation/org.eclipse.persistence.core/src/org/eclipse/persistence/internal/indirection/CacheBasedValueHolder.java,erro de sintaxe no próprio código,if (mapping.()){,0,,,0,2
+JDT,org.eclipse.jdt.core.compiler.batch/src/org/eclipse/jdt/internal/compiler/parser/Scanner.java,sealed/permits (Java 17),"public sealed interface IStringTemplateComponent permits TextFragment, EmbeddedExpression {",4,43.0,46.0,625,19
+JDT,org.eclipse.jdt.core.compiler.batch/src/org/eclipse/jdt/internal/compiler/ast/SwitchStatement.java,sealed/permits (Java 17),abstract static sealed class SwitchTranslator {,6,48.0,53.0,102,23
+Mylyn,mylyn.docs/wikitext/core/org.eclipse.mylyn.wikitext/src/main/java/org/eclipse/mylyn/wikitext/parser/builder/HtmlEntities.java,escape \s em texto (Java 15),"String[] lineItems = line.split(""\s""); //$NON-NLS-1$",4,46.0,49.0,32,2
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.0/decorator/java/$decoratorClassName$.java,modelo de geração de código (M22),,11,1.0,11.0,55,2
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.0/helloRCP/java/ApplicationWorkbenchAdvisor.java,modelo de geração de código (M22),,11,1.0,11.0,22,1
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.0/importWizard/java/$wizardPageClassName$.java,modelo de geração de código (M22),,11,1.0,11.0,66,2
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.0/perspective/java/$perspectiveClassName$.java,modelo de geração de código (M22),,11,1.0,11.0,77,1
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.0/preferences/java/$pageClassName$.java,modelo de geração de código (M22),,11,1.0,11.0,33,1
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.0/view/java/$className$.java,modelo de geração de código (M22),,11,1.0,11.0,55,5
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.0/viewRCP/java/ApplicationWorkbenchAdvisor.java,modelo de geração de código (M22),,11,1.0,11.0,0,1
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.1/helloRCP/java/ApplicationWorkbenchWindowAdvisor.java,modelo de geração de código (M22),,11,1.0,11.0,33,1
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.1/viewRCP/java/ApplicationWorkbenchWindowAdvisor.java,modelo de geração de código (M22),,11,1.0,11.0,0,1
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.3/helloRCP/java/ApplicationWorkbenchWindowAdvisor.java,modelo de geração de código (M22),,53,1.0,53.0,99,2
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.3/viewRCP/java/ApplicationWorkbenchWindowAdvisor.java,modelo de geração de código (M22),,53,1.0,53.0,159,1
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.1/decorator/java/$decoratorClassName$.java,modelo de geração de código (M22),,42,12.0,53.0,210,2
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.1/importWizard/java/$wizardPageClassName$.java,modelo de geração de código (M22),,42,12.0,53.0,252,4
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.1/perspective/java/$perspectiveClassName$.java,modelo de geração de código (M22),,42,12.0,53.0,294,3
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.1/preferences/java/$pageClassName$.java,modelo de geração de código (M22),,42,12.0,53.0,126,2
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.1/view/java/$className$.java,modelo de geração de código (M22),,42,12.0,53.0,1020,5
+PDE,ui/org.eclipse.pde.ui.templates/templates_3.1/browserView/java/$className$.java,modelo de geração de código (M22),,19,35.0,53.0,323,3
+PDE,ui/org.eclipse.pde.bnd.ui/src/org/eclipse/pde/bnd/ui/model/repo/ProjectBundle.java,erro de sintaxe no próprio código,import java.text.MessageFormat;,0,,,0,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.api/src/main/java/api/RestAuthFilter.java,modelo de geração de código (M22),,22,32.0,53.0,66,5
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.api/src/main/java/api/person/PersonResource.java,modelo de geração de código (M22),,22,32.0,53.0,110,5
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.core/src/main/java/core/AccessControlService.java,modelo de geração de código (M22),,22,32.0,53.0,31,6
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.core/src/main/java/core/TextProviderService.java,modelo de geração de código (M22),,22,32.0,53.0,22,1
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.core/src/main/java/core/person/PersonService.java,modelo de geração de código (M22),,22,32.0,53.0,132,4
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.data/src/main/java/data/person/IPersonRepository.java,modelo de geração de código (M22),,22,32.0,53.0,123,4
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.data/src/main/java/data/person/PersonDo.java,modelo de geração de código (M22),,22,32.0,53.0,349,10
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.data/src/main/java/data/person/PersonResponse.java,modelo de geração de código (M22),,22,32.0,53.0,132,8
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.data/src/main/java/data/person/PersonRestrictionDo.java,modelo de geração de código (M22),,22,32.0,53.0,132,6
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/Environment.java,modelo de geração de código (M22),,22,32.0,53.0,22,1
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/JooqEnvironmentService.java,modelo de geração de código (M22),,22,32.0,53.0,22,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/generator/GeneratorApplication.java,modelo de geração de código (M22),,22,32.0,53.0,44,6
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/helper/DatabaseHelper.java,modelo de geração de código (M22),,22,32.0,53.0,44,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/AbstractDatabaseObject.java,modelo de geração de código (M22),,22,32.0,53.0,110,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/AbstractTable.java,modelo de geração de código (M22),,22,32.0,53.0,132,1
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/DbSetup.java,modelo de geração de código (M22),,22,32.0,53.0,154,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/IDatabaseObject.java,modelo de geração de código (M22),,22,32.0,53.0,154,1
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/schema/AbstractSchema.java,modelo de geração de código (M22),,22,32.0,53.0,44,3
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/schema/IDatabaseSchema.java,modelo de geração de código (M22),,22,32.0,53.0,0,1
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/schema/Schema.java,modelo de geração de código (M22),,22,32.0,53.0,44,1
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/table/IGenerateTable.java,modelo de geração de código (M22),,22,32.0,53.0,44,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/table/PersonTable.java,modelo de geração de código (M22),,22,32.0,53.0,66,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/table/data/IDataInitializer.java,modelo de geração de código (M22),,22,32.0,53.0,44,1
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.db/src/main/java/db/setup/table/data/PersonTableDataInitializer.java,modelo de geração de código (M22),,22,32.0,53.0,44,3
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/generated/java/persistence/DefaultCatalog.java,modelo de geração de código (M22),,22,32.0,53.0,44,10
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/generated/java/persistence/Keys.java,modelo de geração de código (M22),,22,32.0,53.0,0,7
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/generated/java/persistence/Schema.java,modelo de geração de código (M22),,22,32.0,53.0,66,5
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/generated/java/persistence/Tables.java,modelo de geração de código (M22),,22,32.0,53.0,0,5
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/generated/java/persistence/tables/Person.java,modelo de geração de código (M22),,22,32.0,53.0,410,10
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/generated/java/persistence/tables/records/PersonRecord.java,modelo de geração de código (M22),,22,32.0,53.0,585,6
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/main/java/persistence/IJooqService.java,modelo de geração de código (M22),,22,32.0,53.0,22,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/main/java/persistence/JooqSqlService.java,modelo de geração de código (M22),,22,32.0,53.0,286,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/main/java/persistence/PersistenceProperties.java,modelo de geração de código (M22),,22,32.0,53.0,528,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/main/java/persistence/common/AbstractRepository.java,modelo de geração de código (M22),,22,32.0,53.0,198,3
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/main/java/persistence/common/DateConverter.java,modelo de geração de código (M22),,22,32.0,53.0,88,3
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/main/java/persistence/common/DoEntityBeanMapping.java,modelo de geração de código (M22),,22,32.0,53.0,132,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/main/java/persistence/common/DoEntityBeanMappings.java,modelo de geração de código (M22),,22,32.0,53.0,110,4
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/main/java/persistence/common/IBaseService.java,modelo de geração de código (M22),,22,32.0,53.0,154,4
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/main/java/persistence/person/PersonRepository.java,modelo de geração de código (M22),,22,32.0,53.0,211,6
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.client/src/main/java/client/ClientSession.java,modelo de geração de código (M22),,22,32.0,53.0,66,5
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.client/src/main/java/client/DefaultIconProviderService.java,modelo de geração de código (M22),,22,32.0,53.0,22,3
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.client/src/main/java/client/Desktop.java,modelo de geração de código (M22),,22,32.0,53.0,681,21
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.client/src/main/java/client/ResourceBase.java,modelo de geração de código (M22),,22,32.0,53.0,22,3
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.client/src/main/java/client/helloworld/HelloWorldForm.java,modelo de geração de código (M22),,22,32.0,53.0,264,8
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.client/src/main/java/client/helloworld/HelloWorldPage.java,modelo de geração de código (M22),,22,32.0,53.0,88,4
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.client/src/main/java/client/search/SearchOutline.java,modelo de geração de código (M22),,22,32.0,53.0,44,5
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.client/src/main/java/client/settings/SettingsOutline.java,modelo de geração de código (M22),,22,32.0,53.0,44,5
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.client/src/main/java/client/work/WorkOutline.java,modelo de geração de código (M22),,22,32.0,53.0,66,5
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.server/src/main/java/server/ServerServletFilter.java,modelo de geração de código (M22),,22,32.0,53.0,66,9
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.server/src/main/java/server/ServerSession.java,modelo de geração de código (M22),,21,32.0,52.0,63,8
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.server/src/main/java/server/helloworld/HelloWorldService.java,modelo de geração de código (M22),,22,32.0,53.0,22,5
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.server/src/main/java/server/security/ServerAccessControlService.java,modelo de geração de código (M22),,22,32.0,53.0,22,4
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.shared/src/generated/java/shared/helloworld/HelloWorldFormData.java,modelo de geração de código (M22),,22,32.0,53.0,22,4
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.shared/src/main/java/shared/Icons.java,modelo de geração de código (M22),,22,32.0,53.0,0,5
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.shared/src/main/java/shared/helloworld/IHelloWorldService.java,modelo de geração de código (M22),,22,32.0,53.0,22,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.shared/src/main/java/shared/security/AccessControlService.java,modelo de geração de código (M22),,22,32.0,53.0,43,8
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.shared/src/main/java/shared/text/DefaultTextProviderService.java,modelo de geração de código (M22),,22,32.0,53.0,22,6
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.ui.html/src/main/java/ui/html/UiServletFilter.java,modelo de geração de código (M22),,22,32.0,53.0,66,6
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.app/src/main/java/app/AppServletContributors.java,modelo de geração de código (M22),,10,44.0,53.0,40,8
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.server.app/src/main/java/server/app/ServerServletContributors.java,modelo de geração de código (M22),,10,44.0,53.0,20,4
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.ui.html.app/src/main/java/ui/html/app/UiServletContributors.java,modelo de geração de código (M22),,10,44.0,53.0,30,3
+Scout,org.eclipse.scout.rt.ui.html/src/main/java/org/eclipse/scout/rt/ui/html/json/desktop/JsonSearchOutline.java,case null em switch (Java 21),"case null, default -> super.handleUiEvent(event);",2,52.0,53.0,38,1
+Scout,org.eclipse.scout.rt.ui.html/src/main/java/org/eclipse/scout/rt/ui/html/json/desktop/JsonSearchState.java,case null em switch (Java 21),"case null, default -> super.handleUiPropertyChange(propertyName, data);",2,52.0,53.0,14,1
+Scout,org.eclipse.scout.rt.client/src/main/java/org/eclipse/scout/rt/client/ui/basic/table/AbstractTable.java,_ como parâmetro de lambda (Java 22),PropertyChangeListener columnVisibleListener = _ -> {,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/client/src/main/java/client/ClientSession.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/client/src/main/java/client/DefaultIconProviderService.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/client/src/main/java/client/Desktop.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/client/src/main/java/client/ResourceBase.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/client/src/main/java/client/helloworld/HelloWorldForm.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/client/src/main/java/client/helloworld/HelloWorldPage.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/client/src/main/java/client/search/SearchOutline.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/client/src/main/java/client/settings/SettingsOutline.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/client/src/main/java/client/work/WorkOutline.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/server/src/main/java/server/ServerServletFilter.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/server/src/main/java/server/ServerSession.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/server/src/main/java/server/helloworld/HelloWorldFormService.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/server/src/main/java/server/permission/AccessControlService.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/shared/src/generated/java/shared/helloworld/HelloWorldFormData.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/shared/src/main/java/shared/Icons.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/shared/src/main/java/shared/helloworld/IHelloWorldFormService.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/shared/src/main/java/shared/text/DefaultTextProviderService.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/ui.html/src/main/java/ui/html/FormAuthenticator.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/ui.html/src/main/java/ui/html/UiHtmlServletFilter.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.server/src/main/java/server/permission/AccessControlService.java,modelo de geração de código (M22),,0,,,0,6
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.ui.html/src/main/java/ui/html/FormAuthenticator.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.ui.html/src/main/java/ui/html/UiHtmlServletFilter.java,modelo de geração de código (M22),,0,,,0,3
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.server/src/main/java/server/helloworld/HelloWorldFormService.java,modelo de geração de código (M22),,0,,,0,4
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.shared/src/main/java/shared/helloworld/IHelloWorldFormService.java,modelo de geração de código (M22),,0,,,0,3
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.server/src/main/java/server/security/AccessControlService.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-helloworld-app/src/main/resources/archetype-resources/__rootArtifactId__.shared/src/main/java/shared/security/UserIdAccessControlService.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.api/src/main/java/api/RestServletFilter.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.core/src/main/java/core/DefaultTextProviderService.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.api/src/main/java/api/ServerSession.java,modelo de geração de código (M22),,0,,,0,2
+Scout,scout-hellojs-app/src/main/resources/archetype-resources/__rootArtifactId__.persistence/src/generated/java/persistence/Scoutapp.java,modelo de geração de código (M22),,0,,,0,2
+Window Builder,org.eclipse.wb.core.java/src/org/eclipse/wb/internal/core/editor/palette/model/entry/LibraryInfo.java,sealed/permits (Java 17),"public sealed interface LibraryInfo permits BundleLibraryInfo, JarLibraryInfo {",9,45.0,53.0,18,2
+Window Builder,org.eclipse.wb.swt.widgets.baseline/src/org/eclipse/wb/swt/widgets/baseline/Baseline.java,sealed/permits (Java 17),public sealed class Baseline implements IBaseline,9,45.0,53.0,108,2
+Window Builder,org.eclipse.wb.swt.widgets.baseline/src/org/eclipse/wb/swt/widgets/baseline/IBaseline.java,sealed/permits (Java 17),public sealed interface IBaseline permits Baseline {,9,45.0,53.0,18,2
+Window Builder,org.eclipse.wb.os.linux/src/org/eclipse/wb/internal/os/linux/GdkRectangle.java,sealed/permits (Java 17),public sealed class GdkRectangle permits GtkAllocation {,7,47.0,53.0,7,2
+Window Builder,org.eclipse.wb.core/src/org/eclipse/wb/internal/core/model/property/table/editparts/PropertyEditPart.java,sealed/permits (Java 17),"public abstract sealed class PropertyFigure extends Figure permits TitleFigure, ValueFigure {",5,49.0,53.0,156,5
+Window Builder,org.eclipse.wb.core.java/src/org/eclipse/wb/internal/core/eval/ExecutionFlowProvider.java,padrão de tipo em switch (Java 21),case AnonymousClassDeclaration declaration -> {,3,51.0,53.0,12,1
+Window Builder,org.eclipse.wb.core/src/org/eclipse/wb/core/controls/SpinnerDeferredNotifier.java,sealed/permits (Java 17),public sealed class SpinnerDeferredNotifier permits CSpinnerDeferredNotifier {,2,52.0,53.0,12,1
+Window Builder,org.eclipse.wb.os.linux/src_java24/org/eclipse/wb/internal/os/linux/GdkRectangle.java,sealed/permits (Java 17),public sealed class GdkRectangle permits GtkAllocation {,1,53.0,53.0,7,1
+m2e,org.eclipse.m2e.core/src/org/eclipse/m2e/core/internal/lifecyclemapping/LifecycleMappingFactory.java,erro de sintaxe no próprio código,private static LifecycleMappingMetadataSource getWorkspacePreferencesMetadataSources() {,0,,,0,2

@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-21 03:29:52 =====
+03:29:54 job fase3__temporal__sem_PTP_Scout_Mylyn__model2__ROS__LightGBM__teste | pid 19263 | threads 12
+03:29:54 treino=11557076 (pos=59772) avaliação=4550080 (pos=12330) colunas=98
+03:30:46   treino reamostrado: 22994608 linhas, 11497304 positivos
+03:32:51 AP=0.0241 AUC=0.8229 MCC=0.0594 F1(1)=0.0171 (156 s de treino)
+03:33:00 ok fase3__temporal__sem_PTP_Scout_Mylyn__model2__ROS__LightGBM__teste 186.3 s, pico de RAM 73.37 GB

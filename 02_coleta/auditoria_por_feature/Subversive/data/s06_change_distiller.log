@@ -1,0 +1,17 @@
+1->2: common=7002 changed=5
+2->3: common=6980 changed=102
+3->4: common=7043 changed=56
+4->5: common=7070 changed=6
+5->6: common=7070 changed=14
+6->7: common=6999 changed=281
+7->8: common=7150 changed=40
+8->9: common=7148 changed=28
+9->10: common=7074 changed=91
+10->11: common=7178 changed=56
+11->12: common=7141 changed=131
+12->13: common=7252 changed=17
+13->14: common=7256 changed=34
+14->15: common=7298 changed=9
+15->16: common=7303 changed=43
+ChangeDistiller calls: 913 | returned rows: 913 | zero rows (identical text): 106051 | CDERROR: 0
+

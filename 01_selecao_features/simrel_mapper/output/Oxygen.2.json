@@ -1,0 +1,121 @@
+{
+  "release": "Oxygen.2",
+  "date": "2017-12-06T12:37:28-05:00",
+  "simrel_commit": "417d671e8c1de7ef1c066967bd7f7c197479ee19",
+  "mappings": {
+    "JDT": {
+      "version": "I20171206-0800",
+      "status": "SUCCESS",
+      "commit": "a678984d7982779ed3c443a9f934da63ceb684dd",
+      "repository": "eclipse.jdt.core"
+    },
+    "PDE": {
+      "version": "I20171205-0800",
+      "status": "SUCCESS",
+      "commit": "c0049a4412f15f1e9638e998adb52d2aacb4decd",
+      "repository": "eclipse.pde"
+    },
+    "CDT": {
+      "version": "CDT_9_4_1",
+      "status": "SUCCESS",
+      "commit": "fea65eeb1590dd593fcc7e66d5e5ba9d59df26df",
+      "repository": "cdt"
+    },
+    "GEF": {
+      "version": "R_3_14",
+      "status": "SUCCESS",
+      "commit": "14563a9e1f2af636a5364d195cf07dbff6f35fa6",
+      "repository": "gef-classic"
+    },
+    "EMF": {
+      "version": "R2_14_0",
+      "status": "SUCCESS",
+      "commit": "2890563fc0b0121a65d26e8d3f048b66156cf6c6",
+      "repository": "org.eclipse.emf"
+    },
+    "BIRT": {
+      "version": "BIRT_4_8_0_Release_201806261756",
+      "status": "SUCCESS",
+      "commit": "0742e6524e37b581b82c0532d362fac1f5ee1199",
+      "repository": "birt"
+    },
+    "DataTools": {
+      "version": "DTP_1_14_1_Release",
+      "status": "SUCCESS",
+      "commit": "7753eea148a6e9f849f0a787dada940462c1c49b",
+      "repository": "datatools"
+    },
+    "EclipseLink": {
+      "version": "2.7.1-RC1",
+      "status": "SUCCESS",
+      "commit": "db3825e14ddc30bcfce82a8164fe740306027329",
+      "repository": "eclipselink"
+    },
+    "EGit": {
+      "version": "v4.10.0.201712302008-r",
+      "status": "SUCCESS",
+      "commit": "eb33e5044d0a45ba9ac065298154812449676f74",
+      "repository": "egit"
+    },
+    "GMF Runtime": {
+      "version": "R1_12_0M7",
+      "status": "SUCCESS",
+      "commit": "ac83b0c5bf7ab146b8b9c6c8b2f1ea03852ed93e",
+      "repository": "gmf-runtime"
+    },
+    "Mylyn": {
+      "version": "R_4_1_0",
+      "status": "SUCCESS",
+      "commit": "de0f7848eebada1a42d3db4447be591ef9119d0a",
+      "repository": "org.eclipse.mylyn"
+    },
+    "RAP": {
+      "version": "3.4.0-R",
+      "status": "SUCCESS",
+      "commit": "a719a6f40ff82bd433804102e766ecc0abb348b1",
+      "repository": "org.eclipse.rap"
+    },
+    "PTP": {
+      "version": null,
+      "status": "SUCCESS",
+      "commit": "9b58f4f94fb270ce003a9ba35f78feebdf7b9d57",
+      "repository": "ptp"
+    },
+    "Scout": {
+      "version": "7.1.0.004_Photon_M4",
+      "status": "SUCCESS",
+      "commit": "520491bfb9ce011b6a7255e03e5a4d29c194d0fe",
+      "repository": "scout.rt"
+    },
+    "WebTools": {
+      "version": null,
+      "status": "SUCCESS",
+      "commit": "cef76a8605afa22929d52c45a377a22a425fb9d8",
+      "repository": "webtools.javaee"
+    },
+    "Window Builder": {
+      "version": "V1.10.0",
+      "status": "SUCCESS",
+      "commit": "5a09a1a0fac040d27683dcf3a9119ed28961d8e0",
+      "repository": "windowbuilder"
+    },
+    "m2e": {
+      "version": "releases/1.9/1.9.0.20180606-2036",
+      "status": "SUCCESS",
+      "commit": "bc287cf165dadea3b5411f9cff94e320eb8516ee",
+      "repository": "m2e-core"
+    },
+    "CVS": {
+      "version": "2023RC1",
+      "status": "SUCCESS",
+      "commit": "ed108a008a975414bae0ab68083b20569ec76bed",
+      "repository": "eclipse.cvs"
+    },
+    "Subversive": {
+      "version": "4.2.4",
+      "status": "SUCCESS",
+      "commit": "841a6d1bc616bfe7a5231e3f2404c6dee0c9352c",
+      "repository": "subclipse"
+    }
+  }
+}

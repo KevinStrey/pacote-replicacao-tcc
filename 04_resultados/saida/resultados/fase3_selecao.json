@@ -1,0 +1,12 @@
+[
+ {
+  "protocolo": "temporal",
+  "origem": "fase1__temporal__principal__model2__ROS__LightGBM__teste",
+  "metrica": 0.017524473797290233
+ },
+ {
+  "protocolo": "random",
+  "origem": "fase1__random__principal__model2__ROS__XGBoost__teste",
+  "metrica": 0.2222708244268312
+ }
+]

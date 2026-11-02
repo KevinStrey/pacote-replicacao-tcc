@@ -1,0 +1,20 @@
+# Training environment (conda-forge). Versions pinned to those of the pilot (4-Coleta_egit/.venv: scikit-learn 1.9.1,
+# imbalanced-learn 0.14.2, pandas 3.0.6) and checked to resolve on linux-64 with glibc 2.27 (Ubuntu 18.04 server):
+#   CONDA_OVERRIDE_GLIBC=2.27 micromamba create --dry-run --platform linux-64 -f environment.yml
+# The exact build list for the server is in conda-linux-64.lock (micromamba create --file conda-linux-64.lock).
+name: tcc-treino
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.15
+  - numpy=2.5.4
+  - pandas=3.0.6
+  - pyarrow=25.0.0
+  - scipy=1.18.1
+  - scikit-learn=1.9.1
+  - imbalanced-learn=0.14.2
+  - xgboost=3.4.2=cpu*
+  - lightgbm=4.7.0=cpu*
+  - joblib=1.6.0
+  - psutil
+  - pyyaml

@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 20:53:52 =====
+20:53:53 job fase1__random__principal__model1__SMOTE__XGBoost__cv01 | pid 4342 | threads 12
+20:53:53 treino=113775 (pos=555) avaliação=12642 (pos=61) colunas=82
+20:53:54   treino reamostrado: 226440 linhas, 113220 positivos
+20:53:56 AP=0.0924 AUC=0.7627 MCC=0.1577 F1(1)=0.1429 (2 s de treino)
+20:53:56 ok fase1__random__principal__model1__SMOTE__XGBoost__cv01 2.3 s, pico de RAM 0.8 GB

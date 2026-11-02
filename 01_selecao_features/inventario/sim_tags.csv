@@ -1,0 +1,1099 @@
+feature,release,simrel_date,tag_distribuida,resolvida_por,commit_distribuido,data_distribuido,commit_mapper,data_mapper,relacao,mapper_commits_a_mais,mapper_commits_a_menos
+BIRT,JunoSR0,2012-08-03,BIRT_4_2_0_Release_201206131143,versão 4.2.0,56f8c0538,2012-06-12,3767e5c39,2012-08-02,divergente,328,116
+BIRT,JunoSR1,2012-09-19,BIRT_4_2_1_Release_201209121721,versão 4.2.1,ef7292532,2012-09-13,7defdb21c,2012-09-19,divergente,5,7
+BIRT,JunoSR2,2013-02-24,v201210101433,timestamp,b31faaa00,2012-10-10,4ebbe74e5,2013-02-24,mapper à frente,703,0
+BIRT,KeplerPostRC4,2013-06-13,v201306051647,timestamp,a6ba24fe5,2013-06-05,9e5a196ca,2013-06-13,divergente,25,78
+BIRT,KeplerSR0,2013-08-02,v201306051647,timestamp,a6ba24fe5,2013-06-05,60d1a3bf3,2013-08-02,divergente,241,78
+BIRT,KeplerSR1,2013-09-23,v201308301349,timestamp,523f4578d,2013-08-29,26da53179,2013-09-23,divergente,124,9
+BIRT,LunaSR0,2014-07-29,v201405191524,timestamp,69644db5c,2014-05-19,d08d790c3,2014-07-23,divergente,478,111
+BIRT,z20140805-2300,2014-07-29,v201405191524,timestamp,69644db5c,2014-05-19,d08d790c3,2014-07-23,divergente,478,111
+BIRT,z20140806,2014-07-29,v201405191524,timestamp,69644db5c,2014-05-19,d08d790c3,2014-07-23,divergente,478,111
+BIRT,LunaRC4,2014-09-17,v201408290142,timestamp,1d0ffe242,2014-08-29,d2d3afcf9,2014-09-16,mapper à frente,94,0
+BIRT,LunaSR2,2015-03-02,v201410272105,timestamp,49c97b10e,2014-10-27,f07d287be,2015-02-10,mapper à frente,690,0
+BIRT,S201504150911,2015-04-15,v201501061437,timestamp,96ea9e4b6,2015-01-06,7dbf1f085,2015-04-14,mapper à frente,293,0
+BIRT,Mars.1,2015-09-24,BIRT_4_5_0_RC4_201506092134,timestamp,0e13c98fe,2015-06-09,57a2e6a6a,2015-09-23,mapper à frente,1096,0
+BIRT,Neon,2016-06-13,BIRT_4_6_0_Release_201606072112,versão 4.6.0,3f761def2,2016-06-06,b65ef731a,2016-06-08,mapper à frente,2,0
+BIRT,OxygenPreRienaRemoval_9-8-2016,2016-09-07,,,,,6dd60a34c,2016-08-31,contrib. desativada,,
+BIRT,Neon.1,2016-09-14,BIRT_4_6_0_Release_201606072112,versão 4.6.0,3f761def2,2016-06-06,6dd60a34c,2016-08-31,mapper à frente,83,0
+BIRT,Neon.1a,2016-10-06,BIRT_4_6_0_Release_201606072112,versão 4.6.0,3f761def2,2016-06-06,993423e7a,2016-10-04,mapper à frente,95,0
+BIRT,Neon.2,2016-12-07,BIRT_4_6_0_Release_201606072112,versão 4.6.0,3f761def2,2016-06-06,deccc1059,2016-12-07,mapper à frente,122,0
+BIRT,Neon.3,2017-03-08,BIRT_4_6_0_Release_201606072112,versão 4.6.0,3f761def2,2016-06-06,ffee5cf5c,2017-03-04,mapper à frente,166,0
+BIRT,Neon.3_respin,2017-03-14,BIRT_4_6_0_Release_201606072112,versão 4.6.0,3f761def2,2016-06-06,0b3f796f4,2017-03-10,mapper à frente,169,0
+BIRT,Oxygen,2017-06-14,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,f1f0d75e5,2017-06-14,mapper atrás,0,6
+BIRT,Oxygen.1,2017-09-13,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,99e88cb4c,2017-09-11,mapper à frente,39,0
+BIRT,Oxygen.1a,2017-10-05,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,71c06d080,2017-09-27,mapper à frente,40,0
+BIRT,Oxygen.1a_respin,2017-10-09,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,71c06d080,2017-09-27,mapper à frente,40,0
+BIRT,Oxygen.2,2017-12-06,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,0742e6524,2017-11-14,mapper à frente,55,0
+BIRT,Oxygen.2_respin,2017-12-15,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,f70c78daa,2017-12-13,mapper à frente,61,0
+BIRT,Oxygen.3,2018-03-07,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,0263896f8,2018-02-28,mapper à frente,112,0
+BIRT,PhotonM7,2018-05-17,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,1587754a5,2018-05-16,mapper à frente,134,0
+BIRT,PhotonRC4,2018-06-13,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,8e9ce5f6a,2018-06-08,mapper à frente,145,0
+BIRT,Photon.0,2018-06-17,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,8e9ce5f6a,2018-06-08,mapper à frente,145,0
+BIRT,2018-09,2018-09-12,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,4e1cface7,2018-09-07,mapper à frente,190,0
+BIRT,2018-12,2018-12-12,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,66e626ff7,2018-12-07,mapper à frente,214,0
+BIRT,2019-03,2019-03-14,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,f89264810,2019-03-07,mapper à frente,282,0
+BIRT,2019-06,2019-06-13,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,9f78e5f30,2019-05-30,mapper à frente,294,0
+BIRT,2019-09,2019-09-16,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,b99824072,2019-09-04,mapper à frente,339,0
+BIRT,2019-12,2019-12-11,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,173e7170d,2019-09-19,mapper à frente,340,0
+BIRT,2020-03,2020-03-12,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,3d4f3ba4c,2020-03-11,mapper à frente,366,0
+BIRT,2020-06,2020-06-10,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,dff3eaf55,2020-04-22,mapper à frente,375,0
+BIRT,2020-09,2020-09-09,BIRT_4_7_0_Release_201706222054,versão 4.7.0,909d8fc3b,2017-06-20,dff3eaf55,2020-04-22,mapper à frente,375,0
+BIRT,2020-12,2020-12-09,,,,,dff3eaf55,2020-04-22,fora do simrel,,
+BIRT,2021-03,2021-03-10,,,,,af05d51d4,2021-03-10,fora do simrel,,
+BIRT,2021-06,2021-06-12,,,,,469ef0be1,2021-06-09,fora do simrel,,
+BIRT,2021-09,2021-09-08,,,,,47b0dcdec,2021-08-15,fora do simrel,,
+BIRT,2021-12,2021-12-02,,,,,bcb30c4dc,2021-12-02,fora do simrel,,
+BIRT,2022-03,2022-03-15,,,,,c69016782,2022-03-14,fora do simrel,,
+BIRT,2022-06,2022-06-13,,,,,61340bd36,2022-06-01,fora do simrel,,
+BIRT,2022-09,2022-09-12,,,,,826bf9186,2022-07-21,fora do simrel,,
+BIRT,2022-12,2022-12-05,,,,,d65522c37,2022-12-02,fora do simrel,,
+BIRT,2023-03,2023-03-29,,,,,2c8d136ba,2023-03-28,fora do simrel,,
+BIRT,2023-06,2023-06-13,,,,,bc427ee9f,2023-06-12,fora do simrel,,
+BIRT,2023-09,2023-09-08,,,,,e89c983a0,2023-09-01,fora do simrel,,
+BIRT,2023-12,2023-12-01,,,,,96394b3b0,2023-11-20,fora do simrel,,
+BIRT,2024-03,2024-03-08,,,,,03dc43e37,2024-03-04,fora do simrel,,
+BIRT,2024-06,2024-06-10,,,,,7eb0e6a90,2024-06-10,fora do simrel,,
+BIRT,2024-09,2024-09-06,,,,,e61ee04f9,2024-09-06,fora do simrel,,
+BIRT,2024-12,2024-12-01,,,,,ad83f4a83,2024-11-30,fora do simrel,,
+BIRT,2025-03,2025-03-06,,,,,8d31ca877,2025-03-04,fora do simrel,,
+BIRT,2025-06,2025-06-05,,,,,fa10432ad,2025-06-01,fora do simrel,,
+BIRT,2025-09,2025-09-05,,,,,17820dd0e,2025-09-04,fora do simrel,,
+BIRT,2025-12,2025-12-07,,,,,ef4054b27,2025-12-05,fora do simrel,,
+BIRT,2026-03,2026-03-11,,,,,4b0d172dc,2026-03-07,fora do simrel,,
+CDT,JunoSR0,2012-08-03,v201106081058,timestamp,550496d56,2011-06-08,c74cc8a30,2012-08-03,mapper à frente,1319,0
+CDT,JunoSR1,2012-09-19,v201106081058,timestamp,550496d56,2011-06-08,f1c6b1f43,2012-09-19,divergente,6329,19498
+CDT,JunoSR2,2013-02-24,v201106081058,timestamp,550496d56,2011-06-08,8da0b43d3,2013-02-22,mapper à frente,1860,0
+CDT,KeplerPostRC4,2013-06-13,v201106081058,timestamp,550496d56,2011-06-08,f7de7ad84,2013-06-12,mapper à frente,2531,0
+CDT,KeplerSR0,2013-08-02,v201106081058,timestamp,550496d56,2011-06-08,eb286477f,2013-08-01,mapper à frente,2602,0
+CDT,KeplerSR1,2013-09-23,v201106081058,timestamp,550496d56,2011-06-08,331ff203d,2013-09-23,mapper à frente,2819,0
+CDT,LunaSR0,2014-07-29,v201106081058,timestamp,550496d56,2011-06-08,e26e8a60c,2014-07-28,mapper à frente,3506,0
+CDT,z20140805-2300,2014-07-29,v201106081058,timestamp,550496d56,2011-06-08,e26e8a60c,2014-07-28,mapper à frente,3506,0
+CDT,z20140806,2014-07-29,v201106081058,timestamp,550496d56,2011-06-08,e26e8a60c,2014-07-28,mapper à frente,3506,0
+CDT,LunaRC4,2014-09-17,v201106081058,timestamp,550496d56,2011-06-08,ae1b12338,2014-09-17,mapper à frente,3643,0
+CDT,LunaSR2,2015-03-02,v201106081058,timestamp,550496d56,2011-06-08,ce34d2d48,2015-02-28,mapper à frente,4064,0
+CDT,S201504150911,2015-04-15,v201106081058,timestamp,550496d56,2011-06-08,cb34c361b,2015-04-15,divergente,644,19498
+CDT,Mars.1,2015-09-24,v201106081058,timestamp,550496d56,2011-06-08,2471f7e1d,2015-09-24,mapper à frente,4493,0
+CDT,Neon,2016-06-13,,,,,506347531,2016-06-12,sem tag,,
+CDT,OxygenPreRienaRemoval_9-8-2016,2016-09-07,CDT_9_0_0,versão 9.0,baf20dea3,2016-06-06,bb0190682,2016-09-07,mapper à frente,50,0
+CDT,Neon.1,2016-09-14,,,,,46d0c9633,2016-09-13,sem tag,,
+CDT,Neon.1a,2016-10-06,,,,,9f7af7a49,2016-10-06,sem tag,,
+CDT,Neon.2,2016-12-07,,,,,0d02aea06,2016-12-07,sem tag,,
+CDT,Neon.3,2017-03-08,,,,,212bbd011,2017-03-08,sem tag,,
+CDT,Neon.3_respin,2017-03-14,,,,,8bfd2cdc2,2017-03-13,sem tag,,
+CDT,Oxygen,2017-06-14,,,,,ef6aeee51,2017-06-14,sem tag,,
+CDT,Oxygen.1,2017-09-13,,,,,a6542611d,2017-09-13,sem tag,,
+CDT,Oxygen.1a,2017-10-05,,,,,3d04ec0c9,2017-10-04,sem tag,,
+CDT,Oxygen.1a_respin,2017-10-09,,,,,78380bf5f,2017-10-08,sem tag,,
+CDT,Oxygen.2,2017-12-06,CDT_9_4_0,versão 9.4,fdd005c96,2017-12-01,fea65eeb1,2017-12-04,mapper à frente,1,0
+CDT,Oxygen.2_respin,2017-12-15,CDT_9_4_0,versão 9.4,fdd005c96,2017-12-01,8618c34e5,2017-12-14,divergente,8,2
+CDT,Oxygen.3,2018-03-07,CDT_9_4_3,versão 9.4.3,0051cf041,2018-02-26,d468345bc,2018-03-07,divergente,111,58
+CDT,PhotonM7,2018-05-17,CDT_9_5_0,versão 9.5.0,e6550c7a1,2018-06-16,c16a31325,2018-05-17,mapper atrás,0,34
+CDT,PhotonRC4,2018-06-13,CDT_9_5_0,versão 9.5.0,e6550c7a1,2018-06-16,ac2363cb9,2018-06-13,divergente,7,5
+CDT,Photon.0,2018-06-17,CDT_9_5_0,versão 9.5.0,e6550c7a1,2018-06-16,29ed1fa6c,2018-06-17,divergente,18,5
+CDT,2018-09,2018-09-12,CDT_9_5_3,versão 9.5.3,55569e158,2018-09-11,74eb81b0b,2018-09-12,divergente,82,25
+CDT,2018-12,2018-12-12,CDT_9_6_0,versão 9.6.0,78dcf9bf0,2018-12-11,c78246ede,2018-12-12,divergente,6,3
+CDT,2019-03,2019-03-14,CDT_9_7_0,versão 9.7.0,825423c1e,2019-03-11,02ecf97ab,2019-03-13,divergente,10,9
+CDT,2019-06,2019-06-13,CDT_9_8_0,versão 9.8.0,7741bd98f,2019-06-07,0b9b9890e,2019-06-11,mapper à frente,4,0
+CDT,2019-09,2019-09-16,CDT_9_9_0,versão 9.9.0,2cbf927a3,2019-09-09,7e4f3a84d,2019-09-11,mapper à frente,1,0
+CDT,2019-12,2019-12-11,CDT_9_10_0,versão 9.10.0,c4a4fbe1d,2019-12-09,4b7b3c5e7,2019-12-10,divergente,4,2
+CDT,2020-03,2020-03-12,CDT_9_11_0,versão 9.11.0,eb9d7624c,2020-03-09,5823d56a2,2020-03-11,mapper à frente,1,0
+CDT,2020-06,2020-06-10,CDT_9_11_1,versão 9.11.1,ff0912e63,2020-06-01,4bd9fed83,2020-06-08,divergente,146,29
+CDT,2020-09,2020-09-09,CDT_10_0_0,versão 10.0.0,65a4d1c42,2020-09-07,65a4d1c42,2020-09-07,igual,,
+CDT,2020-12,2020-12-09,CDT_10_1_0,versão 10.1.0,7c599b14b,2020-12-07,7c599b14b,2020-12-07,igual,,
+CDT,2021-03,2021-03-10,CDT_10_2_0,versão 10.2.0,6874b7e01,2021-03-01,6874b7e01,2021-03-01,igual,,
+CDT,2021-06,2021-06-12,CDT_10_3_0,versão 10.3.0,fce6d2f93,2021-06-07,6352e0c20,2021-06-10,mapper à frente,1,0
+CDT,2021-09,2021-09-08,CDT_10_4_0,versão 10.4.0,c34816028,2021-09-01,c34816028,2021-09-01,igual,,
+CDT,2021-12,2021-12-02,CDT_10_5_0,versão 10.5.0,71ad45b38,2021-11-29,71ad45b38,2021-11-29,igual,,
+CDT,2022-03,2022-03-15,CDT_10_6_0,versão 10.6.0,96f928152,2022-03-08,db4bc7433,2022-03-14,mapper à frente,5,0
+CDT,2022-06,2022-06-13,CDT_10_7_0,versão 10.7.0,d7190182f,2022-06-08,d7190182f,2022-06-08,igual,,
+CDT,2022-09,2022-09-12,CDT_10_7_1,versão 10.7.1,dc4cc8023,2022-08-22,0610c366b,2022-09-09,divergente,62,14
+CDT,2022-12,2022-12-05,CDT_11_0_0,versão 11.0.0,1087dc5f2,2022-11-29,9114ac3ff,2022-12-03,mapper à frente,5,0
+CDT,2023-03,2023-03-29,CDT_11_1_0,versão 11.1.0,8a531b409,2023-03-06,2c30db5fd,2023-03-20,divergente,29,1
+CDT,2023-06,2023-06-13,CDT_11_2_0,versão 11.2.0,9e10c7901,2023-06-05,d4c444eae,2023-06-12,mapper à frente,5,0
+CDT,2023-09,2023-09-08,CDT_11_3_0,versão 11.3.0,54a7f61a6,2023-09-05,69bd1cb4c,2023-09-08,mapper à frente,2,0
+CDT,2023-12,2023-12-01,CDT_11_4_0,versão 11.4.0,029e4bda7,2023-11-27,029e4bda7,2023-11-27,igual,,
+CDT,2024-03,2024-03-08,CDT_11_5_0,versão 11.5.0,35ddedcc2,2024-03-04,221d346f6,2024-03-07,divergente,1,1
+CDT,2024-06,2024-06-10,CDT_11_6_0,versão 11.6.0,9f85daf44,2024-05-31,7fcfbb0f9,2024-06-05,mapper à frente,1,0
+CDT,2024-09,2024-09-06,CDT_11_6_1,versão 11.6.1,2b69e9845,2024-07-02,9b09dce3a,2024-08-30,divergente,29,8
+CDT,2024-12,2024-12-01,CDT_11_6_1,versão 11.6.1,2b69e9845,2024-07-02,9e9be4a5e,2024-11-27,divergente,49,8
+CDT,2025-03,2025-03-06,CDT_12_0_0,versão 12.0.0,d31e62aa3,2025-03-07,f96dd1a38,2025-03-04,mapper atrás,0,3
+CDT,2025-06,2025-06-05,CDT_12_1_0,versão 12.1.0,74e7b5042,2025-06-04,74e7b5042,2025-06-04,igual,,
+CDT,2025-09,2025-09-05,CDT_12_2_0,versão 12.2.0,4dd2f958f,2025-09-02,8786db3dd,2025-09-02,divergente,2,1
+CDT,2025-12,2025-12-07,CDT_12_3_0,versão 12.3.0,011e7d690,2025-12-01,011e7d690,2025-12-01,igual,,
+CDT,2026-03,2026-03-11,CDT_12_4_0,versão 12.4.0,19a9edabd,2026-03-04,390ff4407,2026-03-06,mapper à frente,1,0
+DataTools,JunoSR0,2012-08-03,v201201161512,timestamp,da3a27a67,2012-01-16,2146bd34c,2012-08-02,divergente,24,41
+DataTools,JunoSR1,2012-09-19,v201208161415,timestamp,c6ea1d6d6,2012-08-16,e5a7fd4ab,2012-09-18,divergente,69,304
+DataTools,JunoSR2,2013-02-24,v201209181447,timestamp,bc3b501cf,2012-09-18,51692f28b,2013-02-23,divergente,746,307
+DataTools,KeplerPostRC4,2013-06-13,v201302211047,timestamp,83785c9ff,2013-02-21,6a2681ca9,2013-06-04,divergente,74,318
+DataTools,KeplerSR0,2013-08-02,v201302211047,timestamp,83785c9ff,2013-02-21,e7d705c55,2013-08-02,divergente,809,318
+DataTools,KeplerSR1,2013-09-23,v201306041610,timestamp,68f753109,2013-06-04,f40254edd,2013-09-24,divergente,822,321
+DataTools,LunaSR0,2014-07-29,v201406061321,timestamp,19adc3961,2014-06-06,9f2e351d1,2014-07-21,divergente,40,17
+DataTools,z20140805-2300,2014-07-29,v201406061321,timestamp,19adc3961,2014-06-06,9f2e351d1,2014-07-21,divergente,40,17
+DataTools,z20140806,2014-07-29,v201406061321,timestamp,19adc3961,2014-06-06,9f2e351d1,2014-07-21,divergente,40,17
+DataTools,LunaRC4,2014-09-17,v201406061321,timestamp,19adc3961,2014-06-06,9f2e351d1,2014-07-21,divergente,40,17
+DataTools,LunaSR2,2015-03-02,v201406061321,timestamp,19adc3961,2014-06-06,9f2e351d1,2014-07-21,divergente,40,17
+DataTools,S201504150911,2015-04-15,v201406061321,timestamp,19adc3961,2014-06-06,9f2e351d1,2014-07-21,divergente,40,17
+DataTools,Mars.1,2015-09-24,v201406061321,timestamp,19adc3961,2014-06-06,9f2e351d1,2014-07-21,divergente,40,17
+DataTools,Neon,2016-06-13,,,,,194715f02,2016-05-27,sem tag,,
+DataTools,OxygenPreRienaRemoval_9-8-2016,2016-09-07,,,,,194715f02,2016-05-27,contrib. desativada,,
+DataTools,Neon.1,2016-09-14,,,,,194715f02,2016-05-27,sem tag,,
+DataTools,Neon.1a,2016-10-06,,,,,194715f02,2016-05-27,sem tag,,
+DataTools,Neon.2,2016-12-07,,,,,194715f02,2016-05-27,sem tag,,
+DataTools,Neon.3,2017-03-08,,,,,7753eea14,2017-01-13,sem tag,,
+DataTools,Neon.3_respin,2017-03-14,,,,,7753eea14,2017-01-13,sem tag,,
+DataTools,Oxygen,2017-06-14,,,,,7753eea14,2017-01-13,sem tag,,
+DataTools,Oxygen.1,2017-09-13,,,,,7753eea14,2017-01-13,sem tag,,
+DataTools,Oxygen.1a,2017-10-05,,,,,7753eea14,2017-01-13,sem tag,,
+DataTools,Oxygen.1a_respin,2017-10-09,,,,,7753eea14,2017-01-13,sem tag,,
+DataTools,Oxygen.2,2017-12-06,,,,,7753eea14,2017-01-13,sem tag,,
+DataTools,Oxygen.2_respin,2017-12-15,DTP_1_14_1_Release,versão 1.14.1,bddeea31a,2017-12-14,bddeea31a,2017-12-14,igual,,
+DataTools,Oxygen.3,2018-03-07,DTP_1_14_1_Release,versão 1.14.1,bddeea31a,2017-12-14,3b5fb7fbc,2018-02-21,mapper à frente,5124,0
+DataTools,PhotonM7,2018-05-17,,,,,21692cc09,2018-05-04,sem tag,,
+DataTools,PhotonRC4,2018-06-13,1.14.100.201805031905,timestamp,21692cc09,2018-05-04,21692cc09,2018-05-04,igual,,
+DataTools,Photon.0,2018-06-17,1.14.100.201805031905,timestamp,21692cc09,2018-05-04,21692cc09,2018-05-04,igual,,
+DataTools,2018-09,2018-09-12,,,,,94b8f95c4,2018-09-10,sem tag,,
+DataTools,2018-12,2018-12-12,,,,,209258c8e,2018-11-01,sem tag,,
+DataTools,2019-03,2019-03-14,,,,,0cdebb816,2019-01-09,sem tag,,
+DataTools,2019-06,2019-06-13,,,,,f27802e34,2019-05-11,sem tag,,
+DataTools,2019-09,2019-09-16,,,,,f27802e34,2019-05-11,sem tag,,
+DataTools,2019-12,2019-12-11,,,,,74cac893e,2019-11-25,sem tag,,
+DataTools,2020-03,2020-03-12,,,,,97973eec4,2020-01-24,sem tag,,
+DataTools,2020-06,2020-06-10,,,,,97973eec4,2020-01-24,sem tag,,
+DataTools,2020-09,2020-09-09,,,,,d12f82cd7,2020-08-19,sem tag,,
+DataTools,2020-12,2020-12-09,,,,,f46d1b9e7,2020-09-29,sem tag,,
+DataTools,2021-03,2021-03-10,,,,,c70f69f70,2021-03-06,sem tag,,
+DataTools,2021-06,2021-06-12,,,,,47e002ef0,2021-03-18,sem tag,,
+DataTools,2021-09,2021-09-08,,,,,35bf9ceb2,2021-07-09,sem tag,,
+DataTools,2021-12,2021-12-02,,,,,35bf9ceb2,2021-07-09,sem tag,,
+DataTools,2022-03,2022-03-15,,,,,4b901a82e,2022-01-14,sem tag,,
+DataTools,2022-06,2022-06-13,,,,,4b901a82e,2022-01-14,sem tag,,
+DataTools,2022-09,2022-09-12,,,,,4b901a82e,2022-01-14,sem tag,,
+DataTools,2022-12,2022-12-05,,,,,4b901a82e,2022-01-14,sem tag,,
+DataTools,2023-03,2023-03-29,,,,,4b901a82e,2022-01-14,sem tag,,
+DataTools,2023-06,2023-06-13,,,,,61f062f24,2023-05-31,sem tag,,
+DataTools,2023-09,2023-09-08,,,,,db2cc047b,2023-06-15,sem tag,,
+DataTools,2023-12,2023-12-01,,,,,22b1b9358,2023-11-08,sem tag,,
+DataTools,2024-03,2024-03-08,,,,,1ab7405dd,2024-03-06,sem tag,,
+DataTools,2024-06,2024-06-10,,,,,1ab7405dd,2024-03-06,sem tag,,
+DataTools,2024-09,2024-09-06,,,,,683a0f347,2024-09-03,sem tag,,
+DataTools,2024-12,2024-12-01,,,,,28fd4ded2,2024-11-28,sem tag,,
+DataTools,2025-03,2025-03-06,,,,,daaa60f95,2025-03-04,sem tag,,
+DataTools,2025-06,2025-06-05,,,,,97ce48d6e,2025-05-13,sem tag,,
+DataTools,2025-09,2025-09-05,,,,,97ce48d6e,2025-05-13,sem tag,,
+DataTools,2025-12,2025-12-07,,,,,7d5b38030,2025-09-20,sem tag,,
+DataTools,2026-03,2026-03-11,,,,,7d5b38030,2025-09-20,sem tag,,
+EGit,JunoSR0,2012-08-03,v2.0.0.201206130900-r,timestamp,1f07f085d,2012-06-13,5d7d83838,2012-07-31,mapper à frente,47,0
+EGit,JunoSR1,2012-09-19,v2.1.0.201209190230-r,timestamp,ad8765e63,2012-09-19,94e5f7d91,2012-09-19,mapper à frente,9,0
+EGit,JunoSR2,2013-02-24,v2.2.0.201212191850-r,timestamp,408252a94,2012-12-20,b90f4642b,2013-02-24,mapper à frente,131,0
+EGit,KeplerPostRC4,2013-06-13,v3.0.0.201306101825-r,timestamp,f85dc228e,2013-06-11,e8497d977,2013-06-13,mapper à frente,9,0
+EGit,KeplerSR0,2013-08-02,v3.0.0.201306101825-r,timestamp,f85dc228e,2013-06-11,cb94e50dc,2013-07-29,mapper à frente,42,0
+EGit,KeplerSR1,2013-09-23,v3.0.0.201306101825-r,timestamp,f85dc228e,2013-06-11,36e3c26f1,2013-09-23,mapper à frente,144,0
+EGit,LunaSR0,2014-07-29,v3.4.0.201406110918-r,timestamp,d723ac2e6,2014-06-11,df446a839,2014-07-25,mapper à frente,53,0
+EGit,z20140805-2300,2014-07-29,v3.4.0.201406110918-r,timestamp,d723ac2e6,2014-06-11,df446a839,2014-07-25,mapper à frente,53,0
+EGit,z20140806,2014-07-29,v3.4.0.201406110918-r,timestamp,d723ac2e6,2014-06-11,df446a839,2014-07-25,mapper à frente,53,0
+EGit,LunaRC4,2014-09-17,v3.4.0.201406110918-r,timestamp,d723ac2e6,2014-06-11,b4547c7a8,2014-09-17,mapper à frente,124,0
+EGit,LunaSR2,2015-03-02,v3.4.2.201412180340-r,timestamp,3b8b6e18f,2014-12-18,b5c313639,2015-03-01,mapper à frente,318,0
+EGit,S201504150911,2015-04-15,v4.0.0.201503231230-m1,timestamp,3070b99c8,2015-03-23,02f9ebaa0,2015-03-31,divergente,11,1
+EGit,Mars.1,2015-09-24,,,,,4cc706a2f,2015-09-23,sem tag,,
+EGit,Neon,2016-06-13,v4.4.0.201606070830-r,timestamp,a80b64819,2016-06-07,53d89e34a,2016-06-12,divergente,3,11
+EGit,OxygenPreRienaRemoval_9-8-2016,2016-09-07,v4.4.1.201607150455-r,timestamp,1ac94c7d6,2016-07-15,3640b68ca,2016-09-07,divergente,81,1
+EGit,Neon.1,2016-09-14,v4.4.0.201606070830-r,timestamp,a80b64819,2016-06-07,310f37ca0,2016-09-14,mapper à frente,96,0
+EGit,Neon.1a,2016-10-06,v4.4.0.201606070830-r,timestamp,a80b64819,2016-06-07,482a60fe7,2016-10-01,mapper à frente,116,0
+EGit,Neon.2,2016-12-07,v4.4.0.201606070830-r,timestamp,a80b64819,2016-06-07,6cdb692cc,2016-12-06,mapper à frente,174,0
+EGit,Neon.3,2017-03-08,v4.6.0.201612231935-r,timestamp,f0453ea2a,2016-12-24,2656dee5a,2017-03-08,mapper à frente,82,0
+EGit,Neon.3_respin,2017-03-14,v4.6.0.201612231935-r,timestamp,f0453ea2a,2016-12-24,28840afe9,2017-03-12,mapper à frente,90,0
+EGit,Oxygen,2017-06-14,v4.8.0.201706111038-r,timestamp,3c3fc375a,2017-06-11,3d93ae108,2017-06-14,divergente,7,4
+EGit,Oxygen.1,2017-09-13,v4.8.0.201706111038-r,timestamp,3c3fc375a,2017-06-11,65c68b362,2017-09-11,mapper à frente,81,0
+EGit,Oxygen.1a,2017-10-05,v4.8.0.201706111038-r,timestamp,3c3fc375a,2017-06-11,2c1c15574,2017-10-01,mapper à frente,89,0
+EGit,Oxygen.1a_respin,2017-10-09,v4.8.0.201706111038-r,timestamp,3c3fc375a,2017-06-11,103c682e0,2017-10-08,mapper à frente,92,0
+EGit,Oxygen.2,2017-12-06,v4.9.0.201710071750-r,timestamp,34e37af7f,2017-10-07,eb33e5044,2017-12-05,mapper à frente,27,0
+EGit,Oxygen.2_respin,2017-12-15,v4.9.0.201710071750-r,timestamp,34e37af7f,2017-10-07,03cda1652,2017-12-15,mapper à frente,8,0
+EGit,Oxygen.3,2018-03-07,v4.9.0.201710071750-r,timestamp,34e37af7f,2017-10-07,9c86e408b,2018-03-04,mapper à frente,73,0
+EGit,PhotonM7,2018-05-17,v5.0.0.201805151920-m7,timestamp,76dd2f3b2,2018-05-16,6f7be67e4,2018-05-17,mapper à frente,1,0
+EGit,PhotonRC4,2018-06-13,v5.0.0.201806131550-r,timestamp,ba0bcbfe6,2018-06-13,ba0bcbfe6,2018-06-13,igual,,
+EGit,Photon.0,2018-06-17,v5.0.0.201806131550-r,timestamp,ba0bcbfe6,2018-06-13,935ac8cde,2018-06-17,mapper à frente,21,0
+EGit,2018-09,2018-09-12,v5.1.0.201809111528-r,timestamp,915618ea5,2018-09-11,b3b288586,2018-09-12,mapper à frente,9,0
+EGit,2018-12,2018-12-12,v5.2.0.201812061821-r,timestamp,541c072f3,2018-12-07,972c2bc02,2018-12-11,divergente,7,2
+EGit,2019-03,2019-03-14,v5.3.0.201903130848-r,timestamp,a23787ced,2019-03-13,50510c63e,2019-03-14,mapper à frente,16,0
+EGit,2019-06,2019-06-13,v5.4.0.201906121030-r,timestamp,261033ae6,2019-06-12,92ac012b2,2019-06-13,mapper à frente,3,0
+EGit,2019-09,2019-09-16,v5.5.0.201909110433-r,timestamp,b01958ad3,2019-09-11,a5c18a183,2019-09-16,mapper à frente,16,0
+EGit,2019-12,2019-12-11,v5.6.0.201912101111-r,timestamp,0253a5e9a,2019-12-10,d40a44ea6,2019-12-11,mapper à frente,11,0
+EGit,2020-03,2020-03-12,v5.7.0.202003110725-r,timestamp,3c986b710,2020-03-11,09d6a9621,2020-03-11,divergente,4,2
+EGit,2020-06,2020-06-10,v5.8.0.202006091008-r,timestamp,3e01b76df,2020-06-09,9592984bf,2020-06-09,mapper à frente,3,0
+EGit,2020-09,2020-09-09,v5.9.0.202009080501-r,timestamp,2bee4c71d,2020-09-08,a19047cf6,2020-09-09,mapper à frente,5,0
+EGit,2020-12,2020-12-09,v5.10.0.202012080955-r,timestamp,da875e67f,2020-12-08,bfa933c9a,2020-12-08,mapper à frente,5,0
+EGit,2021-03,2021-03-10,v5.11.0.202103091610-r,timestamp,d87f767fc,2021-03-09,7d99a7b44,2021-03-10,mapper à frente,4,0
+EGit,2021-06,2021-06-12,v5.12.0.202106070339-r,timestamp,9b065cc53,2021-06-07,9b065cc53,2021-06-07,igual,,
+EGit,2021-09,2021-09-08,v5.13.0.202109080827-r,timestamp,babc2b142,2021-09-08,817d5e67d,2021-09-08,mapper à frente,1,0
+EGit,2021-12,2021-12-02,v6.0.0.202111291000-r,timestamp,b2a9635c3,2021-11-29,f86740c9c,2021-12-01,mapper à frente,6,0
+EGit,2022-03,2022-03-15,v6.1.0.202203080745-r,timestamp,a873b3388,2022-03-08,e643798f9,2022-03-14,mapper à frente,11,0
+EGit,2022-06,2022-06-13,v6.2.0.202206071550-r,timestamp,9ee8722e1,2022-06-07,de4799446,2022-06-08,divergente,4,1
+EGit,2022-09,2022-09-12,,,,,06b348970,2022-09-12,sem tag,,
+EGit,2022-12,2022-12-05,v6.4.0.202211300538-r,timestamp,5f3d728c6,2022-11-30,84d650231,2022-11-30,mapper à frente,5,0
+EGit,2023-03,2023-03-29,v6.5.0.202303070854-r,timestamp,bdb0173e9,2023-03-07,0553e5967,2023-03-29,mapper à frente,5,0
+EGit,2023-06,2023-06-13,v6.6.0.202305301015-r,timestamp,53cf6ba34,2023-05-30,226ab5ce9,2023-06-09,mapper à frente,3,0
+EGit,2023-09,2023-09-08,v6.7.0.202309050840-r,timestamp,cde67868a,2023-09-05,3b7ebdd2a,2023-09-07,mapper à frente,3,0
+EGit,2023-12,2023-12-01,v6.8.0.202311291450-r,timestamp,bef9d0a4e,2023-11-29,91a6ddc55,2023-11-29,mapper à frente,1,0
+EGit,2024-03,2024-03-08,v6.9.0.202403050737-r,timestamp,d701ca0db,2024-03-05,856a0dc37,2024-03-07,mapper à frente,4,0
+EGit,2024-06,2024-06-10,v6.10.0.202406032230-r,timestamp,7c6177b14,2024-06-04,c8fe20b14,2024-06-04,mapper à frente,3,0
+EGit,2024-09,2024-09-06,v7.0.0.202409031743-r,timestamp,99ce27776,2024-09-03,5172b30ea,2024-09-04,mapper à frente,4,0
+EGit,2024-12,2024-12-01,v7.1.0.202411261347-r,timestamp,1accf8bbc,2024-11-26,7557af197,2024-11-27,mapper à frente,4,0
+EGit,2025-03,2025-03-06,v7.2.0.202503040940-r,timestamp,d503a6d6e,2025-03-04,021bcbb6b,2025-03-04,mapper à frente,3,0
+EGit,2025-06,2025-06-05,v7.3.0.202506031305-r,timestamp,5d2e8aecf,2025-06-03,4bdb744d8,2025-06-03,mapper à frente,3,0
+EGit,2025-09,2025-09-05,v7.4.0.202509020913-r,timestamp,0a0feb0d1,2025-09-02,6aef951ff,2025-09-03,mapper à frente,3,0
+EGit,2025-12,2025-12-07,v7.5.0.202512021534-r,timestamp,e2fd9794d,2025-12-02,2e3882360,2025-12-04,mapper à frente,9,0
+EGit,2026-03,2026-03-11,v7.6.0.202603022253-r,timestamp,a16b62fca,2026-03-03,ebee8dbd5,2026-03-08,mapper à frente,6,0
+EMF,JunoSR0,2012-08-03,R2_8_0,versão 2.8.0,38c34011d,2012-06-12,b419d880e,2012-07-18,mapper à frente,9,0
+EMF,JunoSR1,2012-09-19,R2_8_1,versão 2.8.1,bdea72bfb,2012-09-17,d28fca749,2012-09-19,divergente,1243,7760
+EMF,JunoSR2,2013-02-24,R2_8_3,versão 2.8.3,30406cdb0,2013-01-25,3cf478a55,2013-02-14,divergente,144,46
+EMF,KeplerPostRC4,2013-06-13,R2_9_0,versão 2.9.0,016459541,2013-06-12,016459541,2013-06-12,igual,,
+EMF,KeplerSR0,2013-08-02,R2_9_0,versão 2.9.0,016459541,2013-06-12,a7fcd004b,2013-07-31,mapper à frente,19,0
+EMF,KeplerSR1,2013-09-23,R2_9_1,versão 2.9.1,8be9765dc,2013-08-28,dc8397aad,2013-09-11,divergente,45,17
+EMF,LunaSR0,2014-07-29,R2_10_0,versão 2.10.0,aa41283ac,2014-06-13,a9f380d91,2014-07-29,mapper à frente,26,0
+EMF,z20140805-2300,2014-07-29,R2_10_0,versão 2.10.0,aa41283ac,2014-06-13,a9f380d91,2014-07-29,mapper à frente,26,0
+EMF,z20140806,2014-07-29,R2_10_0,versão 2.10.0,aa41283ac,2014-06-13,a9f380d91,2014-07-29,mapper à frente,26,0
+EMF,LunaRC4,2014-09-17,R2_10_1,versão 2.10.1,5b08f92e9,2014-08-27,4bee6867e,2014-09-08,mapper à frente,5,0
+EMF,LunaSR2,2015-03-02,R2_10_2,versão 2.10.2,3bec4be6d,2015-01-22,5ea9a54f2,2015-02-25,divergente,105,84
+EMF,S201504150911,2015-04-15,R2_11_0,versão 2.11.0,01f4d4dca,2015-05-28,b4cba4155,2015-04-13,mapper atrás,0,7
+EMF,Mars.1,2015-09-24,R2_11_1,versão 2.11.1,c1be3dece,2015-08-06,96f14a9fa,2015-08-29,divergente,11,14
+EMF,Neon,2016-06-13,R2_12_0,versão 2.12.0,202158381,2016-04-20,a975209e5,2016-05-26,mapper à frente,1,0
+EMF,OxygenPreRienaRemoval_9-8-2016,2016-09-07,R2_12_0,versão 2.12.0,202158381,2016-04-20,924503be7,2016-09-05,mapper à frente,11,0
+EMF,Neon.1,2016-09-14,R2_12_0,versão 2.12.0,202158381,2016-04-20,924503be7,2016-09-05,mapper à frente,11,0
+EMF,Neon.1a,2016-10-06,R2_12_0,versão 2.12.0,202158381,2016-04-20,d70a386f8,2016-09-19,mapper à frente,12,0
+EMF,Neon.2,2016-12-07,R2_12_0,versão 2.12.0,202158381,2016-04-20,bbe91169d,2016-11-14,mapper à frente,17,0
+EMF,Neon.3,2017-03-08,R2_12_0,versão 2.12.0,202158381,2016-04-20,4c10121b9,2017-03-08,mapper à frente,51,0
+EMF,Neon.3_respin,2017-03-14,R2_12_0,versão 2.12.0,202158381,2016-04-20,ca68a0fcf,2017-03-13,mapper à frente,53,0
+EMF,Oxygen,2017-06-14,R2_13_0,versão 2.13.0,39e89bbc4,2017-06-09,39e89bbc4,2017-06-09,igual,,
+EMF,Oxygen.1,2017-09-13,R2_13_0,versão 2.13.0,39e89bbc4,2017-06-09,07251512f,2017-09-12,mapper à frente,34,0
+EMF,Oxygen.1a,2017-10-05,R2_13_0,versão 2.13.0,39e89bbc4,2017-06-09,204aa0826,2017-09-26,mapper à frente,44,0
+EMF,Oxygen.1a_respin,2017-10-09,R2_13_0,versão 2.13.0,39e89bbc4,2017-06-09,204aa0826,2017-09-26,mapper à frente,44,0
+EMF,Oxygen.2,2017-12-06,R2_13_0,versão 2.13.0,39e89bbc4,2017-06-09,2890563fc,2017-11-28,mapper à frente,58,0
+EMF,Oxygen.2_respin,2017-12-15,R2_13_0,versão 2.13.0,39e89bbc4,2017-06-09,d589b6f02,2017-12-14,mapper à frente,63,0
+EMF,Oxygen.3,2018-03-07,R2_13_0,versão 2.13.0,39e89bbc4,2017-06-09,6bbcf3a9e,2018-02-13,mapper à frente,122,0
+EMF,PhotonM7,2018-05-17,,,,,53e094c68,2018-04-21,sem tag,,
+EMF,PhotonRC4,2018-06-13,,,,,431993270,2018-05-29,sem tag,,
+EMF,Photon.0,2018-06-17,,,,,431993270,2018-05-29,sem tag,,
+EMF,2018-09,2018-09-12,R2_15_0,versão 2.15,c6d5b3bf2,2018-09-05,c6d5b3bf2,2018-09-05,igual,,
+EMF,2018-12,2018-12-12,,,,,2c70efcd8,2018-12-06,sem tag,,
+EMF,2019-03,2019-03-14,R2_17_0,versão 2.17,77d979cf8,2019-03-12,77d979cf8,2019-03-12,igual,,
+EMF,2019-06,2019-06-13,R2_18_0,versão 2.18,063937d66,2019-05-28,063937d66,2019-05-28,igual,,
+EMF,2019-09,2019-09-16,R2_19_0,versão 2.19,8a3d58071,2019-08-24,0ce137a34,2019-09-12,mapper à frente,4,0
+EMF,2019-12,2019-12-11,R2_20_0,versão 2.20,a7ba56201,2019-10-28,a55d3a346,2019-12-04,mapper à frente,4,0
+EMF,2020-03,2020-03-12,R2_21_0,versão 2.21,164f7a1d6,2020-02-05,fb0eeb635,2020-03-02,mapper à frente,1,0
+EMF,2020-06,2020-06-10,R2_22_0,versão 2.22,7c53c3835,2020-05-19,7c53c3835,2020-05-19,igual,,
+EMF,2020-09,2020-09-09,R2_23_0,versão 2.23,fb27b2600,2020-08-22,fb27b2600,2020-08-22,igual,,
+EMF,2020-12,2020-12-09,R2_24_0,versão 2.24,5a81b9548,2020-11-05,5a81b9548,2020-11-05,igual,,
+EMF,2021-03,2021-03-10,R2_25_0,versão 2.25,ddba8b9fe,2021-01-25,ddba8b9fe,2021-01-25,igual,,
+EMF,2021-06,2021-06-12,R2_26_0,versão 2.26,68599263e,2021-05-06,68599263e,2021-05-06,igual,,
+EMF,2021-09,2021-09-08,R2_27_0,versão 2.27,8048238a7,2021-08-16,9cf8896bd,2021-08-29,mapper à frente,1,0
+EMF,2021-12,2021-12-02,R2_28_0,versão 2.28,da0132507,2021-11-10,da0132507,2021-11-10,igual,,
+EMF,2022-03,2022-03-15,R2_29_0,versão 2.29,e20568ddd,2022-02-26,65965abc8,2022-03-13,mapper à frente,7,0
+EMF,2022-06,2022-06-13,R2_30_0,versão 2.30,0286db954,2022-05-17,dca85f95e,2022-06-10,mapper à frente,1,0
+EMF,2022-09,2022-09-12,R2_31_0,versão 2.31,682792487,2022-08-19,93724a2db,2022-09-11,mapper à frente,7,0
+EMF,2022-12,2022-12-05,R2_32_0,versão 2.32,ca4d09588,2022-11-21,ca4d09588,2022-11-21,igual,,
+EMF,2023-03,2023-03-29,R2_33_0,versão 2.33.0,3295732ab,2023-02-26,823d27818,2023-03-26,mapper à frente,16,0
+EMF,2023-06,2023-06-13,R2_34_0,versão 2.34.0,417ffecc8,2023-04-06,f78051b00,2023-06-01,mapper à frente,2,0
+EMF,2023-09,2023-09-08,R2_35_0,versão 2.35.0,a3abc1454,2023-08-29,a3abc1454,2023-08-29,igual,,
+EMF,2023-12,2023-12-01,R2_36_0,versão 2.36.0,152362d7e,2023-11-16,3a2840e17,2023-11-29,mapper à frente,3,0
+EMF,2024-03,2024-03-08,R2_37_0,versão 2.37.0,2b463bfaf,2024-02-27,2b463bfaf,2024-02-27,igual,,
+EMF,2024-06,2024-06-10,R2_38_0,versão 2.38.0,1ee74398a,2024-03-29,932bf6219,2024-06-04,mapper à frente,1,0
+EMF,2024-09,2024-09-06,R2_39_0,versão 2.39.0,268292da4,2024-08-25,9f0715b47,2024-08-26,mapper à frente,2,0
+EMF,2024-12,2024-12-01,R2_40_0,versão 2.40.0,8f9afd065,2024-11-14,8f9afd065,2024-11-14,igual,,
+EMF,2025-03,2025-03-06,R2_41_0,versão 2.41.0,69105256e,2024-12-04,95e42962d,2025-02-19,mapper à frente,7,0
+EMF,2025-06,2025-06-05,R2_42_0,versão 2.42.0,1d0db25a6,2025-05-26,1d0db25a6,2025-05-26,igual,,
+EMF,2025-09,2025-09-05,R2_43_0,versão 2.43.0,80322e97b,2025-08-25,80322e97b,2025-08-25,igual,,
+EMF,2025-12,2025-12-07,R2_44_0,versão 2.44.0,3f72ec7a8,2025-11-06,3f72ec7a8,2025-11-06,igual,,
+EMF,2026-03,2026-03-11,R2_45_0,versão 2.45.0,47ea84d7f,2026-01-27,47ea84d7f,2026-01-27,igual,,
+EclipseLink,JunoSR0,2012-08-03,2.4.0,versão 2.4.0,12d3cb061,2012-06-26,55269ac7b,2012-08-03,divergente,475,1352
+EclipseLink,JunoSR1,2012-09-19,2.4.0,versão 2.4.0,12d3cb061,2012-06-26,c5aa40a6b,2012-09-19,divergente,437,75
+EclipseLink,JunoSR2,2013-02-24,2.4.1,versão 2.4.1,ad44345c6,2012-10-03,994a46b02,2013-02-22,mapper à frente,267,0
+EclipseLink,KeplerPostRC4,2013-06-13,2.5.0,versão 2.5.0,de51039ee,2013-05-10,feffef32c,2013-06-13,divergente,233,60
+EclipseLink,KeplerSR0,2013-08-02,2.5.0,versão 2.5.0,de51039ee,2013-05-10,d50aac08e,2013-08-01,mapper à frente,159,0
+EclipseLink,KeplerSR1,2013-09-23,2.5.1,versão 2.5.1,f2b9fc5cf,2013-09-17,685282179,2013-09-21,divergente,481,285
+EclipseLink,LunaSR0,2014-07-29,2.6.0,versão 2.6.0,bf260701d,2015-03-07,f367378dd,2014-07-28,mapper atrás,0,269
+EclipseLink,z20140805-2300,2014-07-29,2.6.0,versão 2.6.0,bf260701d,2015-03-07,f367378dd,2014-07-28,mapper atrás,0,269
+EclipseLink,z20140806,2014-07-29,2.6.0,versão 2.6.0,bf260701d,2015-03-07,f367378dd,2014-07-28,mapper atrás,0,269
+EclipseLink,LunaRC4,2014-09-17,,,,,63b34fd1d,2014-09-16,fora do simrel,,
+EclipseLink,LunaSR2,2015-03-02,,,,,39ce7fb08,2015-02-27,fora do simrel,,
+EclipseLink,S201504150911,2015-04-15,,,,,343c2cebe,2015-04-15,fora do simrel,,
+EclipseLink,Mars.1,2015-09-24,,,,,09fadf68f,2015-09-19,fora do simrel,,
+EclipseLink,Neon,2016-06-13,,,,,06715d3e3,2016-06-13,fora do simrel,,
+EclipseLink,OxygenPreRienaRemoval_9-8-2016,2016-09-07,,,,,bd0b348ec,2016-09-07,fora do simrel,,
+EclipseLink,Neon.1,2016-09-14,,,,,86621f895,2016-09-13,fora do simrel,,
+EclipseLink,Neon.1a,2016-10-06,,,,,0da74c793,2016-10-05,fora do simrel,,
+EclipseLink,Neon.2,2016-12-07,,,,,a60e644a0,2016-12-06,fora do simrel,,
+EclipseLink,Neon.3,2017-03-08,,,,,14e8bee6e,2017-02-28,fora do simrel,,
+EclipseLink,Neon.3_respin,2017-03-14,,,,,579f3bfaf,2017-03-13,fora do simrel,,
+EclipseLink,Oxygen,2017-06-14,,,,,1dfaa0142,2017-06-14,fora do simrel,,
+EclipseLink,Oxygen.1,2017-09-13,,,,,21cd36e27,2017-09-11,fora do simrel,,
+EclipseLink,Oxygen.1a,2017-10-05,,,,,c67026642,2017-10-02,fora do simrel,,
+EclipseLink,Oxygen.1a_respin,2017-10-09,,,,,78002f869,2017-10-09,fora do simrel,,
+EclipseLink,Oxygen.2,2017-12-06,,,,,db3825e14,2017-12-06,fora do simrel,,
+EclipseLink,Oxygen.2_respin,2017-12-15,,,,,686d3ccbb,2017-12-15,fora do simrel,,
+EclipseLink,Oxygen.3,2018-03-07,,,,,5dbf91716,2018-03-06,fora do simrel,,
+EclipseLink,PhotonM7,2018-05-17,,,,,3f86d94f9,2018-05-16,fora do simrel,,
+EclipseLink,PhotonRC4,2018-06-13,,,,,f00e5383e,2018-06-13,fora do simrel,,
+EclipseLink,Photon.0,2018-06-17,,,,,873cacb43,2018-06-14,fora do simrel,,
+EclipseLink,2018-09,2018-09-12,,,,,3e83f76f7,2018-09-07,fora do simrel,,
+EclipseLink,2018-12,2018-12-12,,,,,a2edcb35d,2018-12-03,fora do simrel,,
+EclipseLink,2019-03,2019-03-14,,,,,266203334,2019-03-14,fora do simrel,,
+EclipseLink,2019-06,2019-06-13,,,,,7cbc0ad79,2019-06-12,fora do simrel,,
+EclipseLink,2019-09,2019-09-16,,,,,2362273e1,2019-09-11,fora do simrel,,
+EclipseLink,2019-12,2019-12-11,,,,,a5b5fb08e,2019-12-09,fora do simrel,,
+EclipseLink,2020-03,2020-03-12,,,,,0c6f99de6,2020-03-11,fora do simrel,,
+EclipseLink,2020-06,2020-06-10,,,,,17b012387,2020-06-10,fora do simrel,,
+EclipseLink,2020-09,2020-09-09,,,,,eb84e6b24,2020-09-09,fora do simrel,,
+EclipseLink,2020-12,2020-12-09,,,,,b18124021,2020-12-08,fora do simrel,,
+EclipseLink,2021-03,2021-03-10,,,,,c3dd2b744,2021-03-08,fora do simrel,,
+EclipseLink,2021-06,2021-06-12,,,,,e9ddf971d,,fora do simrel,,
+EclipseLink,2021-09,2021-09-08,,,,,f54d43e23,2021-09-08,fora do simrel,,
+EclipseLink,2021-12,2021-12-02,,,,,de5635793,2021-11-30,fora do simrel,,
+EclipseLink,2022-03,2022-03-15,,,,,94fe194b7,2022-03-14,fora do simrel,,
+EclipseLink,2022-06,2022-06-13,,,,,e546902cc,2022-06-13,fora do simrel,,
+EclipseLink,2022-09,2022-09-12,,,,,5fc36efa7,2022-09-09,fora do simrel,,
+EclipseLink,2022-12,2022-12-05,,,,,099442d04,2022-11-30,fora do simrel,,
+EclipseLink,2023-03,2023-03-29,,,,,8ac193557,2023-03-21,fora do simrel,,
+EclipseLink,2023-06,2023-06-13,,,,,96c4af71c,2023-06-12,fora do simrel,,
+EclipseLink,2023-09,2023-09-08,,,,,da743972b,2023-09-07,fora do simrel,,
+EclipseLink,2023-12,2023-12-01,,,,,149e9ce03,2023-12-01,fora do simrel,,
+EclipseLink,2024-03,2024-03-08,,,,,37f7ad86a,2024-03-06,fora do simrel,,
+EclipseLink,2024-06,2024-06-10,,,,,b09fbb71a,2024-06-10,fora do simrel,,
+EclipseLink,2024-09,2024-09-06,,,,,ea091f7b9,2024-09-05,fora do simrel,,
+EclipseLink,2024-12,2024-12-01,,,,,2db479829,2024-11-27,fora do simrel,,
+EclipseLink,2025-03,2025-03-06,,,,,a590a7a15,2025-03-05,fora do simrel,,
+EclipseLink,2025-06,2025-06-05,,,,,dd435a389,2025-06-03,fora do simrel,,
+EclipseLink,2025-09,2025-09-05,,,,,2affbc9ec,2025-09-04,fora do simrel,,
+EclipseLink,2025-12,2025-12-07,,,,,cefae0ee3,2025-12-04,fora do simrel,,
+EclipseLink,2026-03,2026-03-11,,,,,d0c79f85a,2026-03-10,fora do simrel,,
+GEF,JunoSR0,2012-08-03,,,,,bf45e8fe5,2012-07-27,sem tag,,
+GEF,JunoSR1,2012-09-19,,,,,d71e13b49,2012-08-27,sem tag,,
+GEF,JunoSR2,2013-02-24,,,,,dbf4cefdf,2013-02-06,sem tag,,
+GEF,KeplerPostRC4,2013-06-13,,,,,22becd5e1,2013-06-04,sem tag,,
+GEF,KeplerSR0,2013-08-02,,,,,1878be82d,2013-06-29,sem tag,,
+GEF,KeplerSR1,2013-09-23,,,,,9ade08e34,2013-09-18,sem tag,,
+GEF,LunaSR0,2014-07-29,R3_9_100,versão 3.9.100,ab961d4c1,2014-05-26,8cab855e3,2014-07-12,mapper à frente,11,0
+GEF,z20140805-2300,2014-07-29,R3_9_100,versão 3.9.100,ab961d4c1,2014-05-26,8cab855e3,2014-07-12,mapper à frente,11,0
+GEF,z20140806,2014-07-29,R3_9_100,versão 3.9.100,ab961d4c1,2014-05-26,8cab855e3,2014-07-12,mapper à frente,11,0
+GEF,LunaRC4,2014-09-17,R3_9_100,versão 3.9.100,ab961d4c1,2014-05-26,5f5feab35,2014-09-10,mapper à frente,35,0
+GEF,LunaSR2,2015-03-02,R3_9_100,versão 3.9.100,ab961d4c1,2014-05-26,89ebb3b9f,2015-02-01,mapper à frente,38,0
+GEF,S201504150911,2015-04-15,R3_10_0,versão 3.10.0,f95d8086d,2015-05-30,13f2aaae7,2015-03-29,mapper atrás,0,5
+GEF,Mars.1,2015-09-24,R3_10_1,versão 3.10.1,e6c829eaf,2015-07-28,f95f50aa2,2015-09-21,mapper à frente,42,0
+GEF,Neon,2016-06-13,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,bcd6206f6,2016-06-06,igual,,
+GEF,OxygenPreRienaRemoval_9-8-2016,2016-09-07,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,99633c236,2016-08-14,mapper à frente,12,0
+GEF,Neon.1,2016-09-14,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,d40a6827a,2016-09-13,mapper à frente,13,0
+GEF,Neon.1a,2016-10-06,R_1_0_1,versão 1.0.1,d673e04cb,2006-12-19,d40a6827a,2016-09-13,mapper à frente,1499,0
+GEF,Neon.2,2016-12-07,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,d40a6827a,2016-09-13,mapper à frente,13,0
+GEF,Neon.3,2017-03-08,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,d40a6827a,2016-09-13,mapper à frente,13,0
+GEF,Neon.3_respin,2017-03-14,R_1_0_1,versão 1.0.1,d673e04cb,2006-12-19,d40a6827a,2016-09-13,mapper à frente,1499,0
+GEF,Oxygen,2017-06-14,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,c2e4f0261,2017-06-09,mapper à frente,29,0
+GEF,Oxygen.1,2017-09-13,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,c2e4f0261,2017-06-09,mapper à frente,29,0
+GEF,Oxygen.1a,2017-10-05,,,,,14563a9e1,2017-09-18,sem tag,,
+GEF,Oxygen.1a_respin,2017-10-09,,,,,14563a9e1,2017-09-18,sem tag,,
+GEF,Oxygen.2,2017-12-06,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,Oxygen.2_respin,2017-12-15,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,Oxygen.3,2018-03-07,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,PhotonM7,2018-05-17,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,PhotonRC4,2018-06-13,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,Photon.0,2018-06-17,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2018-09,2018-09-12,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2018-12,2018-12-12,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2019-03,2019-03-14,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2019-06,2019-06-13,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2019-09,2019-09-16,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2019-12,2019-12-11,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2020-03,2020-03-12,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2020-06,2020-06-10,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2020-09,2020-09-09,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2020-12,2020-12-09,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2021-03,2021-03-10,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2021-06,2021-06-12,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2021-09,2021-09-08,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2021-12,2021-12-02,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2022-03,2022-03-15,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,14563a9e1,2017-09-18,mapper à frente,30,0
+GEF,2022-06,2022-06-13,R4_0_0,versão 4.0.0,bcd6206f6,2016-06-06,5d2325e3e,2022-05-13,mapper à frente,93,0
+GEF,2022-09,2022-09-12,R_3_14,versão 3.14.0,caf52ec02,2022-06-17,691b10b78,2022-09-04,mapper à frente,29,0
+GEF,2022-12,2022-12-05,R_3_15,versão 3.15.0,4527e2327,2022-11-30,4527e2327,2022-11-30,igual,,
+GEF,2023-03,2023-03-29,R_3_15,versão 3.15.0,4527e2327,2022-11-30,608691122,2023-03-27,mapper à frente,11,0
+GEF,2023-06,2023-06-13,R_3_16,versão 3.16.0,faa15d6e9,2023-06-02,6a06384a4,2023-06-13,mapper à frente,4,0
+GEF,2023-09,2023-09-08,R_3_17,versão 3.17.0,21264727f,2023-08-31,21264727f,2023-08-31,igual,,
+GEF,2023-12,2023-12-01,R_3_18,versão 3.18.0,70c2969be,2023-11-22,70c2969be,2023-11-22,igual,,
+GEF,2024-03,2024-03-08,,,,,64bd30107,2024-02-11,sem tag,,
+GEF,2024-06,2024-06-10,R_3_20,versão 3.20.0,d606e6287,2024-05-26,d606e6287,2024-05-26,igual,,
+GEF,2024-09,2024-09-06,R_3_21,versão 3.21.0,0214a1215,2024-09-06,4660b6939,2024-09-03,mapper atrás,0,1
+GEF,2024-12,2024-12-01,R_3_22,versão 3.22.0,99a919059,2024-11-20,99a919059,2024-11-20,igual,,
+GEF,2025-03,2025-03-06,R_3_23,versão 3.23.0,79ce421cd,2025-02-24,79ce421cd,2025-02-24,igual,,
+GEF,2025-06,2025-06-05,R_3_24,versão 3.24.0,52e81e717,2025-05-28,52e81e717,2025-05-28,igual,,
+GEF,2025-09,2025-09-05,R_3_25,versão 3.25.0,fd5f1a1e5,2025-08-26,fd5f1a1e5,2025-08-26,igual,,
+GEF,2025-12,2025-12-07,R_3_26,versão 3.26.0,5bfc6eeea,2025-12-02,a64f5b170,2025-12-06,mapper à frente,1,0
+GEF,2026-03,2026-03-11,R_3_27,versão 3.27.0,e41cafadb,2026-02-25,621550f90,2026-03-10,mapper à frente,14,0
+GMF Runtime,JunoSR0,2012-08-03,v20110607-1200,timestamp,e0f396880,2011-06-07,d039a29f3,2012-05-19,divergente,25,1
+GMF Runtime,JunoSR1,2012-09-19,v20110607-1200,timestamp,e0f396880,2011-06-07,09bad3be3,2012-09-18,divergente,33,1
+GMF Runtime,JunoSR2,2013-02-24,,,,,595975ce7,2013-02-11,sem tag,,
+GMF Runtime,KeplerPostRC4,2013-06-13,,,,,436609cab,2013-06-05,sem tag,,
+GMF Runtime,KeplerSR0,2013-08-02,,,,,fc2b41e04,2013-07-03,sem tag,,
+GMF Runtime,KeplerSR1,2013-09-23,,,,,fc2b41e04,2013-07-03,sem tag,,
+GMF Runtime,LunaSR0,2014-07-29,R1_8,versão 1.8.0,38c44ea76,2014-06-24,505d92431,2014-07-04,mapper à frente,2,0
+GMF Runtime,z20140805-2300,2014-07-29,R1_8,versão 1.8.0,38c44ea76,2014-06-24,505d92431,2014-07-04,mapper à frente,2,0
+GMF Runtime,z20140806,2014-07-29,R1_8,versão 1.8.0,38c44ea76,2014-06-24,505d92431,2014-07-04,mapper à frente,2,0
+GMF Runtime,LunaRC4,2014-09-17,,,,,67a180644,2014-08-20,sem tag,,
+GMF Runtime,LunaSR2,2015-03-02,,,,,28fa44885,2015-02-27,sem tag,,
+GMF Runtime,S201504150911,2015-04-15,R1_9,versão 1.9.0,8912751aa,2015-06-05,80d69cf28,2015-03-25,mapper atrás,0,10
+GMF Runtime,Mars.1,2015-09-24,R1_9,versão 1.9.0,8912751aa,2015-06-05,8912751aa,2015-06-05,igual,,
+GMF Runtime,Neon,2016-06-13,R1_10,versão 1.10.0,bdbbd7321,2016-09-08,460d573b0,2016-06-07,mapper atrás,0,1
+GMF Runtime,OxygenPreRienaRemoval_9-8-2016,2016-09-07,,,,,460d573b0,2016-06-07,contrib. desativada,,
+GMF Runtime,Neon.1,2016-09-14,R1_10,versão 1.10.0,bdbbd7321,2016-09-08,cb0f7f08b,2016-09-13,mapper à frente,2,0
+GMF Runtime,Neon.1a,2016-10-06,R1_10,versão 1.10.0,bdbbd7321,2016-09-08,2a3b6e870,2016-09-19,mapper à frente,3,0
+GMF Runtime,Neon.2,2016-12-07,R1_10,versão 1.10.0,bdbbd7321,2016-09-08,2a3b6e870,2016-09-19,mapper à frente,3,0
+GMF Runtime,Neon.3,2017-03-08,R1_10,versão 1.10.0,bdbbd7321,2016-09-08,03bdbb7f2,2017-03-02,mapper à frente,5,0
+GMF Runtime,Neon.3_respin,2017-03-14,R1_10,versão 1.10.0,bdbbd7321,2016-09-08,03bdbb7f2,2017-03-02,mapper à frente,5,0
+GMF Runtime,Oxygen,2017-06-14,R1_11,versão 1.11.0,04cdebec0,2017-04-24,04cdebec0,2017-04-24,igual,,
+GMF Runtime,Oxygen.1,2017-09-13,R1_11,versão 1.11.0,04cdebec0,2017-04-24,7617792c3,2017-08-17,mapper à frente,3,0
+GMF Runtime,Oxygen.1a,2017-10-05,R1_11,versão 1.11.0,04cdebec0,2017-04-24,2c2d52f29,2017-09-25,mapper à frente,4,0
+GMF Runtime,Oxygen.1a_respin,2017-10-09,R1_11,versão 1.11.0,04cdebec0,2017-04-24,2c2d52f29,2017-09-25,mapper à frente,4,0
+GMF Runtime,Oxygen.2,2017-12-06,R1_11,versão 1.11.0,04cdebec0,2017-04-24,ac83b0c5b,2017-10-26,mapper à frente,9,0
+GMF Runtime,Oxygen.2_respin,2017-12-15,R1_11,versão 1.11.0,04cdebec0,2017-04-24,ac83b0c5b,2017-10-26,mapper à frente,9,0
+GMF Runtime,Oxygen.3,2018-03-07,R1_11,versão 1.11.0,04cdebec0,2017-04-24,564a0f3b1,2018-02-08,mapper à frente,10,0
+GMF Runtime,PhotonM7,2018-05-17,R1_12_0,versão 1.12.0,1eede5a89,2018-05-31,587a51071,2018-05-15,mapper atrás,0,3
+GMF Runtime,PhotonRC4,2018-06-13,R1_12_0,versão 1.12.0,1eede5a89,2018-05-31,1eede5a89,2018-05-31,igual,,
+GMF Runtime,Photon.0,2018-06-17,R1_12_0,versão 1.12.0,1eede5a89,2018-05-31,1eede5a89,2018-05-31,igual,,
+GMF Runtime,2018-09,2018-09-12,R1_12_0,versão 1.12.0,1eede5a89,2018-05-31,1eede5a89,2018-05-31,igual,,
+GMF Runtime,2018-12,2018-12-12,R1_12_0,versão 1.12.0,1eede5a89,2018-05-31,1eede5a89,2018-05-31,igual,,
+GMF Runtime,2019-03,2019-03-14,R1_12_0,versão 1.12.0,1eede5a89,2018-05-31,1eede5a89,2018-05-31,igual,,
+GMF Runtime,2019-06,2019-06-13,R1_12_0,versão 1.12.0,1eede5a89,2018-05-31,b656baae0,2019-05-14,mapper à frente,7,0
+GMF Runtime,2019-09,2019-09-16,R1_12_0,versão 1.12.0,1eede5a89,2018-05-31,b656baae0,2019-05-14,mapper à frente,7,0
+GMF Runtime,2019-12,2019-12-11,R1_12_0,versão 1.12.0,1eede5a89,2018-05-31,e22fa3b5b,2019-11-06,mapper à frente,11,0
+GMF Runtime,2020-03,2020-03-12,R1_12_0,versão 1.12.0,1eede5a89,2018-05-31,6aa2b690f,2020-03-10,mapper à frente,23,0
+GMF Runtime,2020-06,2020-06-10,R1_13_0,versão 1.13.0,8da7f095b,2020-04-16,8da7f095b,2020-04-16,igual,,
+GMF Runtime,2020-09,2020-09-09,R1_13_0,versão 1.13.0,8da7f095b,2020-04-16,8da7f095b,2020-04-16,igual,,
+GMF Runtime,2020-12,2020-12-09,R1_13_0,versão 1.13.0,8da7f095b,2020-04-16,f9e7c7b30,2020-11-13,mapper à frente,8,0
+GMF Runtime,2021-03,2021-03-10,R1_13_0,versão 1.13.0,8da7f095b,2020-04-16,d38ea5bd7,2021-02-25,mapper à frente,12,0
+GMF Runtime,2021-06,2021-06-12,R1_13_0,versão 1.13.0,8da7f095b,2020-04-16,9088b5bfc,2021-04-16,mapper à frente,22,0
+GMF Runtime,2021-09,2021-09-08,R1_13_1,versão 1.13.1,32ef796e0,2021-06-22,9984cee92,2021-07-06,divergente,19,2
+GMF Runtime,2021-12,2021-12-02,R1_13_1,versão 1.13.1,32ef796e0,2021-06-22,e7e6405a9,2021-10-01,divergente,23,2
+GMF Runtime,2022-03,2022-03-15,R1_14_1,versão 1.14.1,e515ae3eb,2022-02-01,e515ae3eb,2022-02-01,igual,,
+GMF Runtime,2022-06,2022-06-13,R1_14_2,versão 1.14.2,ba16ea11e,2022-04-02,acaf43233,2022-05-08,mapper à frente,37,0
+GMF Runtime,2022-09,2022-09-12,,,,,35b3760ed,2022-08-27,sem tag,,
+GMF Runtime,2022-12,2022-12-05,,,,,271ba17d6,2022-12-02,sem tag,,
+GMF Runtime,2023-03,2023-03-29,,,,,b5ac6e57e,2023-03-29,sem tag,,
+GMF Runtime,2023-06,2023-06-13,,,,,fcab6d4a4,2023-05-07,sem tag,,
+GMF Runtime,2023-09,2023-09-08,,,,,0860f4d97,2023-09-05,sem tag,,
+GMF Runtime,2023-12,2023-12-01,,,,,bf5eaefbd,2023-11-30,sem tag,,
+GMF Runtime,2024-03,2024-03-08,,,,,26d1c6bba,2024-01-10,sem tag,,
+GMF Runtime,2024-06,2024-06-10,,,,,505995fb4,2024-06-06,sem tag,,
+GMF Runtime,2024-09,2024-09-06,,,,,505995fb4,2024-06-06,sem tag,,
+GMF Runtime,2024-12,2024-12-01,,,,,b3224a97b,2024-10-24,sem tag,,
+GMF Runtime,2025-03,2025-03-06,,,,,2bfabf401,2025-01-29,sem tag,,
+GMF Runtime,2025-06,2025-06-05,,,,,f8ad59052,2025-05-15,sem tag,,
+GMF Runtime,2025-09,2025-09-05,,,,,c1ed03bcf,2025-08-12,sem tag,,
+GMF Runtime,2025-12,2025-12-07,,,,,e4302f344,2025-11-01,sem tag,,
+GMF Runtime,2026-03,2026-03-11,,,,,ccc53e5a6,2025-12-10,sem tag,,
+JDT,JunoSR0,2012-08-03,I20120608-1400,timestamp,59758b3ac,2012-05-31,308ce1529,2012-08-02,mapper à frente,33,0
+JDT,JunoSR1,2012-09-19,R4_2,versão 4.2,59758b3ac,2012-05-31,d86f67221,2012-09-16,mapper à frente,60,0
+JDT,JunoSR2,2013-02-24,M20130204-1200,timestamp,a26aba2e7,2013-01-21,6e01d0463,2013-02-24,divergente,356,37
+JDT,KeplerPostRC4,2013-06-13,I20130605-2000,timestamp,6fe9d61ee,2013-06-04,8411039ea,2013-06-12,mapper à frente,1,0
+JDT,KeplerSR0,2013-08-02,I20130605-2000,timestamp,6fe9d61ee,2013-06-04,4cdd1f8c2,2013-08-01,mapper à frente,27,0
+JDT,KeplerSR1,2013-09-23,M20130911-1000,timestamp,5b7f891f7,2013-09-05,17b8ab7bd,2013-09-23,divergente,46,11
+JDT,LunaSR0,2014-07-29,I20140606-1215,timestamp,c0f9341ba,2014-06-04,5edc3ac05,2014-07-28,mapper à frente,63,0
+JDT,z20140805-2300,2014-07-29,I20140606-1215,timestamp,c0f9341ba,2014-06-04,5edc3ac05,2014-07-28,mapper à frente,63,0
+JDT,z20140806,2014-07-29,I20140606-1215,timestamp,c0f9341ba,2014-06-04,5edc3ac05,2014-07-28,mapper à frente,63,0
+JDT,LunaRC4,2014-09-17,M20140910-2310,timestamp,5781fc0d3,2014-09-02,0a42969cf,2014-09-17,divergente,179,19
+JDT,LunaSR2,2015-03-02,M20150204-1700,timestamp,951bc655e,2015-01-22,db786a606,2015-02-26,divergente,419,92
+JDT,S201504150911,2015-04-15,I20150320-0800,timestamp,f6eeada29,2015-03-17,96a1c4eb2,2015-04-14,mapper à frente,43,0
+JDT,Mars.1,2015-09-24,,,,,60778824f,2015-09-22,sem tag,,
+JDT,Neon,2016-06-13,I20160606-1100,timestamp,57d855446,2016-05-25,588590c5c,2016-06-13,mapper à frente,74,0
+JDT,OxygenPreRienaRemoval_9-8-2016,2016-09-07,I20160803-2000,timestamp,25c48c119,2016-08-02,02cebbcb8,2016-09-07,mapper à frente,22,0
+JDT,Neon.1,2016-09-14,M20160907-1200,timestamp,d18b5d894,2016-08-29,eefd59699,2016-09-13,divergente,72,17
+JDT,Neon.1a,2016-10-06,,,,,f60167cf3,2016-10-06,sem tag,,
+JDT,Neon.2,2016-12-07,M20161124-1400,timestamp,0cdebe3b9,2016-11-17,75dbfad04,2016-12-06,divergente,324,30
+JDT,Neon.3,2017-03-08,M20170301-0400,timestamp,60b537a10,2017-02-28,ce31ee3f2,2017-03-08,divergente,448,42
+JDT,Neon.3_respin,2017-03-14,,,,,493e699f5,2017-03-14,sem tag,,
+JDT,Oxygen,2017-06-14,I20170612-0950,timestamp,34337e207,2017-05-16,255fe8d2c,2017-06-14,mapper à frente,237,0
+JDT,Oxygen.1,2017-09-13,M20170906-1700,timestamp,7d0e09419,2017-06-28,9a39316c1,2017-09-13,divergente,399,1
+JDT,Oxygen.1a,2017-10-05,M20170928-1310,timestamp,8f4f8ed73,2017-09-26,81530626b,2017-10-05,divergente,37,16
+JDT,Oxygen.1a_respin,2017-10-09,M20171009-0410,timestamp,4229c6b55,2017-10-07,c40ee9092,2017-10-09,divergente,42,17
+JDT,Oxygen.2,2017-12-06,M20171130-0510,timestamp,f40e2bb97,2017-11-29,a678984d7,2017-12-06,divergente,154,56
+JDT,Oxygen.2_respin,2017-12-15,M20171130-0510,timestamp,f40e2bb97,2017-11-29,9f791e145,2017-12-14,divergente,171,56
+JDT,Oxygen.3,2018-03-07,M20180301-0715,timestamp,149eb4390,2018-02-15,72c960314,2018-03-05,divergente,309,80
+JDT,PhotonM7,2018-05-17,I20180509-2000,timestamp,7e9706d55,2018-05-08,9401e537b,2018-05-17,mapper à frente,8,0
+JDT,PhotonRC4,2018-06-13,I20180611-0500,timestamp,eb8f27c4b,2018-05-28,e716cf8d3,2018-06-12,divergente,20,1
+JDT,Photon.0,2018-06-17,I20180611-0500,timestamp,eb8f27c4b,2018-05-28,fa05b3f74,2018-06-16,divergente,8,1
+JDT,2018-09,2018-09-12,I20180906-0745,timestamp,449e1c59d,2018-09-04,46e68b503,2018-09-11,divergente,39,77
+JDT,2018-12,2018-12-12,I20181206-0815,timestamp,178dc273b,2018-12-06,50513d7e9,2018-12-08,divergente,32,2
+JDT,2019-03,2019-03-14,I20190307-0500,timestamp,c6d7ef991,2019-03-06,3d16613b8,2019-03-14,mapper à frente,136,0
+JDT,2019-06,2019-06-13,I20190605-1800,timestamp,59bd1e5f1,2019-06-04,739cde984,2019-06-12,divergente,4,2
+JDT,2019-09,2019-09-16,I20190916-1045,timestamp,c8645ac64,2019-09-03,6a8cee112,2019-09-15,mapper à frente,11,0
+JDT,2019-12,2019-12-11,I20191210-0610,timestamp,9c0cf52f3,2019-12-03,121a2d96f,2019-12-11,divergente,37,4
+JDT,2020-03,2020-03-12,I20200305-0155,timestamp,0f7f8deed,2020-03-04,eae3ae38f,2020-03-11,mapper à frente,147,0
+JDT,2020-06,2020-06-10,I20200604-0540,timestamp,f3c6f1407,2020-05-30,c1d29a674,2020-06-10,mapper à frente,22,0
+JDT,2020-09,2020-09-09,I20200902-1800,timestamp,8d0952bc9,2020-08-28,6b5d4776c,2020-09-09,mapper à frente,120,0
+JDT,2020-12,2020-12-09,I20201202-1800,timestamp,92d33b490,2020-11-23,d39f21162,2020-12-09,mapper à frente,2,0
+JDT,2021-03,2021-03-10,I20210303-1800,timestamp,37880e206,2021-02-23,ac13270d6,2021-03-10,mapper à frente,75,0
+JDT,2021-06,2021-06-12,I20210611-1600,timestamp,14a49912f,2021-06-09,c2d6207a8,2021-06-12,divergente,21,1
+JDT,2021-09,2021-09-08,I20210906-0500,timestamp,ee79e78e7,2021-08-23,35b393444,2021-09-07,mapper à frente,109,0
+JDT,2021-12,2021-12-02,I20211124-1800,timestamp,f3a3303cc,2021-11-17,effa6e8a3,2021-12-01,mapper à frente,3,0
+JDT,2022-03,2022-03-15,I20220308-0310,timestamp,f2650a37b,2022-03-01,eaf6ea06a,2022-03-15,mapper à frente,8,0
+JDT,2022-06,2022-06-13,I20220607-0700,timestamp,21b1f9d0b,2022-05-24,c1ea9514c,2022-06-10,mapper à frente,3,0
+JDT,2022-09,2022-09-12,I20220831-1800,timestamp,c629d6bbe,2022-08-31,1ae0e0644,2022-09-11,mapper à frente,9,0
+JDT,2022-12,2022-12-05,I20221123-1800,timestamp,865d04f91,2022-11-18,0e5761841,2022-12-05,mapper à frente,19,0
+JDT,2023-03,2023-03-29,I20230302-0300,timestamp,809724db5,2023-02-22,ad2866c4e,2023-03-29,mapper à frente,91,0
+JDT,2023-06,2023-06-13,I20230605-0440,timestamp,da0a6d8d5,2023-05-23,c60c1806d,2023-06-12,mapper à frente,18,0
+JDT,2023-09,2023-09-08,I20230903-1000,timestamp,816bc73d6,2023-08-25,c687d14fd,2023-09-08,mapper à frente,4,0
+JDT,2023-12,2023-12-01,I20231201-0110,timestamp,47bb60226,2023-11-17,420cf8cea,2023-12-01,mapper à frente,29,0
+JDT,2024-03,2024-03-08,I20240229-0520,timestamp,e3e6fd35f,2024-02-17,c648d3506,2024-03-07,mapper à frente,50,0
+JDT,2024-06,2024-06-10,I20240601-0610,timestamp,8f161795d,2024-05-28,a02bebb74,2024-06-10,mapper à frente,30,0
+JDT,2024-09,2024-09-06,I20240903-0240,timestamp,430761c76,2024-08-20,84daab04d,2024-09-06,mapper à frente,55,0
+JDT,2024-12,2024-12-01,I20241120-1800,timestamp,6b53bf425,2024-11-18,681dc0aff,2024-12-01,mapper à frente,12,0
+JDT,2025-03,2025-03-06,I20250228-0140,timestamp,4d5b78631,2025-02-24,89e70ced1,2025-03-05,mapper à frente,2,0
+JDT,2025-06,2025-06-05,I20250528-1830,timestamp,079cb7d18,2025-05-26,a9fec36e5,2025-06-04,mapper à frente,13,0
+JDT,2025-09,2025-09-05,I20250905-0730,timestamp,1b0164ffe,2025-08-25,8c02407cc,2025-09-03,mapper à frente,40,0
+JDT,2025-12,2025-12-07,I20251201-0920,timestamp,d0da14f33,2025-11-22,7e87ad5a5,2025-12-05,mapper à frente,15,0
+JDT,2026-03,2026-03-11,I20260226-0420,timestamp,b58677b55,2026-02-24,c9cb9ed54,2026-03-09,mapper à frente,15,0
+PDE,JunoSR0,2012-08-03,I20120608-1400,timestamp,1aedf561f,2012-06-06,4a9e185fb,2012-07-30,divergente,594,10726
+PDE,JunoSR1,2012-09-19,R4_2,versão 4.2,1aedf561f,2012-06-06,5208d137c,2012-09-19,mapper à frente,34,0
+PDE,JunoSR2,2013-02-24,M20130204-1200,timestamp,d67df48bb,2013-01-30,89521d0c0,2013-02-22,divergente,1493,10749
+PDE,KeplerPostRC4,2013-06-13,I20130605-2000,timestamp,4c1c40c39,2013-05-29,b19a80d4b,2013-06-11,mapper à frente,4,0
+PDE,KeplerSR0,2013-08-02,I20130605-2000,timestamp,4c1c40c39,2013-05-29,6ba1c02ea,2013-08-02,mapper à frente,46,0
+PDE,KeplerSR1,2013-09-23,M20130911-1000,timestamp,6c723f4b2,2013-08-07,e6f525df8,2013-09-23,divergente,109,12
+PDE,LunaSR0,2014-07-29,I20140606-1215,timestamp,5b7f2d218,2014-06-02,56e820cd1,2014-07-28,divergente,806,11252
+PDE,z20140805-2300,2014-07-29,I20140606-1215,timestamp,5b7f2d218,2014-06-02,56e820cd1,2014-07-28,divergente,806,11252
+PDE,z20140806,2014-07-29,I20140606-1215,timestamp,5b7f2d218,2014-06-02,56e820cd1,2014-07-28,divergente,806,11252
+PDE,LunaRC4,2014-09-17,M20140910-2310,timestamp,c853fb3f5,2014-09-02,82b345f7d,2014-09-17,divergente,1065,11266
+PDE,LunaSR2,2015-03-02,M20150204-1700,timestamp,28378d068,2015-02-02,334fc258a,2015-02-27,divergente,1072,11271
+PDE,S201504150911,2015-04-15,I20150320-0800,timestamp,4dbf7a3e6,2015-03-19,4029ef0ec,2015-04-10,mapper à frente,13,0
+PDE,Mars.1,2015-09-24,,,,,95ad7b194,2015-09-23,sem tag,,
+PDE,Neon,2016-06-13,I20160606-1100,timestamp,3f476c943,2016-05-25,72b301a35,2016-06-10,divergente,1108,12388
+PDE,OxygenPreRienaRemoval_9-8-2016,2016-09-07,I20160803-2000,timestamp,5f487585e,2016-08-01,fe11360ed,2016-09-06,mapper à frente,41,0
+PDE,Neon.1,2016-09-14,M20160907-1200,timestamp,693772ab2,2016-08-29,3fb6647f7,2016-09-14,divergente,87,13
+PDE,Neon.1a,2016-10-06,,,,,7955a54d2,2016-10-06,sem tag,,
+PDE,Neon.2,2016-12-07,M20161124-1400,timestamp,ec47db65a,2016-11-15,d62f33970,2016-12-07,divergente,167,26
+PDE,Neon.3,2017-03-08,M20170301-0400,timestamp,ed255d4b3,2017-02-03,ba5ec30c1,2017-03-08,divergente,1116,12417
+PDE,Neon.3_respin,2017-03-14,,,,,e4bb30de8,2017-03-14,sem tag,,
+PDE,Oxygen,2017-06-14,I20170612-0950,timestamp,ce3351d4f,2017-05-28,a2cb6cabf,2017-06-09,mapper à frente,4,0
+PDE,Oxygen.1,2017-09-13,M20170906-1700,timestamp,8422ca95b,2017-08-11,7ef1c73e1,2017-09-13,mapper à frente,7,0
+PDE,Oxygen.1a,2017-10-05,M20170928-1310,timestamp,09fd4ebdd,2017-09-28,39adffe24,2017-09-29,divergente,81,27
+PDE,Oxygen.1a_respin,2017-10-09,M20171009-0410,timestamp,a3fc14ff9,2017-10-07,6806a417f,2017-10-09,divergente,85,28
+PDE,Oxygen.2,2017-12-06,M20171130-0510,timestamp,40a94ca4d,2017-11-08,c0049a441,2017-12-05,divergente,162,33
+PDE,Oxygen.2_respin,2017-12-15,M20171130-0510,timestamp,40a94ca4d,2017-11-08,f870b0cd7,2017-12-15,divergente,1596,12827
+PDE,Oxygen.3,2018-03-07,M20180301-0715,timestamp,1ba2d1db8,2018-03-01,7ab0a661f,2018-03-07,divergente,1032,12851
+PDE,PhotonM7,2018-05-17,I20180509-2000,timestamp,aa160ff0c,2018-05-03,e7a7976df,2018-05-16,mapper à frente,5,0
+PDE,PhotonRC4,2018-06-13,I20180611-0500,timestamp,060b9e70c,2018-06-04,4f2df0738,2018-06-13,divergente,15,3
+PDE,Photon.0,2018-06-17,I20180611-0500,timestamp,060b9e70c,2018-06-04,740dc50af,2018-06-14,divergente,16,3
+PDE,2018-09,2018-09-12,I20180906-0745,timestamp,080d2e3c5,2018-08-29,7337e83b9,2018-09-12,mapper à frente,7,0
+PDE,2018-12,2018-12-12,I20181206-0815,timestamp,fa02fe667,2018-11-27,3978e8fc7,2018-12-12,mapper à frente,19,0
+PDE,2019-03,2019-03-14,I20190307-0500,timestamp,1f9b2c673,2019-02-22,9f230ca47,2019-03-12,mapper à frente,3,0
+PDE,2019-06,2019-06-13,I20190605-1800,timestamp,cce8d4217,2019-05-28,5f12b8730,2019-06-13,mapper à frente,15,0
+PDE,2019-09,2019-09-16,I20190916-1045,timestamp,bad59ca7f,2019-08-30,588335356,2019-09-16,mapper à frente,13,0
+PDE,2019-12,2019-12-11,I20191210-0610,timestamp,d55948b32,2019-12-02,345c70063,2019-12-11,divergente,1659,13652
+PDE,2020-03,2020-03-12,I20200305-0155,timestamp,7aa7ba42a,2020-03-02,ae6a95052,2020-03-11,divergente,5,1
+PDE,2020-06,2020-06-10,I20200604-0540,timestamp,983a69367,2020-05-14,4c3efb60b,2020-06-10,mapper à frente,6,0
+PDE,2020-09,2020-09-09,I20200902-1800,timestamp,b2162576c,2020-08-28,2fd512d7a,2020-09-09,mapper à frente,10,0
+PDE,2020-12,2020-12-09,I20201202-1800,timestamp,45686ed56,2020-11-16,4cebb57d3,2020-12-09,mapper à frente,17,0
+PDE,2021-03,2021-03-10,I20210303-1800,timestamp,91509c4c1,2021-02-21,388ac40c6,2021-03-10,mapper à frente,12,0
+PDE,2021-06,2021-06-12,I20210611-1600,timestamp,f1054036a,2021-05-21,81ef92158,2021-06-12,mapper à frente,12,0
+PDE,2021-09,2021-09-08,I20210906-0500,timestamp,9e32c51d7,2021-08-20,d6d829ec8,2021-09-08,mapper à frente,8,0
+PDE,2021-12,2021-12-02,I20211124-1800,timestamp,33882ac3c,2021-11-19,89a89639c,2021-12-01,mapper à frente,18,0
+PDE,2022-03,2022-03-15,I20220308-0310,timestamp,dd9ed8e7d,2022-03-01,2ae8a6ac2,2022-03-15,mapper à frente,14,0
+PDE,2022-06,2022-06-13,I20220607-0700,timestamp,f16e346b9,2022-05-31,36b87ff2d,2022-06-13,mapper à frente,16,0
+PDE,2022-09,2022-09-12,I20220831-1800,timestamp,4da30fafb,2022-08-31,a0df49dfe,2022-09-05,mapper à frente,7,0
+PDE,2022-12,2022-12-05,I20221123-1800,timestamp,fc645e868,2022-11-19,e02a7a465,2022-12-01,divergente,1401,16291
+PDE,2023-03,2023-03-29,I20230302-0300,timestamp,100ff6a7b,2023-02-22,e1b12dfcd,2023-03-29,mapper à frente,30,0
+PDE,2023-06,2023-06-13,I20230605-0440,timestamp,d325b4e58,2023-05-15,9690ac3e2,2023-06-13,mapper à frente,11,0
+PDE,2023-09,2023-09-08,I20230903-1000,timestamp,2a3e9e421,2023-08-29,d6bd4d742,2023-09-08,mapper à frente,4,0
+PDE,2023-12,2023-12-01,I20231201-0110,timestamp,eeffb962b,2023-11-18,5a3eebe39,2023-12-01,mapper à frente,1477,0
+PDE,2024-03,2024-03-08,I20240229-0520,timestamp,d89028dc3,2024-02-27,be45b894a,2024-03-06,mapper à frente,7,0
+PDE,2024-06,2024-06-10,I20240601-0610,timestamp,d92416afb,2024-05-31,b0dc38abf,2024-06-09,mapper à frente,7,0
+PDE,2024-09,2024-09-06,I20240903-0240,timestamp,b8ed62923,2024-08-21,0953a33f0,2024-09-05,mapper à frente,6,0
+PDE,2024-12,2024-12-01,I20241120-1800,timestamp,f16299a82,2024-11-19,bb04e28f7,2024-11-27,mapper à frente,13,0
+PDE,2025-03,2025-03-06,I20250228-0140,timestamp,515f99602,2025-02-19,cbc3b1b94,2025-03-05,mapper à frente,9,0
+PDE,2025-06,2025-06-05,I20250528-1830,timestamp,bc2f62c77,2025-05-27,3807d8ba6,2025-06-04,mapper à frente,7,0
+PDE,2025-09,2025-09-05,I20250905-0730,timestamp,379558b67,2025-08-26,0a4c7260e,2025-09-04,mapper à frente,13,0
+PDE,2025-12,2025-12-07,I20251201-0920,timestamp,16efb6c85,2025-11-24,df29a670c,2025-12-05,mapper à frente,14,0
+PDE,2026-03,2026-03-11,I20260226-0420,timestamp,66bb0373e,2026-02-24,12eae51a5,2026-03-08,mapper à frente,31,0
+Mylyn,JunoSR0,2012-08-03,R_3_7_0,versão 3.7.0,dffa14815,2012-03-21,33d1bc473,2012-08-03,divergente,135,1269
+Mylyn,JunoSR1,2012-09-19,R_3_8_2,versão 3.8.2,0e46bad5f,2012-09-06,b73a9a571,2012-09-19,divergente,894,1300
+Mylyn,JunoSR2,2013-02-24,R_3_8_3,versão 3.8.3,df32e7c1f,2013-02-13,003b33a9a,2013-02-20,divergente,489,1305
+Mylyn,KeplerPostRC4,2013-06-13,R_3_9_0,versão 3.9.0,6c9d4a916,2013-05-21,dc4a6439f,2013-06-13,divergente,618,1341
+Mylyn,KeplerSR0,2013-08-02,R_3_9_0,versão 3.9.0,6c9d4a916,2013-05-21,0fb592ec6,2013-08-01,divergente,945,1341
+Mylyn,KeplerSR1,2013-09-23,R_3_9_1,versão 3.9.1,93475b76f,2013-08-20,f14dc2c31,2013-09-23,divergente,665,1346
+Mylyn,LunaSR0,2014-07-29,R_3_12_0,versão 3.12.0,64591da54,2014-06-04,70939a832,2014-07-25,divergente,798,1407
+Mylyn,z20140805-2300,2014-07-29,R_3_12_0,versão 3.12.0,64591da54,2014-06-04,70939a832,2014-07-25,divergente,798,1407
+Mylyn,z20140806,2014-07-29,R_3_12_0,versão 3.12.0,64591da54,2014-06-04,70939a832,2014-07-25,divergente,798,1407
+Mylyn,LunaRC4,2014-09-17,R_3_13_0,versão 3.13.0,62cca92d5,2014-12-15,a6c06aa49,2014-09-16,divergente,1089,1430
+Mylyn,LunaSR2,2015-03-02,R_3_14_2,versão 3.14.2,4301b6208,2015-02-17,fc7865e6d,2015-02-27,divergente,1112,1433
+Mylyn,S201504150911,2015-04-15,R_3_15_0,versão 3.15.0,8449bdd84,2015-01-30,8e38fbf5d,2015-04-09,divergente,1133,1435
+Mylyn,Mars.1,2015-09-24,R_3_17_0,versão 3.17.0,8f5f29575,2015-09-02,64285d788,2015-09-20,divergente,1832,1488
+Mylyn,Neon,2016-06-13,R_3_20_0,versão 3.20.0,d2232515e,2016-06-13,fbeec07e0,2016-06-09,divergente,8698,1534
+Mylyn,OxygenPreRienaRemoval_9-8-2016,2016-09-07,R_3_21_0,versão 3.21.0,4b671d4be,2016-09-07,be0a67745,2016-09-07,mapper atrás,0,1
+Mylyn,Neon.1,2016-09-14,R_3_20_0,versão 3.20.0,d2232515e,2016-06-13,384acbe8f,2016-09-13,divergente,8750,1534
+Mylyn,Neon.1a,2016-10-06,R_3_20_0,versão 3.20.0,d2232515e,2016-06-13,572e39305,2016-10-05,divergente,25,1
+Mylyn,Neon.2,2016-12-07,R_3_21_0,versão 3.21.0,4b671d4be,2016-09-07,9acc8ea6c,2016-12-06,divergente,638,1554
+Mylyn,Neon.3,2017-03-08,R_3_21_0,versão 3.21.0,4b671d4be,2016-09-07,d8c3098a2,2017-03-06,divergente,1358,1554
+Mylyn,Neon.3_respin,2017-03-14,R_3_21_0,versão 3.21.0,4b671d4be,2016-09-07,7b5af6ca8,2017-03-13,divergente,1388,1554
+Mylyn,Oxygen,2017-06-14,R_3_23_0,versão 3.23.0,b6cb05bd5,2017-06-15,11ababb4c,2017-06-14,divergente,974,1594
+Mylyn,Oxygen.1,2017-09-13,R_3_23_0,versão 3.23.0,b6cb05bd5,2017-06-15,da60acca8,2017-09-12,divergente,1463,1594
+Mylyn,Oxygen.1a,2017-10-05,R_3_23_0,versão 3.23.0,b6cb05bd5,2017-06-15,61ba50bf5,2017-10-05,divergente,1468,1594
+Mylyn,Oxygen.1a_respin,2017-10-09,R_3_23_0,versão 3.23.0,b6cb05bd5,2017-06-15,bf3078c6f,2017-10-08,divergente,803,1594
+Mylyn,Oxygen.2,2017-12-06,R_3_23_0,versão 3.23.0,b6cb05bd5,2017-06-15,de0f7848e,2017-12-03,divergente,1488,1594
+Mylyn,Oxygen.2_respin,2017-12-15,R_3_23_0,versão 3.23.0,b6cb05bd5,2017-06-15,ff7d1f6ee,2017-12-13,divergente,1489,1594
+Mylyn,Oxygen.3,2018-03-07,R_3_23_0,versão 3.23.0,b6cb05bd5,2017-06-15,9cf1609da,2018-03-02,divergente,1514,1594
+Mylyn,PhotonM7,2018-05-17,R_3_24_0,versão 3.24.0,a7cd19927,2018-06-19,d2453b8a2,2018-05-17,divergente,826,1618
+Mylyn,PhotonRC4,2018-06-13,R_3_24_0,versão 3.24.0,a7cd19927,2018-06-19,8c7ddbd14,2018-06-13,divergente,837,1618
+Mylyn,Photon.0,2018-06-17,R_3_24_0,versão 3.24.0,a7cd19927,2018-06-19,312f9cbad,2018-06-16,divergente,8810,1618
+Mylyn,2018-09,2018-09-12,R_3_24_2,versão 3.24.2,42e49c1b4,2018-09-04,6d253795d,2018-09-12,divergente,860,1619
+Mylyn,2018-12,2018-12-12,R_3_24_2,versão 3.24.2,42e49c1b4,2018-09-04,372e02c20,2018-12-12,divergente,1556,1619
+Mylyn,2019-03,2019-03-14,R_3_24_2,versão 3.24.2,42e49c1b4,2018-09-04,499a68217,2019-03-13,divergente,903,1619
+Mylyn,2019-06,2019-06-13,R_3_24_2,versão 3.24.2,42e49c1b4,2018-09-04,538ad318a,2019-06-13,divergente,937,1619
+Mylyn,2019-09,2019-09-16,R_3_24_2,versão 3.24.2,42e49c1b4,2018-09-04,2a0da6dc3,2019-09-11,divergente,24,1
+Mylyn,2019-12,2019-12-11,R_3_24_2,versão 3.24.2,42e49c1b4,2018-09-04,ba4b9dc67,2019-12-11,divergente,980,1619
+Mylyn,2020-03,2020-03-12,R_3_24_2,versão 3.24.2,42e49c1b4,2018-09-04,c749931f7,2020-03-10,divergente,1005,1619
+Mylyn,2020-06,2020-06-10,R_3_25_1,versão 3.25.1,25af06767,2020-05-20,04d55b69c,2020-06-09,divergente,1022,1638
+Mylyn,2020-09,2020-09-09,R_3_25_2,versão 3.25.2,c57802781,2020-08-07,2fec56658,2020-09-09,divergente,1031,1640
+Mylyn,2020-12,2020-12-09,R_3_25_2,versão 3.25.2,c57802781,2020-08-07,9fa7c7e12,2020-12-08,divergente,1060,1640
+Mylyn,2021-03,2021-03-10,R_3_25_2,versão 3.25.2,c57802781,2020-08-07,ed45ec560,2021-03-10,divergente,1083,1640
+Mylyn,2021-06,2021-06-12,R_3_25_2,versão 3.25.2,c57802781,2020-08-07,e7c49921b,2021-06-07,divergente,1105,1640
+Mylyn,2021-09,2021-09-08,R_3_25_2,versão 3.25.2,c57802781,2020-08-07,147e286ce,2021-09-08,divergente,1127,1640
+Mylyn,2021-12,2021-12-02,R_3_25_2,versão 3.25.2,c57802781,2020-08-07,f764298a6,2021-11-29,divergente,1154,1640
+Mylyn,2022-03,2022-03-15,R_3_25_2,versão 3.25.2,c57802781,2020-08-07,2226ba734,2022-03-10,divergente,1770,1640
+Mylyn,2022-06,2022-06-13,,,,,fc9c054c8,2022-05-31,contrib. desativada,,
+Mylyn,2022-09,2022-09-12,,,,,2ca96e093,2022-09-06,contrib. desativada,,
+Mylyn,2022-12,2022-12-05,,,,,dc6e7e0fa,2022-12-05,contrib. desativada,,
+Mylyn,2023-03,2023-03-29,,,,,5859be1ff,2023-03-28,contrib. desativada,,
+Mylyn,2023-06,2023-06-13,R_3_26_1,versão 3.26.1,916f7f48a,2023-06-04,f47e3cc56,2023-06-12,mapper à frente,5,0
+Mylyn,2023-09,2023-09-08,R_4_0_0,versão 4.0.0,fa4b85403,2023-09-03,fa4b85403,2023-09-03,igual,,
+Mylyn,2023-12,2023-12-01,R_4_1_0,versão 4.1.0,3787d3614,2023-11-29,7a3c78c37,2023-12-01,mapper à frente,3,0
+Mylyn,2024-03,2024-03-08,R_4_2_0,versão 4.2.0,aa83e9d59,2024-03-05,aa83e9d59,2024-03-05,igual,,
+Mylyn,2024-06,2024-06-10,R_4_3_0,versão 4.3.0,687d8ba86,2024-06-03,1516adba1,2024-06-08,mapper à frente,4,0
+Mylyn,2024-09,2024-09-06,R_4_4_0,versão 4.4.0,bde50b489,2024-08-31,18a99edf1,2024-09-06,mapper à frente,2,0
+Mylyn,2024-12,2024-12-01,R_4_5_0,versão 4.5.0,4ad68b147,2024-11-24,4ad68b147,2024-11-24,igual,,
+Mylyn,2025-03,2025-03-06,R_4_6_0,versão 4.6.0,2cad31ba5,2025-03-03,2cad31ba5,2025-03-03,igual,,
+Mylyn,2025-06,2025-06-05,R_4_7_0,versão 4.7.0,98630de61,2025-06-04,98630de61,2025-06-04,igual,,
+Mylyn,2025-09,2025-09-05,R_4_8_0,versão 4.8.0,b8d9738f9,2025-09-03,f5bc7635a,2025-09-03,mapper à frente,1,0
+Mylyn,2025-12,2025-12-07,R_4_9_0,versão 4.9.0,bd9642783,2025-12-03,bd9642783,2025-12-03,igual,,
+Mylyn,2026-03,2026-03-11,R_4_10_0,versão 4.10.0,6b72869dc,2026-03-03,b383d19be,2026-03-09,mapper à frente,6,0
+PTP,JunoSR0,2012-08-03,PTP_6_0_0,versão 6.0.0,a0eaad858,2012-06-12,f2224498e,2012-08-02,mapper à frente,84,0
+PTP,JunoSR1,2012-09-19,PTP_6_0_0,versão 6.0.0,a0eaad858,2012-06-12,f9f341ba3,2012-09-17,mapper à frente,141,0
+PTP,JunoSR2,2013-02-24,,,,,eee148177,2013-02-22,sem tag,,
+PTP,KeplerPostRC4,2013-06-13,PTP_7_0_0,versão 7.0.0,8f0942067,2013-06-12,9e0a662fa,2013-06-12,mapper à frente,3,0
+PTP,KeplerSR0,2013-08-02,PTP_7_0_0,versão 7.0.0,8f0942067,2013-06-12,cf9e7c11a,2013-08-01,mapper à frente,105,0
+PTP,KeplerSR1,2013-09-23,PTP_7_0_3,versão 7.0.3,4fca4923e,2013-08-14,5663cb84f,2013-09-23,mapper à frente,175,0
+PTP,LunaSR0,2014-07-29,PTP_8_0_0,versão 8.0.0,8cdcedd42,2014-06-10,ce3393390,2014-07-28,mapper à frente,20,0
+PTP,z20140805-2300,2014-07-29,PTP_8_0_0,versão 8.0.0,8cdcedd42,2014-06-10,ce3393390,2014-07-28,mapper à frente,20,0
+PTP,z20140806,2014-07-29,PTP_8_0_0,versão 8.0.0,8cdcedd42,2014-06-10,ce3393390,2014-07-28,mapper à frente,20,0
+PTP,LunaRC4,2014-09-17,PTP_8_0_0,versão 8.0.0,8cdcedd42,2014-06-10,98a56faf0,2014-09-15,mapper à frente,52,0
+PTP,LunaSR2,2015-03-02,PTP_8_1_1,versão 8.1.1,e6781abcb,2015-01-19,cad812bfc,2015-02-18,mapper à frente,28,0
+PTP,S201504150911,2015-04-15,PTP_9_0_0,versão 9.0.0,3b367c923,2015-06-09,640630c85,2015-04-07,mapper atrás,0,13
+PTP,Mars.1,2015-09-24,PTP_9_0_0,versão 9.0.0,3b367c923,2015-06-09,d29bd0001,2015-09-19,mapper à frente,7,0
+PTP,Neon,2016-06-13,PTP_9_0_0,versão 9.0.0,3b367c923,2015-06-09,9259d0a14,2016-06-02,mapper à frente,36,0
+PTP,OxygenPreRienaRemoval_9-8-2016,2016-09-07,PTP_9_0_0,versão 9.0.0,3b367c923,2015-06-09,5159d58c7,2016-09-02,mapper à frente,47,0
+PTP,Neon.1,2016-09-14,PTP_9_0_0,versão 9.0.0,3b367c923,2015-06-09,5159d58c7,2016-09-02,mapper à frente,47,0
+PTP,Neon.1a,2016-10-06,PTP_9_0_0,versão 9.0.0,3b367c923,2015-06-09,5159d58c7,2016-09-02,mapper à frente,47,0
+PTP,Neon.2,2016-12-07,,,,,7ae28fae8,2016-12-07,sem tag,,
+PTP,Neon.3,2017-03-08,,,,,f63cfee53,2017-02-14,sem tag,,
+PTP,Neon.3_respin,2017-03-14,,,,,f63cfee53,2017-02-14,sem tag,,
+PTP,Oxygen,2017-06-14,PTP_9_1,versão 9.1.0,9259d0a14,2016-06-02,2b945b3f0,2017-05-09,mapper à frente,26,0
+PTP,Oxygen.1,2017-09-13,PTP_9_1,versão 9.1.0,9259d0a14,2016-06-02,9b58f4f94,2017-08-29,mapper à frente,28,0
+PTP,Oxygen.1a,2017-10-05,PTP_9_1,versão 9.1.0,9259d0a14,2016-06-02,9b58f4f94,2017-08-29,mapper à frente,28,0
+PTP,Oxygen.1a_respin,2017-10-09,PTP_9_1,versão 9.1.0,9259d0a14,2016-06-02,9b58f4f94,2017-08-29,mapper à frente,28,0
+PTP,Oxygen.2,2017-12-06,PTP_9_1,versão 9.1.0,9259d0a14,2016-06-02,9b58f4f94,2017-08-29,mapper à frente,28,0
+PTP,Oxygen.2_respin,2017-12-15,PTP_9_1,versão 9.1.0,9259d0a14,2016-06-02,9b58f4f94,2017-08-29,mapper à frente,28,0
+PTP,Oxygen.3,2018-03-07,PTP_9_1,versão 9.1.0,9259d0a14,2016-06-02,dd13c35f4,2018-02-22,mapper à frente,41,0
+PTP,PhotonM7,2018-05-17,PTP_3_0,versão 3.0.0,f1e6baba3,2009-12-07,1248d7cd8,2018-05-15,divergente,5611,1
+PTP,PhotonRC4,2018-06-13,PTP_3_0,versão 3.0.0,f1e6baba3,2009-12-07,40bcb0ece,2018-06-07,divergente,5612,1
+PTP,Photon.0,2018-06-17,PTP_3_0,versão 3.0.0,f1e6baba3,2009-12-07,40bcb0ece,2018-06-07,divergente,5612,1
+PTP,2018-09,2018-09-12,PTP_3_0,versão 3.0.0,f1e6baba3,2009-12-07,40bcb0ece,2018-06-07,divergente,5612,1
+PTP,2018-12,2018-12-12,PTP_3_0,versão 3.0.0,f1e6baba3,2009-12-07,e0083dcb1,2018-11-20,divergente,5617,1
+PTP,2019-03,2019-03-14,,,,,047aee100,2019-02-20,sem tag,,
+PTP,2019-06,2019-06-13,,,,,1158a49b8,2019-06-06,sem tag,,
+PTP,2019-09,2019-09-16,,,,,9bf4c1d7f,2019-09-10,sem tag,,
+PTP,2019-12,2019-12-11,,,,,efdadc851,2019-12-11,sem tag,,
+PTP,2020-03,2020-03-12,PTP_3_0,versão 3.0,f1e6baba3,2009-12-07,de7d0f00a,2020-03-11,divergente,5652,1
+PTP,2020-06,2020-06-10,PTP_3_0,versão 3.0,f1e6baba3,2009-12-07,de7d0f00a,2020-03-11,divergente,5652,1
+PTP,2020-09,2020-09-09,PTP_3_0,versão 3.0,f1e6baba3,2009-12-07,de7d0f00a,2020-03-11,divergente,5652,1
+PTP,2020-12,2020-12-09,PTP_3_0,versão 3.0,f1e6baba3,2009-12-07,de7d0f00a,2020-03-11,divergente,5652,1
+PTP,2021-03,2021-03-10,PTP_3_0,versão 3.0,f1e6baba3,2009-12-07,de7d0f00a,2020-03-11,divergente,5652,1
+PTP,2021-06,2021-06-12,PTP_3_0,versão 3.0,f1e6baba3,2009-12-07,de7d0f00a,2020-03-11,divergente,5652,1
+PTP,2021-09,2021-09-08,PTP_3_0,versão 3.0,f1e6baba3,2009-12-07,47cda24d7,2021-08-31,divergente,5658,1
+PTP,2021-12,2021-12-02,PTP_3_0,versão 3.0,f1e6baba3,2009-12-07,47cda24d7,2021-08-31,divergente,5658,1
+PTP,2022-03,2022-03-15,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2022-06,2022-06-13,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2022-09,2022-09-12,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2022-12,2022-12-05,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2023-03,2023-03-29,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2023-06,2023-06-13,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2023-09,2023-09-08,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2023-12,2023-12-01,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2024-03,2024-03-08,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2024-06,2024-06-10,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2024-09,2024-09-06,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2024-12,2024-12-01,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2025-03,2025-03-06,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2025-06,2025-06-05,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2025-09,2025-09-05,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2025-12,2025-12-07,,,,,47cda24d7,2021-08-31,sem tag,,
+PTP,2026-03,2026-03-11,,,,,47cda24d7,2021-08-31,fora do simrel,,
+RAP,JunoSR0,2012-08-03,,,,,8d7992a56,2012-08-02,sem tag,,
+RAP,JunoSR1,2012-09-19,,,,,cfe264928,2012-09-19,sem tag,,
+RAP,JunoSR2,2013-02-24,,,,,48356638e,2013-02-22,sem tag,,
+RAP,KeplerPostRC4,2013-06-13,2.1.0-R,versão 2.1.0,a082568bb,2013-06-11,69a31335c,2013-06-13,divergente,18,3
+RAP,KeplerSR0,2013-08-02,2.1.0-R,versão 2.1.0,a082568bb,2013-06-11,9a1e7584b,2013-08-02,divergente,82,3
+RAP,KeplerSR1,2013-09-23,2.1.0-R,versão 2.1.0,a082568bb,2013-06-11,7ccd138f0,2013-09-23,divergente,307,3
+RAP,LunaSR0,2014-07-29,2.3.0-R,versão 2.3.0,e0e5f3387,2014-06-10,b3f4e97a7,2014-07-29,divergente,82,4
+RAP,z20140805-2300,2014-07-29,2.3.0-R,versão 2.3.0,e0e5f3387,2014-06-10,b3f4e97a7,2014-07-29,divergente,82,4
+RAP,z20140806,2014-07-29,2.3.0-R,versão 2.3.0,e0e5f3387,2014-06-10,b3f4e97a7,2014-07-29,divergente,82,4
+RAP,LunaRC4,2014-09-17,2.3.1-SR1,versão 2.3.1,55184b578,2014-09-16,435ec43f1,2014-09-16,divergente,125,15
+RAP,LunaSR2,2015-03-02,2.3.2-SR2,versão 2.3.2,5e6312487,2015-02-10,b8d27cdf3,2015-02-27,divergente,214,24
+RAP,S201504150911,2015-04-15,3.0.0-R,versão 3.0.0,7eefd1811,2015-06-20,499fcb2cc,2015-04-14,mapper atrás,0,105
+RAP,Mars.1,2015-09-24,3.0.0-R,versão 3.0.0,7eefd1811,2015-06-20,acd83df13,2015-09-22,divergente,125,5
+RAP,Neon,2016-06-13,3.1.0-R,versão 3.1.0,277a4e53b,2016-06-07,ae731db6b,2016-06-07,divergente,1,2
+RAP,OxygenPreRienaRemoval_9-8-2016,2016-09-07,3.2.0-R,versão 3.2.0,e674cd0de,2017-06-13,27bd3cd21,2016-09-07,mapper atrás,0,72
+RAP,Neon.1,2016-09-14,3.1.1-SR1,versão 3.1.1,c5cd709d4,2016-09-28,4f624cae8,2016-09-13,divergente,14,10
+RAP,Neon.1a,2016-10-06,3.1.1-SR1,versão 3.1.1,c5cd709d4,2016-09-28,c5cd709d4,2016-09-28,igual,,
+RAP,Neon.2,2016-12-07,3.1.2-SR2,versão 3.1.2,220db1c06,2016-11-30,220db1c06,2016-11-30,igual,,
+RAP,Neon.3,2017-03-08,3.1.2-SR2,versão 3.1.2,220db1c06,2016-11-30,b475508ab,2017-03-08,mapper à frente,3,0
+RAP,Neon.3_respin,2017-03-14,3.1.2-SR2,versão 3.1.2,220db1c06,2016-11-30,b475508ab,2017-03-08,mapper à frente,3,0
+RAP,Oxygen,2017-06-14,3.2.0-R,versão 3.2.0,e674cd0de,2017-06-13,e674cd0de,2017-06-13,igual,,
+RAP,Oxygen.1,2017-09-13,3.3.0-R,versão 3.3.0,f62bd5892,2017-09-13,f62bd5892,2017-09-13,igual,,
+RAP,Oxygen.1a,2017-10-05,3.3.0-R,versão 3.3.0,f62bd5892,2017-09-13,f62bd5892,2017-09-13,igual,,
+RAP,Oxygen.1a_respin,2017-10-09,3.3.0-R,versão 3.3.0,f62bd5892,2017-09-13,f62bd5892,2017-09-13,igual,,
+RAP,Oxygen.2,2017-12-06,3.4.0-R,versão 3.4.0,a719a6f40,2017-12-05,a719a6f40,2017-12-05,igual,,
+RAP,Oxygen.2_respin,2017-12-15,3.4.0-R,versão 3.4.0,a719a6f40,2017-12-05,86879549f,2017-12-13,mapper à frente,1,0
+RAP,Oxygen.3,2018-03-07,3.4.0-R,versão 3.4.0,a719a6f40,2017-12-05,c62d0def5,2018-03-05,mapper à frente,2,0
+RAP,PhotonM7,2018-05-17,3.5.0-R,versão 3.5.0,167669701,2018-06-13,26cc0b441,2018-05-17,mapper atrás,0,7
+RAP,PhotonRC4,2018-06-13,3.5.0-R,versão 3.5.0,167669701,2018-06-13,167669701,2018-06-13,igual,,
+RAP,Photon.0,2018-06-17,3.5.0-R,versão 3.5.0,167669701,2018-06-13,167669701,2018-06-13,igual,,
+RAP,2018-09,2018-09-12,3.6.0-R,versão 3.6.0,645dd9f27,2018-09-19,89b5b79f0,2018-09-12,mapper atrás,0,1
+RAP,2018-12,2018-12-12,3.7.0-R,versão 3.7.0,c2e5c6186,2018-12-19,11f27e535,2018-12-12,mapper atrás,0,1
+RAP,2019-03,2019-03-14,3.8.0-R,versão 3.8.0,6295da95d,2019-03-20,c669a5fa7,2019-03-13,mapper atrás,0,1
+RAP,2019-06,2019-06-13,3.9.0-R,versão 3.9.0,de2446c07,2019-06-19,212d38cab,2019-06-12,mapper atrás,0,1
+RAP,2019-09,2019-09-16,3.10.0-R,versão 3.10.0,0ba20f899,2019-09-17,052ecd73a,2019-09-11,mapper atrás,0,1
+RAP,2019-12,2019-12-11,3.11.0-R,versão 3.11.0,5badb6f4b,2019-12-18,ddaca2285,2019-12-11,mapper atrás,0,1
+RAP,2020-03,2020-03-12,3.12.0-R,versão 3.12.0,1902b93e3,2020-03-09,1902b93e3,2020-03-09,igual,,
+RAP,2020-06,2020-06-10,3.13.0-R,versão 3.13.0,bca223fb8,2020-06-15,697acf7c0,2020-06-10,mapper atrás,0,1
+RAP,2020-09,2020-09-09,3.14.0-R,versão 3.14.0,7fd325fec,2020-09-15,d6216afa3,2020-09-04,mapper atrás,0,1
+RAP,2020-12,2020-12-09,3.15.0-R,versão 3.15.0,cf38cf400,2020-12-16,aeb87f3e7,2020-12-09,mapper atrás,0,1
+RAP,2021-03,2021-03-10,3.16.0-R,versão 3.16.0,562a8f6b7,2021-03-17,30a40e909,2021-03-10,mapper atrás,0,1
+RAP,2021-06,2021-06-12,3.17.0-R,versão 3.17.0,0ad983ec0,2021-06-16,eaf54ab41,2021-06-12,mapper atrás,0,1
+RAP,2021-09,2021-09-08,3.18.0-R,versão 3.18.0,c2864b8d2,2021-09-15,8200789af,2021-09-08,mapper atrás,0,1
+RAP,2021-12,2021-12-02,3.19.0-R,versão 3.19.0,cc0ba22e8,2021-12-07,932eee666,2021-11-30,mapper atrás,0,1
+RAP,2022-03,2022-03-15,3.20.0-R,versão 3.20.0,94359132b,2022-03-14,94359132b,2022-03-14,igual,,
+RAP,2022-06,2022-06-13,3.21.0-R,versão 3.21.0,5d5a818c1,2022-06-13,5d5a818c1,2022-06-13,igual,,
+RAP,2022-09,2022-09-12,3.22.0-R,versão 3.22.0,a5f857db0,2022-09-09,a5f857db0,2022-09-09,igual,,
+RAP,2022-12,2022-12-05,3.23.0-R,versão 3.23.0,8d085d8ff,2022-12-13,5a3a92b3b,2022-11-30,mapper atrás,0,1
+RAP,2023-03,2023-03-29,3.24.0-R,versão 3.24.0,a1d8ac402,2023-03-14,a1d8ac402,2023-03-14,igual,,
+RAP,2023-06,2023-06-13,3.25.0-R,versão 3.25.0,b13b42569,2023-06-14,a8ffd5a28,2023-06-07,mapper atrás,0,1
+RAP,2023-09,2023-09-08,3.26.0-R,versão 3.26.0,711f81cf5,2023-09-05,7af35116e,2023-09-06,divergente,2,12
+RAP,2023-12,2023-12-01,3.27.0-R,versão 3.27.0,d472b64ca,2023-12-05,fd87bdc6c,2023-11-30,mapper atrás,0,2
+RAP,2024-03,2024-03-08,3.28.0-R,versão 3.28.0,b44b70420,2024-03-13,7c324570f,2024-03-06,mapper atrás,0,1
+RAP,2024-06,2024-06-10,3.29.0-R,versão 3.29.0,7c52e752d,2024-06-10,7c52e752d,2024-06-10,igual,,
+RAP,2024-09,2024-09-06,4.0.0-R,versão 4.0.0,b52eb500d,2024-09-11,1fbb6fb10,2024-09-04,mapper atrás,0,1
+RAP,2024-12,2024-12-01,4.1.0-R,versão 4.1.0,9e4918411,2024-11-27,9e4918411,2024-11-27,igual,,
+RAP,2025-03,2025-03-06,4.2.0-R,versão 4.2.0,28474ab5c,2025-03-12,70ab208bf,2025-03-03,mapper atrás,0,1
+RAP,2025-06,2025-06-05,4.3.0-R,versão 4.3.0,82edfd5b3,2025-05-30,82edfd5b3,2025-05-30,igual,,
+RAP,2025-09,2025-09-05,4.4.0-R,versão 4.4.0,5c5fdd90a,2025-09-17,871102254,2025-08-29,mapper atrás,0,1
+RAP,2025-12,2025-12-07,4.5.0-R,versão 4.5.0,7b119af15,2025-12-10,b7d137b32,2025-12-03,mapper atrás,0,1
+RAP,2026-03,2026-03-11,4.6.0-R,versão 4.6.0,aef2ff13f,2026-03-11,2d9a81d44,2026-03-03,mapper atrás,0,1
+Scout,JunoSR0,2012-08-03,,,,,85a8580d4,2012-08-03,sem tag,,
+Scout,JunoSR1,2012-09-19,3.8.1,versão 3.8.1,6c493451e,2012-09-17,0040c8220,2012-09-18,divergente,2,1
+Scout,JunoSR2,2013-02-24,,,,,53b87bda4,2013-02-22,sem tag,,
+Scout,KeplerPostRC4,2013-06-13,3.9,versão 3.9.0,2fd3f7506,2012-08-25,20249e0a1,2013-06-12,divergente,654,1
+Scout,KeplerSR0,2013-08-02,3.9,versão 3.9.0,2fd3f7506,2012-08-25,946d6736b,2013-08-02,divergente,678,1
+Scout,KeplerSR1,2013-09-23,3.9,versão 3.9,2fd3f7506,2012-08-25,686209592,2013-09-23,divergente,740,1
+Scout,LunaSR0,2014-07-29,,,,,276597d97,2014-07-29,sem tag,,
+Scout,z20140805-2300,2014-07-29,,,,,276597d97,2014-07-29,sem tag,,
+Scout,z20140806,2014-07-29,,,,,276597d97,2014-07-29,sem tag,,
+Scout,LunaRC4,2014-09-17,,,,,654bfa1da,2014-09-17,sem tag,,
+Scout,LunaSR2,2015-03-02,,,,,a2ba392de,2015-03-01,sem tag,,
+Scout,S201504150911,2015-04-15,,,,,514077db6,2015-04-15,sem tag,,
+Scout,Mars.1,2015-09-24,PRE_BRANCH_5_0,versão 5.0.0,0d618a292,2015-04-28,ebd04590c,2015-09-23,divergente,3231,3218
+Scout,Neon,2016-06-13,,,,,56e337fff,2016-06-13,sem tag,,
+Scout,OxygenPreRienaRemoval_9-8-2016,2016-09-07,,,,,9afff5af6,2016-09-07,contrib. desativada,,
+Scout,Neon.1,2016-09-14,,,,,6edd40db1,2016-09-14,sem tag,,
+Scout,Neon.1a,2016-10-06,,,,,6372660ac,2016-10-06,sem tag,,
+Scout,Neon.2,2016-12-07,,,,,de2bcb865,2016-12-07,sem tag,,
+Scout,Neon.3,2017-03-08,,,,,8019ab141,2017-03-08,sem tag,,
+Scout,Neon.3_respin,2017-03-14,,,,,c27be51c0,2017-03-14,sem tag,,
+Scout,Oxygen,2017-06-14,,,,,eefab421e,2017-06-14,sem tag,,
+Scout,Oxygen.1,2017-09-13,,,,,96b39ed14,2017-09-13,sem tag,,
+Scout,Oxygen.1a,2017-10-05,,,,,df8fb436b,2017-10-05,sem tag,,
+Scout,Oxygen.1a_respin,2017-10-09,,,,,906de45f0,2017-10-09,sem tag,,
+Scout,Oxygen.2,2017-12-06,,,,,520491bfb,2017-12-06,sem tag,,
+Scout,Oxygen.2_respin,2017-12-15,,,,,1439b7d07,2017-12-15,sem tag,,
+Scout,Oxygen.3,2018-03-07,,,,,c7f159fb4,2018-03-07,sem tag,,
+Scout,PhotonM7,2018-05-17,,,,,1f860aeb4,2018-05-17,sem tag,,
+Scout,PhotonRC4,2018-06-13,,,,,b474cc1f4,2018-06-13,sem tag,,
+Scout,Photon.0,2018-06-17,,,,,4518c61e3,2018-06-15,sem tag,,
+Scout,2018-09,2018-09-12,,,,,98c647195,2018-09-12,sem tag,,
+Scout,2018-12,2018-12-12,,,,,9a80baec9,2018-12-12,sem tag,,
+Scout,2019-03,2019-03-14,,,,,28e71509b,2019-03-14,sem tag,,
+Scout,2019-06,2019-06-13,,,,,645d6e61e,2019-06-13,sem tag,,
+Scout,2019-09,2019-09-16,,,,,15c824aea,2019-09-16,sem tag,,
+Scout,2019-12,2019-12-11,,,,,51af2628a,2019-12-10,sem tag,,
+Scout,2020-03,2020-03-12,10.0.0,versão 10.0.0,24413cd97,2019-12-20,38d523a16,2020-03-11,divergente,360,1069
+Scout,2020-06,2020-06-10,10.0.0,versão 10.0.0,24413cd97,2019-12-20,e285c43db,2020-06-10,divergente,309,1
+Scout,2020-09,2020-09-09,10.0.0,versão 10.0.0,24413cd97,2019-12-20,6c34eed74,2020-09-09,divergente,410,1
+Scout,2020-12,2020-12-09,10.0.0,versão 10.0.0,24413cd97,2019-12-20,eeb07ca1d,2020-12-09,divergente,696,1
+Scout,2021-03,2021-03-10,11.0.0,versão 11.0.0,2f7d5b090,2020-12-17,4c355da18,2021-03-10,divergente,212,451
+Scout,2021-06,2021-06-12,11.0.0,versão 11.0.0,2f7d5b090,2020-12-17,aab255e23,2021-06-10,divergente,437,1
+Scout,2021-09,2021-09-08,11.0.0,versão 11.0.0,2f7d5b090,2020-12-17,48d850c64,2021-09-08,divergente,187,1
+Scout,2021-12,2021-12-02,11.0.0,versão 11.0.0,2f7d5b090,2020-12-17,5c7f32c33,2021-12-02,divergente,698,1
+Scout,2022-03,2022-03-15,,,,,043284941,2022-03-14,sem tag,,
+Scout,2022-06,2022-06-13,,,,,93b5ee5fc,2022-06-10,sem tag,,
+Scout,2022-09,2022-09-12,,,,,08ad2f247,2022-09-09,sem tag,,
+Scout,2022-12,2022-12-05,,,,,bbb50b766,2022-12-05,sem tag,,
+Scout,2023-03,2023-03-29,,,,,c70938924,2023-03-29,sem tag,,
+Scout,2023-06,2023-06-13,,,,,681a0307e,2023-06-12,sem tag,,
+Scout,2023-09,2023-09-08,,,,,07d4892f8,2023-09-07,sem tag,,
+Scout,2023-12,2023-12-01,,,,,1416598d2,2023-12-01,sem tag,,
+Scout,2024-03,2024-03-08,,,,,cab55c638,2024-03-07,sem tag,,
+Scout,2024-06,2024-06-10,,,,,bd8529dc6,2024-06-09,sem tag,,
+Scout,2024-09,2024-09-06,,,,,23fb46636,2024-09-06,sem tag,,
+Scout,2024-12,2024-12-01,,,,,2c17e831b,2024-11-29,sem tag,,
+Scout,2025-03,2025-03-06,,,,,0046a1b74,2025-03-05,sem tag,,
+Scout,2025-06,2025-06-05,,,,,8e3f426b2,2025-06-04,sem tag,,
+Scout,2025-09,2025-09-05,,,,,c3a4da92e,2025-09-05,sem tag,,
+Scout,2025-12,2025-12-07,,,,,3c12cb702,2025-12-05,sem tag,,
+Scout,2026-03,2026-03-11,,,,,5a5ff352b,2026-03-09,sem tag,,
+Subversive,JunoSR0,2012-08-03,,,,,e6db76f87,2012-07-25,sem tag,,
+Subversive,JunoSR1,2012-09-19,,,,,75df1340a,2012-09-18,sem tag,,
+Subversive,JunoSR2,2013-02-24,,,,,6a14432c3,2013-02-01,sem tag,,
+Subversive,KeplerPostRC4,2013-06-13,,,,,8e9fc953c,2013-06-11,sem tag,,
+Subversive,KeplerSR0,2013-08-02,,,,,070b8059f,2013-07-30,sem tag,,
+Subversive,KeplerSR1,2013-09-23,,,,,9ed205a1c,2013-09-03,sem tag,,
+Subversive,LunaSR0,2014-07-29,,,,,4a75102a2,2014-07-08,sem tag,,
+Subversive,z20140805-2300,2014-07-29,,,,,4a75102a2,2014-07-08,sem tag,,
+Subversive,z20140806,2014-07-29,,,,,4a75102a2,2014-07-08,sem tag,,
+Subversive,LunaRC4,2014-09-17,,,,,f59180007,2014-08-28,sem tag,,
+Subversive,LunaSR2,2015-03-02,,,,,e0cc58201,2015-02-12,sem tag,,
+Subversive,S201504150911,2015-04-15,,,,,a2e7c338e,2015-04-03,sem tag,,
+Subversive,Mars.1,2015-09-24,,,,,8d6ed1a02,2015-08-21,sem tag,,
+Subversive,Neon,2016-06-13,,,,,f8829ef16,2016-03-21,sem tag,,
+Subversive,OxygenPreRienaRemoval_9-8-2016,2016-09-07,,,,,0c98b9c44,2016-09-07,contrib. desativada,,
+Subversive,Neon.1,2016-09-14,,,,,ec2f9ec8c,2016-09-13,sem tag,,
+Subversive,Neon.1a,2016-10-06,,,,,ec2f9ec8c,2016-09-13,sem tag,,
+Subversive,Neon.2,2016-12-07,,,,,9dccf998b,2016-11-30,sem tag,,
+Subversive,Neon.3,2017-03-08,,,,,657019a71,2017-03-08,sem tag,,
+Subversive,Neon.3_respin,2017-03-14,,,,,657019a71,2017-03-08,sem tag,,
+Subversive,Oxygen,2017-06-14,,,,,657019a71,2017-03-08,sem tag,,
+Subversive,Oxygen.1,2017-09-13,,,,,d4db021bf,2017-07-07,sem tag,,
+Subversive,Oxygen.1a,2017-10-05,,,,,d4db021bf,2017-07-07,sem tag,,
+Subversive,Oxygen.1a_respin,2017-10-09,,,,,d4db021bf,2017-07-07,sem tag,,
+Subversive,Oxygen.2,2017-12-06,,,,,841a6d1bc,2017-11-24,sem tag,,
+Subversive,Oxygen.2_respin,2017-12-15,,,,,841a6d1bc,2017-11-24,sem tag,,
+Subversive,Oxygen.3,2018-03-07,,,,,55b89ac70,2018-02-15,sem tag,,
+Subversive,PhotonM7,2018-05-17,,,,,67627a978,2018-04-27,contrib. desativada,,
+Subversive,PhotonRC4,2018-06-13,,,,,43b895ada,2018-05-28,contrib. desativada,,
+Subversive,Photon.0,2018-06-17,,,,,43b895ada,2018-05-28,contrib. desativada,,
+Subversive,2018-09,2018-09-12,,,,,88a4d1c24,2018-08-11,contrib. desativada,,
+Subversive,2018-12,2018-12-12,,,,,6846f3249,2018-12-05,fora do simrel,,
+Subversive,2019-03,2019-03-14,,,,,2f5eb8e4b,2019-01-18,fora do simrel,,
+Subversive,2019-06,2019-06-13,,,,,2f5eb8e4b,2019-01-18,fora do simrel,,
+Subversive,2019-09,2019-09-16,,,,,2f5eb8e4b,2019-01-18,fora do simrel,,
+Subversive,2019-12,2019-12-11,,,,,2f5eb8e4b,2019-01-18,fora do simrel,,
+Subversive,2020-03,2020-03-12,,,,,c4f7b1061,2020-01-14,fora do simrel,,
+Subversive,2020-06,2020-06-10,,,,,2b12d26c2,2020-06-08,fora do simrel,,
+Subversive,2020-09,2020-09-09,,,,,f06c2b2c5,2020-08-17,fora do simrel,,
+Subversive,2020-12,2020-12-09,,,,,3a0f5cb8a,2020-12-09,fora do simrel,,
+Subversive,2021-03,2021-03-10,,,,,12e1c2f19,2021-03-06,fora do simrel,,
+Subversive,2021-06,2021-06-12,,,,,09d259b49,2021-06-07,fora do simrel,,
+Subversive,2021-09,2021-09-08,,,,,29bc9ecfd,2021-06-23,fora do simrel,,
+Subversive,2021-12,2021-12-02,,,,,0d7412c10,2021-11-29,fora do simrel,,
+Subversive,2022-03,2022-03-15,,,,,7e5556335,2022-03-03,fora do simrel,,
+Subversive,2022-06,2022-06-13,,,,,191c5e4c1,2022-06-08,fora do simrel,,
+Subversive,2022-09,2022-09-12,,,,,217b9dc03,2022-09-10,fora do simrel,,
+Subversive,2022-12,2022-12-05,,,,,b449b399b,2022-10-13,fora do simrel,,
+Subversive,2023-03,2023-03-29,,,,,8c48ea25e,2023-03-16,fora do simrel,,
+Subversive,2023-06,2023-06-13,,,,,8b703e326,2023-05-01,fora do simrel,,
+Subversive,2023-09,2023-09-08,,,,,8fd258979,2023-09-05,fora do simrel,,
+Subversive,2023-12,2023-12-01,,,,,faec73788,2023-10-04,fora do simrel,,
+Subversive,2024-03,2024-03-08,,,,,faec73788,2023-10-04,fora do simrel,,
+Subversive,2024-06,2024-06-10,,,,,faec73788,2023-10-04,fora do simrel,,
+Subversive,2024-09,2024-09-06,,,,,faec73788,2023-10-04,fora do simrel,,
+Subversive,2024-12,2024-12-01,,,,,35c348dd5,2024-09-27,fora do simrel,,
+Subversive,2025-03,2025-03-06,,,,,35c348dd5,2024-09-27,fora do simrel,,
+Subversive,2025-06,2025-06-05,,,,,aa338501b,2025-04-15,fora do simrel,,
+Subversive,2025-09,2025-09-05,,,,,aa338501b,2025-04-15,fora do simrel,,
+Subversive,2025-12,2025-12-07,,,,,776381af0,2025-10-27,fora do simrel,,
+Subversive,2026-03,2026-03-11,,,,,4e5be746e,2025-12-15,fora do simrel,,
+WebTools,JunoSR0,2012-08-03,R3_4_0,versão 3.4.0,138c14c29,2011-11-02,063cc6398,2012-07-16,divergente,743,1025
+WebTools,JunoSR1,2012-09-19,R3_2_0,versão 3.2.0,4d4d0fb61,2010-06-08,b1f1b761b,2012-09-17,divergente,1045,1
+WebTools,JunoSR2,2013-02-24,R3_4_2,versão 3.4.2,fa593ca35,2013-01-24,638c52c3b,2013-02-08,divergente,4,1
+WebTools,KeplerPostRC4,2013-06-13,R3_5_0,versão 3.5.0,8c94b6abb,2013-06-04,8c94b6abb,2013-06-04,igual,,
+WebTools,KeplerSR0,2013-08-02,R3_5_0,versão 3.5.0,8c94b6abb,2013-06-04,972341e36,2013-07-24,divergente,962,257
+WebTools,KeplerSR1,2013-09-23,R3_5_1,versão 3.5.1,913e6b0b3,2013-08-30,e9101c837,2013-09-11,divergente,879,4936
+WebTools,LunaSR0,2014-07-29,R3_6_0,versão 3.6.0,f9292a4a7,2014-05-21,c51811e96,2014-07-28,divergente,20,82
+WebTools,z20140805-2300,2014-07-29,R3_6_0,versão 3.6.0,f9292a4a7,2014-05-21,c51811e96,2014-07-28,divergente,20,82
+WebTools,z20140806,2014-07-29,R3_6_0,versão 3.6.0,f9292a4a7,2014-05-21,c51811e96,2014-07-28,divergente,20,82
+WebTools,LunaRC4,2014-09-17,R3_6_1,versão 3.6.1,9075e61cf,2014-09-11,9075e61cf,2014-09-11,igual,,
+WebTools,LunaSR2,2015-03-02,R3_6_3,versão 3.6.3,a3a461948,2015-02-04,e4cef7f45,2015-02-26,divergente,4,1
+WebTools,S201504150911,2015-04-15,R3_7_0,versão 3.7.0,d75b8db92,2015-06-04,c461c25a2,2015-04-14,mapper atrás,0,17
+WebTools,Mars.1,2015-09-24,,,,,a81fe5b6c,2015-09-22,sem tag,,
+WebTools,Neon,2016-06-13,R3_8_0,versão 3.8.0,c271405ce,2016-05-25,c271405ce,2016-05-25,igual,,
+WebTools,OxygenPreRienaRemoval_9-8-2016,2016-09-07,,,,,7c9fc5163,2016-08-19,contrib. desativada,,
+WebTools,Neon.1,2016-09-14,R3_8_1,versão 3.8.1,7c9fc5163,2016-08-19,7c9fc5163,2016-08-19,igual,,
+WebTools,Neon.1a,2016-10-06,,,,,7c9fc5163,2016-08-19,sem tag,,
+WebTools,Neon.2,2016-12-07,R3_8_1,versão 3.8.1,7c9fc5163,2016-08-19,7c9fc5163,2016-08-19,igual,,
+WebTools,Neon.3,2017-03-08,R3_8_2,versão 3.8.2,374f34dcb,2017-01-19,db1d4bc60,2017-01-26,mapper à frente,5,0
+WebTools,Neon.3_respin,2017-03-14,,,,,db1d4bc60,2017-01-26,sem tag,,
+WebTools,Oxygen,2017-06-14,R3_9_0,versão 3.9.0,d32381cdf,2017-04-20,43a5d6599,2017-05-16,divergente,50,5048
+WebTools,Oxygen.1,2017-09-13,R3_9_1,versão 3.9.1,93da6cd4c,2017-07-20,93da6cd4c,2017-07-20,igual,,
+WebTools,Oxygen.1a,2017-10-05,R3_9_1,versão 3.9.1,93da6cd4c,2017-07-20,5661ba4dc,2017-09-29,mapper à frente,4,0
+WebTools,Oxygen.1a_respin,2017-10-09,R3_9_1,versão 3.9.1,93da6cd4c,2017-07-20,5661ba4dc,2017-09-29,mapper à frente,4,0
+WebTools,Oxygen.2,2017-12-06,R3_2_0,versão 3.2.0,4d4d0fb61,2010-06-08,cef76a860,2017-11-30,divergente,487,1
+WebTools,Oxygen.2_respin,2017-12-15,R3_2_0,versão 3.2.0,4d4d0fb61,2010-06-08,eb93a9c48,2017-12-13,divergente,2606,1
+WebTools,Oxygen.3,2018-03-07,R3_2_0,versão 3.2.0,4d4d0fb61,2010-06-08,7500821ec,2018-03-07,divergente,2628,1
+WebTools,PhotonM7,2018-05-17,3.10.0,versão 3.10.0,5462e7660,2018-05-17,5168f5f55,2018-04-25,mapper atrás,0,1
+WebTools,PhotonRC4,2018-06-13,3.10.0,versão 3.10.0,5462e7660,2018-05-17,5462e7660,2018-05-17,igual,,
+WebTools,Photon.0,2018-06-17,3.10.0,versão 3.10.0,5462e7660,2018-05-17,5462e7660,2018-05-17,igual,,
+WebTools,2018-09,2018-09-12,R3_2_0,versão 3.2.0,4d4d0fb61,2010-06-08,6333b8395,2018-08-29,divergente,2643,1
+WebTools,2018-12,2018-12-12,R3_2_0,versão 3.2.0,4d4d0fb61,2010-06-08,6333b8395,2018-08-29,divergente,2643,1
+WebTools,2019-03,2019-03-14,R3_13,versão 3.13.0,6333b8395,2018-08-29,6333b8395,2018-08-29,igual,,
+WebTools,2019-06,2019-06-13,R3_14,versão 3.14.0,686318068,2019-05-28,686318068,2019-05-28,igual,,
+WebTools,2019-09,2019-09-16,R3_2_0,versão 3.2.0,4d4d0fb61,2010-06-08,686318068,2019-05-28,divergente,2651,1
+WebTools,2019-12,2019-12-11,R3_2_0,versão 3.2.0,4d4d0fb61,2010-06-08,bfb7ef4f2,2019-10-29,divergente,2653,1
+WebTools,2020-03,2020-03-12,R3_2_0,versão 3.2.0,4d4d0fb61,2010-06-08,bfb7ef4f2,2019-10-29,divergente,2653,1
+WebTools,2020-06,2020-06-10,R3_18,versão 3.18.0,bfb7ef4f2,2019-10-29,bfb7ef4f2,2019-10-29,igual,,
+WebTools,2020-09,2020-09-09,R3_19,versão 3.19.0,29e9635d8,2020-07-17,29e9635d8,2020-07-17,igual,,
+WebTools,2020-12,2020-12-09,R3_2_0,versão 3.2.0,4d4d0fb61,2010-06-08,29e9635d8,2020-07-17,divergente,2655,1
+WebTools,2021-03,2021-03-10,R3_21,versão 3.21.0,78668ee96,2021-02-04,78668ee96,2021-02-04,igual,,
+WebTools,2021-06,2021-06-12,R3_22,versão 3.22.0,03bbc8568,2021-06-03,03bbc8568,2021-06-03,igual,,
+WebTools,2021-09,2021-09-08,R3_23,versão 3.23.0,03bbc8568,2021-06-03,03bbc8568,2021-06-03,igual,,
+WebTools,2021-12,2021-12-02,R3_24,versão 3.24.0,d1865ae27,2021-11-21,d1865ae27,2021-11-21,igual,,
+WebTools,2022-03,2022-03-15,R3_25,versão 3.25.0,f18901b5c,2022-01-15,f18901b5c,2022-01-15,igual,,
+WebTools,2022-06,2022-06-13,R3_26,versão 3.26.0,6ded3e641,2022-05-31,6ded3e641,2022-05-31,igual,,
+WebTools,2022-09,2022-09-12,R3_27,versão 3.27.0,e2e839f2e,2022-08-26,e2e839f2e,2022-08-26,igual,,
+WebTools,2022-12,2022-12-05,R3_28,versão 3.28.0,e2e839f2e,2022-08-26,e2e839f2e,2022-08-26,igual,,
+WebTools,2023-03,2023-03-29,R3_29,versão 3.29.0,d09189b89,2023-01-18,d09189b89,2023-01-18,igual,,
+WebTools,2023-06,2023-06-13,R3_30,versão 3.30.0,4e67f7f33,2023-04-26,4e67f7f33,2023-04-26,igual,,
+WebTools,2023-09,2023-09-08,R3_31,versão 3.31.0,8751ed944,2023-09-01,8751ed944,2023-09-01,igual,,
+WebTools,2023-12,2023-12-01,R3_32,versão 3.32.0,8751ed944,2023-09-01,8751ed944,2023-09-01,igual,,
+WebTools,2024-03,2024-03-08,R3_33,versão 3.33.0,22927bb36,2024-02-22,22927bb36,2024-02-22,igual,,
+WebTools,2024-06,2024-06-10,R3_34,versão 3.34.0,da4d7804c,2024-05-18,da4d7804c,2024-05-18,igual,,
+WebTools,2024-09,2024-09-06,R3_35,versão 3.35.0,7bc6cec12,2024-07-05,7bc6cec12,2024-07-05,igual,,
+WebTools,2024-12,2024-12-01,R3_36,versão 3.36.0,7bc6cec12,2024-07-05,7bc6cec12,2024-07-05,igual,,
+WebTools,2025-03,2025-03-06,R3_37,versão 3.37.0,1663ddeb4,2025-02-27,1663ddeb4,2025-02-27,igual,,
+WebTools,2025-06,2025-06-05,R3_38,versão 3.38.0,f7fc58c43,2025-04-23,f7fc58c43,2025-04-23,igual,,
+WebTools,2025-09,2025-09-05,R3_39,versão 3.39.0,b6c8bad23,2025-08-30,ffe0e73f2,2025-09-03,mapper à frente,1,0
+WebTools,2025-12,2025-12-07,R3_40,versão 3.40.0,1b27e3927,2025-09-17,1b27e3927,2025-09-17,igual,,
+WebTools,2026-03,2026-03-11,R3_41,versão 3.41.0,1b27e3927,2025-09-17,1b27e3927,2025-09-17,igual,,
+Window Builder,JunoSR0,2012-08-03,,,,,bd8f55da8,2012-08-02,sem tag,,
+Window Builder,JunoSR1,2012-09-19,,,,,536c8c8ec,2012-09-18,sem tag,,
+Window Builder,JunoSR2,2013-02-24,,,,,10e53bb9c,2013-02-19,sem tag,,
+Window Builder,KeplerPostRC4,2013-06-13,,,,,c329a91b7,2013-06-03,sem tag,,
+Window Builder,KeplerSR0,2013-08-02,,,,,6de0b1982,2013-07-22,sem tag,,
+Window Builder,KeplerSR1,2013-09-23,,,,,bcad4d9af,2013-09-18,sem tag,,
+Window Builder,LunaSR0,2014-07-29,,,,,0330cc7ce,2014-05-09,sem tag,,
+Window Builder,z20140805-2300,2014-07-29,,,,,0330cc7ce,2014-05-09,sem tag,,
+Window Builder,z20140806,2014-07-29,,,,,0330cc7ce,2014-05-09,sem tag,,
+Window Builder,LunaRC4,2014-09-17,,,,,ddb982ee3,2014-08-24,sem tag,,
+Window Builder,LunaSR2,2015-03-02,,,,,fa38bff9c,2014-12-20,sem tag,,
+Window Builder,S201504150911,2015-04-15,,,,,fa38bff9c,2014-12-20,sem tag,,
+Window Builder,Mars.1,2015-09-24,,,,,b3e352482,2015-09-14,sem tag,,
+Window Builder,Neon,2016-06-13,,,,,c4e0ead9d,2016-06-10,contrib. desativada,,
+Window Builder,OxygenPreRienaRemoval_9-8-2016,2016-09-07,,,,,4beb5d235,2016-09-05,contrib. desativada,,
+Window Builder,Neon.1,2016-09-14,,,,,4beb5d235,2016-09-05,sem tag,,
+Window Builder,Neon.1a,2016-10-06,,,,,4beb5d235,2016-09-05,sem tag,,
+Window Builder,Neon.2,2016-12-07,,,,,e9526ca7d,2016-10-15,sem tag,,
+Window Builder,Neon.3,2017-03-08,,,,,57b43fa2b,2017-01-10,sem tag,,
+Window Builder,Neon.3_respin,2017-03-14,,,,,57b43fa2b,2017-01-10,sem tag,,
+Window Builder,Oxygen,2017-06-14,,,,,0d2bbc94c,2017-06-04,sem tag,,
+Window Builder,Oxygen.1,2017-09-13,,,,,0d2bbc94c,2017-06-04,sem tag,,
+Window Builder,Oxygen.1a,2017-10-05,,,,,0d2bbc94c,2017-06-04,sem tag,,
+Window Builder,Oxygen.1a_respin,2017-10-09,,,,,0d2bbc94c,2017-06-04,sem tag,,
+Window Builder,Oxygen.2,2017-12-06,,,,,5a09a1a0f,2017-11-24,sem tag,,
+Window Builder,Oxygen.2_respin,2017-12-15,,,,,682be225c,2017-12-13,sem tag,,
+Window Builder,Oxygen.3,2018-03-07,,,,,47e9177ee,2018-02-21,sem tag,,
+Window Builder,PhotonM7,2018-05-17,,,,,571dc2a30,2018-05-15,sem tag,,
+Window Builder,PhotonRC4,2018-06-13,,,,,571dc2a30,2018-05-15,sem tag,,
+Window Builder,Photon.0,2018-06-17,,,,,571dc2a30,2018-05-15,sem tag,,
+Window Builder,2018-09,2018-09-12,,,,,571dc2a30,2018-05-15,sem tag,,
+Window Builder,2018-12,2018-12-12,,,,,ffc06de7f,2018-10-08,sem tag,,
+Window Builder,2019-03,2019-03-14,,,,,17700c4f6,2018-12-27,sem tag,,
+Window Builder,2019-06,2019-06-13,,,,,2e906633c,2019-06-10,sem tag,,
+Window Builder,2019-09,2019-09-16,,,,,2e906633c,2019-06-10,sem tag,,
+Window Builder,2019-12,2019-12-11,,,,,6912838e8,2019-12-05,sem tag,,
+Window Builder,2020-03,2020-03-12,,,,,76a144d28,2020-03-11,sem tag,,
+Window Builder,2020-06,2020-06-10,,,,,5f70d71df,2020-04-19,sem tag,,
+Window Builder,2020-09,2020-09-09,,,,,5f70d71df,2020-04-19,sem tag,,
+Window Builder,2020-12,2020-12-09,,,,,dae4bc39f,2020-11-15,sem tag,,
+Window Builder,2021-03,2021-03-10,,,,,38926a364,2021-03-10,sem tag,,
+Window Builder,2021-06,2021-06-12,,,,,4ed27bca9,2021-06-04,sem tag,,
+Window Builder,2021-09,2021-09-08,,,,,9238c956e,2021-07-01,sem tag,,
+Window Builder,2021-12,2021-12-02,,,,,7f7b3130b,2021-12-02,sem tag,,
+Window Builder,2022-03,2022-03-15,,,,,b7d3d540d,2022-03-14,sem tag,,
+Window Builder,2022-06,2022-06-13,,,,,d8e332a41,2022-06-07,sem tag,,
+Window Builder,2022-09,2022-09-12,V1.10.0,versão 1.10.0,e1c0db7b3,2022-07-18,e1c0db7b3,2022-07-18,igual,,
+Window Builder,2022-12,2022-12-05,V1.11.0,versão 1.11.0,0266cab7e,2022-10-23,06ff48510,2022-11-17,mapper à frente,11,0
+Window Builder,2023-03,2023-03-29,V1.11.0,versão 1.11.0,0266cab7e,2022-10-23,7ce471952,2023-03-28,mapper à frente,14,0
+Window Builder,2023-06,2023-06-13,V1.12.0,versão 1.12.0,4d7d79c28,2023-06-07,4d7d79c28,2023-06-07,igual,,
+Window Builder,2023-09,2023-09-08,,,,,5749a0877,2023-09-07,sem tag,,
+Window Builder,2023-12,2023-12-01,V1.14.0,versão 1.14.0,2581b5687,2023-11-27,2581b5687,2023-11-27,igual,,
+Window Builder,2024-03,2024-03-08,V1.15.0,versão 1.15.0,a3a4e6673,2024-03-04,a3a4e6673,2024-03-04,igual,,
+Window Builder,2024-06,2024-06-10,V1.16.0,versão 1.16.0,b7b7c5178,2024-06-03,b7b7c5178,2024-06-03,igual,,
+Window Builder,2024-09,2024-09-06,,,,,6935b9a13,2024-08-27,sem tag,,
+Window Builder,2024-12,2024-12-01,V1.18.0,versão 1.18.0,748186c5a,2024-11-25,748186c5a,2024-11-25,igual,,
+Window Builder,2025-03,2025-03-06,V1.19.0,versão 1.19.0,085b69cac,2025-03-05,085b69cac,2025-03-05,igual,,
+Window Builder,2025-06,2025-06-05,,,,,b23439035,2025-06-03,sem tag,,
+Window Builder,2025-09,2025-09-05,,,,,1c449360c,2025-08-19,sem tag,,
+Window Builder,2025-12,2025-12-07,,,,,419c6fe18,2025-11-27,sem tag,,
+Window Builder,2026-03,2026-03-11,,,,,7bf365b7c,2026-02-16,sem tag,,
+m2e,JunoSR0,2012-08-03,,,,,a981bd768,2012-08-03,sem tag,,
+m2e,JunoSR1,2012-09-19,,,,,c6c6f9100,2012-09-07,sem tag,,
+m2e,JunoSR2,2013-02-24,,,,,be7c29dfb,2013-02-20,sem tag,,
+m2e,KeplerPostRC4,2013-06-13,,,,,7f943c9e1,2013-06-08,sem tag,,
+m2e,KeplerSR0,2013-08-02,,,,,61f95d53b,2013-06-26,sem tag,,
+m2e,KeplerSR1,2013-09-23,,,,,ca8878d7b,2013-09-18,sem tag,,
+m2e,LunaSR0,2014-07-29,,,,,04dade2a8,2014-07-23,sem tag,,
+m2e,z20140805-2300,2014-07-29,,,,,04dade2a8,2014-07-23,sem tag,,
+m2e,z20140806,2014-07-29,,,,,04dade2a8,2014-07-23,sem tag,,
+m2e,LunaRC4,2014-09-17,,,,,6d2dcbf71,2014-09-16,sem tag,,
+m2e,LunaSR2,2015-03-02,,,,,991a764bb,2015-02-26,sem tag,,
+m2e,S201504150911,2015-04-15,,,,,4ef1f2999,2015-04-13,sem tag,,
+m2e,Mars.1,2015-09-24,,,,,2247e9e58,2015-09-15,sem tag,,
+m2e,Neon,2016-06-13,milestones/1.7/1.7.0.20160603-1933,timestamp,3aedff2d9,2016-06-03,535bbff40,2016-06-08,divergente,73,1573
+m2e,OxygenPreRienaRemoval_9-8-2016,2016-09-07,,,,,0872a3692,2016-08-31,contrib. desativada,,
+m2e,Neon.1,2016-09-14,milestones/1.7/1.7.0.20160603-1933,timestamp,3aedff2d9,2016-06-03,eafaf78f4,2016-09-13,mapper à frente,8,0
+m2e,Neon.1a,2016-10-06,,,,,f2699401c,2016-09-26,sem tag,,
+m2e,Neon.2,2016-12-07,milestones/1.7/1.7.0.20160603-1933,timestamp,3aedff2d9,2016-06-03,ea414f0aa,2016-11-21,mapper à frente,16,0
+m2e,Neon.3,2017-03-08,milestones/1.7/1.7.0.20160603-1933,timestamp,3aedff2d9,2016-06-03,0ef4fbcb5,2017-02-28,mapper à frente,18,0
+m2e,Neon.3_respin,2017-03-14,,,,,0ef4fbcb5,2017-02-28,sem tag,,
+m2e,Oxygen,2017-06-14,milestones/1.8/1.8.0.20170516-2043,timestamp,093f1718e,2017-05-16,451808222,2017-05-26,mapper à frente,1,0
+m2e,Oxygen.1,2017-09-13,milestones/1.8/1.8.1.20170728-1531,timestamp,43b45e37f,2017-07-28,2f1326cfb,2017-09-13,mapper à frente,2,0
+m2e,Oxygen.1a,2017-10-05,,,,,63e7b680f,2017-10-05,sem tag,,
+m2e,Oxygen.1a_respin,2017-10-09,milestones/1.8/1.8.2.20171007-0217,timestamp,a871a684f,2017-10-06,a871a684f,2017-10-06,igual,,
+m2e,Oxygen.2,2017-12-06,milestones/1.8/1.8.1.20170728-1531,timestamp,43b45e37f,2017-07-28,bc287cf16,2017-11-15,divergente,19,1
+m2e,Oxygen.2_respin,2017-12-15,milestones/1.8/1.8.2.20171007-0217,timestamp,a871a684f,2017-10-06,a22f29f46,2017-12-12,divergente,20,11
+m2e,Oxygen.3,2018-03-07,,,,,8ee423859,2018-02-26,sem tag,,
+m2e,PhotonM7,2018-05-17,,,,,cd000d908,2018-05-15,sem tag,,
+m2e,PhotonRC4,2018-06-13,releases/1.9/1.9.0.20180606-2036,timestamp,c304dad55,2018-06-06,c304dad55,2018-06-06,igual,,
+m2e,Photon.0,2018-06-17,releases/1.9/1.9.0.20180606-2036,timestamp,c304dad55,2018-06-06,c304dad55,2018-06-06,igual,,
+m2e,2018-09,2018-09-12,,,,,fda7930db,2018-09-12,sem tag,,
+m2e,2018-12,2018-12-12,milestones/1.10/1.10.0.20181127-2120,timestamp,f13f3346e,2018-11-27,f13f3346e,2018-11-27,igual,,
+m2e,2019-03,2019-03-14,milestones/1.11/1.11.0.20190220-2119,timestamp,c5392da6b,2019-03-05,c5392da6b,2019-03-05,igual,,
+m2e,2019-06,2019-06-13,releases/1.12/1.12.0.20190529-1916,timestamp,2fb483e10,2019-05-29,665e15ce7,2019-06-12,mapper à frente,9,0
+m2e,2019-09,2019-09-16,milestones/1.13/1.13.0.20190716-1624,timestamp,11e1759f2,2019-09-06,11e1759f2,2019-09-06,igual,,
+m2e,2019-12,2019-12-11,milestones/1.14/1.14.0.20191209-1925,timestamp,acf8703b4,2019-12-09,acf8703b4,2019-12-09,igual,,
+m2e,2020-03,2020-03-12,milestones/1.15/1.15.0.20200310-1746,timestamp,832869191,2020-03-05,832869191,2020-03-05,igual,,
+m2e,2020-06,2020-06-10,1.16.0,versão 1.16.0,d53d22d98,2020-06-10,d53d22d98,2020-06-10,igual,,
+m2e,2020-09,2020-09-09,1.16.2,versão 1.16.2,3e5f67a85,2020-09-02,3e5f67a85,2020-09-02,igual,,
+m2e,2020-12,2020-12-09,1.17.1,versão 1.17.1,980a2fbeb,2020-12-07,50a5edd27,2020-12-08,mapper à frente,1,0
+m2e,2021-03,2021-03-10,1.17.2,versão 1.17.2,464931592,2021-03-02,3e490a0a3,2021-03-10,mapper à frente,2,0
+m2e,2021-06,2021-06-12,1.18.0,versão 1.18.0,a29a683e8,2021-06-03,234b378ec,2021-06-10,mapper à frente,22,0
+m2e,2021-09,2021-09-08,1.18.1,versão 1.18.1,67a62b5f7,2021-06-24,aa8a52668,2021-09-06,divergente,62,1
+m2e,2021-12,2021-12-02,1.19.0,versão 1.19.0,50c4ced4f,2021-11-18,cb2905b33,2021-12-02,mapper à frente,6,0
+m2e,2022-03,2022-03-15,1.20.1,versão 1.20.1,595db9d68,2022-02-27,dbf81d450,2022-03-14,divergente,147,3
+m2e,2022-06,2022-06-13,1.20.1,versão 1.20.1,595db9d68,2022-02-27,c76ec876c,2022-06-13,divergente,247,3
+m2e,2022-09,2022-09-12,2.0.4,versão 2.0.4,e27a86003,2022-09-04,2efa3542a,2022-09-12,mapper à frente,3,0
+m2e,2022-12,2022-12-05,2.1.2,versão 2.1.2,50a9dc9a6,2022-11-30,5abfe3578,2022-12-04,mapper à frente,7,0
+m2e,2023-03,2023-03-29,2.2.1,versão 2.2.1,3bec675da,2023-03-07,43bba83d5,2023-03-29,mapper à frente,11,0
+m2e,2023-06,2023-06-13,2.3.0,versão 2.3.0,a9eca33c5,2023-05-23,c008eb133,2023-06-12,mapper à frente,11,0
+m2e,2023-09,2023-09-08,2.4.0,versão 2.4.0,ac7bf50bb,2023-08-29,907cc57ad,2023-09-08,mapper à frente,5,0
+m2e,2023-12,2023-12-01,2.5.0,versão 2.5.0,f642d1d9e,2023-11-27,348ef88b0,2023-11-27,mapper à frente,1,0
+m2e,2024-03,2024-03-08,2.6.0,versão 2.6.0,be2d552c0,2024-02-21,112488c01,2024-03-01,mapper à frente,4,0
+m2e,2024-06,2024-06-10,2.6.1,versão 2.6.1,1936249d2,2024-06-04,9deadde94,2024-06-04,mapper à frente,1,0
+m2e,2024-09,2024-09-06,2.6.2,versão 2.6.2,dc2ebfce7,2024-09-04,fc65987d2,2024-09-05,mapper à frente,2,0
+m2e,2024-12,2024-12-01,2.7.0,versão 2.7.0,a44800401,2024-11-26,02d733c93,2024-11-26,mapper à frente,1,0
+m2e,2025-03,2025-03-06,2.8.0,versão 2.8.0,11d08287e,2025-03-03,66b65ce74,2025-03-03,mapper à frente,1,0
+m2e,2025-06,2025-06-05,2.9.0,versão 2.9.0,f3654f4e5,2025-06-05,db6dd23d3,2025-06-05,mapper à frente,1,0
+m2e,2025-09,2025-09-05,2.9.1,versão 2.9.1,62e278dcc,2025-09-02,bc9f53686,2025-09-04,mapper à frente,2,0
+m2e,2025-12,2025-12-07,2.10.0,versão 2.10.0,a8606e5d5,2025-12-04,f223e3931,2025-12-05,mapper à frente,5,0
+m2e,2026-03,2026-03-11,2.11.0,versão 2.11.0,31f8e457f,2026-03-04,4348a43f4,2026-03-05,mapper à frente,2,0

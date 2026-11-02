@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-19 14:05:28 =====
+14:05:30 job fase1__random__principal__model2__ADA__LinearSVC__cv10 | pid 535 | threads 1
+14:05:33 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=98
+15:32:33   treino reamostrado: 22637244 linhas, 11315250 positivos
+16:40:42 AP=0.0359 AUC=0.8140 MCC=0.0797 F1(1)=0.0304 (9297 s de treino)
+16:40:42 ok fase1__random__principal__model2__ADA__LinearSVC__cv10 9312.3 s, pico de RAM 77.54 GB

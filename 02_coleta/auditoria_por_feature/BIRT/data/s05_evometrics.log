@@ -1,0 +1,31 @@
+changed method versions: 5795 | distinct text pairs to diff: 3373
+change events (release, method): 3569
+1 8339b09c methods: 77432
+4 ba2add44 methods: 77441
+5 87049ec2 methods: 77441
+6 3c35b225 methods: 77815
+7 496ef6ee methods: 77841
+8 4d3c84e6 methods: 77847
+9 f07d287b methods: 78499
+10 7dbf1f08 methods: 78514
+11 57a2e6a6 methods: 78603
+12 b65ef731 methods: 78765
+13 07c12f2e methods: 78791
+14 deccc105 methods: 78797
+15 ffee5cf5 methods: 78802
+16 87085c03 methods: 78812
+17 99e88cb4 methods: 78817
+18 6675ac4c methods: 78818
+19 0742e652 methods: 78820
+20 0263896f methods: 78844
+21 758df0fb methods: 78893
+22 4e1cface methods: 78897
+23 66e626ff methods: 78909
+24 f8926481 methods: 78911
+25 9f78e5f3 methods: 78911
+26 b9982407 methods: 78912
+27 173e7170 methods: 78913
+28 3d4f3ba4 methods: 78918
+29 dff3eaf5 methods: 78919
+rows: 2120882
+

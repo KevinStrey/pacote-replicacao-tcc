@@ -1,0 +1,9 @@
+
+===== tentativa 1 2026-10-15 20:55:52 =====
+20:55:54 job fase2__temporal__principal__model1__SMOTE__MLP__teste | pid 9587 | threads 4
+20:55:54 treino=127322 (pos=731) avaliação=53274 (pos=149) colunas=82
+20:55:54   treino reamostrado: 253182 linhas, 126591 positivos
+/home/CORP/11855413906/Desktop/treino_tcc/ambiente/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+21:06:57 AP=0.0034 AUC=0.5344 MCC=0.0064 F1(1)=0.0074 (663 s de treino)
+21:06:58 ok fase2__temporal__principal__model1__SMOTE__MLP__teste 663.8 s, pico de RAM 0.91 GB

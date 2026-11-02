@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 21:07:52 =====
+21:07:53 job fase3__temporal__sem_PTP_Scout_Mylyn__model2__NONE__LogisticRegression__teste | pid 21726 | threads 2
+21:07:53 treino=115461 (pos=592) avaliação=45614 (pos=131) colunas=98
+21:07:54   treino reamostrado: 115461 linhas, 592 positivos
+21:07:56 AP=0.0250 AUC=0.7512 MCC=0.0458 F1(1)=0.0158 (3 s de treino)
+21:07:57 ok fase3__temporal__sem_PTP_Scout_Mylyn__model2__NONE__LogisticRegression__teste 3.1 s, pico de RAM 0.61 GB

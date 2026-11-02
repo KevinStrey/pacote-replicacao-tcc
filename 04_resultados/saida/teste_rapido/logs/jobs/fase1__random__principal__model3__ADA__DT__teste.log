@@ -1,0 +1,9 @@
+
+===== tentativa 1 2026-10-15 20:52:15 =====
+20:52:17 job fase1__random__principal__model3__ADA__DT__teste | pid 48388 | threads 1
+20:52:17 treino=126417 (pos=616) avaliação=54179 (pos=264) colunas=16
+20:52:17   treino reamostrado: 251793 linhas, 125992 positivos
+20:52:19 AP=0.0259 AUC=0.5064 MCC=0.0538 F1(1)=0.0396 (2 s de treino)
+/home/CORP/11855413906/Desktop/treino_tcc/ambiente/lib/python3.12/site-packages/sklearn/metrics/_classification.py:614: UserWarning: A single label was found in 'y_true' and 'y_pred'. For the confusion matrix to have the correct shape, use the 'labels' parameter to pass all known labels.
+  warnings.warn(
+20:52:20 ok fase1__random__principal__model3__ADA__DT__teste 3.0 s, pico de RAM 0.49 GB

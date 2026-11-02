@@ -1,0 +1,1099 @@
+feature,release,simrel_date,no_simrel,contrib_ativa,so_respin,build_ts,fonte_ts,versao_loc,commit_mapper,data_commit_mapper,gap_dias,location
+BIRT,JunoSR0,2012-08-03,sim,sim,,2012-06-11 00:00,qualificador,4.2,3767e5c39,2012-08-02T12:37,52.2,http://download.eclipse.org/birt/update-site/4.2-interim/
+BIRT,JunoSR1,2012-09-19,sim,sim,,2012-08-20 00:00,qualificador,4.2,7defdb21c,2012-09-19T20:28,30.5,http://download.eclipse.org/birt/update-site/4.2-interim/
+BIRT,JunoSR2,2013-02-24,sim,sim,,2013-01-28 16:49,qualificador,4.2,4ebbe74e5,2013-02-24T23:51,27.0,http://download.eclipse.org/birt/update-site/4.2-interim/
+BIRT,KeplerPostRC4,2013-06-13,sim,sim,,2013-06-05 16:47,qualificador,,9e5a196ca,2013-06-13T17:24,7.7,http://download.eclipse.org/birt/update-site/kepler-interim/
+BIRT,KeplerSR0,2013-08-02,sim,sim,,2013-06-05 16:47,qualificador,,60d1a3bf3,2013-08-02T09:54,57.4,http://download.eclipse.org/birt/update-site/kepler-interim/
+BIRT,KeplerSR1,2013-09-23,sim,sim,,2013-08-30 13:49,qualificador,,26da53179,2013-09-23T16:16,23.8,http://download.eclipse.org/birt/update-site/kepler-interim/
+BIRT,LunaSR0,2014-07-29,sim,sim,,2014-05-19 15:24,qualificador,4.4,d08d790c3,2014-07-23T17:11,65.4,http://download.eclipse.org/birt/update-site/4.4/
+BIRT,z20140805-2300,2014-07-29,sim,sim,,2014-05-19 15:24,qualificador,4.4,d08d790c3,2014-07-23T17:11,65.4,http://download.eclipse.org/birt/update-site/4.4/
+BIRT,z20140806,2014-07-29,sim,sim,,2014-05-19 15:24,qualificador,4.4,d08d790c3,2014-07-23T17:11,65.4,http://download.eclipse.org/birt/update-site/4.4/
+BIRT,LunaRC4,2014-09-17,sim,sim,,2014-08-29 01:42,qualificador,,d2d3afcf9,2014-09-16T17:51,19.0,http://download.eclipse.org/birt/update-site/luna-interim/
+BIRT,LunaSR2,2015-03-02,sim,sim,,2014-10-27 21:05,qualificador,4.4,f07d287be,2015-02-10T17:31,106.2,http://download.eclipse.org/birt/update-site/4.4/
+BIRT,S201504150911,2015-04-15,sim,sim,,2015-01-06 14:37,qualificador,,7dbf1f085,2015-04-14T17:42,98.4,http://download.eclipse.org/birt/update-site/mars-interim/
+BIRT,Mars.1,2015-09-24,sim,sim,sim,2015-06-09 21:34,qualificador,,57a2e6a6a,2015-09-23T11:01,105.9,http://download.eclipse.org/releases/mars/201509251000/
+BIRT,Neon,2016-06-13,sim,sim,,2016-06-07 21:22,qualificador,,b65ef731a,2016-06-08T10:53,0.9,http://download.eclipse.org/birt/update-site/neon-interim/
+BIRT,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,NAO,,,,,6dd60a34c,2016-08-31T12:56,,
+BIRT,Neon.1,2016-09-14,sim,sim,,2016-06-07 21:22,qualificador,4.6,6dd60a34c,2016-08-31T12:56,84.8,http://download.eclipse.org/birt/update-site/4.6/
+BIRT,Neon.1a,2016-10-06,sim,sim,sim,2016-06-07 21:22,qualificador,,993423e7a,2016-10-04T14:14,119.0,http://download.eclipse.org/releases/neon/201609281000/
+BIRT,Neon.2,2016-12-07,sim,sim,,2016-06-07 21:22,qualificador,4.6,deccc1059,2016-12-07T09:19,182.8,http://download.eclipse.org/birt/update-site/4.6/
+BIRT,Neon.3,2017-03-08,sim,sim,,2016-06-07 21:22,qualificador,4.6,ffee5cf5c,2017-03-04T15:35,270.1,http://download.eclipse.org/birt/update-site/4.6/
+BIRT,Neon.3_respin,2017-03-14,sim,sim,sim,2016-06-07 21:22,qualificador,,0b3f796f4,2017-03-10T09:08,275.8,http://download.eclipse.org/releases/neon/201703141400/
+BIRT,Oxygen,2017-06-14,sim,sim,,2017-06-14 22:03,qualificador,,f1f0d75e5,2017-06-14T14:56,-0.0,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,Oxygen.1,2017-09-13,sim,sim,,2017-06-14 22:03,qualificador,,99e88cb4c,2017-09-11T08:43,88.7,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,Oxygen.1a,2017-10-05,sim,sim,sim,2017-06-14 22:03,qualificador,,71c06d080,2017-09-27T23:13,104.8,http://download.eclipse.org/releases/oxygen/201709271000/
+BIRT,Oxygen.1a_respin,2017-10-09,sim,sim,sim,2017-06-14 22:03,qualificador,,71c06d080,2017-09-27T23:13,104.8,http://download.eclipse.org/releases/oxygen/201709271000/
+BIRT,Oxygen.2,2017-12-06,sim,sim,,2017-06-14 22:03,qualificador,,0742e6524,2017-11-14T15:46,153.1,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,Oxygen.2_respin,2017-12-15,sim,sim,,2017-06-14 22:03,qualificador,,f70c78daa,2017-12-13T12:05,181.9,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,Oxygen.3,2018-03-07,sim,sim,,2017-06-14 22:03,qualificador,,0263896f8,2018-02-28T10:33,258.7,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,PhotonM7,2018-05-17,sim,sim,,2017-06-14 22:03,qualificador,,1587754a5,2018-05-16T11:52,335.9,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,PhotonRC4,2018-06-13,sim,sim,,2017-06-14 22:03,qualificador,,8e9ce5f6a,2018-06-08T08:59,358.2,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,Photon.0,2018-06-17,sim,sim,,2017-06-14 22:03,qualificador,,8e9ce5f6a,2018-06-08T08:59,358.2,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,2018-09,2018-09-12,sim,sim,,2017-06-14 22:03,qualificador,,4e1cface7,2018-09-07T11:44,449.9,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,2018-12,2018-12-12,sim,sim,,2017-06-14 22:03,qualificador,,66e626ff7,2018-12-07T13:50,541.0,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,2019-03,2019-03-14,sim,sim,,2017-06-14 22:03,qualificador,,f89264810,2019-03-07T16:49,631.1,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,2019-06,2019-06-13,sim,sim,,2017-06-14 22:03,qualificador,,9f78e5f30,2019-05-30T10:02,714.8,http://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,2019-09,2019-09-16,sim,sim,,2017-06-14 22:03,qualificador,,b99824072,2019-09-04T11:43,811.9,https://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,2019-12,2019-12-11,sim,sim,,2017-06-14 22:03,qualificador,,173e7170d,2019-09-19T13:44,826.9,https://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,2020-03,2020-03-12,sim,sim,,2017-06-14 22:03,qualificador,,3d4f3ba4c,2020-03-11T10:41,1000.8,https://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,2020-06,2020-06-10,sim,sim,,2017-06-14 22:03,qualificador,,dff3eaf55,2020-04-22T22:51,1043.2,https://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,2020-09,2020-09-09,sim,sim,,2017-06-14 22:03,qualificador,,dff3eaf55,2020-04-22T22:51,1043.2,https://download.eclipse.org/birt/update-site/oxygen-interim/
+BIRT,2020-12,2020-12-09,NAO,NAO,,,,,dff3eaf55,2020-04-22T22:51,,
+BIRT,2021-03,2021-03-10,NAO,NAO,,,,,af05d51d4,2021-03-10T19:05,,
+BIRT,2021-06,2021-06-12,NAO,NAO,,,,,469ef0be1,2021-06-09T11:47,,
+BIRT,2021-09,2021-09-08,NAO,NAO,,,,,47b0dcdec,2021-08-15T10:20,,
+BIRT,2021-12,2021-12-02,NAO,NAO,,,,,bcb30c4dc,2021-12-02T14:30,,
+BIRT,2022-03,2022-03-15,NAO,NAO,,,,,c69016782,2022-03-14T19:28,,
+BIRT,2022-06,2022-06-13,NAO,NAO,,,,,61340bd36,2022-06-01T18:03,,
+BIRT,2022-09,2022-09-12,NAO,NAO,,,,,826bf9186,2022-07-21T11:26,,
+BIRT,2022-12,2022-12-05,NAO,NAO,,,,,d65522c37,2022-12-02T15:30,,
+BIRT,2023-03,2023-03-29,NAO,NAO,,,,,2c8d136ba,2023-03-28T20:30,,
+BIRT,2023-06,2023-06-13,NAO,NAO,,,,,bc427ee9f,2023-06-12T14:54,,
+BIRT,2023-09,2023-09-08,NAO,NAO,,,,,e89c983a0,2023-09-01T17:20,,
+BIRT,2023-12,2023-12-01,NAO,NAO,,,,,96394b3b0,2023-11-20T17:04,,
+BIRT,2024-03,2024-03-08,NAO,NAO,,,,,03dc43e37,2024-03-04T19:32,,
+BIRT,2024-06,2024-06-10,NAO,NAO,,,,,7eb0e6a90,2024-06-10T19:39,,
+BIRT,2024-09,2024-09-06,NAO,NAO,,,,,e61ee04f9,2024-09-06T09:16,,
+BIRT,2024-12,2024-12-01,NAO,NAO,,,,,ad83f4a83,2024-11-30T12:56,,
+BIRT,2025-03,2025-03-06,NAO,NAO,,,,,8d31ca877,2025-03-04T20:04,,
+BIRT,2025-06,2025-06-05,NAO,NAO,,,,,fa10432ad,2025-06-01T16:52,,
+BIRT,2025-09,2025-09-05,NAO,NAO,,,,,17820dd0e,2025-09-04T11:43,,
+BIRT,2025-12,2025-12-07,NAO,NAO,,,,,ef4054b27,2025-12-05T15:56,,
+BIRT,2026-03,2026-03-11,NAO,NAO,,,,,4b0d172dc,2026-03-07T09:37,,
+CDT,JunoSR0,2012-08-03,sim,sim,,2011-06-08 10:58,qualificador,,c74cc8a30,2012-08-03T15:35,422.5,http://download.eclipse.org/tools/cdt/builds/juno/milestones
+CDT,JunoSR1,2012-09-19,sim,sim,,2011-06-08 10:58,qualificador,,f1c6b1f43,2012-09-19T14:22,469.1,http://download.eclipse.org/tools/cdt/builds/juno/milestones
+CDT,JunoSR2,2013-02-24,sim,sim,,2011-06-08 10:58,qualificador,,8da0b43d3,2013-02-22T19:07,625.5,http://download.eclipse.org/tools/cdt/builds/juno/milestones
+CDT,KeplerPostRC4,2013-06-13,sim,sim,,2011-06-08 10:58,qualificador,,f7de7ad84,2013-06-12T17:07,735.5,http://download.eclipse.org/tools/cdt/builds/kepler/milestones
+CDT,KeplerSR0,2013-08-02,sim,sim,,2011-06-08 10:58,qualificador,,eb286477f,2013-08-01T15:15,785.5,http://download.eclipse.org/tools/cdt/builds/kepler/milestones
+CDT,KeplerSR1,2013-09-23,sim,sim,,2011-06-08 10:58,qualificador,,331ff203d,2013-09-23T17:45,838.4,http://download.eclipse.org/tools/cdt/builds/kepler/milestones
+CDT,LunaSR0,2014-07-29,sim,sim,,2014-05-06 19:18,qualificador,,e26e8a60c,2014-07-28T16:43,83.1,http://download.eclipse.org/tools/cdt/builds/luna/milestones
+CDT,z20140805-2300,2014-07-29,sim,sim,,2014-05-06 19:18,qualificador,,e26e8a60c,2014-07-28T16:43,83.1,http://download.eclipse.org/tools/cdt/builds/luna/milestones
+CDT,z20140806,2014-07-29,sim,sim,,2014-05-06 19:18,qualificador,,e26e8a60c,2014-07-28T16:43,83.1,http://download.eclipse.org/tools/cdt/builds/luna/milestones
+CDT,LunaRC4,2014-09-17,sim,sim,,2014-05-06 19:18,qualificador,,ae1b12338,2014-09-17T08:56,133.7,http://download.eclipse.org/tools/cdt/builds/luna/milestones
+CDT,LunaSR2,2015-03-02,sim,sim,,2014-05-06 19:18,qualificador,,ce34d2d48,2015-02-28T20:56,298.3,http://download.eclipse.org/tools/cdt/builds/luna/milestones
+CDT,S201504150911,2015-04-15,sim,sim,,2014-05-06 19:18,qualificador,,cb34c361b,2015-04-15T06:53,343.4,http://download.eclipse.org/tools/cdt/builds/mars/milestones
+CDT,Mars.1,2015-09-24,sim,sim,sim,2014-05-06 19:18,qualificador,,2471f7e1d,2015-09-24T01:36,505.4,http://download.eclipse.org/releases/mars/201509251000/ | http://download.eclipse.org/releases/mars/201509251000/
+CDT,Neon,2016-06-13,sim,sim,,,,,506347531,2016-06-12T15:46,,http://download.eclipse.org/tools/cdt/builds/neon/milestones/rc4 | http://download.eclipse.org/tools/cdt/launchbar/neon.rc4
+CDT,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,sim,,,,9.0,bb0190682,2016-09-07T12:35,,http://download.eclipse.org/tools/cdt/releases/9.0/r | http://download.eclipse.org/tools/cdt/launchbar/neon.rc4
+CDT,Neon.1,2016-09-14,sim,sim,,,,,46d0c9633,2016-09-13T14:30,,http://download.eclipse.org/tools/cdt/builds/neon/milestones/ur1-rc4 | http://download.eclipse.org/tools/cdt/launchbar/neon.1
+CDT,Neon.1a,2016-10-06,sim,sim,sim,,,,9f7af7a49,2016-10-06T11:10,,http://download.eclipse.org/releases/neon/201609281000/ | http://download.eclipse.org/releases/neon/201609281000/
+CDT,Neon.2,2016-12-07,sim,sim,,,,,0d02aea06,2016-12-07T17:25,,http://download.eclipse.org/tools/cdt/builds/neon/milestones/ur2-rc4 | http://download.eclipse.org/tools/cdt/launchbar/neon.2
+CDT,Neon.3,2017-03-08,sim,sim,,,,,212bbd011,2017-03-08T02:01,,http://download.eclipse.org/tools/cdt/builds/neon/milestones/ur3-rc4 | http://download.eclipse.org/tools/cdt/launchbar/neon.2
+CDT,Neon.3_respin,2017-03-14,sim,sim,sim,,,,8bfd2cdc2,2017-03-13T23:15,,http://download.eclipse.org/releases/neon/201703141400/ | http://download.eclipse.org/releases/neon/201703141400/
+CDT,Oxygen,2017-06-14,sim,sim,,,,,ef6aeee51,2017-06-14T07:23,,http://download.eclipse.org/tools/cdt/builds/oxygen/milestones/rc4 | http://download.eclipse.org/tools/cdt/launchbar/oxygen.rc4
+CDT,Oxygen.1,2017-09-13,sim,sim,,,,,a6542611d,2017-09-13T12:02,,http://download.eclipse.org/tools/cdt/builds/oxygen/milestones/1.rc4 | http://download.eclipse.org/tools/cdt/launchbar/milestones/oxygen
+CDT,Oxygen.1a,2017-10-05,sim,sim,sim,,,,3d04ec0c9,2017-10-04T20:20,,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+CDT,Oxygen.1a_respin,2017-10-09,sim,sim,sim,,,,78380bf5f,2017-10-08T12:37,,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+CDT,Oxygen.2,2017-12-06,sim,sim,,,,9.4,fea65eeb1,2017-12-04T23:53,,http://download.eclipse.org/tools/cdt/builds/9.4/ | http://download.eclipse.org/tools/cdt/launchbar/milestones/oxygen.2
+CDT,Oxygen.2_respin,2017-12-15,sim,sim,,,,9.4,8618c34e5,2017-12-14T02:23,,http://download.eclipse.org/tools/cdt/builds/9.4/ | http://download.eclipse.org/tools/cdt/launchbar/milestones/oxygen.2
+CDT,Oxygen.3,2018-03-07,sim,sim,,,,9.4 9.4.3,d468345bc,2018-03-07T12:15,,http://download.eclipse.org/tools/cdt/builds/9.4/cdt-9.4.3-rc3/ | http://download.eclipse.org/tools/cdt/launchbar/milestones/oxygen.2
+CDT,PhotonM7,2018-05-17,sim,sim,,2018-05-11 10:00,qualificador,9.5 9.5.0,c16a31325,2018-05-17T21:28,6.4,http://download.eclipse.org/tools/cdt/builds/9.5/cdt-9.5.0-photon-m7/ | http://download.eclipse.org/tools/cdt/launchbar/photon/m7/
+CDT,PhotonRC4,2018-06-13,sim,sim,,2018-06-13 19:38,qualificador,9.5 9.5.0,ac2363cb9,2018-06-13T16:15,-0.2,http://download.eclipse.org/tools/cdt/builds/9.5/cdt-9.5.0-photon-rc4b/ | http://download.eclipse.org/tools/cdt/launchbar/photon/m7/
+CDT,Photon.0,2018-06-17,sim,sim,,2018-06-17 09:08,qualificador,9.5 9.5.0,29ed1fa6c,2018-06-17T00:13,-0.2,http://download.eclipse.org/tools/cdt/builds/9.5/cdt-9.5.0-photon-rc4c/ | http://download.eclipse.org/tools/cdt/launchbar/photon/m7/
+CDT,2018-09,2018-09-12,sim,sim,,2018-09-12 11:46,qualificador,9.5 9.5.3 2.2 2.2.1,74eb81b0b,2018-09-12T15:10,0.4,http://download.eclipse.org/tools/cdt/builds/9.5/cdt-9.5.3-simrel-2018-09-rc2/ | http://download.eclipse.org/tools/cdt/launchbar/2.2/launchbar-2.2.1/
+CDT,2018-12,2018-12-12,sim,sim,,2018-12-11 12:11,qualificador,9.6 9.6.0 2.2 2.2.2,c78246ede,2018-12-12T10:08,1.1,http://download.eclipse.org/tools/cdt/builds/9.6/cdt-9.6.0-simrel-2018-12-rc2/ | http://download.eclipse.org/tools/cdt/launchbar/2.2/launchbar-2.2.2-simrel-2018-12-m2/
+CDT,2019-03,2019-03-14,sim,sim,,2019-03-11 14:10,qualificador,9.7 9.7.0 2.2 2.2.3,02ecf97ab,2019-03-13T16:11,1.9,https://download.eclipse.org/tools/cdt/builds/9.7/cdt-9.7.0-simrel-2019-03-rc2a/ | http://download.eclipse.org/tools/cdt/launchbar/2.2/launchbar-2.2.3-simrel-2019-03-m2/
+CDT,2019-06,2019-06-13,sim,sim,,2019-06-10 20:02,qualificador,9.8 9.8.0 2.3 2.3.0,0b9b9890e,2019-06-11T15:15,1.0,https://download.eclipse.org/tools/cdt/builds/9.8/cdt-9.8.0-simrel-2019-06-rc2/ | https://download.eclipse.org/tools/cdt/launchbar/2.3/launchbar-2.3.0-simrel-2019-06-rc2/
+CDT,2019-09,2019-09-16,sim,sim,,2019-09-09 19:56,qualificador,9.9 9.9.0 2.4 2.4.0,7e4f3a84d,2019-09-11T11:49,1.6,https://download.eclipse.org/tools/cdt/builds/9.9/cdt-9.9.0-simrel-2019-09-rc2 | https://download.eclipse.org/tools/cdt/launchbar/2.4/launchbar-2.4.0-simrel-2019-09-m1/
+CDT,2019-12,2019-12-11,sim,sim,,2019-12-09 02:17,qualificador,9.10 9.10.0 2.4 2.4.1,4b7b3c5e7,2019-12-10T10:20,1.5,https://download.eclipse.org/tools/cdt/builds/9.10/cdt-9.10.0-simrel-2019-12-rc2/ | https://download.eclipse.org/tools/cdt/launchbar/2.4/launchbar-2.4.1-simrel-2019-12-m3/
+CDT,2020-03,2020-03-12,sim,sim,,2020-03-09 10:30,qualificador,9.11 9.11.0,5823d56a2,2020-03-11T09:42,2.1,https://download.eclipse.org/tools/cdt/builds/9.11/cdt-9.11.0-2020-03-rc2
+CDT,2020-06,2020-06-10,sim,sim,,2020-06-01 14:30,qualificador,9.11 9.11.1,4bd9fed83,2020-06-08T06:12,6.8,https://download.eclipse.org/tools/cdt/builds/9.11/cdt-9.11.1-2020-06-rc1/
+CDT,2020-09,2020-09-09,sim,sim,,2020-09-07 14:55,qualificador,10.0 10.0.0,65a4d1c42,2020-09-07T10:55,0.0,https://download.eclipse.org/tools/cdt/builds/10.0/cdt-10.0.0-rc2
+CDT,2020-12,2020-12-09,sim,sim,,2020-12-04 19:37,qualificador,10.1 10.1.0,7c599b14b,2020-12-07T21:57,3.3,https://download.eclipse.org/tools/cdt/builds/10.1/cdt-10.1.0-rc2
+CDT,2021-03,2021-03-10,sim,sim,,2021-03-01 10:47,qualificador,10.2 10.2.0,6874b7e01,2021-03-01T18:51,0.5,https://download.eclipse.org/tools/cdt/builds/10.2/cdt-10.2.0-rc2/
+CDT,2021-06,2021-06-12,sim,sim,,2021-06-08 01:20,qualificador,10.3 10.3.0,6352e0c20,2021-06-10T17:00,2.8,https://download.eclipse.org/tools/cdt/releases/10.3/cdt-10.3.0/
+CDT,2021-09,2021-09-08,sim,sim,,2021-09-08 01:04,qualificador,10.4 10.4.0,c34816028,2021-09-01T16:08,-6.2,https://download.eclipse.org/tools/cdt/builds/10.4/cdt-10.4.0-rc2/
+CDT,2021-12,2021-12-02,sim,sim,,2021-12-01 23:29,qualificador,10.5 10.5.0,71ad45b38,2021-11-29T17:58,-2.0,https://download.eclipse.org/tools/cdt/builds/10.5/cdt-10.5.0-rc2
+CDT,2022-03,2022-03-15,sim,sim,,2022-03-09 18:38,qualificador,10.6 10.6.0,db4bc7433,2022-03-14T17:05,5.1,https://download.eclipse.org/tools/cdt/builds/10.6/cdt-10.6.0-rc2
+CDT,2022-06,2022-06-13,sim,sim,,2022-06-08 18:08,qualificador,10.7 10.7.0,d7190182f,2022-06-08T14:03,-0.0,https://download.eclipse.org/tools/cdt/builds/10.7/cdt-10.7.0-rc2/
+CDT,2022-09,2022-09-12,sim,sim,,2022-08-22 21:20,qualificador,10.7 10.7.1,0610c366b,2022-09-09T20:18,18.1,https://download.eclipse.org/tools/cdt/releases/10.7/cdt-10.7.1/
+CDT,2022-12,2022-12-05,sim,sim,,2022-11-30 02:14,qualificador,11.0 11.0.0,9114ac3ff,2022-12-03T12:06,3.6,https://download.eclipse.org/tools/cdt/builds/11.0/cdt-11.0.0-rc2/
+CDT,2023-03,2023-03-29,sim,sim,,2023-03-06 16:54,qualificador,11.1 11.1.0,2c30db5fd,2023-03-20T13:34,14.0,https://download.eclipse.org/tools/cdt/releases/11.1/cdt-11.1.0/
+CDT,2023-06,2023-06-13,sim,sim,,2023-06-05 19:17,qualificador,11.2 11.2.0,d4c444eae,2023-06-12T15:50,6.8,https://download.eclipse.org/tools/cdt/releases/11.2/cdt-11.2.0/
+CDT,2023-09,2023-09-08,sim,sim,,2023-09-05 19:07,qualificador,11.3 11.3.0,69bd1cb4c,2023-09-08T12:07,2.9,https://download.eclipse.org/tools/cdt/builds/11.3/cdt-11.3.0-rc2/
+CDT,2023-12,2023-12-01,sim,sim,,2023-11-27 16:18,qualificador,11.4 11.4.0,029e4bda7,2023-11-27T11:08,-0.0,https://download.eclipse.org/tools/cdt/builds/11.4/cdt-11.4.0-rc2/
+CDT,2024-03,2024-03-08,sim,sim,,2024-03-04 16:27,qualificador,11.5 11.5.0,221d346f6,2024-03-07T14:17,3.1,https://download.eclipse.org/tools/cdt/builds/11.5/cdt-11.5.0-rc2
+CDT,2024-06,2024-06-10,sim,sim,,2024-06-04 15:55,qualificador,11.6 11.6.0 2.0 2.0.0,7fcfbb0f9,2024-06-05T13:19,1.1,https://download.eclipse.org/tools/cdt/builds/11.6/cdt-11.6.0-rc2/ | https://download.eclipse.org/tools/cdt/builds/cdt-lsp-2.0/cdt-lsp-2.0.0-rc2
+CDT,2024-09,2024-09-06,sim,sim,,2024-07-02 20:08,qualificador,11.6 11.6.1 2.0 2.0.0,9b09dce3a,2024-08-30T14:03,58.7,https://download.eclipse.org/tools/cdt/releases/11.6/cdt-11.6.1/ | https://download.eclipse.org/tools/cdt/releases/cdt-lsp-2.0/cdt-lsp-2.0.0/
+CDT,2024-12,2024-12-01,sim,sim,,2024-07-02 20:08,qualificador,11.6 11.6.1 2.0 2.0.0,9e9be4a5e,2024-11-27T10:29,147.8,https://download.eclipse.org/tools/cdt/releases/11.6/cdt-11.6.1/ | https://download.eclipse.org/tools/cdt/releases/cdt-lsp-2.0/cdt-lsp-2.0.0/
+CDT,2025-03,2025-03-06,sim,sim,,2025-02-26 14:28,qualificador,12.0 12.0.0 3.0 3.0.0,f96dd1a38,2025-03-04T11:44,6.1,https://download.eclipse.org/tools/cdt/builds/12.0/cdt-12.0.0-rc1/ | https://download.eclipse.org/tools/cdt/builds/cdt-lsp-3.0/cdt-lsp-3.0.0-rc1/
+CDT,2025-06,2025-06-05,sim,sim,,2025-06-05 01:45,qualificador,12.1 12.1.0 3.2 3.2.0,74e7b5042,2025-06-04T15:01,-0.3,https://download.eclipse.org/tools/cdt/builds/12.1/cdt-12.1.0-rc2/ | https://download.eclipse.org/tools/cdt/builds/cdt-lsp-3.2/cdt-lsp-3.2.0-rc2/
+CDT,2025-09,2025-09-05,sim,sim,,2025-09-03 00:41,qualificador,12.2 12.2.0 3.3 3.3.0,8786db3dd,2025-09-02T20:02,-0.0,https://download.eclipse.org/tools/cdt/builds/12.2/cdt-12.2.0-rc2/ | https://download.eclipse.org/tools/cdt/builds/cdt-lsp-3.3/cdt-lsp-3.3.0-rc2/
+CDT,2025-12,2025-12-07,sim,sim,,2025-12-02 19:19,qualificador,12.3 12.3.0 3.4 3.4.0,011e7d690,2025-12-01T21:04,-0.7,https://download.eclipse.org/tools/cdt/builds/12.3/cdt-12.3.0-rc2/ | https://download.eclipse.org/tools/cdt/builds/cdt-lsp-3.4/cdt-lsp-3.4.0-rc2/
+CDT,2026-03,2026-03-11,sim,sim,,2026-03-04 17:56,qualificador,12.4 12.4.0 3.5 3.5.0,390ff4407,2026-03-06T11:12,1.9,https://download.eclipse.org/tools/cdt/releases/12.4/cdt-12.4.0/ | https://download.eclipse.org/tools/cdt/releases/cdt-lsp-3.5/cdt-lsp-3.5.0/
+DataTools,JunoSR0,2012-08-03,sim,sim,,2012-01-16 15:12,qualificador,1.10,2146bd34c,2012-08-02T23:26,199.6,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.10
+DataTools,JunoSR1,2012-09-19,sim,sim,,2012-08-16 14:15,qualificador,1.10.1,e5a7fd4ab,2012-09-18T15:36,32.7,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.10.1
+DataTools,JunoSR2,2013-02-24,sim,sim,,2012-09-18 14:47,qualificador,1.10.2,51692f28b,2013-02-23T05:09,157.3,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.10.2
+DataTools,KeplerPostRC4,2013-06-13,sim,sim,,2013-02-21 10:47,qualificador,1.11.0,6a2681ca9,2013-06-04T18:40,103.0,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.11.0
+DataTools,KeplerSR0,2013-08-02,sim,sim,,2013-02-21 10:47,qualificador,1.11.0,e7d705c55,2013-08-02T05:06,161.4,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.11.0
+DataTools,KeplerSR1,2013-09-23,sim,sim,,2013-06-04 16:10,qualificador,1.11.1,f40254edd,2013-09-24T05:08,111.2,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.11.1
+DataTools,LunaSR0,2014-07-29,sim,sim,,2014-06-06 13:21,qualificador,1.12.0,9f2e351d1,2014-07-21T16:18,45.4,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.12.0
+DataTools,z20140805-2300,2014-07-29,sim,sim,,2014-06-06 13:21,qualificador,1.12.0,9f2e351d1,2014-07-21T16:18,45.4,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.12.0
+DataTools,z20140806,2014-07-29,sim,sim,,2014-06-06 13:21,qualificador,1.12.0,9f2e351d1,2014-07-21T16:18,45.4,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.12.0
+DataTools,LunaRC4,2014-09-17,sim,sim,,2014-06-06 13:21,qualificador,1.12.0,9f2e351d1,2014-07-21T16:18,45.4,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.12.0
+DataTools,LunaSR2,2015-03-02,sim,sim,,2014-06-06 13:21,qualificador,1.12.0,9f2e351d1,2014-07-21T16:18,45.4,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.12.0
+DataTools,S201504150911,2015-04-15,sim,sim,,2014-06-06 13:21,qualificador,1.12.0,9f2e351d1,2014-07-21T16:18,45.4,http://download.eclipse.org/datatools/downloads/drops/M_updates_1.12.0
+DataTools,Mars.1,2015-09-24,sim,sim,sim,2014-06-06 13:21,qualificador,,9f2e351d1,2014-07-21T16:18,45.4,http://download.eclipse.org/releases/mars/201509251000/
+DataTools,Neon,2016-06-13,sim,sim,,2016-03-14 20:02,qualificador,1.13 1.13.0,194715f02,2016-05-27T11:57,74.0,http://download.eclipse.org/datatools/updates/1.13/1.13.0.201603142002/repository
+DataTools,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,NAO,,,,,194715f02,2016-05-27T11:57,,
+DataTools,Neon.1,2016-09-14,sim,sim,,2016-03-14 20:02,qualificador,1.13 1.13.0,194715f02,2016-05-27T11:57,74.0,http://download.eclipse.org/datatools/updates/1.13/1.13.0.201603142002/repository
+DataTools,Neon.1a,2016-10-06,sim,sim,sim,2016-03-14 20:02,qualificador,,194715f02,2016-05-27T11:57,74.0,http://download.eclipse.org/releases/neon/201609281000/
+DataTools,Neon.2,2016-12-07,sim,sim,,2016-03-14 20:02,qualificador,1.13 1.13.0,194715f02,2016-05-27T11:57,74.0,http://download.eclipse.org/datatools/updates/1.13/1.13.0.201603142002/repository
+DataTools,Neon.3,2017-03-08,sim,sim,,2016-03-14 20:02,qualificador,1.13 1.13.0,7753eea14,2017-01-13T11:39,305.0,http://download.eclipse.org/datatools/updates/1.13/1.13.0.201603142002/repository
+DataTools,Neon.3_respin,2017-03-14,sim,sim,sim,2016-03-14 20:02,qualificador,,7753eea14,2017-01-13T11:39,305.0,http://download.eclipse.org/releases/neon/201703141400/
+DataTools,Oxygen,2017-06-14,sim,sim,,2017-01-13 14:41,qualificador,1.14.0,7753eea14,2017-01-13T11:39,0.2,http://download.eclipse.org/datatools/1.14.0.201701131441/repository
+DataTools,Oxygen.1,2017-09-13,sim,sim,,2017-01-13 14:41,qualificador,1.14.0,7753eea14,2017-01-13T11:39,0.2,http://download.eclipse.org/datatools/1.14.0.201701131441/repository
+DataTools,Oxygen.1a,2017-10-05,sim,sim,sim,2017-01-13 14:41,qualificador,,7753eea14,2017-01-13T11:39,0.2,http://download.eclipse.org/releases/oxygen/201709271000/
+DataTools,Oxygen.1a_respin,2017-10-09,sim,sim,sim,2017-01-13 14:41,qualificador,,7753eea14,2017-01-13T11:39,0.2,http://download.eclipse.org/releases/oxygen/201709271000/
+DataTools,Oxygen.2,2017-12-06,sim,sim,,2017-01-13 14:41,qualificador,1.14.0,7753eea14,2017-01-13T11:39,0.2,http://download.eclipse.org/datatools/1.14.0.201701131441/repository
+DataTools,Oxygen.2_respin,2017-12-15,sim,sim,,2017-12-07 17:19,qualificador,1.14.1,bddeea31a,2017-12-14T14:26,7.2,http://download.eclipse.org/datatools/1.14.1.201712071719/repository
+DataTools,Oxygen.3,2018-03-07,sim,sim,,2017-12-07 17:19,qualificador,1.14.1,3b5fb7fbc,2018-02-21T17:25,76.2,http://download.eclipse.org/datatools/1.14.1.201712071719/repository
+DataTools,PhotonM7,2018-05-17,sim,sim,,,,1.14.100,21692cc09,2018-05-04T17:40,,http://download.eclipse.org/datatools/updates/1.14.100-SNAPSHOT/repository/
+DataTools,PhotonRC4,2018-06-13,sim,sim,,2018-05-03 19:05,build id,1.14.100,21692cc09,2018-05-04T17:40,1.1,http://download.eclipse.org/datatools/updates/1.14.100.201805031905/repository/
+DataTools,Photon.0,2018-06-17,sim,sim,,2018-05-03 19:05,build id,1.14.100,21692cc09,2018-05-04T17:40,1.1,http://download.eclipse.org/datatools/updates/1.14.100.201805031905/repository/
+DataTools,2018-09,2018-09-12,sim,sim,,,,1.14.102,94b8f95c4,2018-09-10T15:06,,http://download.eclipse.org/datatools/updates/1.14.102/repository/
+DataTools,2018-12,2018-12-12,sim,sim,,,,1.14.103,209258c8e,2018-11-01T16:51,,http://download.eclipse.org/datatools/updates/1.14.103-SNAPSHOT/repository/
+DataTools,2019-03,2019-03-14,sim,sim,,,,1.14.104,0cdebb816,2019-01-09T16:31,,http://download.eclipse.org/datatools/updates/1.14.104-SNAPSHOT/repository/
+DataTools,2019-06,2019-06-13,sim,sim,,,,1.14.105,f27802e34,2019-05-11T22:17,,http://download.eclipse.org/datatools/updates/1.14.105-SNAPSHOT/repository/
+DataTools,2019-09,2019-09-16,sim,sim,,,,1.14.105,f27802e34,2019-05-11T22:17,,https://download.eclipse.org/datatools/updates/1.14.105-SNAPSHOT/repository/
+DataTools,2019-12,2019-12-11,sim,sim,,,,1.14.105,74cac893e,2019-11-25T09:48,,https://download.eclipse.org/datatools/updates/1.14.105-SNAPSHOT/repository/
+DataTools,2020-03,2020-03-12,sim,sim,,,,1.14.105,97973eec4,2020-01-24T18:32,,https://download.eclipse.org/datatools/updates/1.14.105-SNAPSHOT/repository/
+DataTools,2020-06,2020-06-10,sim,sim,,,,1.14.105,97973eec4,2020-01-24T18:32,,https://download.eclipse.org/datatools/updates/1.14.105-SNAPSHOT/repository/
+DataTools,2020-09,2020-09-09,sim,sim,,,,1.14.200,d12f82cd7,2020-08-19T16:17,,http://download.eclipse.org/datatools/updates/1.14.200-SNAPSHOT/repository/
+DataTools,2020-12,2020-12-09,sim,sim,,,,1.14.200,f46d1b9e7,2020-09-29T17:10,,http://download.eclipse.org/datatools/updates/1.14.200-SNAPSHOT/repository/
+DataTools,2021-03,2021-03-10,sim,sim,,,,1.14.200,c70f69f70,2021-03-06T19:14,,http://download.eclipse.org/datatools/updates/1.14.200-SNAPSHOT/repository/
+DataTools,2021-06,2021-06-12,sim,sim,,,,1.14.200,47e002ef0,2021-03-18T08:15,,http://download.eclipse.org/datatools/updates/1.14.200-SNAPSHOT/repository/
+DataTools,2021-09,2021-09-08,sim,sim,,,,1.14.200,35bf9ceb2,2021-07-09T09:55,,http://download.eclipse.org/datatools/updates/1.14.200-SNAPSHOT/repository/
+DataTools,2021-12,2021-12-02,sim,sim,,,,1.14.202,35bf9ceb2,2021-07-09T09:55,,https://download.eclipse.org/datatools/updates/1.14.202-SNAPSHOT/repository/
+DataTools,2022-03,2022-03-15,sim,sim,,,,1.14.300,4b901a82e,2022-01-14T15:43,,https://download.eclipse.org/datatools/updates/1.14.300-SNAPSHOT/repository/
+DataTools,2022-06,2022-06-13,sim,sim,,,,1.14.300,4b901a82e,2022-01-14T15:43,,https://download.eclipse.org/datatools/updates/1.14.300-SNAPSHOT/repository/
+DataTools,2022-09,2022-09-12,sim,sim,,,,1.14.300,4b901a82e,2022-01-14T15:43,,https://download.eclipse.org/datatools/updates/1.14.300-SNAPSHOT/repository/
+DataTools,2022-12,2022-12-05,sim,sim,,,,1.14.300,4b901a82e,2022-01-14T15:43,,https://download.eclipse.org/datatools/updates/1.14.300-SNAPSHOT/repository/
+DataTools,2023-03,2023-03-29,sim,sim,,,,1.14.300,4b901a82e,2022-01-14T15:43,,https://download.eclipse.org/datatools/updates/1.14.300-SNAPSHOT/repository/
+DataTools,2023-06,2023-06-13,sim,sim,,,,1.15.0,61f062f24,2023-05-31T18:22,,https://download.eclipse.org/datatools/updates/release/1.15.0
+DataTools,2023-09,2023-09-08,sim,sim,,,,1.15.0,db2cc047b,2023-06-15T09:42,,https://download.eclipse.org/datatools/updates/release/1.15.0
+DataTools,2023-12,2023-12-01,sim,sim,,,,1.16.0,22b1b9358,2023-11-08T11:54,,https://download.eclipse.org/datatools/updates/release/1.16.0
+DataTools,2024-03,2024-03-08,sim,sim,,,,1.16.1,1ab7405dd,2024-03-06T08:34,,https://download.eclipse.org/datatools/updates/release/1.16.1
+DataTools,2024-06,2024-06-10,sim,sim,,,,1.16.1,1ab7405dd,2024-03-06T08:34,,https://download.eclipse.org/datatools/updates/release/1.16.1
+DataTools,2024-09,2024-09-06,sim,sim,,,,1.16.1,683a0f347,2024-09-03T17:49,,https://download.eclipse.org/datatools/updates/release/1.16.1
+DataTools,2024-12,2024-12-01,sim,sim,,,,1.16.1,28fd4ded2,2024-11-28T17:04,,https://download.eclipse.org/datatools/updates/release/1.16.1
+DataTools,2025-03,2025-03-06,sim,sim,,,,1.16.3,daaa60f95,2025-03-04T08:43,,https://download.eclipse.org/datatools/updates/release/1.16.3
+DataTools,2025-06,2025-06-05,sim,sim,,,,1.16.3,97ce48d6e,2025-05-13T11:13,,https://download.eclipse.org/datatools/updates/release/1.16.3
+DataTools,2025-09,2025-09-05,sim,sim,,,,1.16.3,97ce48d6e,2025-05-13T11:13,,https://download.eclipse.org/datatools/updates/release/1.16.3
+DataTools,2025-12,2025-12-07,sim,sim,,,,1.16.3,7d5b38030,2025-09-20T13:03,,https://download.eclipse.org/datatools/updates/release/1.16.3
+DataTools,2026-03,2026-03-11,sim,sim,,,,1.16.3,7d5b38030,2025-09-20T13:03,,https://download.eclipse.org/datatools/updates/release/1.16.3
+EGit,JunoSR0,2012-08-03,sim,sim,,2012-06-13 09:00,qualificador,2.0,5d7d83838,2012-07-31T10:31,48.0,http://download.eclipse.org/egit/updates-2.0 | http://download.eclipse.org/egit/github/updates-2.0
+EGit,JunoSR1,2012-09-19,sim,sim,,2012-09-19 02:30,qualificador,2.1,94e5f7d91,2012-09-19T12:32,0.3,http://download.eclipse.org/egit/updates-2.1 | http://download.eclipse.org/egit/github/updates-2.1
+EGit,JunoSR2,2013-02-24,sim,sim,,2012-12-19 18:50,qualificador,2.2,b90f4642b,2013-02-24T01:02,66.2,http://download.eclipse.org/egit/updates-2.2 | http://download.eclipse.org/egit/github/updates-2.2
+EGit,KeplerPostRC4,2013-06-13,sim,sim,,2013-06-10 18:25,qualificador,3.0,e8497d977,2013-06-13T17:21,2.9,http://download.eclipse.org/egit/updates-3.0 | http://download.eclipse.org/egit/github/updates-3.0
+EGit,KeplerSR0,2013-08-02,sim,sim,,2013-06-10 18:25,qualificador,3.0,cb94e50dc,2013-07-29T09:43,48.6,http://download.eclipse.org/egit/updates-3.0 | http://download.eclipse.org/egit/github/updates-3.0
+EGit,KeplerSR1,2013-09-23,sim,sim,,2013-09-16 16:30,qualificador,3.0.3 3.0,36e3c26f1,2013-09-23T18:33,7.0,http://download.eclipse.org/egit/updates-3.0.3/ | http://download.eclipse.org/egit/github/updates-3.0
+EGit,LunaSR0,2014-07-29,sim,sim,,2014-06-11 09:18,qualificador,3.4,df446a839,2014-07-25T11:44,44.0,http://download.eclipse.org/egit/updates-3.4 | http://download.eclipse.org/egit/github/updates-3.4
+EGit,z20140805-2300,2014-07-29,sim,sim,,2014-06-11 09:18,qualificador,3.4,df446a839,2014-07-25T11:44,44.0,http://download.eclipse.org/egit/updates-3.4 | http://download.eclipse.org/egit/github/updates-3.4
+EGit,z20140806,2014-07-29,sim,sim,,2014-06-11 09:18,qualificador,3.4,df446a839,2014-07-25T11:44,44.0,http://download.eclipse.org/egit/updates-3.4 | http://download.eclipse.org/egit/github/updates-3.4
+EGit,LunaRC4,2014-09-17,sim,sim,,2014-06-20 18:15,qualificador,3.4.1 3.4,b4547c7a8,2014-09-17T00:36,88.2,http://download.eclipse.org/egit/updates-3.4.1 | http://download.eclipse.org/egit/github/updates-3.4
+EGit,LunaSR2,2015-03-02,sim,sim,,2014-12-18 03:40,qualificador,3.4.2,b5c313639,2015-03-01T23:08,73.8,http://download.eclipse.org/egit/updates-3.4.2 | http://download.eclipse.org/egit/github/updates-3.4.2
+EGit,S201504150911,2015-04-15,sim,sim,,2015-03-23 12:30,qualificador,4.0.0,02f9ebaa0,2015-03-31T20:27,8.2,http://download.eclipse.org/egit/staging/v4.0.0.201503231230-m1 | http://download.eclipse.org/egit/github/staging/v4.0.0.201503231230-m1
+EGit,Mars.1,2015-09-24,sim,sim,,2015-09-23 16:15,qualificador,4.0.3,4cc706a2f,2015-09-23T22:28,0.2,http://download.eclipse.org/egit/updates-4.0.3 | http://download.eclipse.org/egit/github/updates-4.0.3
+EGit,Neon,2016-06-13,sim,sim,,2016-06-07 08:30,qualificador,4.4,53d89e34a,2016-06-12T21:37,5.5,http://download.eclipse.org/egit/updates-4.4 | http://download.eclipse.org/egit/github/updates-4.4
+EGit,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,sim,,2016-07-15 04:55,qualificador,4.4.1,3640b68ca,2016-09-07T13:11,54.5,http://download.eclipse.org/egit/updates-4.4.1
+EGit,Neon.1,2016-09-14,sim,sim,,2016-07-15 04:55,qualificador,4.4.1 4.4,310f37ca0,2016-09-14T11:23,61.2,http://download.eclipse.org/egit/updates-4.4.1 | http://download.eclipse.org/egit/github/updates-4.4
+EGit,Neon.1a,2016-10-06,sim,sim,sim,2016-07-15 04:55,qualificador,,482a60fe7,2016-10-01T15:02,78.3,http://download.eclipse.org/releases/neon/201609281000/ | http://download.eclipse.org/releases/neon/201609281000/
+EGit,Neon.2,2016-12-07,sim,sim,,2016-07-15 04:55,qualificador,4.4.1 4.4,6cdb692cc,2016-12-06T14:05,144.3,http://download.eclipse.org/egit/updates-4.4.1 | http://download.eclipse.org/egit/github/updates-4.4
+EGit,Neon.3,2017-03-08,sim,sim,,2017-03-07 11:40,qualificador,4.6.1 4.6,2656dee5a,2017-03-08T10:58,0.9,http://download.eclipse.org/egit/updates-4.6.1 | http://download.eclipse.org/egit/github/updates-4.6
+EGit,Neon.3_respin,2017-03-14,sim,sim,sim,2017-03-07 11:40,qualificador,,28840afe9,2017-03-12T10:11,4.9,http://download.eclipse.org/releases/neon/201703141400/ | http://download.eclipse.org/releases/neon/201703141400/
+EGit,Oxygen,2017-06-14,sim,sim,,2017-06-11 10:38,qualificador,4.8,3d93ae108,2017-06-14T10:04,3.1,http://download.eclipse.org/egit/updates-4.8 | http://download.eclipse.org/egit/github/updates-4.8
+EGit,Oxygen.1,2017-09-13,sim,sim,,2017-06-11 10:38,qualificador,4.8,65c68b362,2017-09-11T08:25,91.8,http://download.eclipse.org/egit/updates-4.8 | http://download.eclipse.org/egit/github/updates-4.8
+EGit,Oxygen.1a,2017-10-05,sim,sim,sim,2017-06-11 10:38,qualificador,,2c1c15574,2017-10-01T01:04,111.5,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+EGit,Oxygen.1a_respin,2017-10-09,sim,sim,sim,2017-06-11 10:38,qualificador,,103c682e0,2017-10-08T11:44,119.0,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+EGit,Oxygen.2,2017-12-06,sim,sim,,2017-12-03 08:00,qualificador,4.9.1 4.9,eb33e5044,2017-12-05T16:43,2.3,http://download.eclipse.org/egit/updates-4.9.1 | http://download.eclipse.org/egit/github/updates-4.9
+EGit,Oxygen.2_respin,2017-12-15,sim,sim,,2017-12-15 09:30,qualificador,4.9.2 4.9,03cda1652,2017-12-15T15:47,0.2,http://download.eclipse.org/egit/updates-4.9.2 | http://download.eclipse.org/egit/github/updates-4.9
+EGit,Oxygen.3,2018-03-07,sim,sim,,2017-12-15 09:30,qualificador,4.9.2 4.9,9c86e408b,2018-03-04T10:53,79.3,http://download.eclipse.org/egit/updates-4.9.2 | http://download.eclipse.org/egit/github/updates-4.9
+EGit,PhotonM7,2018-05-17,sim,sim,,2018-05-15 19:20,qualificador,5.0.0,6f7be67e4,2018-05-17T00:37,1.1,http://download.eclipse.org/egit/staging/v5.0.0.201805151920-m7 | http://download.eclipse.org/egit/github/staging/v5.0.0.201805151920-m7
+EGit,PhotonRC4,2018-06-13,sim,sim,,2018-06-13 15:50,qualificador,5.0,ba0bcbfe6,2018-06-13T22:05,0.2,http://download.eclipse.org/egit/updates-5.0 | http://download.eclipse.org/egit/github/updates-5.0
+EGit,Photon.0,2018-06-17,sim,sim,,2018-06-13 15:50,qualificador,5.0,935ac8cde,2018-06-17T01:11,3.3,http://download.eclipse.org/egit/updates-5.0 | http://download.eclipse.org/egit/github/updates-5.0
+EGit,2018-09,2018-09-12,sim,sim,,2018-09-11 15:28,qualificador,5.1,b3b288586,2018-09-12T23:56,1.3,http://download.eclipse.org/egit/updates-5.1 | http://download.eclipse.org/egit/github/updates-5.1
+EGit,2018-12,2018-12-12,sim,sim,,2018-12-06 18:21,qualificador,5.2,972c2bc02,2018-12-11T03:35,4.6,http://download.eclipse.org/egit/updates-5.2 | http://download.eclipse.org/egit/github/updates-5.2
+EGit,2019-03,2019-03-14,sim,sim,,2019-03-13 08:48,qualificador,5.3,50510c63e,2019-03-14T09:58,1.0,http://download.eclipse.org/egit/updates-5.3 | http://download.eclipse.org/egit/github/updates-5.3
+EGit,2019-06,2019-06-13,sim,sim,,2019-06-12 10:30,qualificador,5.4,92ac012b2,2019-06-13T03:04,0.6,http://download.eclipse.org/egit/updates-5.4 | http://download.eclipse.org/egit/github/updates-5.4
+EGit,2019-09,2019-09-16,sim,sim,,2019-09-11 04:33,qualificador,5.5,a5c18a183,2019-09-16T01:55,5.1,https://download.eclipse.org/egit/updates-5.5 | https://download.eclipse.org/egit/github/updates-5.5
+EGit,2019-12,2019-12-11,sim,sim,,2019-12-10 11:11,qualificador,5.6,d40a44ea6,2019-12-11T14:47,1.1,https://download.eclipse.org/egit/updates-5.6 | https://download.eclipse.org/egit/github/updates-5.6
+EGit,2020-03,2020-03-12,sim,sim,,2020-03-11 07:25,qualificador,5.7.0,09d6a9621,2020-03-11T21:56,0.6,https://repo.eclipse.org/content/unzip/releases.unzip/org/eclipse/egit/org.eclipse.egit.repository/5.7.0.202003110725-r/org.eclipse.egit.repository-5.7.0.202003110725-r.zip-unzip/ | https://repo.eclipse.org/content/unzip/releases.unzip/org/eclipse/mylyn/github/github-updatesite/5.7.0.202003110725-r/
+EGit,2020-06,2020-06-10,sim,sim,,2020-06-09 10:08,qualificador,5.8,9592984bf,2020-06-09T21:54,0.4,https://download.eclipse.org/egit/updates-5.8 | https://download.eclipse.org/egit/github/updates-5.8
+EGit,2020-09,2020-09-09,sim,sim,,2020-09-08 05:01,qualificador,5.9,a19047cf6,2020-09-09T00:58,0.7,https://download.eclipse.org/egit/updates-5.9 | https://download.eclipse.org/egit/github/updates-5.9
+EGit,2020-12,2020-12-09,sim,sim,,2020-12-08 09:55,qualificador,5.10,bfa933c9a,2020-12-08T21:59,0.5,https://download.eclipse.org/egit/updates-5.10 | https://download.eclipse.org/egit/github/updates-5.10
+EGit,2021-03,2021-03-10,sim,sim,,2021-03-09 16:10,qualificador,5.11,7d99a7b44,2021-03-10T16:25,1.0,https://download.eclipse.org/egit/updates-5.11 | https://download.eclipse.org/egit/github/updates-5.11
+EGit,2021-06,2021-06-12,sim,sim,,2021-06-07 03:39,qualificador,5.12,9b065cc53,2021-06-07T15:28,0.4,https://download.eclipse.org/egit/updates-5.12 | https://download.eclipse.org/egit/github/updates-5.12
+EGit,2021-09,2021-09-08,sim,sim,,2021-09-08 08:27,qualificador,5.13,817d5e67d,2021-09-08T20:30,0.4,https://download.eclipse.org/egit/updates-5.13 | https://download.eclipse.org/egit/github/updates-5.13
+EGit,2021-12,2021-12-02,sim,sim,,2021-11-29 10:00,qualificador,6.0,f86740c9c,2021-12-01T00:05,1.5,https://download.eclipse.org/egit/updates-6.0 | https://download.eclipse.org/egit/github/updates-6.0
+EGit,2022-03,2022-03-15,sim,sim,,2022-03-08 07:45,qualificador,6.1,e643798f9,2022-03-14T22:39,6.6,https://download.eclipse.org/egit/updates-6.1 | https://download.eclipse.org/egit/github/updates-6.1
+EGit,2022-06,2022-06-13,sim,sim,,2022-06-07 15:50,qualificador,6.2,de4799446,2022-06-08T08:57,0.6,https://download.eclipse.org/egit/updates-6.2
+EGit,2022-09,2022-09-12,sim,sim,,2022-09-07 10:07,qualificador,6.3,06b348970,2022-09-12T11:28,5.0,https://download.eclipse.org/egit/updates-6.3
+EGit,2022-12,2022-12-05,sim,sim,,2022-11-30 05:38,qualificador,6.4,84d650231,2022-11-30T23:59,0.7,https://download.eclipse.org/egit/updates-6.4
+EGit,2023-03,2023-03-29,sim,sim,,2023-03-07 08:54,qualificador,6.5,0553e5967,2023-03-29T09:09,21.9,https://download.eclipse.org/egit/updates-6.5
+EGit,2023-06,2023-06-13,sim,sim,,2023-05-30 10:15,qualificador,6.6,226ab5ce9,2023-06-09T16:19,10.2,https://download.eclipse.org/egit/updates-6.6
+EGit,2023-09,2023-09-08,sim,sim,,2023-09-05 08:40,qualificador,6.7,3b7ebdd2a,2023-09-07T02:32,1.7,https://download.eclipse.org/egit/updates-6.7
+EGit,2023-12,2023-12-01,sim,sim,,2023-11-29 14:50,qualificador,6.8,91a6ddc55,2023-11-29T17:37,0.1,https://download.eclipse.org/egit/updates-6.8
+EGit,2024-03,2024-03-08,sim,sim,,2024-03-05 07:37,qualificador,6.9,856a0dc37,2024-03-07T22:51,2.6,https://download.eclipse.org/egit/updates-6.9
+EGit,2024-06,2024-06-10,sim,sim,,2024-06-03 22:30,qualificador,6.10,c8fe20b14,2024-06-04T16:10,0.7,https://download.eclipse.org/egit/updates-6.10
+EGit,2024-09,2024-09-06,sim,sim,,2024-09-03 17:43,qualificador,7.0,5172b30ea,2024-09-04T22:29,1.1,https://download.eclipse.org/egit/updates-7.0
+EGit,2024-12,2024-12-01,sim,sim,,2024-11-26 13:47,qualificador,7.1,7557af197,2024-11-27T13:26,0.9,https://download.eclipse.org/egit/updates-7.1
+EGit,2025-03,2025-03-06,sim,sim,,2025-03-04 09:40,qualificador,7.2,021bcbb6b,2025-03-04T16:01,0.2,https://download.eclipse.org/egit/updates-7.2
+EGit,2025-06,2025-06-05,sim,sim,,2025-06-03 13:05,qualificador,7.3,4bdb744d8,2025-06-03T22:46,0.3,https://download.eclipse.org/egit/updates-7.3
+EGit,2025-09,2025-09-05,sim,sim,,2025-09-02 09:13,qualificador,7.4,6aef951ff,2025-09-03T23:44,1.5,https://download.eclipse.org/egit/updates-7.4
+EGit,2025-12,2025-12-07,sim,sim,,2025-12-02 15:34,qualificador,7.5,2e3882360,2025-12-04T09:35,1.8,https://download.eclipse.org/egit/updates-7.5
+EGit,2026-03,2026-03-11,sim,sim,,2026-03-02 22:53,qualificador,7.6,ebee8dbd5,2026-03-08T20:39,5.9,https://download.eclipse.org/egit/updates-7.6
+EMF,JunoSR0,2012-08-03,sim,sim,,2012-06-12 09:50,qualificador,2.8,b419d880e,2012-07-18T18:50,36.3,http://download.eclipse.org/modeling/emf/emf/updates/2.8milestones
+EMF,JunoSR1,2012-09-19,sim,sim,,2012-09-17 07:41,qualificador,2.8,d28fca749,2012-09-19T09:43,2.0,http://download.eclipse.org/modeling/emf/emf/updates/2.8.x/
+EMF,JunoSR2,2013-02-24,sim,sim,,2013-02-12 07:19,qualificador,2.8,3cf478a55,2013-02-14T16:02,2.3,http://download.eclipse.org/modeling/emf/emf/updates/2.8.x/
+EMF,KeplerPostRC4,2013-06-13,sim,sim,,2013-06-12 08:09,qualificador,2.9,016459541,2013-06-12T07:00,-0.1,http://download.eclipse.org/modeling/emf/emf/updates/2.9milestones/
+EMF,KeplerSR0,2013-08-02,sim,sim,,2013-06-12 08:09,qualificador,2.9,a7fcd004b,2013-07-31T16:37,49.3,http://download.eclipse.org/modeling/emf/emf/updates/2.9milestones/
+EMF,KeplerSR1,2013-09-23,sim,sim,,2013-09-03 09:48,qualificador,2.9,dc8397aad,2013-09-11T16:40,8.2,http://download.eclipse.org/modeling/emf/emf/updates/2.9.x/
+EMF,LunaSR0,2014-07-29,sim,sim,,2014-05-21 04:02,qualificador,,a9f380d91,2014-07-29T09:53,69.2,http://download.eclipse.org/modeling/emf/emf/updates/milestones/
+EMF,z20140805-2300,2014-07-29,sim,sim,,2014-05-21 04:02,qualificador,,a9f380d91,2014-07-29T09:53,69.2,http://download.eclipse.org/modeling/emf/emf/updates/milestones/
+EMF,z20140806,2014-07-29,sim,sim,,2014-05-21 04:02,qualificador,,a9f380d91,2014-07-29T09:53,69.2,http://download.eclipse.org/modeling/emf/emf/updates/milestones/
+EMF,LunaRC4,2014-09-17,sim,sim,,2014-09-09 08:08,qualificador,2.10,4bee6867e,2014-09-08T16:48,-0.7,http://download.eclipse.org/modeling/emf/emf/updates/2.10.x/
+EMF,LunaSR2,2015-03-02,sim,sim,,2015-02-02 04:52,qualificador,2.10,5ea9a54f2,2015-02-25T11:52,23.3,http://download.eclipse.org/modeling/emf/emf/updates/2.10.x/
+EMF,S201504150911,2015-04-15,sim,sim,,2015-03-24 08:11,qualificador,2.11,b4cba4155,2015-04-13T16:42,20.3,http://download.eclipse.org/modeling/emf/emf/updates/2.11milestones/
+EMF,Mars.1,2015-09-24,sim,sim,sim,2015-08-06 05:46,qualificador,,96f14a9fa,2015-08-29T09:27,23.1,http://download.eclipse.org/releases/mars/201509251000/
+EMF,Neon,2016-06-13,sim,sim,,2016-05-26 06:06,qualificador,2.12,a975209e5,2016-05-26T12:01,0.2,http://download.eclipse.org/modeling/emf/emf/updates/2.12/
+EMF,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,sim,,2016-05-26 06:06,qualificador,2.12,924503be7,2016-09-05T12:34,102.2,http://download.eclipse.org/modeling/emf/emf/updates/2.12/
+EMF,Neon.1,2016-09-14,sim,sim,,2016-05-26 06:06,qualificador,2.12,924503be7,2016-09-05T12:34,102.2,http://download.eclipse.org/modeling/emf/emf/updates/2.12/
+EMF,Neon.1a,2016-10-06,sim,sim,sim,2016-05-26 06:06,qualificador,,d70a386f8,2016-09-19T13:04,116.2,http://download.eclipse.org/releases/neon/201609281000/
+EMF,Neon.2,2016-12-07,sim,sim,,2016-05-26 06:06,qualificador,2.12,bbe91169d,2016-11-14T17:17,172.4,http://download.eclipse.org/modeling/emf/emf/updates/2.12/
+EMF,Neon.3,2017-03-08,sim,sim,,2016-05-26 06:06,qualificador,2.12,4c10121b9,2017-03-08T11:30,286.2,http://download.eclipse.org/modeling/emf/emf/updates/2.12/
+EMF,Neon.3_respin,2017-03-14,sim,sim,sim,2016-05-26 06:06,qualificador,,ca68a0fcf,2017-03-13T10:36,291.1,http://download.eclipse.org/releases/neon/201703141400/
+EMF,Oxygen,2017-06-14,sim,sim,,2017-06-13 02:42,qualificador,2.13,39e89bbc4,2017-06-09T14:49,-3.6,http://download.eclipse.org/modeling/emf/emf/updates/2.13/
+EMF,Oxygen.1,2017-09-13,sim,sim,,2017-06-13 02:42,qualificador,2.13,07251512f,2017-09-12T12:30,91.3,http://download.eclipse.org/modeling/emf/emf/updates/2.13/
+EMF,Oxygen.1a,2017-10-05,sim,sim,sim,2017-06-13 02:42,qualificador,,204aa0826,2017-09-26T08:59,105.2,http://download.eclipse.org/releases/oxygen/201709271000/
+EMF,Oxygen.1a_respin,2017-10-09,sim,sim,sim,2017-06-13 02:42,qualificador,,204aa0826,2017-09-26T08:59,105.2,http://download.eclipse.org/releases/oxygen/201709271000/
+EMF,Oxygen.2,2017-12-06,sim,sim,,2017-06-13 02:42,qualificador,2.13,2890563fc,2017-11-28T14:12,168.4,http://download.eclipse.org/modeling/emf/emf/updates/2.13/
+EMF,Oxygen.2_respin,2017-12-15,sim,sim,,2017-06-13 02:42,qualificador,2.13,d589b6f02,2017-12-14T14:39,184.5,http://download.eclipse.org/modeling/emf/emf/updates/2.13/
+EMF,Oxygen.3,2018-03-07,sim,sim,,2017-06-13 02:42,qualificador,2.13,6bbcf3a9e,2018-02-13T10:45,245.3,http://download.eclipse.org/modeling/emf/emf/updates/2.13/
+EMF,PhotonM7,2018-05-17,sim,sim,,2018-05-04 10:39,build id,,53e094c68,2018-04-21T13:51,-12.9,http://download.eclipse.org/modeling/emf/emf/builds/milestone/S201805041039
+EMF,PhotonRC4,2018-06-13,sim,sim,,2018-05-31 07:18,build id,,431993270,2018-05-29T13:57,-1.8,http://download.eclipse.org/modeling/emf/emf/builds/milestone/S201805310718
+EMF,Photon.0,2018-06-17,sim,sim,,2018-05-31 07:18,build id,,431993270,2018-05-29T13:57,-1.8,http://download.eclipse.org/modeling/emf/emf/builds/milestone/S201805310718
+EMF,2018-09,2018-09-12,sim,sim,,,,2.15,c6d5b3bf2,2018-09-05T19:32,,http://download.eclipse.org/modeling/emf/emf/builds/release/2.15
+EMF,2018-12,2018-12-12,sim,sim,,2018-12-06 06:06,build id,,2c70efcd8,2018-12-06T11:55,0.2,http://download.eclipse.org/modeling/emf/emf/builds/milestone/S201812060606
+EMF,2019-03,2019-03-14,sim,sim,,,,2.17,77d979cf8,2019-03-12T10:29,,http://download.eclipse.org/modeling/emf/emf/builds/release/2.17
+EMF,2019-06,2019-06-13,sim,sim,,,,2.18,063937d66,2019-05-28T10:45,,http://download.eclipse.org/modeling/emf/emf/builds/release/2.18
+EMF,2019-09,2019-09-16,sim,sim,,,,2.19,0ce137a34,2019-09-12T10:56,,http://download.eclipse.org/modeling/emf/emf/builds/release/2.19
+EMF,2019-12,2019-12-11,sim,sim,,,,2.20,a55d3a346,2019-12-04T10:05,,http://download.eclipse.org/modeling/emf/emf/builds/release/2.20
+EMF,2020-03,2020-03-12,sim,sim,,,,2.21,fb0eeb635,2020-03-02T11:06,,http://download.eclipse.org/modeling/emf/emf/builds/release/2.21
+EMF,2020-06,2020-06-10,sim,sim,,,,2.22,7c53c3835,2020-05-19T13:35,,http://download.eclipse.org/modeling/emf/emf/builds/release/2.22
+EMF,2020-09,2020-09-09,sim,sim,,,,2.23,fb27b2600,2020-08-22T10:01,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.23
+EMF,2020-12,2020-12-09,sim,sim,,,,2.24,5a81b9548,2020-11-05T08:16,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.24
+EMF,2021-03,2021-03-10,sim,sim,,,,2.25,ddba8b9fe,2021-01-25T06:53,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.25
+EMF,2021-06,2021-06-12,sim,sim,,,,2.26,68599263e,2021-05-06T16:25,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.26
+EMF,2021-09,2021-09-08,sim,sim,,,,2.27,9cf8896bd,2021-08-29T09:47,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.27
+EMF,2021-12,2021-12-02,sim,sim,,,,2.28,da0132507,2021-11-10T07:54,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.28
+EMF,2022-03,2022-03-15,sim,sim,,,,2.29,65965abc8,2022-03-13T10:55,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.29
+EMF,2022-06,2022-06-13,sim,sim,,,,2.30,dca85f95e,2022-06-10T07:13,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.30
+EMF,2022-09,2022-09-12,sim,sim,,,,2.31,93724a2db,2022-09-11T10:23,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.31
+EMF,2022-12,2022-12-05,sim,sim,,,,2.32,ca4d09588,2022-11-21T17:31,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.32
+EMF,2023-03,2023-03-29,sim,sim,,,,2.33.0,823d27818,2023-03-26T11:24,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.33.0
+EMF,2023-06,2023-06-13,sim,sim,,,,2.34.0,f78051b00,2023-06-01T10:11,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.34.0
+EMF,2023-09,2023-09-08,sim,sim,,,,2.35.0,a3abc1454,2023-08-29T11:34,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.35.0
+EMF,2023-12,2023-12-01,sim,sim,,,,2.36.0,3a2840e17,2023-11-29T16:02,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.36.0
+EMF,2024-03,2024-03-08,sim,sim,,,,2.37.0,2b463bfaf,2024-02-27T14:51,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.37.0
+EMF,2024-06,2024-06-10,sim,sim,,,,2.38.0,932bf6219,2024-06-04T10:32,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.38.0
+EMF,2024-09,2024-09-06,sim,sim,,,,2.39.0,9f0715b47,2024-08-26T16:48,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.39.0
+EMF,2024-12,2024-12-01,sim,sim,,,,2.40.0,8f9afd065,2024-11-14T16:31,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.40.0
+EMF,2025-03,2025-03-06,sim,sim,,,,2.41.0,95e42962d,2025-02-19T08:12,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.41.0
+EMF,2025-06,2025-06-05,sim,sim,,,,2.42.0,1d0db25a6,2025-05-26T11:56,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.42.0
+EMF,2025-09,2025-09-05,sim,sim,,,,2.43.0,80322e97b,2025-08-25T14:55,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.43.0
+EMF,2025-12,2025-12-07,sim,sim,,,,2.44.0,3f72ec7a8,2025-11-06T15:54,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.44.0
+EMF,2026-03,2026-03-11,sim,sim,,,,2.45.0,47ea84d7f,2026-01-27T07:58,,https://download.eclipse.org/modeling/emf/emf/builds/release/2.45.0
+EclipseLink,JunoSR0,2012-08-03,sim,sim,,2012-06-13 00:00,qualificador,2.4.0,55269ac7b,2012-08-03T18:26,51.9,http://download.eclipse.org/rt/eclipselink/updates/2.4.0.v20120608-r11652
+EclipseLink,JunoSR1,2012-09-19,sim,sim,,2012-06-13 00:00,qualificador,2.4.0,c5aa40a6b,2012-09-19T15:39,98.8,http://download.eclipse.org/rt/eclipselink/updates/2.4.0.v20120608-r11652
+EclipseLink,JunoSR2,2013-02-24,sim,sim,,2012-10-03 00:00,qualificador,2.4.1,994a46b02,2013-02-22T16:19,142.9,http://download.eclipse.org/rt/eclipselink/updates/2.4.1.v20121003-ad44345
+EclipseLink,KeplerPostRC4,2013-06-13,sim,sim,,2013-05-07 00:00,qualificador,2.5.0,feffef32c,2013-06-13T12:45,37.7,http://download.eclipse.org/rt/eclipselink/updates/2.5.0.v20130507-3faac2b
+EclipseLink,KeplerSR0,2013-08-02,sim,sim,,2013-05-07 00:00,qualificador,2.5.0,d50aac08e,2013-08-01T13:35,86.7,http://download.eclipse.org/rt/eclipselink/updates/2.5.0.v20130507-3faac2b
+EclipseLink,KeplerSR1,2013-09-23,sim,sim,,2013-09-13 00:00,qualificador,2.5.1,685282179,2013-09-21T16:06,8.8,http://download.eclipse.org/rt/eclipselink/milestone-updates/2.5.1.v20130913-5eaeb06_RC2
+EclipseLink,LunaSR0,2014-07-29,sim,sim,,2013-08-15 00:00,qualificador,2.6.0,f367378dd,2014-07-28T16:07,347.6,http://download.eclipse.org/rt/eclipselink/milestone-updates/2.6.0.v20130815-a4708b6_M2
+EclipseLink,z20140805-2300,2014-07-29,sim,sim,,2013-08-15 00:00,qualificador,2.6.0,f367378dd,2014-07-28T16:07,347.6,http://download.eclipse.org/rt/eclipselink/milestone-updates/2.6.0.v20130815-a4708b6_M2
+EclipseLink,z20140806,2014-07-29,sim,sim,,2013-08-15 00:00,qualificador,2.6.0,f367378dd,2014-07-28T16:07,347.6,http://download.eclipse.org/rt/eclipselink/milestone-updates/2.6.0.v20130815-a4708b6_M2
+EclipseLink,LunaRC4,2014-09-17,NAO,NAO,,,,,63b34fd1d,2014-09-16T18:50,,
+EclipseLink,LunaSR2,2015-03-02,NAO,NAO,,,,,39ce7fb08,2015-02-27T17:28,,
+EclipseLink,S201504150911,2015-04-15,NAO,NAO,,,,,343c2cebe,2015-04-15T15:23,,
+EclipseLink,Mars.1,2015-09-24,NAO,NAO,,,,,09fadf68f,2015-09-19T22:02,,
+EclipseLink,Neon,2016-06-13,NAO,NAO,,,,,06715d3e3,2016-06-13T16:54,,
+EclipseLink,OxygenPreRienaRemoval_9-8-2016,2016-09-07,NAO,NAO,,,,,bd0b348ec,2016-09-07T11:50,,
+EclipseLink,Neon.1,2016-09-14,NAO,NAO,,,,,86621f895,2016-09-13T12:34,,
+EclipseLink,Neon.1a,2016-10-06,NAO,NAO,,,,,0da74c793,2016-10-05T17:14,,
+EclipseLink,Neon.2,2016-12-07,NAO,NAO,,,,,a60e644a0,2016-12-06T12:59,,
+EclipseLink,Neon.3,2017-03-08,NAO,NAO,,,,,14e8bee6e,2017-02-28T10:11,,
+EclipseLink,Neon.3_respin,2017-03-14,NAO,NAO,,,,,579f3bfaf,2017-03-13T16:59,,
+EclipseLink,Oxygen,2017-06-14,NAO,NAO,,,,,1dfaa0142,2017-06-14T13:44,,
+EclipseLink,Oxygen.1,2017-09-13,NAO,NAO,,,,,21cd36e27,2017-09-11T10:25,,
+EclipseLink,Oxygen.1a,2017-10-05,NAO,NAO,,,,,c67026642,2017-10-02T10:35,,
+EclipseLink,Oxygen.1a_respin,2017-10-09,NAO,NAO,,,,,78002f869,2017-10-09T14:21,,
+EclipseLink,Oxygen.2,2017-12-06,NAO,NAO,,,,,db3825e14,2017-12-06T11:37,,
+EclipseLink,Oxygen.2_respin,2017-12-15,NAO,NAO,,,,,686d3ccbb,2017-12-15T15:59,,
+EclipseLink,Oxygen.3,2018-03-07,NAO,NAO,,,,,5dbf91716,2018-03-06T23:49,,
+EclipseLink,PhotonM7,2018-05-17,NAO,NAO,,,,,3f86d94f9,2018-05-16T13:41,,
+EclipseLink,PhotonRC4,2018-06-13,NAO,NAO,,,,,f00e5383e,2018-06-13T18:24,,
+EclipseLink,Photon.0,2018-06-17,NAO,NAO,,,,,873cacb43,2018-06-14T18:44,,
+EclipseLink,2018-09,2018-09-12,NAO,NAO,,,,,3e83f76f7,2018-09-07T10:23,,
+EclipseLink,2018-12,2018-12-12,NAO,NAO,,,,,a2edcb35d,2018-12-03T23:10,,
+EclipseLink,2019-03,2019-03-14,NAO,NAO,,,,,266203334,2019-03-14T11:37,,
+EclipseLink,2019-06,2019-06-13,NAO,NAO,,,,,7cbc0ad79,2019-06-12T23:46,,
+EclipseLink,2019-09,2019-09-16,NAO,NAO,,,,,2362273e1,2019-09-11T15:20,,
+EclipseLink,2019-12,2019-12-11,NAO,NAO,,,,,a5b5fb08e,2019-12-09T16:22,,
+EclipseLink,2020-03,2020-03-12,NAO,NAO,,,,,0c6f99de6,2020-03-11T13:52,,
+EclipseLink,2020-06,2020-06-10,NAO,NAO,,,,,17b012387,2020-06-10T16:41,,
+EclipseLink,2020-09,2020-09-09,NAO,NAO,,,,,eb84e6b24,2020-09-09T15:15,,
+EclipseLink,2020-12,2020-12-09,NAO,NAO,,,,,b18124021,2020-12-08T15:31,,
+EclipseLink,2021-03,2021-03-10,NAO,NAO,,,,,c3dd2b744,2021-03-08T13:49,,
+EclipseLink,2021-06,2021-06-12,NAO,NAO,,,,,e9ddf971d,AUSENTE,,
+EclipseLink,2021-09,2021-09-08,NAO,NAO,,,,,f54d43e23,2021-09-08T10:02,,
+EclipseLink,2021-12,2021-12-02,NAO,NAO,,,,,de5635793,2021-11-30T12:26,,
+EclipseLink,2022-03,2022-03-15,NAO,NAO,,,,,94fe194b7,2022-03-14T09:21,,
+EclipseLink,2022-06,2022-06-13,NAO,NAO,,,,,e546902cc,2022-06-13T09:23,,
+EclipseLink,2022-09,2022-09-12,NAO,NAO,,,,,5fc36efa7,2022-09-09T11:29,,
+EclipseLink,2022-12,2022-12-05,NAO,NAO,,,,,099442d04,2022-11-30T14:39,,
+EclipseLink,2023-03,2023-03-29,NAO,NAO,,,,,8ac193557,2023-03-21T11:16,,
+EclipseLink,2023-06,2023-06-13,NAO,NAO,,,,,96c4af71c,2023-06-12T15:54,,
+EclipseLink,2023-09,2023-09-08,NAO,NAO,,,,,da743972b,2023-09-07T14:21,,
+EclipseLink,2023-12,2023-12-01,NAO,NAO,,,,,149e9ce03,2023-12-01T12:42,,
+EclipseLink,2024-03,2024-03-08,NAO,NAO,,,,,37f7ad86a,2024-03-06T13:16,,
+EclipseLink,2024-06,2024-06-10,NAO,NAO,,,,,b09fbb71a,2024-06-10T08:38,,
+EclipseLink,2024-09,2024-09-06,NAO,NAO,,,,,ea091f7b9,2024-09-05T09:17,,
+EclipseLink,2024-12,2024-12-01,NAO,NAO,,,,,2db479829,2024-11-27T09:18,,
+EclipseLink,2025-03,2025-03-06,NAO,NAO,,,,,a590a7a15,2025-03-05T15:15,,
+EclipseLink,2025-06,2025-06-05,NAO,NAO,,,,,dd435a389,2025-06-03T09:45,,
+EclipseLink,2025-09,2025-09-05,NAO,NAO,,,,,2affbc9ec,2025-09-04T14:15,,
+EclipseLink,2025-12,2025-12-07,NAO,NAO,,,,,cefae0ee3,2025-12-04T18:08,,
+EclipseLink,2026-03,2026-03-11,NAO,NAO,,,,,d0c79f85a,2026-03-10T09:41,,
+GEF,JunoSR0,2012-08-03,sim,sim,,2012-06-11 21:18,qualificador,,bf45e8fe5,2012-07-27T01:03,45.1,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,JunoSR1,2012-09-19,sim,sim,,2012-08-20 02:05,qualificador,,d71e13b49,2012-08-27T23:39,7.8,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,JunoSR2,2013-02-24,sim,sim,,2013-01-14 18:34,qualificador,,dbf4cefdf,2013-02-06T22:56,23.1,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,KeplerPostRC4,2013-06-13,sim,sim,,2013-05-06 02:05,qualificador,,22becd5e1,2013-06-04T08:29,29.2,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,KeplerSR0,2013-08-02,sim,sim,,2013-05-06 02:05,qualificador,,1878be82d,2013-06-29T10:52,54.3,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,KeplerSR1,2013-09-23,sim,sim,,2013-08-19 07:30,qualificador,,9ade08e34,2013-09-18T12:49,30.1,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,LunaSR0,2014-07-29,sim,sim,,2014-05-26 15:16,qualificador,,8cab855e3,2014-07-12T12:55,46.8,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,z20140805-2300,2014-07-29,sim,sim,,2014-05-26 15:16,qualificador,,8cab855e3,2014-07-12T12:55,46.8,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,z20140806,2014-07-29,sim,sim,,2014-05-26 15:16,qualificador,,8cab855e3,2014-07-12T12:55,46.8,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,LunaRC4,2014-09-17,sim,sim,,2014-08-15 02:07,qualificador,,5f5feab35,2014-09-10T22:24,26.8,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,LunaSR2,2015-03-02,sim,sim,,2014-08-15 02:07,qualificador,,89ebb3b9f,2015-02-01T16:25,170.6,http://download.eclipse.org/tools/gef/updates/milestones
+GEF,S201504150911,2015-04-15,sim,sim,,2015-03-23 02:04,qualificador,,13f2aaae7,2015-03-29T09:20,6.2,http://download.eclipse.org/tools/gef/updates/milestones | http://download.eclipse.org/tools/gef/gef4/updates/milestones
+GEF,Mars.1,2015-09-24,sim,sim,sim,2015-08-17 02:04,qualificador,,f95f50aa2,2015-09-21T13:07,35.4,http://download.eclipse.org/releases/mars/201509251000/ | http://download.eclipse.org/releases/mars/201509251000/
+GEF,Neon,2016-06-13,sim,sim,,2016-06-08 20:15,qualificador,4.0.0,bcd6206f6,2016-06-06T14:46,-2.3,http://download.eclipse.org/tools/gef/updates/legacy/milestones/4.0.0RC4_gef-master_1952 | http://download.eclipse.org/tools/gef/gef4/updates/milestones/4.0.0RC4_gef4-master_3401
+GEF,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,sim,,2016-08-10 02:06,qualificador,4.0.0 5.0.0,99633c236,2016-08-14T11:56,4.3,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/milestones/5.0.0M1_gef-master_3556
+GEF,Neon.1,2016-09-14,sim,sim,,2016-09-06 09:46,qualificador,4.0.0 4.1.0,d40a6827a,2016-09-13T14:10,7.1,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/gef4/updates/milestones/4.1.0RC3_gef4-maintenance_182
+GEF,Neon.1a,2016-10-06,sim,sim,sim,2016-09-06 09:46,qualificador,,d40a6827a,2016-09-13T14:10,7.1,http://download.eclipse.org/releases/neon/201609281000/ | http://download.eclipse.org/releases/neon/201609281000/
+GEF,Neon.2,2016-12-07,sim,sim,,2016-09-06 09:46,qualificador,4.0.0 4.1.0,d40a6827a,2016-09-13T14:10,7.1,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/gef4/updates/milestones/4.1.0RC3_gef4-maintenance_182
+GEF,Neon.3,2017-03-08,sim,sim,,2016-09-06 09:46,qualificador,4.0.0 4.1.0,d40a6827a,2016-09-13T14:10,7.1,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/gef4/updates/milestones/4.1.0RC3_gef4-maintenance_182
+GEF,Neon.3_respin,2017-03-14,sim,sim,sim,2016-09-06 09:46,qualificador,,d40a6827a,2016-09-13T14:10,7.1,http://download.eclipse.org/releases/neon/201703141400/ | http://download.eclipse.org/releases/neon/201703141400/
+GEF,Oxygen,2017-06-14,sim,sim,,2017-06-13 12:49,qualificador,4.0.0 5.0.0,c2e4f0261,2017-06-09T17:58,-3.9,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/milestones/5.0.0RC4_gef-master_4403
+GEF,Oxygen.1,2017-09-13,sim,sim,,2017-08-28 02:01,qualificador,4.0.0 5.0.1,c2e4f0261,2017-06-09T17:58,-79.4,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/milestones/5.0.1RC2_gef-maintenance_73
+GEF,Oxygen.1a,2017-10-05,sim,sim,sim,2017-08-28 02:01,qualificador,,14563a9e1,2017-09-18T10:52,21.3,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+GEF,Oxygen.1a_respin,2017-10-09,sim,sim,sim,2017-08-28 02:01,qualificador,,14563a9e1,2017-09-18T10:52,21.3,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+GEF,Oxygen.2,2017-12-06,sim,sim,,2017-11-13 03:01,qualificador,4.0.0 5.0.2,14563a9e1,2017-09-18T10:52,-55.8,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/milestones/5.0.2RC1_gef-maintenance_164
+GEF,Oxygen.2_respin,2017-12-15,sim,sim,,2017-11-13 03:01,qualificador,4.0.0 5.0.2,14563a9e1,2017-09-18T10:52,-55.8,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/releases/5.0.2_gef-maintenance_164
+GEF,Oxygen.3,2018-03-07,sim,sim,,2017-11-13 03:01,qualificador,4.0.0 5.0.2,14563a9e1,2017-09-18T10:52,-55.8,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/releases/5.0.2_gef-maintenance_164
+GEF,PhotonM7,2018-05-17,sim,sim,,2018-05-13 10:00,qualificador,4.0.0 5.0.100,14563a9e1,2017-09-18T10:52,-237.0,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/milestones/5.0.100M7_gef-master_4881
+GEF,PhotonRC4,2018-06-13,sim,sim,,2018-05-28 02:01,qualificador,4.0.0 5.0.100,14563a9e1,2017-09-18T10:52,-251.7,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/milestones/5.0.100RC2_gef-master_4914
+GEF,Photon.0,2018-06-17,sim,sim,,2018-05-28 02:01,qualificador,4.0.0 5.0.100,14563a9e1,2017-09-18T10:52,-251.7,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/milestones/5.0.100RC2_gef-master_4914
+GEF,2018-09,2018-09-12,sim,sim,,2018-05-28 02:01,qualificador,4.0.0 5.0.100,14563a9e1,2017-09-18T10:52,-251.7,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/releases/5.0.100_gef-master_4914
+GEF,2018-12,2018-12-12,sim,sim,,2018-05-28 02:01,qualificador,4.0.0 5.0.100,14563a9e1,2017-09-18T10:52,-251.7,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/releases/5.0.100_gef-master_4914
+GEF,2019-03,2019-03-14,sim,sim,,2019-02-22 06:00,qualificador,4.0.0 5.0.400 3.5.0,14563a9e1,2017-09-18T10:52,-521.9,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/milestones/5.0.400M2_gef-master_5261 | http://download.eclipse.org/efxclipse/runtime-released/3.5.0/site/
+GEF,2019-06,2019-06-13,sim,sim,,2019-05-09 16:38,qualificador,4.0.0 5.1.0 3.5.0,14563a9e1,2017-09-18T10:52,-598.3,http://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | http://download.eclipse.org/tools/gef/updates/milestones/5.1.0M2_gef-master_5449 | http://download.eclipse.org/efxclipse/runtime-released/3.5.0/site/
+GEF,2019-09,2019-09-16,sim,sim,,2019-09-13 15:37,qualificador,4.0.0 5.2.0 3.5.0,14563a9e1,2017-09-18T10:52,-725.3,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/releases/5.2.0_gef-master_5609 | https://download.eclipse.org/efxclipse/runtime-released/3.5.0/site/
+GEF,2019-12,2019-12-11,sim,sim,,2019-12-04 03:03,qualificador,4.0.0 5.3.0 3.6.0,14563a9e1,2017-09-18T10:52,-806.8,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/milestones/5.3.0RC1_gef-master_5711 | https://download.eclipse.org/efxclipse/runtime-released/3.6.0/site/
+GEF,2020-03,2020-03-12,sim,sim,,2020-01-14 03:03,qualificador,4.0.0 5.4.0 3.6.0,14563a9e1,2017-09-18T10:52,-847.8,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/milestones/5.4.0M1_gef-master_5757 | https://download.eclipse.org/efxclipse/runtime-released/3.6.0/site/
+GEF,2020-06,2020-06-10,sim,sim,,2020-06-02 02:02,qualificador,4.0.0 5.3.0 3.6.0,14563a9e1,2017-09-18T10:52,-987.7,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/releases/5.3.0_gef-master_5984/ | https://download.eclipse.org/efxclipse/runtime-released/3.6.0/site/
+GEF,2020-09,2020-09-09,sim,sim,,2020-09-09 02:01,qualificador,4.0.0 5.3.1 3.6.0,14563a9e1,2017-09-18T10:52,-1086.7,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/milestones/5.3.1RC2_gef-master_6103/ | https://download.eclipse.org/efxclipse/runtime-released/3.6.0/site/
+GEF,2020-12,2020-12-09,sim,sim,,2020-12-08 03:00,qualificador,4.0.0 5.3.2 3.7.0,14563a9e1,2017-09-18T10:52,-1176.8,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/milestones/5.3.2RC2_gef-master_6214/ | https://download.eclipse.org/efxclipse/runtime-released/3.7.0/site/
+GEF,2021-03,2021-03-10,sim,sim,,2021-03-09 03:01,qualificador,4.0.0 5.3.3 3.7.0,14563a9e1,2017-09-18T10:52,-1267.8,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/milestones/5.3.3RC2_gef-master_6309/ | https://download.eclipse.org/efxclipse/runtime-released/3.7.0/site/
+GEF,2021-06,2021-06-12,sim,sim,,2021-06-08 02:00,qualificador,4.0.0 5.3.4 3.7.0,14563a9e1,2017-09-18T10:52,-1358.7,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/milestones/5.3.4RC2_gef-master_6401/ | https://download.eclipse.org/efxclipse/runtime-released/3.7.0/site/
+GEF,2021-09,2021-09-08,sim,sim,,2021-09-07 02:02,qualificador,4.0.0 5.3.5 3.7.0,14563a9e1,2017-09-18T10:52,-1449.7,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/milestones/5.3.5RC2_gef-master_6495/ | https://download.eclipse.org/efxclipse/runtime-released/3.7.0/site/
+GEF,2021-12,2021-12-02,sim,sim,,2021-12-01 03:00,qualificador,4.0.0 5.3.6 3.7.0,14563a9e1,2017-09-18T10:52,-1534.8,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/milestones/5.3.6RC2_gef-master_6581/ | https://download.eclipse.org/efxclipse/runtime-released/3.7.0/site/
+GEF,2022-03,2022-03-15,sim,sim,,2022-03-08 03:00,qualificador,4.0.0 5.3.7 3.7.0,14563a9e1,2017-09-18T10:52,-1631.8,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/releases/5.3.7_gef-master_6679/ | https://download.eclipse.org/efxclipse/runtime-released/3.7.0/site/
+GEF,2022-06,2022-06-13,sim,sim,,2022-06-07 02:01,qualificador,4.0.0 5.3.8 3.7.0,5d2325e3e,2022-05-13T11:38,-24.7,https://download.eclipse.org/tools/gef/updates/legacy/releases/4.0.0_gef-master_1952 | https://download.eclipse.org/tools/gef/updates/releases/5.3.8_gef-master_6771/ | https://download.eclipse.org/efxclipse/runtime-released/3.7.0/site/
+GEF,2022-09,2022-09-12,sim,sim,,2022-09-06 02:01,qualificador,3.14.0 5.4.0 3.7.0,691b10b78,2022-09-04T14:10,-1.6,https://download.eclipse.org/tools/gef/classic/releases/3.14.0 | https://download.eclipse.org/tools/gef/updates/milestones/5.4.0RC2_gef-master_6887/ | https://download.eclipse.org/efxclipse/runtime-released/3.7.0/site/
+GEF,2022-12,2022-12-05,sim,sim,,2022-10-16 23:53,qualificador,3.15.0 5.4.0 3.9.0,4527e2327,2022-11-30T20:06,44.8,https://download.eclipse.org/tools/gef/classic/releases/3.15.0 | https://download.eclipse.org/tools/gef/updates/releases/5.4.0_gef-master_6893/ | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2023-03,2023-03-29,sim,sim,,2022-10-16 23:53,qualificador,3.15.0 5.4.0 3.9.0,608691122,2023-03-27T13:03,161.5,https://download.eclipse.org/tools/gef/classic/releases/3.15.0 | https://download.eclipse.org/tools/gef/updates/releases/5.4.0_gef-master_6893/ | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2023-06,2023-06-13,sim,sim,,2022-10-16 23:53,qualificador,3.16.0 5.4.0 3.9.0,6a06384a4,2023-06-13T00:04,238.9,https://download.eclipse.org/tools/gef/classic/releases/3.16.0 | https://download.eclipse.org/tools/gef/updates/releases/5.4.0_gef-master_6893/ | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2023-09,2023-09-08,sim,sim,,2022-10-16 23:53,qualificador,3.17.0 5.4.0 3.9.0,21264727f,2023-08-31T13:12,318.5,https://download.eclipse.org/tools/gef/classic/releases/3.17.0 | https://download.eclipse.org/tools/gef/updates/releases/5.4.0_gef-master_6893/ | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2023-12,2023-12-01,sim,sim,,2023-11-22 16:39,qualificador,3.18.0 5.5.0 3.9.0,70c2969be,2023-11-22T21:31,0.2,https://download.eclipse.org/tools/gef/classic/releases/3.18.0 | https://download.eclipse.org/tools/gef/fx/release/5.5.0 | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2024-03,2024-03-08,sim,sim,,2023-11-22 16:39,qualificador,5.5.0 3.9.0,64bd30107,2024-02-11T14:17,80.9,https://download.eclipse.org/tools/gef/classic/milestone/S202402212051 | https://download.eclipse.org/tools/gef/fx/release/5.5.0 | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2024-06,2024-06-10,sim,sim,,2023-11-22 16:39,qualificador,3.20.0 5.5.0 3.9.0,d606e6287,2024-05-26T21:30,186.1,https://download.eclipse.org/tools/gef/classic/release/3.20.0 | https://download.eclipse.org/tools/gef/fx/release/5.5.0 | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2024-09,2024-09-06,sim,sim,,2023-11-22 16:39,qualificador,3.21.0 5.5.0 3.9.0,4660b6939,2024-09-03T09:58,285.6,https://download.eclipse.org/tools/gef/classic/release/3.21.0 | https://download.eclipse.org/tools/gef/fx/release/5.5.0 | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2024-12,2024-12-01,sim,sim,,2024-11-18 15:39,qualificador,3.22.0 5.5.1 3.9.0,99a919059,2024-11-20T22:18,2.2,https://download.eclipse.org/tools/gef/classic/release/3.22.0 | https://download.eclipse.org/tools/gef/fx/release/5.5.1 | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2025-03,2025-03-06,sim,sim,,2024-11-18 15:39,qualificador,3.23.0 5.5.1 3.9.0,79ce421cd,2025-02-24T22:43,98.3,https://download.eclipse.org/tools/gef/classic/release/3.23.0 | https://download.eclipse.org/tools/gef/fx/release/5.5.1 | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2025-06,2025-06-05,sim,sim,,2024-11-18 15:39,qualificador,3.24.0 5.5.1 3.9.0,52e81e717,2025-05-28T09:57,190.7,https://download.eclipse.org/tools/gef/classic/release/3.24.0 | https://download.eclipse.org/tools/gef/fx/release/5.5.1 | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2025-09,2025-09-05,sim,sim,,2024-11-18 15:39,qualificador,3.25.0 5.5.1 3.9.0,fd5f1a1e5,2025-08-26T22:20,281.2,https://download.eclipse.org/tools/gef/classic/release/3.25.0 | https://download.eclipse.org/tools/gef/fx/release/5.5.1 | https://download.eclipse.org/efxclipse/runtime-released/3.9.0/site/
+GEF,2025-12,2025-12-07,sim,sim,,,,3.26.0,a64f5b170,2025-12-06T15:04,,https://download.eclipse.org/tools/gef/classic/release/3.26.0
+GEF,2026-03,2026-03-11,sim,sim,,,,3.27.0,621550f90,2026-03-10T22:10,,https://download.eclipse.org/tools/gef/classic/release/3.27.0
+GMF Runtime,JunoSR0,2012-08-03,sim,sim,,2012-05-17 18:09,qualificador,,d039a29f3,2012-05-19T16:03,1.9,http://download.eclipse.org/modeling/gmp/updates/milestones
+GMF Runtime,JunoSR1,2012-09-19,sim,sim,,2012-05-17 18:09,qualificador,,09bad3be3,2012-09-18T21:05,124.1,http://download.eclipse.org/modeling/gmp/updates/milestones
+GMF Runtime,JunoSR2,2013-02-24,sim,sim,,2013-02-12 21:40,qualificador,,595975ce7,2013-02-11T17:01,-1.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/maintenance
+GMF Runtime,KeplerPostRC4,2013-06-13,sim,sim,,2013-06-11 14:32,qualificador,,436609cab,2013-06-05T14:40,-5.8,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones
+GMF Runtime,KeplerSR0,2013-08-02,sim,sim,,2013-06-11 14:32,qualificador,,fc2b41e04,2013-07-03T12:44,22.1,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones
+GMF Runtime,KeplerSR1,2013-09-23,sim,sim,,2013-06-11 14:32,qualificador,,fc2b41e04,2013-07-03T12:44,22.1,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones
+GMF Runtime,LunaSR0,2014-07-29,sim,sim,,2014-05-28 17:01,qualificador,,505d92431,2014-07-04T17:08,37.2,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones
+GMF Runtime,z20140805-2300,2014-07-29,sim,sim,,2014-05-28 17:01,qualificador,,505d92431,2014-07-04T17:08,37.2,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones
+GMF Runtime,z20140806,2014-07-29,sim,sim,,2014-05-28 17:01,qualificador,,505d92431,2014-07-04T17:08,37.2,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones
+GMF Runtime,LunaRC4,2014-09-17,sim,sim,,2014-08-20 14:53,qualificador,,67a180644,2014-08-20T13:14,0.1,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R201408201453/
+GMF Runtime,LunaSR2,2015-03-02,sim,sim,,2014-08-20 14:53,qualificador,,28fa44885,2015-02-27T11:17,191.1,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R201408201453/
+GMF Runtime,S201504150911,2015-04-15,sim,sim,,2015-03-26 16:53,qualificador,,80d69cf28,2015-03-25T02:47,-1.4,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones/S201503261653
+GMF Runtime,Mars.1,2015-09-24,sim,sim,sim,2015-06-06 02:19,qualificador,,8912751aa,2015-06-05T18:38,-0.2,http://download.eclipse.org/releases/mars/201509251000/
+GMF Runtime,Neon,2016-06-13,sim,sim,,2016-06-07 19:59,qualificador,,460d573b0,2016-06-07T15:15,-0.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases
+GMF Runtime,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,NAO,,,,,460d573b0,2016-06-07T15:15,,
+GMF Runtime,Neon.1,2016-09-14,sim,sim,,2016-06-07 19:59,qualificador,,cb0f7f08b,2016-09-13T17:02,98.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases
+GMF Runtime,Neon.1a,2016-10-06,sim,sim,sim,2016-06-07 19:59,qualificador,,2a3b6e870,2016-09-19T16:14,104.0,http://download.eclipse.org/releases/neon/201609281000/
+GMF Runtime,Neon.2,2016-12-07,sim,sim,,2016-06-07 19:59,qualificador,,2a3b6e870,2016-09-19T16:14,104.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases
+GMF Runtime,Neon.3,2017-03-08,sim,sim,,2016-06-07 19:59,qualificador,,03bdbb7f2,2017-03-02T14:07,267.7,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases
+GMF Runtime,Neon.3_respin,2017-03-14,sim,sim,sim,2016-06-07 19:59,qualificador,,03bdbb7f2,2017-03-02T14:07,267.7,http://download.eclipse.org/releases/neon/201703141400/
+GMF Runtime,Oxygen,2017-06-14,sim,sim,,2017-06-06 14:37,qualificador,,04cdebec0,2017-04-24T12:50,-43.2,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R201706061437
+GMF Runtime,Oxygen.1,2017-09-13,sim,sim,,2017-06-06 14:37,qualificador,,7617792c3,2017-08-17T10:11,71.7,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R201706061437
+GMF Runtime,Oxygen.1a,2017-10-05,sim,sim,sim,2017-06-06 14:37,qualificador,,2c2d52f29,2017-09-25T15:12,110.9,http://download.eclipse.org/releases/oxygen/201709271000/
+GMF Runtime,Oxygen.1a_respin,2017-10-09,sim,sim,sim,2017-06-06 14:37,qualificador,,2c2d52f29,2017-09-25T15:12,110.9,http://download.eclipse.org/releases/oxygen/201709271000/
+GMF Runtime,Oxygen.2,2017-12-06,sim,sim,,2017-06-06 14:37,qualificador,,ac83b0c5b,2017-10-26T14:12,141.9,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R201706061437
+GMF Runtime,Oxygen.2_respin,2017-12-15,sim,sim,,2017-06-06 14:37,qualificador,,ac83b0c5b,2017-10-26T14:12,141.9,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R201706061437
+GMF Runtime,Oxygen.3,2018-03-07,sim,sim,,2017-06-06 14:37,qualificador,,564a0f3b1,2018-02-08T16:53,247.1,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R201706061437
+GMF Runtime,PhotonM7,2018-05-17,sim,sim,,2018-05-15 14:21,qualificador,,587a51071,2018-05-15T15:38,-0.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones/S201805151421 | http://download.eclipse.org/modeling/gmp/gmf-notation/updates/milestones/S201805141341
+GMF Runtime,PhotonRC4,2018-06-13,sim,sim,,2018-06-01 08:09,qualificador,,1eede5a89,2018-05-31T10:46,-1.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones/S201806010809 | http://download.eclipse.org/modeling/gmp/gmf-notation/updates/milestones/S201805221301
+GMF Runtime,Photon.0,2018-06-17,sim,sim,,2018-06-01 08:09,qualificador,,1eede5a89,2018-05-31T10:46,-1.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones/S201806010809 | http://download.eclipse.org/modeling/gmp/gmf-notation/updates/milestones/S201805221301
+GMF Runtime,2018-09,2018-09-12,sim,sim,,2018-06-01 08:09,qualificador,,1eede5a89,2018-05-31T10:46,-1.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones/S201806010809 | http://download.eclipse.org/modeling/gmp/gmf-notation/updates/milestones/S201805221301
+GMF Runtime,2018-12,2018-12-12,sim,sim,,2018-06-01 08:09,qualificador,,1eede5a89,2018-05-31T10:46,-1.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones/S201806010809 | http://download.eclipse.org/modeling/gmp/gmf-notation/updates/milestones/S201805221301
+GMF Runtime,2019-03,2019-03-14,sim,sim,,2018-06-01 08:09,qualificador,,1eede5a89,2018-05-31T10:46,-1.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R201806010809 | http://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R201805221301
+GMF Runtime,2019-06,2019-06-13,sim,sim,,2019-05-14 15:05,qualificador,,b656baae0,2019-05-14T16:40,-0.0,http://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones/S201905141505 | http://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R201805221301
+GMF Runtime,2019-09,2019-09-16,sim,sim,,2019-05-14 15:05,qualificador,,b656baae0,2019-05-14T16:40,-0.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/milestones/S201905141505 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R201805221301
+GMF Runtime,2019-12,2019-12-11,sim,sim,,2019-12-02 08:13,qualificador,,e22fa3b5b,2019-11-06T03:08,-26.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R201912020813 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R201805221301
+GMF Runtime,2020-03,2020-03-12,sim,sim,,2019-12-02 08:13,qualificador,,6aa2b690f,2020-03-10T11:16,99.1,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R201912020813 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R201805221301
+GMF Runtime,2020-06,2020-06-10,sim,sim,,2020-04-16 09:13,qualificador,,8da7f095b,2020-04-16T10:15,-0.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202004160913 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202004160913
+GMF Runtime,2020-09,2020-09-09,sim,sim,,2020-04-16 09:13,qualificador,,8da7f095b,2020-04-16T10:15,-0.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202004160913 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202004160913
+GMF Runtime,2020-12,2020-12-09,sim,sim,,2020-04-16 09:13,qualificador,,f9e7c7b30,2020-11-13T15:19,211.2,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202004160913 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202004160913
+GMF Runtime,2021-03,2021-03-10,sim,sim,,2020-04-16 09:13,qualificador,,d38ea5bd7,2021-02-25T10:54,315.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202004160913 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202004160913
+GMF Runtime,2021-06,2021-06-12,sim,sim,,2020-04-16 09:13,qualificador,,9088b5bfc,2021-04-16T15:11,365.2,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202004160913 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202004160913
+GMF Runtime,2021-09,2021-09-08,sim,sim,,2021-06-22 13:44,qualificador,,9984cee92,2021-07-06T09:22,13.7,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202106221344/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202004160913
+GMF Runtime,2021-12,2021-12-02,sim,sim,,2021-06-22 13:44,qualificador,,e7e6405a9,2021-10-01T14:39,101.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202106221344/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202004160913
+GMF Runtime,2022-03,2022-03-15,sim,sim,,2022-02-19 09:02,qualificador,,e515ae3eb,2022-02-01T11:14,-17.9,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202202190902 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202004160913
+GMF Runtime,2022-06,2022-06-13,sim,sim,,2022-04-13 07:39,qualificador,,acaf43233,2022-05-08T14:44,25.2,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202204130739 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202004160913
+GMF Runtime,2022-09,2022-09-12,sim,sim,,2022-08-27 11:22,build id,,35b3760ed,2022-08-27T14:17,0.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202208271122 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202004160913
+GMF Runtime,2022-12,2022-12-05,sim,sim,,2022-11-15 13:34,build id,,271ba17d6,2022-12-02T22:24,17.3,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202211041032/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2023-03,2023-03-29,sim,sim,,2022-11-15 13:34,build id,,b5ac6e57e,2023-03-29T17:48,134.1,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202211041032/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2023-06,2023-06-13,sim,sim,,2023-05-23 08:39,build id,,fcab6d4a4,2023-05-07T12:20,-15.9,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202305230839 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2023-09,2023-09-08,sim,sim,,2023-09-01 07:20,build id,,0860f4d97,2023-09-05T08:15,4.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202309010720/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2023-12,2023-12-01,sim,sim,,2023-11-13 09:07,build id,,bf5eaefbd,2023-11-30T13:37,17.1,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202311130907/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2024-03,2024-03-08,sim,sim,,2024-03-01 09:13,build id,,26d1c6bba,2024-01-10T21:18,-50.5,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202403010913/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2024-06,2024-06-10,sim,sim,,2024-05-17 14:47,build id,,505995fb4,2024-06-06T08:55,19.7,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202405171447/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2024-09,2024-09-06,sim,sim,,2024-05-17 14:47,build id,,505995fb4,2024-06-06T08:55,19.7,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202405171447/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2024-12,2024-12-01,sim,sim,,2024-10-24 07:48,build id,,b3224a97b,2024-10-24T09:11,-0.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202410240748/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2025-03,2025-03-06,sim,sim,,2025-01-29 14:47,build id,,2bfabf401,2025-01-29T15:20,-0.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202501291447/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2025-06,2025-06-05,sim,sim,,2025-01-29 14:47,build id,,f8ad59052,2025-05-15T21:38,106.2,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202501291447/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2025-09,2025-09-05,sim,sim,,2025-08-12 09:42,build id,,c1ed03bcf,2025-08-12T10:11,-0.1,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202508120942/ | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2025-12,2025-12-07,sim,sim,,2025-12-02 08:58,build id,,e4302f344,2025-11-01T09:57,-31.0,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202512020858 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+GMF Runtime,2026-03,2026-03-11,sim,sim,,2025-12-02 08:58,build id,,ccc53e5a6,2025-12-10T21:35,8.5,https://download.eclipse.org/modeling/gmp/gmf-runtime/updates/releases/R202512020858 | https://download.eclipse.org/modeling/gmp/gmf-notation/updates/releases/R202211151334
+JDT,JunoSR0,2012-08-03,sim,sim,,2012-06-08 14:00,build id,4.2,308ce1529,2012-08-02T18:47,55.0,http://download.eclipse.org/eclipse/updates/4.2/R-4.2-201206081400/
+JDT,JunoSR1,2012-09-19,sim,sim,,2012-09-14 18:00,build id,4.2,d86f67221,2012-09-16T23:43,2.2,http://download.eclipse.org/eclipse/updates/4.2-M-builds/M20120914-1800/
+JDT,JunoSR2,2013-02-24,sim,sim,,2013-02-04 12:00,build id,4.2,6e01d0463,2013-02-24T14:43,20.3,http://download.eclipse.org/eclipse/updates/4.2-M-builds/M20130204-1200/
+JDT,KeplerPostRC4,2013-06-13,sim,sim,,2013-06-05 20:00,build id,4.3,8411039ea,2013-06-12T12:24,6.5,http://download.eclipse.org/eclipse/updates/4.3milestones/S-4.3RC4-201306052000/
+JDT,KeplerSR0,2013-08-02,sim,sim,,2013-06-05 20:00,build id,4.3,4cdd1f8c2,2013-08-01T17:14,56.8,http://download.eclipse.org/eclipse/updates/4.3milestones/S-4.3RC4-201306052000/
+JDT,KeplerSR1,2013-09-23,sim,sim,,2013-09-11 10:00,build id,4.3 4.3.1,17b8ab7bd,2013-09-23T09:54,11.8,http://download.eclipse.org/eclipse/updates/4.3/R-4.3.1-201309111000/
+JDT,LunaSR0,2014-07-29,sim,sim,,2014-06-06 12:15,build id,4.4,5edc3ac05,2014-07-28T15:30,51.9,http://download.eclipse.org/eclipse/updates/4.4/R-4.4-201406061215/
+JDT,z20140805-2300,2014-07-29,sim,sim,,2014-06-06 12:15,build id,4.4,5edc3ac05,2014-07-28T15:30,51.9,http://download.eclipse.org/eclipse/updates/4.4/R-4.4-201406061215/
+JDT,z20140806,2014-07-29,sim,sim,,2014-06-06 12:15,build id,4.4,5edc3ac05,2014-07-28T15:30,51.9,http://download.eclipse.org/eclipse/updates/4.4/R-4.4-201406061215/
+JDT,LunaRC4,2014-09-17,sim,sim,,2014-09-10 23:10,build id,4.4 4.4.1,0a42969cf,2014-09-17T23:46,6.8,http://download.eclipse.org/eclipse/updates/4.4milestones/M-4.4.1RC4-201409102310/
+JDT,LunaSR2,2015-03-02,sim,sim,,2015-02-04 17:00,build id,4.4 4.4.2,db786a606,2015-02-26T13:54,21.8,http://download.eclipse.org/eclipse/updates/4.4/R-4.4.2-201502041700/
+JDT,S201504150911,2015-04-15,sim,sim,,2015-03-20 08:00,build id,4.5,96a1c4eb2,2015-04-14T14:39,25.4,http://download.eclipse.org/eclipse/updates/4.5milestones/S-4.5M6-201503200800/
+JDT,Mars.1,2015-09-24,sim,sim,sim,,,,60778824f,2015-09-22T17:15,,http://download.eclipse.org/releases/mars/201509251000/
+JDT,Neon,2016-06-13,sim,sim,,2016-06-06 11:00,build id,4.6,588590c5c,2016-06-13T14:19,6.9,http://download.eclipse.org/eclipse/updates/4.6milestones/S-4.6RC4a-201606061100/
+JDT,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,sim,,2016-08-03 20:00,build id,4.7,02cebbcb8,2016-09-07T15:57,34.6,http://download.eclipse.org/eclipse/updates/4.7milestones/S-4.7M1-201608032000/
+JDT,Neon.1,2016-09-14,sim,sim,,2016-09-07 12:00,build id,4.6 4.6.1,eefd59699,2016-09-13T22:41,6.4,http://download.eclipse.org/eclipse/updates/4.6-M-builds/M-4.6.1RC4-201609071200/
+JDT,Neon.1a,2016-10-06,sim,sim,sim,,,,f60167cf3,2016-10-06T11:31,,http://download.eclipse.org/releases/neon/201609281000/
+JDT,Neon.2,2016-12-07,sim,sim,,2016-11-24 14:00,build id,4.6 4.6.2,75dbfad04,2016-12-06T16:30,12.3,http://download.eclipse.org/eclipse/updates/4.6-M-builds/M-4.6.2RC3-201611241400/
+JDT,Neon.3,2017-03-08,sim,sim,,2017-03-01 04:00,build id,4.6 4.6.3,ce31ee3f2,2017-03-08T16:10,7.5,http://download.eclipse.org/eclipse/updates/4.6-M-builds/M-4.6.3RC4-201703010400/
+JDT,Neon.3_respin,2017-03-14,sim,sim,sim,,,,493e699f5,2017-03-14T12:56,,http://download.eclipse.org/releases/neon/201703141400/
+JDT,Oxygen,2017-06-14,sim,sim,,2017-06-12 09:50,build id,4.7,255fe8d2c,2017-06-14T18:56,2.2,http://download.eclipse.org/eclipse/updates/4.7milestones/S-4.7RC4a-201706120950/
+JDT,Oxygen.1,2017-09-13,sim,sim,,2017-09-06 17:00,build id,4.7 4.7.1,9a39316c1,2017-09-13T15:24,6.7,http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.1RC4-201709061700/
+JDT,Oxygen.1a,2017-10-05,sim,sim,,2017-09-28 13:10,build id,4.7 4.7.1,81530626b,2017-10-05T18:03,7.1,http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.1aRC2-201709281310/
+JDT,Oxygen.1a_respin,2017-10-09,sim,sim,,2017-10-09 04:10,build id,4.7 4.7.1,c40ee9092,2017-10-09T13:33,0.2,http://download.eclipse.org/eclipse/updates/4.7/R-4.7.1a-201710090410/
+JDT,Oxygen.2,2017-12-06,sim,sim,,2017-11-30 05:10,build id,4.7 4.7.2,a678984d7,2017-12-06T13:32,6.1,http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.2RC4-201711300510/
+JDT,Oxygen.2_respin,2017-12-15,sim,sim,,2017-11-30 05:10,build id,4.7 4.7.2,9f791e145,2017-12-14T21:48,14.7,http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.2RC4-201711300510/
+JDT,Oxygen.3,2018-03-07,sim,sim,,2018-03-01 07:15,build id,4.7 4.7.3,72c960314,2018-03-05T15:10,4.1,http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.3RC4-201803010715/
+JDT,PhotonM7,2018-05-17,sim,sim,,2018-05-09 20:00,build id,4.8,9401e537b,2018-05-17T22:07,7.9,http://download.eclipse.org/eclipse/updates/4.8milestones/S-4.8M7-201805092000/
+JDT,PhotonRC4,2018-06-13,sim,sim,,2018-06-11 05:00,build id,4.8,e716cf8d3,2018-06-12T18:10,1.3,http://download.eclipse.org/eclipse/updates/4.8milestones/S-4.8RC4a-201806110500/
+JDT,Photon.0,2018-06-17,sim,sim,,2018-06-11 05:00,build id,4.8,fa05b3f74,2018-06-16T15:49,5.4,http://download.eclipse.org/eclipse/updates/4.8milestones/S-4.8RC4a-201806110500/
+JDT,2018-09,2018-09-12,sim,sim,,2018-09-06 07:45,build id,4.9,46e68b503,2018-09-11T20:33,5.3,http://download.eclipse.org/eclipse/updates/4.9milestones/S-4.9RC2-201809060745/
+JDT,2018-12,2018-12-12,sim,sim,,2018-12-06 08:15,build id,4.10,50513d7e9,2018-12-08T21:38,2.3,http://download.eclipse.org/eclipse/updates/4.10milestones/S-4.10RC2-201812060815/
+JDT,2019-03,2019-03-14,sim,sim,,2019-03-07 05:00,build id,4.11,3d16613b8,2019-03-14T02:51,7.1,http://download.eclipse.org/eclipse/updates/4.11milestones/S-4.11RC2-201903070500/
+JDT,2019-06,2019-06-13,sim,sim,,2019-06-05 18:00,build id,4.12,739cde984,2019-06-12T15:29,6.7,http://download.eclipse.org/eclipse/updates/4.12milestones/S-4.12RC2-201906051800/
+JDT,2019-09,2019-09-16,sim,sim,,2019-09-16 10:45,build id,4.13,6a8cee112,2019-09-15T20:12,-0.7,https://download.eclipse.org/eclipse/updates/4.13milestones/S-4.13RC2a-201909161045/
+JDT,2019-12,2019-12-11,sim,sim,,2019-12-10 06:10,build id,4.14,121a2d96f,2019-12-11T06:11,0.8,https://download.eclipse.org/eclipse/updates/4.14milestones/S-4.14RC2a-201912100610/
+JDT,2020-03,2020-03-12,sim,sim,,2020-03-05 01:55,build id,4.15,eae3ae38f,2020-03-11T06:44,6.4,https://download.eclipse.org/eclipse/updates/4.15milestones/S-4.15RC2-202003050155/
+JDT,2020-06,2020-06-10,sim,sim,,2020-06-04 05:40,build id,4.16,c1d29a674,2020-06-10T07:13,6.2,https://download.eclipse.org/eclipse/updates/4.16milestones/S-4.16RC2-202006040540/
+JDT,2020-09,2020-09-09,sim,sim,,2020-09-02 18:00,build id,4.17,6b5d4776c,2020-09-09T10:00,6.8,https://download.eclipse.org/eclipse/updates/4.17milestones/S-4.17RC2-202009021800/
+JDT,2020-12,2020-12-09,sim,sim,,2020-12-02 18:00,build id,4.18,d39f21162,2020-12-09T11:58,6.5,https://download.eclipse.org/eclipse/updates/4.18milestones/S-4.18RC2-202012021800/
+JDT,2021-03,2021-03-10,sim,sim,,2021-03-03 18:00,build id,4.19,ac13270d6,2021-03-10T15:53,6.7,https://download.eclipse.org/eclipse/updates/4.19-I-builds/I20210303-1800/
+JDT,2021-06,2021-06-12,sim,sim,,2021-06-11 16:00,build id,4.20,c2d6207a8,2021-06-12T05:20,0.7,https://download.eclipse.org/eclipse/updates/4.20-I-builds/I20210611-1600
+JDT,2021-09,2021-09-08,sim,sim,,2021-09-06 05:00,build id,4.21,35b393444,2021-09-07T06:11,1.2,https://download.eclipse.org/eclipse/updates/4.21-I-builds/I20210906-0500/
+JDT,2021-12,2021-12-02,sim,sim,,2021-11-24 18:00,build id,4.22,effa6e8a3,2021-12-01T11:11,6.9,https://download.eclipse.org/eclipse/updates/4.22-I-builds/I20211124-1800/
+JDT,2022-03,2022-03-15,sim,sim,,2022-03-08 03:10,build id,4.23,eaf6ea06a,2022-03-15T00:48,7.1,https://download.eclipse.org/eclipse/updates/4.23/R-4.23-202203080310
+JDT,2022-06,2022-06-13,sim,sim,,2022-06-07 07:00,build id,4.24,c1ea9514c,2022-06-10T15:56,3.1,https://download.eclipse.org/eclipse/updates/4.24/R-4.24-202206070700/
+JDT,2022-09,2022-09-12,sim,sim,,2022-08-31 18:00,build id,4.25,1ae0e0644,2022-09-11T19:00,11.0,https://download.eclipse.org/eclipse/updates/4.25/R-4.25-202208311800/
+JDT,2022-12,2022-12-05,sim,sim,,2022-11-23 18:00,build id,4.26,0e5761841,2022-12-05T18:55,12.0,https://download.eclipse.org/eclipse/updates/4.26/R-4.26-202211231800/
+JDT,2023-03,2023-03-29,sim,sim,,2023-03-02 03:00,build id,4.27,ad2866c4e,2023-03-29T20:48,27.5,https://download.eclipse.org/eclipse/updates/4.27/R-4.27-202303020300
+JDT,2023-06,2023-06-13,sim,sim,,2023-06-05 04:40,build id,4.28,c60c1806d,2023-06-12T13:19,7.5,https://download.eclipse.org/eclipse/updates/4.28/R-4.28-202306050440
+JDT,2023-09,2023-09-08,sim,sim,,2023-09-03 10:00,build id,4.29,c687d14fd,2023-09-08T13:03,4.9,https://download.eclipse.org/eclipse/updates/4.29/R-4.29-202309031000
+JDT,2023-12,2023-12-01,sim,sim,,2023-12-01 01:10,build id,4.30,420cf8cea,2023-12-01T13:43,0.5,https://download.eclipse.org/eclipse/updates/4.30-I-builds/I20231201-0110
+JDT,2024-03,2024-03-08,sim,sim,,2024-02-29 05:20,build id,4.31,c648d3506,2024-03-07T19:04,7.8,https://download.eclipse.org/eclipse/updates/4.31/R-4.31-202402290520
+JDT,2024-06,2024-06-10,sim,sim,,2024-06-01 06:10,build id,4.32,a02bebb74,2024-06-10T16:16,9.3,https://download.eclipse.org/eclipse/updates/4.32/R-4.32-202406010610
+JDT,2024-09,2024-09-06,sim,sim,,2024-09-03 02:40,build id,4.33,84daab04d,2024-09-06T08:58,3.0,https://download.eclipse.org/eclipse/updates/4.33/R-4.33-202409030240
+JDT,2024-12,2024-12-01,sim,sim,,2024-11-20 18:00,build id,4.34,681dc0aff,2024-12-01T01:48,10.3,https://download.eclipse.org/eclipse/updates/4.34/R-4.34-202411201800
+JDT,2025-03,2025-03-06,sim,sim,,2025-02-28 01:40,build id,4.35,89e70ced1,2025-03-05T12:15,5.2,https://download.eclipse.org/eclipse/updates/4.35-I-builds/I20250228-0140
+JDT,2025-06,2025-06-05,sim,sim,,2025-05-28 18:30,build id,4.36,a9fec36e5,2025-06-04T12:48,6.5,https://download.eclipse.org/eclipse/updates/4.36-I-builds/I20250528-1830
+JDT,2025-09,2025-09-05,sim,sim,,2025-09-05 07:30,build id,4.37,8c02407cc,2025-09-03T10:22,-1.7,https://download.eclipse.org/eclipse/updates/4.37-I-builds/I20250905-0730
+JDT,2025-12,2025-12-07,sim,sim,,2025-12-01 09:20,build id,4.38,7e87ad5a5,2025-12-05T00:18,3.6,https://download.eclipse.org/eclipse/updates/4.38/R-4.38-202512010920
+JDT,2026-03,2026-03-11,sim,sim,,2026-02-26 04:20,build id,4.39,c9cb9ed54,2026-03-09T15:33,11.4,https://download.eclipse.org/eclipse/updates/4.39/R-4.39-202602260420
+PDE,JunoSR0,2012-08-03,sim,sim,,2012-06-08 14:00,build id,4.2,4a9e185fb,2012-07-30T12:42,51.9,http://download.eclipse.org/eclipse/updates/4.2/R-4.2-201206081400/
+PDE,JunoSR1,2012-09-19,sim,sim,,2012-09-14 18:00,build id,4.2,5208d137c,2012-09-19T14:42,5.1,http://download.eclipse.org/eclipse/updates/4.2-M-builds/M20120914-1800/
+PDE,JunoSR2,2013-02-24,sim,sim,,2013-02-04 12:00,build id,4.2,89521d0c0,2013-02-22T16:22,18.4,http://download.eclipse.org/eclipse/updates/4.2-M-builds/M20130204-1200/
+PDE,KeplerPostRC4,2013-06-13,sim,sim,,2013-06-05 20:00,build id,4.3,b19a80d4b,2013-06-11T13:19,5.9,http://download.eclipse.org/eclipse/updates/4.3milestones/S-4.3RC4-201306052000/
+PDE,KeplerSR0,2013-08-02,sim,sim,,2013-06-05 20:00,build id,4.3,6ba1c02ea,2013-08-02T13:07,57.6,http://download.eclipse.org/eclipse/updates/4.3milestones/S-4.3RC4-201306052000/
+PDE,KeplerSR1,2013-09-23,sim,sim,,2013-09-11 10:00,build id,4.3 4.3.1,e6f525df8,2013-09-23T14:45,12.4,http://download.eclipse.org/eclipse/updates/4.3/R-4.3.1-201309111000/
+PDE,LunaSR0,2014-07-29,sim,sim,,2014-06-06 12:15,build id,4.4,56e820cd1,2014-07-28T20:08,52.2,http://download.eclipse.org/eclipse/updates/4.4/R-4.4-201406061215/
+PDE,z20140805-2300,2014-07-29,sim,sim,,2014-06-06 12:15,build id,4.4,56e820cd1,2014-07-28T20:08,52.2,http://download.eclipse.org/eclipse/updates/4.4/R-4.4-201406061215/
+PDE,z20140806,2014-07-29,sim,sim,,2014-06-06 12:15,build id,4.4,56e820cd1,2014-07-28T20:08,52.2,http://download.eclipse.org/eclipse/updates/4.4/R-4.4-201406061215/
+PDE,LunaRC4,2014-09-17,sim,sim,,2014-09-10 23:10,build id,4.4 4.4.1,82b345f7d,2014-09-17T19:31,6.8,http://download.eclipse.org/eclipse/updates/4.4milestones/M-4.4.1RC4-201409102310/
+PDE,LunaSR2,2015-03-02,sim,sim,,2015-02-04 17:00,build id,4.4 4.4.2,334fc258a,2015-02-27T18:57,23.0,http://download.eclipse.org/eclipse/updates/4.4/R-4.4.2-201502041700/
+PDE,S201504150911,2015-04-15,sim,sim,,2015-03-20 08:00,build id,4.5,4029ef0ec,2015-04-10T06:53,21.1,http://download.eclipse.org/eclipse/updates/4.5milestones/S-4.5M6-201503200800/
+PDE,Mars.1,2015-09-24,sim,sim,sim,,,,95ad7b194,2015-09-23T17:02,,http://download.eclipse.org/releases/mars/201509251000/
+PDE,Neon,2016-06-13,sim,sim,,2016-06-06 11:00,build id,4.6,72b301a35,2016-06-10T09:58,4.1,http://download.eclipse.org/eclipse/updates/4.6milestones/S-4.6RC4a-201606061100/
+PDE,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,sim,,2016-08-03 20:00,build id,4.7,fe11360ed,2016-09-06T16:19,33.8,http://download.eclipse.org/eclipse/updates/4.7milestones/S-4.7M1-201608032000/
+PDE,Neon.1,2016-09-14,sim,sim,,2016-09-07 12:00,build id,4.6 4.6.1,3fb6647f7,2016-09-14T08:14,6.8,http://download.eclipse.org/eclipse/updates/4.6-M-builds/M-4.6.1RC4-201609071200/
+PDE,Neon.1a,2016-10-06,sim,sim,sim,,,,7955a54d2,2016-10-06T14:29,,http://download.eclipse.org/releases/neon/201609281000/
+PDE,Neon.2,2016-12-07,sim,sim,,2016-11-24 14:00,build id,4.6 4.6.2,d62f33970,2016-12-07T21:15,13.3,http://download.eclipse.org/eclipse/updates/4.6-M-builds/M-4.6.2RC3-201611241400/
+PDE,Neon.3,2017-03-08,sim,sim,,2017-03-01 04:00,build id,4.6 4.6.3,ba5ec30c1,2017-03-08T13:38,7.4,http://download.eclipse.org/eclipse/updates/4.6-M-builds/M-4.6.3RC4-201703010400/
+PDE,Neon.3_respin,2017-03-14,sim,sim,sim,,,,e4bb30de8,2017-03-14T16:30,,http://download.eclipse.org/releases/neon/201703141400/
+PDE,Oxygen,2017-06-14,sim,sim,,2017-06-12 09:50,build id,4.7,a2cb6cabf,2017-06-09T04:32,-3.1,http://download.eclipse.org/eclipse/updates/4.7milestones/S-4.7RC4a-201706120950/
+PDE,Oxygen.1,2017-09-13,sim,sim,,2017-09-06 17:00,build id,4.7 4.7.1,7ef1c73e1,2017-09-13T20:00,6.9,http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.1RC4-201709061700/
+PDE,Oxygen.1a,2017-10-05,sim,sim,,2017-09-28 13:10,build id,4.7 4.7.1,39adffe24,2017-09-29T00:26,0.2,http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.1aRC2-201709281310/
+PDE,Oxygen.1a_respin,2017-10-09,sim,sim,,2017-10-09 04:10,build id,4.7 4.7.1,6806a417f,2017-10-09T11:14,0.2,http://download.eclipse.org/eclipse/updates/4.7/R-4.7.1a-201710090410/
+PDE,Oxygen.2,2017-12-06,sim,sim,,2017-11-30 05:10,build id,4.7 4.7.2,c0049a441,2017-12-05T10:45,5.2,http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.2RC4-201711300510/
+PDE,Oxygen.2_respin,2017-12-15,sim,sim,,2017-11-30 05:10,build id,4.7 4.7.2,f870b0cd7,2017-12-15T18:12,15.5,http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.2RC4-201711300510/
+PDE,Oxygen.3,2018-03-07,sim,sim,,2018-03-01 07:15,build id,4.7 4.7.3,7ab0a661f,2018-03-07T12:08,6.2,http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.3RC4-201803010715/
+PDE,PhotonM7,2018-05-17,sim,sim,,2018-05-09 20:00,build id,4.8,e7a7976df,2018-05-16T17:29,6.7,http://download.eclipse.org/eclipse/updates/4.8milestones/S-4.8M7-201805092000/
+PDE,PhotonRC4,2018-06-13,sim,sim,,2018-06-11 05:00,build id,4.8,4f2df0738,2018-06-13T09:02,2.3,http://download.eclipse.org/eclipse/updates/4.8milestones/S-4.8RC4a-201806110500/
+PDE,Photon.0,2018-06-17,sim,sim,,2018-06-11 05:00,build id,4.8,740dc50af,2018-06-14T11:08,3.0,http://download.eclipse.org/eclipse/updates/4.8milestones/S-4.8RC4a-201806110500/
+PDE,2018-09,2018-09-12,sim,sim,,2018-09-06 07:45,build id,4.9,7337e83b9,2018-09-12T17:16,6.6,http://download.eclipse.org/eclipse/updates/4.9milestones/S-4.9RC2-201809060745/
+PDE,2018-12,2018-12-12,sim,sim,,2018-12-06 08:15,build id,4.10,3978e8fc7,2018-12-12T14:12,6.5,http://download.eclipse.org/eclipse/updates/4.10milestones/S-4.10RC2-201812060815/
+PDE,2019-03,2019-03-14,sim,sim,,2019-03-07 05:00,build id,4.11,9f230ca47,2019-03-12T17:25,5.5,http://download.eclipse.org/eclipse/updates/4.11milestones/S-4.11RC2-201903070500/
+PDE,2019-06,2019-06-13,sim,sim,,2019-06-05 18:00,build id,4.12,5f12b8730,2019-06-13T10:23,7.6,http://download.eclipse.org/eclipse/updates/4.12milestones/S-4.12RC2-201906051800/
+PDE,2019-09,2019-09-16,sim,sim,,2019-09-16 10:45,build id,4.13,588335356,2019-09-16T13:43,0.0,https://download.eclipse.org/eclipse/updates/4.13milestones/S-4.13RC2a-201909161045/
+PDE,2019-12,2019-12-11,sim,sim,,2019-12-10 06:10,build id,4.14,345c70063,2019-12-11T22:30,1.6,https://download.eclipse.org/eclipse/updates/4.14milestones/S-4.14RC2a-201912100610/
+PDE,2020-03,2020-03-12,sim,sim,,2020-03-05 01:55,build id,4.15,ae6a95052,2020-03-11T11:38,6.2,https://download.eclipse.org/eclipse/updates/4.15milestones/S-4.15RC2-202003050155/
+PDE,2020-06,2020-06-10,sim,sim,,2020-06-04 05:40,build id,4.16,4c3efb60b,2020-06-10T21:32,6.4,https://download.eclipse.org/eclipse/updates/4.16milestones/S-4.16RC2-202006040540/
+PDE,2020-09,2020-09-09,sim,sim,,2020-09-02 18:00,build id,4.17,2fd512d7a,2020-09-09T04:25,6.6,https://download.eclipse.org/eclipse/updates/4.17milestones/S-4.17RC2-202009021800/
+PDE,2020-12,2020-12-09,sim,sim,,2020-12-02 18:00,build id,4.18,4cebb57d3,2020-12-09T18:03,6.8,https://download.eclipse.org/eclipse/updates/4.18milestones/S-4.18RC2-202012021800/
+PDE,2021-03,2021-03-10,sim,sim,,2021-03-03 18:00,build id,4.19,388ac40c6,2021-03-10T10:51,6.9,https://download.eclipse.org/eclipse/updates/4.19-I-builds/I20210303-1800/
+PDE,2021-06,2021-06-12,sim,sim,,2021-06-11 16:00,build id,4.20,81ef92158,2021-06-12T06:45,0.8,https://download.eclipse.org/eclipse/updates/4.20-I-builds/I20210611-1600
+PDE,2021-09,2021-09-08,sim,sim,,2021-09-06 05:00,build id,4.21,d6d829ec8,2021-09-08T07:05,2.3,https://download.eclipse.org/eclipse/updates/4.21-I-builds/I20210906-0500/
+PDE,2021-12,2021-12-02,sim,sim,,2021-11-24 18:00,build id,4.22,89a89639c,2021-12-01T17:19,7.2,https://download.eclipse.org/eclipse/updates/4.22-I-builds/I20211124-1800/
+PDE,2022-03,2022-03-15,sim,sim,,2022-03-08 03:10,build id,4.23,2ae8a6ac2,2022-03-15T03:05,7.2,https://download.eclipse.org/eclipse/updates/4.23/R-4.23-202203080310
+PDE,2022-06,2022-06-13,sim,sim,,2022-06-07 07:00,build id,4.24,36b87ff2d,2022-06-13T15:32,6.3,https://download.eclipse.org/eclipse/updates/4.24/R-4.24-202206070700/
+PDE,2022-09,2022-09-12,sim,sim,,2022-08-31 18:00,build id,4.25,a0df49dfe,2022-09-05T10:28,4.6,https://download.eclipse.org/eclipse/updates/4.25/R-4.25-202208311800/
+PDE,2022-12,2022-12-05,sim,sim,,2022-11-23 18:00,build id,4.26,e02a7a465,2022-12-01T11:34,7.6,https://download.eclipse.org/eclipse/updates/4.26/R-4.26-202211231800/
+PDE,2023-03,2023-03-29,sim,sim,,2023-03-02 03:00,build id,4.27,e1b12dfcd,2023-03-29T12:48,27.3,https://download.eclipse.org/eclipse/updates/4.27/R-4.27-202303020300
+PDE,2023-06,2023-06-13,sim,sim,,2023-06-05 04:40,build id,4.28,9690ac3e2,2023-06-13T06:22,8.0,https://download.eclipse.org/eclipse/updates/4.28/R-4.28-202306050440
+PDE,2023-09,2023-09-08,sim,sim,,2023-09-03 10:00,build id,4.29,d6bd4d742,2023-09-08T15:40,5.1,https://download.eclipse.org/eclipse/updates/4.29/R-4.29-202309031000
+PDE,2023-12,2023-12-01,sim,sim,,2023-12-01 01:10,build id,4.30,5a3eebe39,2023-12-01T06:11,0.2,https://download.eclipse.org/eclipse/updates/4.30-I-builds/I20231201-0110
+PDE,2024-03,2024-03-08,sim,sim,,2024-02-29 05:20,build id,4.31,be45b894a,2024-03-06T16:35,6.4,https://download.eclipse.org/eclipse/updates/4.31/R-4.31-202402290520
+PDE,2024-06,2024-06-10,sim,sim,,2024-06-01 06:10,build id,4.32,b0dc38abf,2024-06-09T22:14,8.6,https://download.eclipse.org/eclipse/updates/4.32/R-4.32-202406010610
+PDE,2024-09,2024-09-06,sim,sim,,2024-09-03 02:40,build id,4.33,0953a33f0,2024-09-05T14:05,2.4,https://download.eclipse.org/eclipse/updates/4.33/R-4.33-202409030240
+PDE,2024-12,2024-12-01,sim,sim,,2024-11-20 18:00,build id,4.34,bb04e28f7,2024-11-27T20:17,7.1,https://download.eclipse.org/eclipse/updates/4.34/R-4.34-202411201800
+PDE,2025-03,2025-03-06,sim,sim,,2025-02-28 01:40,build id,4.35,cbc3b1b94,2025-03-05T15:24,5.5,https://download.eclipse.org/eclipse/updates/4.35-I-builds/I20250228-0140
+PDE,2025-06,2025-06-05,sim,sim,,2025-05-28 18:30,build id,4.36,3807d8ba6,2025-06-04T17:05,6.8,https://download.eclipse.org/eclipse/updates/4.36-I-builds/I20250528-1830
+PDE,2025-09,2025-09-05,sim,sim,,2025-09-05 07:30,build id,4.37,0a4c7260e,2025-09-04T08:54,-1.0,https://download.eclipse.org/eclipse/updates/4.37-I-builds/I20250905-0730
+PDE,2025-12,2025-12-07,sim,sim,,2025-12-01 09:20,build id,4.38,df29a670c,2025-12-05T21:43,4.5,https://download.eclipse.org/eclipse/updates/4.38/R-4.38-202512010920
+PDE,2026-03,2026-03-11,sim,sim,,2026-02-26 04:20,build id,4.39,12eae51a5,2026-03-08T11:33,10.3,https://download.eclipse.org/eclipse/updates/4.39/R-4.39-202602260420
+Mylyn,JunoSR0,2012-08-03,sim,sim,,,,,33d1bc473,2012-08-03T07:56,,http://download.eclipse.org/mylyn/snapshots/juno
+Mylyn,JunoSR1,2012-09-19,sim,sim,,,,3.8,b73a9a571,2012-09-19T18:58,,http://download.eclipse.org/mylyn/snapshots/3.8
+Mylyn,JunoSR2,2013-02-24,sim,sim,,,,3.8,003b33a9a,2013-02-20T11:41,,http://download.eclipse.org/mylyn/snapshots/3.8
+Mylyn,KeplerPostRC4,2013-06-13,sim,sim,,,,3.9,dc4a6439f,2013-06-13T17:52,,http://download.eclipse.org/mylyn/snapshots/3.9
+Mylyn,KeplerSR0,2013-08-02,sim,sim,,,,3.9,0fb592ec6,2013-08-01T20:30,,http://download.eclipse.org/mylyn/snapshots/3.9
+Mylyn,KeplerSR1,2013-09-23,sim,sim,,,,3.9,f14dc2c31,2013-09-23T12:11,,http://download.eclipse.org/mylyn/snapshots/3.9
+Mylyn,LunaSR0,2014-07-29,sim,sim,,,,3.12,70939a832,2014-07-25T02:28,,http://download.eclipse.org/mylyn/snapshots/3.12
+Mylyn,z20140805-2300,2014-07-29,sim,sim,,,,3.12,70939a832,2014-07-25T02:28,,http://download.eclipse.org/mylyn/snapshots/3.12
+Mylyn,z20140806,2014-07-29,sim,sim,,,,3.12,70939a832,2014-07-25T02:28,,http://download.eclipse.org/mylyn/snapshots/3.12
+Mylyn,LunaRC4,2014-09-17,sim,sim,,,,3.13,a6c06aa49,2014-09-16T08:50,,http://download.eclipse.org/mylyn/snapshots/3.13
+Mylyn,LunaSR2,2015-03-02,sim,sim,,,,3.14,fc7865e6d,2015-02-27T12:51,,http://download.eclipse.org/mylyn/snapshots/3.14
+Mylyn,S201504150911,2015-04-15,sim,sim,,,,3.15,8e38fbf5d,2015-04-09T08:42,,http://download.eclipse.org/mylyn/snapshots/3.15
+Mylyn,Mars.1,2015-09-24,sim,sim,sim,,,,64285d788,2015-09-20T18:57,,http://download.eclipse.org/releases/mars/201509251000/
+Mylyn,Neon,2016-06-13,sim,sim,,2016-06-08 19:05,qualificador,3.20.0,fbeec07e0,2016-06-09T21:22,1.0,http://download.eclipse.org/mylyn/drops/3.20.0/v20160608-1917
+Mylyn,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,sim,,2016-09-01 17:44,qualificador,3.21.0,be0a67745,2016-09-07T13:18,6.0,http://download.eclipse.org/mylyn/drops/3.21.0/v20160907-0318
+Mylyn,Neon.1,2016-09-14,sim,sim,,2016-06-08 19:05,qualificador,3.20.0,384acbe8f,2016-09-13T22:52,97.3,http://download.eclipse.org/mylyn/drops/3.20.0/v20160608-1917
+Mylyn,Neon.1a,2016-10-06,sim,sim,sim,2016-06-08 19:05,qualificador,,572e39305,2016-10-05T17:22,119.2,http://download.eclipse.org/releases/neon/201609281000/
+Mylyn,Neon.2,2016-12-07,sim,sim,,2016-11-29 19:25,qualificador,3.21.1,9acc8ea6c,2016-12-06T10:54,7.0,http://download.eclipse.org/mylyn/drops/3.21.1/v20161129-2023
+Mylyn,Neon.3,2017-03-08,sim,sim,,2016-11-29 19:25,qualificador,3.21.1,d8c3098a2,2017-03-06T16:41,97.2,http://download.eclipse.org/mylyn/drops/3.21.1/v20161129-2023
+Mylyn,Neon.3_respin,2017-03-14,sim,sim,sim,2016-11-29 19:25,qualificador,,7b5af6ca8,2017-03-13T11:42,103.8,http://download.eclipse.org/releases/neon/201703141400/
+Mylyn,Oxygen,2017-06-14,sim,sim,,2017-06-14 19:51,qualificador,3.23.0 3.0.6,11ababb4c,2017-06-14T17:39,0.1,http://download.eclipse.org/mylyn/drops/3.23.0/v20170614-2003 | http://download.eclipse.org/mylyn/docs/releases/3.0.6
+Mylyn,Oxygen.1,2017-09-13,sim,sim,,2017-06-23 00:08,qualificador,3.23.1 3.0.6,da60acca8,2017-09-12T10:08,81.3,http://download.eclipse.org/mylyn/drops/3.23.1/v20170623-2012 | http://download.eclipse.org/mylyn/docs/releases/3.0.6
+Mylyn,Oxygen.1a,2017-10-05,sim,sim,sim,2017-06-23 00:08,qualificador,,61ba50bf5,2017-10-05T13:39,104.5,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+Mylyn,Oxygen.1a_respin,2017-10-09,sim,sim,sim,2017-06-23 00:08,qualificador,,bf3078c6f,2017-10-08T11:48,107.4,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+Mylyn,Oxygen.2,2017-12-06,sim,sim,,2017-11-17 20:00,qualificador,3.23.1 3.0.19,de0f7848e,2017-12-03T07:41,15.4,http://download.eclipse.org/mylyn/drops/3.23.1/v20170623-2012 | http://download.eclipse.org/mylyn/docs/releases/3.0.19
+Mylyn,Oxygen.2_respin,2017-12-15,sim,sim,,2017-11-17 20:00,qualificador,3.23.1 3.0.19,ff7d1f6ee,2017-12-13T14:42,26.1,http://download.eclipse.org/mylyn/drops/3.23.1/v20170623-2012 | http://download.eclipse.org/mylyn/docs/releases/3.0.19
+Mylyn,Oxygen.3,2018-03-07,sim,sim,,2017-11-17 20:00,qualificador,3.23.1 3.0.19,9cf1609da,2018-03-02T08:58,104.5,http://download.eclipse.org/mylyn/drops/3.23.1/v20170623-2012 | http://download.eclipse.org/mylyn/docs/releases/3.0.19
+Mylyn,PhotonM7,2018-05-17,sim,sim,,2018-04-03 20:55,qualificador,3.24.0,d2453b8a2,2018-05-17T06:45,43.3,http://download.eclipse.org/mylyn/drops/3.24.0/v20180418-0301
+Mylyn,PhotonRC4,2018-06-13,sim,sim,,2018-04-03 20:55,qualificador,3.24.0,8c7ddbd14,2018-06-13T22:39,71.0,http://download.eclipse.org/mylyn/drops/3.24.0/v20180613-1723
+Mylyn,Photon.0,2018-06-17,sim,sim,,2018-04-03 20:55,qualificador,3.24.0,312f9cbad,2018-06-16T08:53,73.7,http://download.eclipse.org/mylyn/drops/3.24.0/v20180613-1723
+Mylyn,2018-09,2018-09-12,sim,sim,,2018-09-05 19:07,qualificador,3.24.2,6d253795d,2018-09-12T21:31,7.0,http://download.eclipse.org/mylyn/drops/3.24.2/v20180905-2014
+Mylyn,2018-12,2018-12-12,sim,sim,,2018-09-05 19:07,qualificador,3.24.2,372e02c20,2018-12-12T10:00,98.0,http://download.eclipse.org/mylyn/drops/3.24.2/v20180905-2014
+Mylyn,2019-03,2019-03-14,sim,sim,,2018-09-05 19:07,qualificador,3.24.2,499a68217,2019-03-13T15:45,188.8,http://download.eclipse.org/mylyn/drops/3.24.2/v20180905-2014
+Mylyn,2019-06,2019-06-13,sim,sim,,2018-09-05 19:07,qualificador,3.24.2,538ad318a,2019-06-13T03:00,280.2,http://download.eclipse.org/mylyn/drops/3.24.2/v20180905-2014
+Mylyn,2019-09,2019-09-16,sim,sim,,2018-09-05 19:07,qualificador,3.24.2,2a0da6dc3,2019-09-11T22:25,371.3,https://download.eclipse.org/mylyn/drops/3.24.2/v20180905-2014
+Mylyn,2019-12,2019-12-11,sim,sim,,2018-09-05 19:07,qualificador,3.24.2,ba4b9dc67,2019-12-11T14:52,461.8,https://download.eclipse.org/mylyn/drops/3.24.2/v20180905-2014
+Mylyn,2020-03,2020-03-12,sim,sim,,2018-09-05 19:07,qualificador,3.24.2,c749931f7,2020-03-10T01:17,551.2,https://download.eclipse.org/mylyn/drops/3.24.2/v20180905-2014
+Mylyn,2020-06,2020-06-10,sim,sim,,2020-05-23 09:09,qualificador,3.25.1,04d55b69c,2020-06-09T22:07,17.5,http://download.eclipse.org/mylyn/drops/3.25.1/v20200526-0330
+Mylyn,2020-09,2020-09-09,sim,sim,,2020-08-28 16:56,qualificador,3.25.2,2fec56658,2020-09-09T01:29,11.3,https://download.eclipse.org/mylyn/drops/3.25.2/v20200831-1956
+Mylyn,2020-12,2020-12-09,sim,sim,,2020-08-28 16:56,qualificador,3.25.2,9fa7c7e12,2020-12-08T22:32,102.2,https://download.eclipse.org/mylyn/drops/3.25.2/v20200831-1956
+Mylyn,2021-03,2021-03-10,sim,sim,,2020-08-28 16:56,qualificador,3.25.2,ed45ec560,2021-03-10T16:31,193.9,https://download.eclipse.org/mylyn/drops/3.25.2/v20200831-1956
+Mylyn,2021-06,2021-06-12,sim,sim,,2020-08-28 16:56,qualificador,3.25.2,e7c49921b,2021-06-07T15:30,282.9,https://download.eclipse.org/mylyn/drops/3.25.2/v20200831-1956
+Mylyn,2021-09,2021-09-08,sim,sim,,2020-08-28 16:56,qualificador,3.25.2,147e286ce,2021-09-08T22:08,376.1,https://download.eclipse.org/mylyn/drops/3.25.2/v20200831-1956
+Mylyn,2021-12,2021-12-02,sim,sim,,2020-08-28 16:56,qualificador,3.25.2,f764298a6,2021-11-29T20:46,458.1,https://download.eclipse.org/mylyn/drops/3.25.2/v20200831-1956
+Mylyn,2022-03,2022-03-15,sim,sim,,2020-08-28 16:56,qualificador,3.25.2,2226ba734,2022-03-10T19:08,559.0,https://download.eclipse.org/mylyn/drops/3.25.2/v20200831-1956
+Mylyn,2022-06,2022-06-13,sim,NAO,,,,,fc9c054c8,2022-05-31T18:21,,
+Mylyn,2022-09,2022-09-12,sim,NAO,,,,,2ca96e093,2022-09-06T14:47,,
+Mylyn,2022-12,2022-12-05,sim,NAO,,,,,dc6e7e0fa,2022-12-05T21:11,,
+Mylyn,2023-03,2023-03-29,sim,NAO,,,,,5859be1ff,2023-03-28T12:26,,
+Mylyn,2023-06,2023-06-13,sim,sim,,2023-06-04 17:55,qualificador,3.26.1,f47e3cc56,2023-06-12T17:54,7.9,https://download.eclipse.org/mylyn/updates/release/3.26.1
+Mylyn,2023-09,2023-09-08,sim,sim,,2023-08-21 13:13,qualificador,4.0.0,fa4b85403,2023-09-03T17:56,13.1,https://download.eclipse.org/mylyn/updates/release/4.0.0
+Mylyn,2023-12,2023-12-01,sim,sim,,2023-11-25 11:25,qualificador,4.1.0,7a3c78c37,2023-12-01T05:38,5.7,https://download.eclipse.org/mylyn/updates/release/4.1.0
+Mylyn,2024-03,2024-03-08,sim,sim,,2024-03-05 18:05,qualificador,4.2.0,aa83e9d59,2024-03-05T21:05,0.0,https://download.eclipse.org/mylyn/updates/release/4.2.0
+Mylyn,2024-06,2024-06-10,sim,sim,,2024-06-02 06:03,qualificador,4.3.0,1516adba1,2024-06-08T15:05,6.7,https://download.eclipse.org/mylyn/updates/release/4.3.0
+Mylyn,2024-09,2024-09-06,sim,sim,,2024-08-28 02:18,qualificador,4.4.0,18a99edf1,2024-09-06T00:26,8.8,https://download.eclipse.org/mylyn/updates/release/4.4.0/
+Mylyn,2024-12,2024-12-01,sim,sim,,2024-10-22 17:02,qualificador,4.5.0,4ad68b147,2024-11-24T15:06,32.8,https://download.eclipse.org/mylyn/updates/release/4.5.0
+Mylyn,2025-03,2025-03-06,sim,sim,,2025-01-08 17:19,qualificador,4.6.0,2cad31ba5,2025-03-03T21:29,54.0,https://download.eclipse.org/mylyn/updates/release/4.6.0/
+Mylyn,2025-06,2025-06-05,sim,sim,,2025-05-21 08:22,qualificador,4.7.0,98630de61,2025-06-04T09:45,13.9,https://download.eclipse.org/mylyn/updates/release/4.7.0/
+Mylyn,2025-09,2025-09-05,sim,sim,,2025-08-26 12:01,qualificador,4.8.0,f5bc7635a,2025-09-03T20:47,8.2,https://download.eclipse.org/mylyn/updates/release/4.8.0/
+Mylyn,2025-12,2025-12-07,sim,sim,,2025-11-26 17:24,qualificador,4.9.0,bd9642783,2025-12-03T15:19,6.8,https://download.eclipse.org/mylyn/updates/release/4.9.0/
+Mylyn,2026-03,2026-03-11,sim,sim,,2026-01-06 18:15,qualificador,4.10.0,b383d19be,2026-03-09T11:38,61.6,https://download.eclipse.org/mylyn/updates/release/4.10.0/
+PTP,JunoSR0,2012-08-03,sim,sim,,2012-05-25 22:05,qualificador,,f2224498e,2012-08-02T14:05,68.9,http://download.eclipse.org/tools/ptp/builds/juno/milestones
+PTP,JunoSR1,2012-09-19,sim,sim,,2012-05-25 22:05,qualificador,,f9f341ba3,2012-09-17T23:22,115.3,http://download.eclipse.org/tools/ptp/builds/juno/milestones
+PTP,JunoSR2,2013-02-24,sim,sim,,,,,eee148177,2013-02-22T08:30,,http://download.eclipse.org/tools/ptp/builds/juno/milestones/SR2
+PTP,KeplerPostRC4,2013-06-13,sim,sim,,,,,9e0a662fa,2013-06-12T18:31,,http://download.eclipse.org/tools/ptp/builds/kepler/milestones/RC4
+PTP,KeplerSR0,2013-08-02,sim,sim,,,,,cf9e7c11a,2013-08-01T13:16,,http://download.eclipse.org/tools/ptp/builds/kepler/milestones/RC4
+PTP,KeplerSR1,2013-09-23,sim,sim,,,,,5663cb84f,2013-09-23T16:35,,http://download.eclipse.org/tools/ptp/updates/kepler
+PTP,LunaSR0,2014-07-29,sim,sim,,,,,ce3393390,2014-07-28T14:08,,http://download.eclipse.org/tools/ptp/builds/luna/milestones/RC4 | http://download.eclipse.org/tools/ptp/builds/remote/luna/milestones/RC2
+PTP,z20140805-2300,2014-07-29,sim,sim,,,,,ce3393390,2014-07-28T14:08,,http://download.eclipse.org/tools/ptp/builds/luna/milestones/RC4 | http://download.eclipse.org/tools/ptp/builds/remote/luna/milestones/RC2
+PTP,z20140806,2014-07-29,sim,sim,,,,,ce3393390,2014-07-28T14:08,,http://download.eclipse.org/tools/ptp/builds/luna/milestones/RC4 | http://download.eclipse.org/tools/ptp/builds/remote/luna/milestones/RC2
+PTP,LunaRC4,2014-09-17,sim,sim,,,,,98a56faf0,2014-09-15T13:47,,http://download.eclipse.org/tools/ptp/builds/luna/milestones/SR1 | http://download.eclipse.org/tools/ptp/builds/remote/luna/milestones/SR1
+PTP,LunaSR2,2015-03-02,sim,sim,,,,,cad812bfc,2015-02-18T19:37,,http://download.eclipse.org/tools/ptp/builds/luna/milestones | http://download.eclipse.org/tools/ptp/builds/remote/luna/milestones
+PTP,S201504150911,2015-04-15,sim,sim,,,,,640630c85,2015-04-07T09:29,,http://download.eclipse.org/tools/ptp/builds/mars/milestones | http://download.eclipse.org/tools/ptp/builds/remote/mars/milestones
+PTP,Mars.1,2015-09-24,sim,sim,sim,,,,d29bd0001,2015-09-19T13:57,,http://download.eclipse.org/releases/mars/201509251000/ | http://download.eclipse.org/releases/mars/201509251000/
+PTP,Neon,2016-06-13,sim,sim,,,,,9259d0a14,2016-06-02T11:14,,http://download.eclipse.org/tools/ptp/builds/neon/milestones/RC3 | http://download.eclipse.org/tools/ptp/builds/remote/neon/milestones/RC2
+PTP,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,sim,,,,,5159d58c7,2016-09-02T12:00,,http://download.eclipse.org/tools/ptp/builds/oxygen/milestones/M1 | http://download.eclipse.org/tools/ptp/builds/remote/oxygen/milestones/M1
+PTP,Neon.1,2016-09-14,sim,sim,,,,,5159d58c7,2016-09-02T12:00,,http://download.eclipse.org/tools/ptp/builds/neon/milestones/UR1-RC3 | http://download.eclipse.org/tools/ptp/builds/remote/neon/milestones/UR1-RC3
+PTP,Neon.1a,2016-10-06,sim,sim,sim,,,,5159d58c7,2016-09-02T12:00,,http://download.eclipse.org/releases/neon/201609281000/ | http://download.eclipse.org/releases/neon/201609281000/
+PTP,Neon.2,2016-12-07,sim,sim,,,,,7ae28fae8,2016-12-07T10:04,,http://download.eclipse.org/tools/ptp/builds/neon/milestones/UR2-RC4 | http://download.eclipse.org/tools/ptp/builds/remote/neon/milestones/UR2-RC4
+PTP,Neon.3,2017-03-08,sim,sim,,,,,f63cfee53,2017-02-14T16:55,,http://download.eclipse.org/tools/ptp/builds/neon/milestones/UR3-RC2 | http://download.eclipse.org/tools/ptp/builds/remote/neon/milestones/UR2-RC4
+PTP,Neon.3_respin,2017-03-14,sim,sim,sim,,,,f63cfee53,2017-02-14T16:55,,http://download.eclipse.org/releases/neon/201703141400/ | http://download.eclipse.org/releases/neon/201703141400/
+PTP,Oxygen,2017-06-14,sim,sim,,,,,2b945b3f0,2017-05-09T12:51,,http://download.eclipse.org/tools/ptp/builds/oxygen/milestones/M7 | http://download.eclipse.org/tools/ptp/builds/remote/oxygen/milestones/RC3
+PTP,Oxygen.1,2017-09-13,sim,sim,,,,,9b58f4f94,2017-08-29T22:17,,http://download.eclipse.org/tools/ptp/builds/oxygen/milestones/1.RC2 | http://download.eclipse.org/tools/ptp/builds/remote/oxygen/milestones/RC3
+PTP,Oxygen.1a,2017-10-05,sim,sim,sim,,,,9b58f4f94,2017-08-29T22:17,,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+PTP,Oxygen.1a_respin,2017-10-09,sim,sim,sim,,,,9b58f4f94,2017-08-29T22:17,,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+PTP,Oxygen.2,2017-12-06,sim,sim,,,,,9b58f4f94,2017-08-29T22:17,,http://download.eclipse.org/tools/ptp/builds/oxygen/milestones/1.RC2 | http://download.eclipse.org/tools/ptp/builds/remote/oxygen/milestones/RC3
+PTP,Oxygen.2_respin,2017-12-15,sim,sim,,,,,9b58f4f94,2017-08-29T22:17,,http://download.eclipse.org/tools/ptp/builds/oxygen/milestones/1.RC2 | http://download.eclipse.org/tools/ptp/builds/remote/oxygen/milestones/RC3
+PTP,Oxygen.3,2018-03-07,sim,sim,,,,,dd13c35f4,2018-02-22T13:49,,http://download.eclipse.org/tools/ptp/builds/oxygen/milestones/3.RC4 | http://download.eclipse.org/tools/ptp/builds/remote/oxygen/milestones/3.RC4
+PTP,PhotonM7,2018-05-17,sim,sim,,,,,1248d7cd8,2018-05-15T22:01,,http://download.eclipse.org/tools/ptp/builds/photon/milestones/M6 | http://download.eclipse.org/tools/ptp/builds/remote/photon/milestones/M6
+PTP,PhotonRC4,2018-06-13,sim,sim,,,,,40bcb0ece,2018-06-07T11:26,,http://download.eclipse.org/tools/ptp/builds/photon/milestones/RC2 | http://download.eclipse.org/tools/ptp/builds/remote/photon/milestones/M6
+PTP,Photon.0,2018-06-17,sim,sim,,,,,40bcb0ece,2018-06-07T11:26,,http://download.eclipse.org/tools/ptp/builds/photon/milestones/RC2 | http://download.eclipse.org/tools/ptp/builds/remote/photon/milestones/M6
+PTP,2018-09,2018-09-12,sim,sim,,,,,40bcb0ece,2018-06-07T11:26,,http://download.eclipse.org/tools/ptp/builds/photon/milestones/RC2 | http://download.eclipse.org/tools/ptp/builds/remote/photon/milestones/M6
+PTP,2018-12,2018-12-12,sim,sim,,,,,e0083dcb1,2018-11-20T14:53,,http://download.eclipse.org/tools/ptp/builds/photon/milestones/2018-12-M3 | http://download.eclipse.org/tools/ptp/builds/remote/photon/milestones/M6
+PTP,2019-03,2019-03-14,sim,sim,,,,,047aee100,2019-02-20T07:40,,http://download.eclipse.org/tools/ptp/builds/photon/milestones/2019-03-M2 | http://download.eclipse.org/tools/ptp/builds/remote/photon/milestones/2019-03-M1
+PTP,2019-06,2019-06-13,sim,sim,,,,,1158a49b8,2019-06-06T14:15,,http://download.eclipse.org/tools/ptp/builds/photon/milestones/2019-06-RC1 | http://download.eclipse.org/tools/ptp/builds/remote/photon/milestones/2019-06-M3
+PTP,2019-09,2019-09-16,sim,sim,,,,,9bf4c1d7f,2019-09-10T10:10,,https://download.eclipse.org/tools/ptp/builds/photon/milestones/2019-09-RC2 | https://download.eclipse.org/tools/ptp/builds/remote/photon/milestones/2019-09-RC1
+PTP,2019-12,2019-12-11,sim,sim,,,,,efdadc851,2019-12-11T14:35,,https://download.eclipse.org/tools/ptp/builds/photon/milestones/2019-12-RC2/ | https://download.eclipse.org/tools/ptp/builds/remote/photon/milestones/2019-09-RC1
+PTP,2020-03,2020-03-12,sim,sim,,,,9.4 3.0,de7d0f00a,2020-03-11T19:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2020-03-M2a | https://download.eclipse.org/tools/ptp/builds/remote/3.0/2020-03-M2
+PTP,2020-06,2020-06-10,sim,sim,,,,9.4 9.4.0 3.0 3.0.1,de7d0f00a,2020-03-11T19:56,,https://download.eclipse.org/tools/ptp/releases/9.4/ptp-9.4.0 | https://download.eclipse.org/tools/ptp/remote/releases/3.0/remote-3.0.1
+PTP,2020-09,2020-09-09,sim,sim,,,,9.4 9.4.0 3.0 3.0.1,de7d0f00a,2020-03-11T19:56,,https://download.eclipse.org/tools/ptp/releases/9.4/ptp-9.4.0 | https://download.eclipse.org/tools/ptp/remote/releases/3.0/remote-3.0.1
+PTP,2020-12,2020-12-09,sim,sim,,,,9.4 9.4.0 3.0 3.0.1,de7d0f00a,2020-03-11T19:56,,https://download.eclipse.org/tools/ptp/releases/9.4/ptp-9.4.0 | https://download.eclipse.org/tools/ptp/remote/releases/3.0/remote-3.0.1
+PTP,2021-03,2021-03-10,sim,sim,,,,9.4 9.4.0 3.0 3.0.1,de7d0f00a,2020-03-11T19:56,,https://download.eclipse.org/tools/ptp/releases/9.4/ptp-9.4.0 | https://download.eclipse.org/tools/ptp/remote/releases/3.0/remote-3.0.1
+PTP,2021-06,2021-06-12,sim,sim,,,,9.4 9.4.0 3.0 3.0.1,de7d0f00a,2020-03-11T19:56,,https://download.eclipse.org/tools/ptp/releases/9.4/ptp-9.4.0 | https://download.eclipse.org/tools/ptp/remote/releases/3.0/remote-3.0.1
+PTP,2021-09,2021-09-08,sim,sim,,,,9.4 3.0,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09 | https://download.eclipse.org/tools/ptp/builds/remote/3.0/2021-09
+PTP,2021-12,2021-12-02,sim,sim,,,,9.4 3.0,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09 | https://download.eclipse.org/tools/ptp/builds/remote/3.0/2021-09
+PTP,2022-03,2022-03-15,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2022-06,2022-06-13,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2022-09,2022-09-12,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2022-12,2022-12-05,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2023-03,2023-03-29,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2023-06,2023-06-13,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2023-09,2023-09-08,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2023-12,2023-12-01,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2024-03,2024-03-08,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2024-06,2024-06-10,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2024-09,2024-09-06,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2024-12,2024-12-01,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2025-03,2025-03-06,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2025-06,2025-06-05,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2025-09,2025-09-05,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2025-12,2025-12-07,sim,sim,,,,9.4,47cda24d7,2021-08-31T17:56,,https://download.eclipse.org/tools/ptp/builds/9.4/2021-09
+PTP,2026-03,2026-03-11,NAO,NAO,,,,,47cda24d7,2021-08-31T17:56,,
+RAP,JunoSR0,2012-08-03,sim,sim,,2012-06-13 14:25,build id,1.5,8d7992a56,2012-08-02T15:55,49.9,http://download.eclipse.org/rt/rap/1.5/tooling/RC4-20120613-1425/ | http://download.eclipse.org/rt/rap/1.5/runtime/RC4-20120612-1458/
+RAP,JunoSR1,2012-09-19,sim,sim,,2012-09-17 11:38,build id,1.5,cfe264928,2012-09-19T18:09,2.2,http://download.eclipse.org/rt/rap/1.5/tooling/SR1-RC4-20120917-1138/ | http://download.eclipse.org/rt/rap/1.5/runtime/SR1-RC4-20120917-1130/
+RAP,JunoSR2,2013-02-24,sim,sim,,2013-02-05 20:30,build id,1.5,48356638e,2013-02-22T18:49,16.9,http://download.eclipse.org/rt/rap/1.5/tooling/SR2-RC3-20130205-2030/ | http://download.eclipse.org/rt/rap/1.5/runtime/SR2-RC3-20130205-2012/
+RAP,KeplerPostRC4,2013-06-13,sim,sim,,2013-06-11 21:39,build id,2.1,69a31335c,2013-06-13T15:16,1.6,http://download.eclipse.org/rt/rap/tools/2.1/RC4-20130610-1332/ | http://download.eclipse.org/rt/rap/2.1/RC4-20130611-2139/
+RAP,KeplerSR0,2013-08-02,sim,sim,,2013-06-11 21:39,build id,2.1,9a1e7584b,2013-08-02T13:51,51.6,http://download.eclipse.org/rt/rap/tools/2.1/RC4-20130610-1332/ | http://download.eclipse.org/rt/rap/2.1/RC4-20130611-2139/
+RAP,KeplerSR1,2013-09-23,sim,sim,,2013-09-02 13:45,build id,2.1,7ccd138f0,2013-09-23T14:18,20.9,http://download.eclipse.org/rt/rap/tools/2.1/SR1-RC3-20130902-1312/ | http://download.eclipse.org/rt/rap/2.1/SR1-RC3-20130902-1345/
+RAP,LunaSR0,2014-07-29,sim,sim,,2014-06-10 09:25,build id,2.3,b3f4e97a7,2014-07-29T12:11,49.0,http://download.eclipse.org/rt/rap/tools/2.3/R-20140609-1345/ | http://download.eclipse.org/rt/rap/2.3/R-20140610-0925/
+RAP,z20140805-2300,2014-07-29,sim,sim,,2014-06-10 09:25,build id,2.3,b3f4e97a7,2014-07-29T12:11,49.0,http://download.eclipse.org/rt/rap/tools/2.3/R-20140609-1345/ | http://download.eclipse.org/rt/rap/2.3/R-20140610-0925/
+RAP,z20140806,2014-07-29,sim,sim,,2014-06-10 09:25,build id,2.3,b3f4e97a7,2014-07-29T12:11,49.0,http://download.eclipse.org/rt/rap/tools/2.3/R-20140609-1345/ | http://download.eclipse.org/rt/rap/2.3/R-20140610-0925/
+RAP,LunaRC4,2014-09-17,sim,sim,,2014-09-16 07:16,build id,2.3,435ec43f1,2014-09-16T08:32,0.2,http://download.eclipse.org/rt/rap/tools/2.3/SR1-RC4-20140916-0716/ | http://download.eclipse.org/rt/rap/2.3/SR1-RC4-20140909-1638/
+RAP,LunaSR2,2015-03-02,sim,sim,,2015-02-10 17:43,build id,2.3,b8d27cdf3,2015-02-27T10:07,16.9,http://download.eclipse.org/rt/rap/tools/2.3/SR2-20150210-1743/ | http://download.eclipse.org/rt/rap/2.3/SR2-20150128-1013/
+RAP,S201504150911,2015-04-15,sim,sim,,2015-03-24 09:43,build id,3.0,499fcb2cc,2015-04-14T03:06,20.9,http://download.eclipse.org/rt/rap/tools/3.0/M6-20150323-2018/ | http://download.eclipse.org/rt/rap/3.0/M6-20150324-0943/
+RAP,Mars.1,2015-09-24,sim,sim,sim,,,,acd83df13,2015-09-22T08:47,,http://download.eclipse.org/releases/mars/201509251000/ | http://download.eclipse.org/releases/mars/201509251000/
+RAP,Neon,2016-06-13,sim,sim,,2016-06-08 07:34,build id,3.1,ae731db6b,2016-06-07T10:45,-0.7,http://download.eclipse.org/rt/rap/tools/3.1/RC4-20160608-0734/ | http://download.eclipse.org/rt/rap/3.1/RC4-20160607-1451/
+RAP,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,sim,,2016-08-11 09:17,build id,3.2,27bd3cd21,2016-09-07T06:06,27.0,http://download.eclipse.org/rt/rap/tools/3.2/M1-20160811-0859/ | http://download.eclipse.org/rt/rap/3.2/M1-20160811-0917/
+RAP,Neon.1,2016-09-14,sim,sim,,2016-09-13 04:51,build id,3.1,4f624cae8,2016-09-13T11:54,0.2,http://download.eclipse.org/rt/rap/tools/3.1/SR1-RC4-20160913-0451/ | http://download.eclipse.org/rt/rap/3.1/SR1-RC4-20160913-0447/
+RAP,Neon.1a,2016-10-06,sim,sim,sim,,,,c5cd709d4,2016-09-28T11:44,,http://download.eclipse.org/releases/neon/201609281000/ | http://download.eclipse.org/releases/neon/201609281000/
+RAP,Neon.2,2016-12-07,sim,sim,,2016-11-30 13:01,build id,3.1,220db1c06,2016-11-30T07:27,-0.0,http://download.eclipse.org/rt/rap/tools/3.1/SR2-20161130-1301/ | http://download.eclipse.org/rt/rap/3.1/SR2-20161130-1241/
+RAP,Neon.3,2017-03-08,sim,sim,,2017-03-08 21:59,build id,3.1,b475508ab,2017-03-08T22:36,-0.0,http://download.eclipse.org/rt/rap/tools/3.1/SR2a-RC4-20170308-1945/ | http://download.eclipse.org/rt/rap/3.1/SR2a-RC4-20170308-2159/
+RAP,Neon.3_respin,2017-03-14,sim,sim,sim,,,,b475508ab,2017-03-08T22:36,,http://download.eclipse.org/releases/neon/201703141400/ | http://download.eclipse.org/releases/neon/201703141400/
+RAP,Oxygen,2017-06-14,sim,sim,,2017-06-14 16:59,build id,3.2,e674cd0de,2017-06-13T13:48,-1.2,http://download.eclipse.org/rt/rap/tools/3.2/RC4-20170614-1659/ | http://download.eclipse.org/rt/rap/3.2/RC4-20170614-1509/
+RAP,Oxygen.1,2017-09-13,sim,sim,,2017-09-13 21:00,build id,3.3,f62bd5892,2017-09-13T19:12,-0.2,http://download.eclipse.org/rt/rap/tools/3.3/RC4-20170913-2030/ | http://download.eclipse.org/rt/rap/3.3/RC4-20170913-2100/
+RAP,Oxygen.1a,2017-10-05,sim,sim,sim,,,,f62bd5892,2017-09-13T19:12,,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+RAP,Oxygen.1a_respin,2017-10-09,sim,sim,sim,,,,f62bd5892,2017-09-13T19:12,,http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+RAP,Oxygen.2,2017-12-06,sim,sim,,2017-12-04 16:37,build id,3.4,a719a6f40,2017-12-05T18:36,1.0,http://download.eclipse.org/rt/rap/tools/3.4/RC4-oxygen-20171204-1620/ | http://download.eclipse.org/rt/rap/3.4/RC4-oxygen-20171204-1637/
+RAP,Oxygen.2_respin,2017-12-15,sim,sim,,2017-12-04 16:37,build id,3.4,86879549f,2017-12-13T02:35,8.6,http://download.eclipse.org/rt/rap/tools/3.4/RC4-oxygen-20171204-1620/ | http://download.eclipse.org/rt/rap/3.4/RC4-oxygen-20171204-1637/
+RAP,Oxygen.3,2018-03-07,sim,sim,,2018-03-06 10:10,build id,3.4,c62d0def5,2018-03-05T18:25,-0.7,http://download.eclipse.org/rt/rap/tools/3.4/SR1-20180306-1010/ | http://download.eclipse.org/rt/rap/3.4/SR1-20180306-0817/
+RAP,PhotonM7,2018-05-17,sim,sim,,2018-03-13 06:09,build id,3.5,26cc0b441,2018-05-17T08:44,65.3,http://download.eclipse.org/rt/rap/3.5/M2-20180313-0609/
+RAP,PhotonRC4,2018-06-13,sim,sim,,2018-06-13 17:25,build id,3.5,167669701,2018-06-13T12:00,-0.2,http://download.eclipse.org/rt/rap/tools/3.5/RC4-20180613-1714/ | http://download.eclipse.org/rt/rap/3.5/RC4-20180613-1725/
+RAP,Photon.0,2018-06-17,sim,sim,,2018-06-13 17:25,build id,3.5,167669701,2018-06-13T12:00,-0.2,http://download.eclipse.org/rt/rap/tools/3.5/RC4-20180613-1714/ | http://download.eclipse.org/rt/rap/3.5/RC4-20180613-1725/
+RAP,2018-09,2018-09-12,sim,sim,,2018-09-12 10:17,build id,3.6,89b5b79f0,2018-09-12T10:20,-0.1,http://download.eclipse.org/rt/rap/tools/3.6/RC2-20180912-1003/ | http://download.eclipse.org/rt/rap/3.6/RC2-20180912-1017/
+RAP,2018-12,2018-12-12,sim,sim,,2018-12-12 14:10,build id,3.7,11f27e535,2018-12-12T14:38,-0.0,http://download.eclipse.org/rt/rap/tools/3.7/RC2-20181212-1359/ | http://download.eclipse.org/rt/rap/3.7/RC2-20181212-1410/
+RAP,2019-03,2019-03-14,sim,sim,,2019-03-13 10:10,build id,3.8,c669a5fa7,2019-03-13T10:24,-0.0,http://download.eclipse.org/rt/rap/tools/3.8/RC2-20190313-0941/ | http://download.eclipse.org/rt/rap/3.8/RC2-20190313-1010/
+RAP,2019-06,2019-06-13,sim,sim,,2019-06-12 17:20,build id,3.9,212d38cab,2019-06-12T18:44,-0.0,http://download.eclipse.org/rt/rap/tools/3.9/RC2-20190612-1701/ | http://download.eclipse.org/rt/rap/3.9/RC2-20190612-1720/
+RAP,2019-09,2019-09-16,sim,sim,,2019-09-11 15:24,build id,3.10,052ecd73a,2019-09-11T07:32,-0.4,https://download.eclipse.org/rt/rap/tools/3.10/RC2-20190911-1514/ | https://download.eclipse.org/rt/rap/3.10/RC2-20190911-1524/
+RAP,2019-12,2019-12-11,sim,sim,,2019-12-11 16:51,build id,3.11,ddaca2285,2019-12-11T12:00,-0.2,https://download.eclipse.org/rt/rap/tools/3.11/RC2-20191211-1651/ | https://download.eclipse.org/rt/rap/3.11/RC2-20191211-1651/
+RAP,2020-03,2020-03-12,sim,sim,,2020-03-09 23:37,build id,3.12,1902b93e3,2020-03-09T12:00,-0.5,https://download.eclipse.org/rt/rap/tools/3.12/RC2-20200309-2335/ | https://download.eclipse.org/rt/rap/3.12/RC2-20200309-2337/
+RAP,2020-06,2020-06-10,sim,sim,,2020-06-10 10:08,build id,3.13,697acf7c0,2020-06-10T12:00,0.1,https://download.eclipse.org/rt/rap/tools/3.13/RC2-20200610-0959/ | https://download.eclipse.org/rt/rap/3.13/RC2-20200610-1008/
+RAP,2020-09,2020-09-09,sim,sim,,2020-09-08 23:40,build id,3.14,d6216afa3,2020-09-04T12:00,-4.5,https://download.eclipse.org/rt/rap/tools/3.14/RC2-20200908-2335/ | https://download.eclipse.org/rt/rap/3.14/RC2-20200908-2340/
+RAP,2020-12,2020-12-09,sim,sim,,2020-12-09 13:55,build id,3.15,aeb87f3e7,2020-12-09T08:05,-0.0,https://download.eclipse.org/rt/rap/tools/3.15/RC2-20201209-1355/ | https://download.eclipse.org/rt/rap/3.15/RC2-20201209-1320/
+RAP,2021-03,2021-03-10,sim,sim,,2021-03-10 00:41,build id,3.16,30a40e909,2021-03-10T17:44,0.7,https://download.eclipse.org/rt/rap/tools/3.16/RC2-20210310-0036/ | https://download.eclipse.org/rt/rap/3.16/RC2-20210310-0041/
+RAP,2021-06,2021-06-12,sim,sim,,2021-06-12 09:10,build id,3.17,eaf54ab41,2021-06-12T12:00,0.1,https://download.eclipse.org/rt/rap/tools/3.17/RC2b-20210612-0910/ | https://download.eclipse.org/rt/rap/3.17/RC2b-20210612-0910/
+RAP,2021-09,2021-09-08,sim,sim,,2021-09-08 08:24,build id,3.18,8200789af,2021-09-08T12:00,0.1,https://download.eclipse.org/rt/rap/tools/3.18/RC2-20210908-0824/ | https://download.eclipse.org/rt/rap/3.18/RC2-20210908-0824/
+RAP,2021-12,2021-12-02,sim,sim,,2021-11-30 19:34,build id,3.19,932eee666,2021-11-30T12:00,-0.3,https://download.eclipse.org/rt/rap/tools/3.19/RC2-20211130-1934/ | https://download.eclipse.org/rt/rap/3.19/RC2-20211130-1934/
+RAP,2022-03,2022-03-15,sim,sim,,2022-03-09 16:23,build id,3.20,94359132b,2022-03-14T12:00,4.8,https://download.eclipse.org/rt/rap/tools/3.20/R-20220309-1623/ | https://download.eclipse.org/rt/rap/3.20/R-20220309-1623/
+RAP,2022-06,2022-06-13,sim,sim,,2022-06-08 12:22,build id,3.21,5d5a818c1,2022-06-13T12:00,5.0,https://download.eclipse.org/rt/rap/tools/3.21/R-20220608-1222/ | https://download.eclipse.org/rt/rap/3.21/R-20220608-1222/
+RAP,2022-09,2022-09-12,sim,sim,,2022-09-06 09:13,build id,3.22,a5f857db0,2022-09-09T12:00,3.1,https://download.eclipse.org/rt/rap/tools/3.22/RC2-20220906-0913/ | https://download.eclipse.org/rt/rap/3.22/RC2-20220906-0913/
+RAP,2022-12,2022-12-05,sim,sim,,2022-11-30 07:16,build id,3.23,5a3a92b3b,2022-11-30T12:00,0.2,https://download.eclipse.org/rt/rap/tools/3.23/R-20221130-0716/ | https://download.eclipse.org/rt/rap/3.23/R-20221130-0716/
+RAP,2023-03,2023-03-29,sim,sim,,2023-03-08 09:17,build id,3.24,a1d8ac402,2023-03-14T14:40,6.2,https://download.eclipse.org/rt/rap/tools/3.24/R-20230308-0917/ | https://download.eclipse.org/rt/rap/3.24/R-20230308-0917/
+RAP,2023-06,2023-06-13,sim,sim,,2023-06-07 14:11,build id,3.25,a8ffd5a28,2023-06-07T12:00,-0.1,https://download.eclipse.org/rt/rap/tools/3.25/RC2-20230607-1411/ | https://download.eclipse.org/rt/rap/3.25/RC2-20230607-1411/
+RAP,2023-09,2023-09-08,sim,sim,,2023-09-06 12:32,build id,3.26,7af35116e,2023-09-06T12:00,-0.0,https://download.eclipse.org/rt/rap/tools/3.26/RC2-20230906-1232/ | https://download.eclipse.org/rt/rap/3.26/RC2-20230906-1232/
+RAP,2023-12,2023-12-01,sim,sim,,2023-11-29 00:36,build id,3.27,fd87bdc6c,2023-11-30T19:31,1.7,https://download.eclipse.org/rt/rap/tools/3.27/RC2-20231129-0036/ | https://download.eclipse.org/rt/rap/3.27/RC2-20231129-0035/
+RAP,2024-03,2024-03-08,sim,sim,,2024-03-06 14:17,build id,3.28,7c324570f,2024-03-06T12:00,-0.1,https://download.eclipse.org/rt/rap/tools/3.28/RC2-20240306-1417/ | https://download.eclipse.org/rt/rap/3.28/RC2-20240306-1417/
+RAP,2024-06,2024-06-10,sim,sim,,2024-06-05 16:15,build id,3.29,7c52e752d,2024-06-10T12:00,4.8,https://download.eclipse.org/rt/rap/tools/3.29/RC2-20240605-1615/ | https://download.eclipse.org/rt/rap/3.29/RC2-20240605-1615/
+RAP,2024-09,2024-09-06,sim,sim,,2024-09-04 07:17,build id,4.0,1fbb6fb10,2024-09-04T12:00,0.2,https://download.eclipse.org/rt/rap/tools/4.0/RC2-20240904-0717/ | https://download.eclipse.org/rt/rap/4.0/RC2-20240904-0717/
+RAP,2024-12,2024-12-01,sim,sim,,2024-11-27 15:23,build id,4.1,9e4918411,2024-11-27T12:00,-0.1,https://download.eclipse.org/rt/rap/tools/4.1/RC2-20241127-1523/ | https://download.eclipse.org/rt/rap/4.1/RC2-20241127-1523/
+RAP,2025-03,2025-03-06,sim,sim,,2025-03-03 09:02,build id,4.2,70ab208bf,2025-03-03T12:00,0.1,https://download.eclipse.org/rt/rap/tools/4.2/RC2-20250303-0901/ | https://download.eclipse.org/rt/rap/4.2/RC2-20250303-0902/
+RAP,2025-06,2025-06-05,sim,sim,,2025-06-01 23:35,build id,4.3,82edfd5b3,2025-05-30T12:00,-2.5,https://download.eclipse.org/rt/rap/tools/4.3/RC2-20250601-2335/ | https://download.eclipse.org/rt/rap/4.3/RC2-20250601-2335/
+RAP,2025-09,2025-09-05,sim,sim,,2025-08-29 07:03,build id,4.4,871102254,2025-08-29T12:00,0.2,https://download.eclipse.org/rt/rap/tools/4.4/RC2-20250829-0703/
+RAP,2025-12,2025-12-07,sim,sim,,2025-12-03 13:50,build id,4.5,b7d137b32,2025-12-03T12:00,-0.1,https://download.eclipse.org/rt/rap/tools/4.5/RC2-20251203-1350/
+RAP,2026-03,2026-03-11,sim,sim,,2026-03-03 17:49,build id,4.6,2d9a81d44,2026-03-03T12:00,-0.2,https://download.eclipse.org/rt/rap/tools/4.6/RC2-20260303-1749/
+Scout,JunoSR0,2012-08-03,sim,sim,,,,3.8 3.8.0,85a8580d4,2012-08-03T16:28,,http://download.eclipse.org/scout/releases/3.8/3.8.0/RC420120613-0843/update
+Scout,JunoSR1,2012-09-19,sim,sim,,,,3.8 3.8.1,0040c8220,2012-09-18T15:36,,http://download.eclipse.org/scout/releases/3.8/3.8.1/RC420120917-1521/update
+Scout,JunoSR2,2013-02-24,sim,sim,,,,3.8 3.8.2,53b87bda4,2013-02-22T16:47,,http://download.eclipse.org/scout/releases/3.8/3.8.2/RC420130211-1336/update
+Scout,KeplerPostRC4,2013-06-13,sim,sim,,2013-06-12 04:52,build id,3.9 3.9.0,20249e0a1,2013-06-12T04:50,0.2,http://download.eclipse.org/scout/releases/3.9/3.9.0/scout.main/RC4-20130612-0452
+Scout,KeplerSR0,2013-08-02,sim,sim,,2013-06-12 04:52,build id,3.9 3.9.0,946d6736b,2013-08-02T11:01,51.2,http://download.eclipse.org/scout/releases/3.9/3.9.0/scout.main/RC4-20130612-0452
+Scout,KeplerSR1,2013-09-23,sim,sim,,2013-09-18 04:08,build id,3.9 3.9.1,686209592,2013-09-23T08:40,5.4,http://download.eclipse.org/scout/releases/3.9/3.9.1/scout.main/RC4-20130918-0408
+Scout,LunaSR0,2014-07-29,sim,sim,,2014-06-11 09:50,build id,4.0 4.0.0,276597d97,2014-07-29T04:21,47.9,http://download.eclipse.org/scout/releases/4.0/4.0.0/scout.main/RC4-20140611-0950
+Scout,z20140805-2300,2014-07-29,sim,sim,,2014-06-11 09:50,build id,4.0 4.0.0,276597d97,2014-07-29T04:21,47.9,http://download.eclipse.org/scout/releases/4.0/4.0.0/scout.main/RC4-20140611-0950
+Scout,z20140806,2014-07-29,sim,sim,,2014-06-11 09:50,build id,4.0 4.0.0,276597d97,2014-07-29T04:21,47.9,http://download.eclipse.org/scout/releases/4.0/4.0.0/scout.main/RC4-20140611-0950
+Scout,LunaRC4,2014-09-17,sim,sim,,2014-09-17 05:47,build id,4.0 4.0.1,654bfa1da,2014-09-17T14:41,0.3,http://download.eclipse.org/scout/releases/4.0/4.0.1/scout.main/RC4-20140917-0547
+Scout,LunaSR2,2015-03-02,sim,sim,,2015-02-18 08:30,build id,4.0 4.0.200,a2ba392de,2015-03-01T13:33,11.4,http://download.eclipse.org/scout/releases/4.0/4.0.200/scout.main/RC4-20150218-0830
+Scout,S201504150911,2015-04-15,sim,sim,,2015-03-25 09:39,build id,4.3 4.3.0,514077db6,2015-04-15T14:50,21.1,http://download.eclipse.org/scout/releases/4.3/4.3.0/scout.main/M6-20150325-0939
+Scout,Mars.1,2015-09-24,sim,sim,sim,,,,ebd04590c,2015-09-23T18:30,,http://download.eclipse.org/releases/mars/201509251000/
+Scout,Neon,2016-06-13,sim,sim,,,,6.0 6.0.0,56e337fff,2016-06-13T17:51,,http://download.eclipse.org/scout/releases/6.0/6.0.0/RC4/
+Scout,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,NAO,,,,,9afff5af6,2016-09-07T18:15,,
+Scout,Neon.1,2016-09-14,sim,sim,,,,6.0 6.0.100,6edd40db1,2016-09-14T22:08,,http://download.eclipse.org/scout/releases/6.0/6.0.100/RC4/
+Scout,Neon.1a,2016-10-06,sim,sim,sim,,,,6372660ac,2016-10-06T08:53,,http://download.eclipse.org/releases/neon/201609281000/
+Scout,Neon.2,2016-12-07,sim,sim,,,,6.0 6.0.200,de2bcb865,2016-12-07T19:18,,http://download.eclipse.org/scout/releases/6.0/6.0.200/0/
+Scout,Neon.3,2017-03-08,sim,sim,,,,6.0 6.0.300,8019ab141,2017-03-08T20:36,,http://download.eclipse.org/scout/releases/6.0/6.0.300/6.0.300.RC2/
+Scout,Neon.3_respin,2017-03-14,sim,sim,sim,,,,c27be51c0,2017-03-14T11:26,,http://download.eclipse.org/releases/neon/201703141400/
+Scout,Oxygen,2017-06-14,sim,sim,,,,7.0 7.0.0,eefab421e,2017-06-14T11:05,,http://download.eclipse.org/scout/releases/7.0/7.0.0/008_Oxygen/
+Scout,Oxygen.1,2017-09-13,sim,sim,,,,7.0 7.0.100,96b39ed14,2017-09-13T20:16,,http://download.eclipse.org/scout/releases/7.0/7.0.100/017_Oxygen_1/
+Scout,Oxygen.1a,2017-10-05,sim,sim,,,,7.0 7.0.150,df8fb436b,2017-10-05T18:17,,http://download.eclipse.org/scout/releases/7.0/7.0.150/004_Oxygen_1a
+Scout,Oxygen.1a_respin,2017-10-09,sim,sim,,,,7.0 7.0.150,906de45f0,2017-10-09T10:11,,http://download.eclipse.org/scout/releases/7.0/7.0.150/004_Oxygen_1a
+Scout,Oxygen.2,2017-12-06,sim,sim,,,,7.0 7.0.200,520491bfb,2017-12-06T17:02,,http://download.eclipse.org/scout/releases/7.0/7.0.200/005_Oxygen_2/
+Scout,Oxygen.2_respin,2017-12-15,sim,sim,,,,7.0 7.0.200,1439b7d07,2017-12-15T13:01,,http://download.eclipse.org/scout/releases/7.0/7.0.200/005_Oxygen_2/
+Scout,Oxygen.3,2018-03-07,sim,sim,,,,7.0 7.0.300,c7f159fb4,2018-03-07T18:41,,http://download.eclipse.org/scout/releases/7.0/7.0.300/005_Oxygen_3/
+Scout,PhotonM7,2018-05-17,sim,sim,,,,8.0 8.0.0,1f860aeb4,2018-05-17T17:27,,http://download.eclipse.org/scout/releases/8.0/8.0.0/003_Photon_M7/
+Scout,PhotonRC4,2018-06-13,sim,sim,,,,8.0 8.0.0,b474cc1f4,2018-06-13T11:52,,http://download.eclipse.org/scout/releases/8.0/8.0.0/010_Photon/
+Scout,Photon.0,2018-06-17,sim,sim,,,,8.0 8.0.0,4518c61e3,2018-06-15T16:51,,http://download.eclipse.org/scout/releases/8.0/8.0.0/010_Photon/
+Scout,2018-09,2018-09-12,sim,sim,,,,8.0 8.0.0,98c647195,2018-09-12T18:18,,http://download.eclipse.org/scout/releases/8.0/8.0.0/021_Simrel_2018_09/
+Scout,2018-12,2018-12-12,sim,sim,,,,8.0 8.0.0,9a80baec9,2018-12-12T13:22,,http://download.eclipse.org/scout/releases/8.0/8.0.0/031_Simrel_2018_12/
+Scout,2019-03,2019-03-14,sim,sim,,,,9.0 9.0.0,28e71509b,2019-03-14T10:28,,http://download.eclipse.org/scout/releases/9.0/9.0.0/009_Simrel_2019_03/
+Scout,2019-06,2019-06-13,sim,sim,,,,9.0 9.0.0,645d6e61e,2019-06-13T10:37,,https://download.eclipse.org/scout/releases/9.0/9.0.0/018_Simrel_2019_06/
+Scout,2019-09,2019-09-16,sim,sim,,,,9.0 9.0.0,15c824aea,2019-09-16T18:14,,https://download.eclipse.org/scout/releases/9.0/9.0.0/025_Simrel_2019_09//
+Scout,2019-12,2019-12-11,sim,sim,,,,9.0 9.0.0,51af2628a,2019-12-10T09:32,,https://download.eclipse.org/scout/releases/9.0/9.0.0/033_Simrel_2019_12/
+Scout,2020-03,2020-03-12,sim,sim,,,,10.0,38d523a16,2020-03-11T06:22,,https://download.eclipse.org/scout/releases/10.0/8/
+Scout,2020-06,2020-06-10,sim,sim,,,,10.0,e285c43db,2020-06-10T10:08,,https://download.eclipse.org/scout/releases/10.0/21/
+Scout,2020-09,2020-09-09,sim,sim,,,,10.0,6c34eed74,2020-09-09T16:46,,https://download.eclipse.org/scout/releases/10.0/33/
+Scout,2020-12,2020-12-09,sim,sim,,,,10.0,eeb07ca1d,2020-12-09T10:14,,https://download.eclipse.org/scout/releases/10.0/42/
+Scout,2021-03,2021-03-10,sim,sim,,,,11.0,4c355da18,2021-03-10T02:36,,https://download.eclipse.org/scout/releases/11.0/12/
+Scout,2021-06,2021-06-12,sim,sim,,,,11.0,aab255e23,2021-06-10T18:55,,https://download.eclipse.org/scout/releases/11.0/20/
+Scout,2021-09,2021-09-08,sim,sim,,,,11.0,48d850c64,2021-09-08T11:43,,https://download.eclipse.org/scout/releases/11.0/32/
+Scout,2021-12,2021-12-02,sim,sim,,,,11.0,5c7f32c33,2021-12-02T14:38,,https://download.eclipse.org/scout/releases/11.0/42/
+Scout,2022-03,2022-03-15,sim,sim,,,,12.0,043284941,2022-03-14T21:16,,https://download.eclipse.org/scout/releases/12.0/1/
+Scout,2022-06,2022-06-13,sim,sim,,,,12.0,93b5ee5fc,2022-06-10T11:22,,https://download.eclipse.org/scout/releases/12.0/15/
+Scout,2022-09,2022-09-12,sim,sim,,,,12.0,08ad2f247,2022-09-09T16:30,,https://download.eclipse.org/scout/releases/12.0/29/
+Scout,2022-12,2022-12-05,sim,sim,,,,12.0,bbb50b766,2022-12-05T21:41,,https://download.eclipse.org/scout/releases/12.0/41/
+Scout,2023-03,2023-03-29,sim,sim,,,,13.0,c70938924,2023-03-29T16:19,,https://download.eclipse.org/scout/releases/13.0/6/
+Scout,2023-06,2023-06-13,sim,sim,,,,13.0,681a0307e,2023-06-12T14:33,,https://download.eclipse.org/scout/releases/13.0/19/
+Scout,2023-09,2023-09-08,sim,sim,,,,13.0,07d4892f8,2023-09-07T09:47,,https://download.eclipse.org/scout/releases/13.0/22/
+Scout,2023-12,2023-12-01,sim,sim,,,,13.0,1416598d2,2023-12-01T13:37,,https://download.eclipse.org/scout/releases/13.0/27/
+Scout,2024-03,2024-03-08,sim,sim,,,,13.0,cab55c638,2024-03-07T11:08,,https://download.eclipse.org/scout/releases/13.0/31/
+Scout,2024-06,2024-06-10,sim,sim,,,,13.0,bd8529dc6,2024-06-09T12:34,,https://download.eclipse.org/scout/releases/13.0/36/
+Scout,2024-09,2024-09-06,sim,sim,,,,13.0,23fb46636,2024-09-06T13:40,,https://download.eclipse.org/scout/releases/13.0/41/
+Scout,2024-12,2024-12-01,sim,sim,,,,13.0,2c17e831b,2024-11-29T12:47,,https://download.eclipse.org/scout/releases/13.0/46/
+Scout,2025-03,2025-03-06,sim,sim,,,,14.0,0046a1b74,2025-03-05T16:52,,https://download.eclipse.org/scout/releases/14.0/1/
+Scout,2025-06,2025-06-05,sim,sim,,,,14.0,8e3f426b2,2025-06-04T15:41,,https://download.eclipse.org/scout/releases/14.0/5/
+Scout,2025-09,2025-09-05,sim,sim,,,,14.0,c3a4da92e,2025-09-05T14:38,,https://download.eclipse.org/scout/releases/14.0/15/
+Scout,2025-12,2025-12-07,sim,sim,,,,14.0,3c12cb702,2025-12-05T18:17,,https://download.eclipse.org/scout/releases/14.0/23/
+Scout,2026-03,2026-03-11,sim,sim,,,,14.0,5a5ff352b,2026-03-09T13:02,,https://download.eclipse.org/scout/releases/14.0/29/
+Subversive,JunoSR0,2012-08-03,sim,sim,,,,1.0,e6db76f87,2012-07-25T13:41,,http://download.eclipse.org/technology/subversive/1.0/juno-site/
+Subversive,JunoSR1,2012-09-19,sim,sim,,,,1.0,75df1340a,2012-09-18T16:50,,http://download.eclipse.org/technology/subversive/1.0/juno-site/
+Subversive,JunoSR2,2013-02-24,sim,sim,,,,1.0,6a14432c3,2013-02-01T14:27,,http://download.eclipse.org/technology/subversive/1.0/juno-site/
+Subversive,KeplerPostRC4,2013-06-13,sim,sim,,,,1.0,8e9fc953c,2013-06-11T22:12,,http://download.eclipse.org/technology/subversive/1.0/kepler-site/
+Subversive,KeplerSR0,2013-08-02,sim,sim,,,,1.0,070b8059f,2013-07-30T12:30,,http://download.eclipse.org/technology/subversive/1.0/kepler-site/
+Subversive,KeplerSR1,2013-09-23,sim,sim,,,,1.1,9ed205a1c,2013-09-03T20:13,,http://download.eclipse.org/technology/subversive/1.1/kepler-site/
+Subversive,LunaSR0,2014-07-29,sim,sim,,,,2.0,4a75102a2,2014-07-08T16:35,,http://download.eclipse.org/technology/subversive/2.0/luna-site/
+Subversive,z20140805-2300,2014-07-29,sim,sim,,,,2.0,4a75102a2,2014-07-08T16:35,,http://download.eclipse.org/technology/subversive/2.0/luna-site/
+Subversive,z20140806,2014-07-29,sim,sim,,,,2.0,4a75102a2,2014-07-08T16:35,,http://download.eclipse.org/technology/subversive/2.0/luna-site/
+Subversive,LunaRC4,2014-09-17,sim,sim,,,,2.0,f59180007,2014-08-28T14:05,,http://download.eclipse.org/technology/subversive/2.0/luna-site/
+Subversive,LunaSR2,2015-03-02,sim,sim,,,,2.0,e0cc58201,2015-02-12T17:52,,http://download.eclipse.org/technology/subversive/2.0/luna-site/
+Subversive,S201504150911,2015-04-15,sim,sim,,,,3.0,a2e7c338e,2015-04-03T18:36,,http://download.eclipse.org/technology/subversive/3.0/mars-site/
+Subversive,Mars.1,2015-09-24,sim,sim,sim,,,,8d6ed1a02,2015-08-21T13:43,,http://download.eclipse.org/releases/mars/201509251000/
+Subversive,Neon,2016-06-13,sim,sim,,,,4.0,f8829ef16,2016-03-21T17:08,,http://download.eclipse.org/technology/subversive/4.0/neon-site/
+Subversive,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,NAO,,,,,0c98b9c44,2016-09-07T10:47,,
+Subversive,Neon.1,2016-09-14,sim,sim,,,,4.0,ec2f9ec8c,2016-09-13T16:03,,http://download.eclipse.org/technology/subversive/4.0/neon-site/
+Subversive,Neon.1a,2016-10-06,sim,sim,sim,,,,ec2f9ec8c,2016-09-13T16:03,,http://download.eclipse.org/releases/neon/201609281000/
+Subversive,Neon.2,2016-12-07,sim,sim,,,,4.0,9dccf998b,2016-11-30T09:02,,http://download.eclipse.org/technology/subversive/4.0/neon-site/
+Subversive,Neon.3,2017-03-08,sim,sim,,,,4.0,657019a71,2017-03-08T09:11,,http://download.eclipse.org/technology/subversive/4.0/neon-site/
+Subversive,Neon.3_respin,2017-03-14,sim,sim,sim,,,,657019a71,2017-03-08T09:11,,http://download.eclipse.org/releases/neon/201703141400/
+Subversive,Oxygen,2017-06-14,sim,sim,,,,4.0,657019a71,2017-03-08T09:11,,http://download.eclipse.org/technology/subversive/4.0/neon-site/
+Subversive,Oxygen.1,2017-09-13,sim,sim,,,,4.0,d4db021bf,2017-07-07T15:32,,http://download.eclipse.org/technology/subversive/4.0/neon-site/
+Subversive,Oxygen.1a,2017-10-05,sim,sim,sim,,,,d4db021bf,2017-07-07T15:32,,http://download.eclipse.org/releases/oxygen/201709271000/
+Subversive,Oxygen.1a_respin,2017-10-09,sim,sim,sim,,,,d4db021bf,2017-07-07T15:32,,http://download.eclipse.org/releases/oxygen/201709271000/
+Subversive,Oxygen.2,2017-12-06,sim,sim,,,,4.0,841a6d1bc,2017-11-24T11:03,,http://download.eclipse.org/technology/subversive/4.0/neon-site/
+Subversive,Oxygen.2_respin,2017-12-15,sim,sim,,,,4.0,841a6d1bc,2017-11-24T11:03,,http://download.eclipse.org/technology/subversive/4.0/neon-site/
+Subversive,Oxygen.3,2018-03-07,sim,sim,,,,4.0,55b89ac70,2018-02-15T16:21,,http://download.eclipse.org/technology/subversive/4.0/neon-site/
+Subversive,PhotonM7,2018-05-17,sim,NAO,,,,,67627a978,2018-04-27T12:52,,
+Subversive,PhotonRC4,2018-06-13,sim,NAO,,,,,43b895ada,2018-05-28T16:07,,
+Subversive,Photon.0,2018-06-17,sim,NAO,,,,,43b895ada,2018-05-28T16:07,,
+Subversive,2018-09,2018-09-12,sim,NAO,,,,,88a4d1c24,2018-08-11T14:40,,
+Subversive,2018-12,2018-12-12,NAO,NAO,,,,,6846f3249,2018-12-05T16:21,,
+Subversive,2019-03,2019-03-14,NAO,NAO,,,,,2f5eb8e4b,2019-01-18T10:30,,
+Subversive,2019-06,2019-06-13,NAO,NAO,,,,,2f5eb8e4b,2019-01-18T10:30,,
+Subversive,2019-09,2019-09-16,NAO,NAO,,,,,2f5eb8e4b,2019-01-18T10:30,,
+Subversive,2019-12,2019-12-11,NAO,NAO,,,,,2f5eb8e4b,2019-01-18T10:30,,
+Subversive,2020-03,2020-03-12,NAO,NAO,,,,,c4f7b1061,2020-01-14T16:50,,
+Subversive,2020-06,2020-06-10,NAO,NAO,,,,,2b12d26c2,2020-06-08T19:10,,
+Subversive,2020-09,2020-09-09,NAO,NAO,,,,,f06c2b2c5,2020-08-17T08:01,,
+Subversive,2020-12,2020-12-09,NAO,NAO,,,,,3a0f5cb8a,2020-12-09T15:46,,
+Subversive,2021-03,2021-03-10,NAO,NAO,,,,,12e1c2f19,2021-03-06T16:53,,
+Subversive,2021-06,2021-06-12,NAO,NAO,,,,,09d259b49,2021-06-07T07:15,,
+Subversive,2021-09,2021-09-08,NAO,NAO,,,,,29bc9ecfd,2021-06-23T09:08,,
+Subversive,2021-12,2021-12-02,NAO,NAO,,,,,0d7412c10,2021-11-29T07:07,,
+Subversive,2022-03,2022-03-15,NAO,NAO,,,,,7e5556335,2022-03-03T14:33,,
+Subversive,2022-06,2022-06-13,NAO,NAO,,,,,191c5e4c1,2022-06-08T07:08,,
+Subversive,2022-09,2022-09-12,NAO,NAO,,,,,217b9dc03,2022-09-10T10:03,,
+Subversive,2022-12,2022-12-05,NAO,NAO,,,,,b449b399b,2022-10-13T07:08,,
+Subversive,2023-03,2023-03-29,NAO,NAO,,,,,8c48ea25e,2023-03-16T08:34,,
+Subversive,2023-06,2023-06-13,NAO,NAO,,,,,8b703e326,2023-05-01T07:54,,
+Subversive,2023-09,2023-09-08,NAO,NAO,,,,,8fd258979,2023-09-05T07:42,,
+Subversive,2023-12,2023-12-01,NAO,NAO,,,,,faec73788,2023-10-04T08:49,,
+Subversive,2024-03,2024-03-08,NAO,NAO,,,,,faec73788,2023-10-04T08:49,,
+Subversive,2024-06,2024-06-10,NAO,NAO,,,,,faec73788,2023-10-04T08:49,,
+Subversive,2024-09,2024-09-06,NAO,NAO,,,,,faec73788,2023-10-04T08:49,,
+Subversive,2024-12,2024-12-01,NAO,NAO,,,,,35c348dd5,2024-09-27T09:20,,
+Subversive,2025-03,2025-03-06,NAO,NAO,,,,,35c348dd5,2024-09-27T09:20,,
+Subversive,2025-06,2025-06-05,NAO,NAO,,,,,aa338501b,2025-04-15T08:21,,
+Subversive,2025-09,2025-09-05,NAO,NAO,,,,,aa338501b,2025-04-15T08:21,,
+Subversive,2025-12,2025-12-07,NAO,NAO,,,,,776381af0,2025-10-27T08:53,,
+Subversive,2026-03,2026-03-11,NAO,NAO,,,,,4e5be746e,2025-12-15T07:01,,
+WebTools,JunoSR0,2012-08-03,sim,sim,,2012-06-12 17:47,build id,3.4.0 3.2.0,063cc6398,2012-07-16T15:51,33.9,http://download.eclipse.org/webtools/downloads/drops/R3.4.0/S-3.4.0RC4-20120612174739/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/maintenance/
+WebTools,JunoSR1,2012-09-19,sim,sim,,2012-09-17 17:48,build id,3.4.1 3.2.0,b1f1b761b,2012-09-17T17:22,0.1,http://download.eclipse.org/webtools/downloads/drops/R3.4.1/R-3.4.1-20120917174803/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/maintenance/
+WebTools,JunoSR2,2013-02-24,sim,sim,,2013-02-08 15:12,build id,3.4.2 3.2.0,638c52c3b,2013-02-08T19:26,0.5,http://download.eclipse.org/webtools/downloads/drops/R3.4.2/M-3.4.2RC4-20130208151217/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/maintenance/
+WebTools,KeplerPostRC4,2013-06-13,sim,sim,,2013-06-10 15:01,build id,3.5.0 3.2.0,8c94b6abb,2013-06-04T16:44,-5.8,http://download.eclipse.org/webtools/downloads/drops/R3.5.0/R-3.5.0-20130610150119/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/milestones/
+WebTools,KeplerSR0,2013-08-02,sim,sim,,2013-06-10 15:01,build id,3.5.0 3.2.0,972341e36,2013-07-24T16:08,44.2,http://download.eclipse.org/webtools/downloads/drops/R3.5.0/R-3.5.0-20130610150119/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/milestones/
+WebTools,KeplerSR1,2013-09-23,sim,sim,,2013-09-13 22:37,build id,3.5.1 3.2.0,e9101c837,2013-09-11T10:09,-2.4,http://download.eclipse.org/webtools/downloads/drops/R3.5.1/R-3.5.1-20130913223750/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/milestones/
+WebTools,LunaSR0,2014-07-29,sim,sim,,2014-06-02 16:03,build id,3.6.0 3.2.0 0.3.1,c51811e96,2014-07-28T16:21,56.2,http://download.eclipse.org/webtools/downloads/drops/R3.6.0/R-3.6.0-20140602160322/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/milestones/S-0.3.1RC1-201405141436
+WebTools,z20140805-2300,2014-07-29,sim,sim,,2014-06-02 16:03,build id,3.6.0 3.2.0 0.3.1,c51811e96,2014-07-28T16:21,56.2,http://download.eclipse.org/webtools/downloads/drops/R3.6.0/R-3.6.0-20140602160322/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/milestones/S-0.3.1RC1-201405141436
+WebTools,z20140806,2014-07-29,sim,sim,,2014-06-02 16:03,build id,3.6.0 3.2.0 0.3.1,c51811e96,2014-07-28T16:21,56.2,http://download.eclipse.org/webtools/downloads/drops/R3.6.0/R-3.6.0-20140602160322/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/milestones/S-0.3.1RC1-201405141436
+WebTools,LunaRC4,2014-09-17,sim,sim,,2014-09-12 00:00,build id,3.6.1 3.2.0 0.3.1,9075e61cf,2014-09-11T15:44,-0.2,http://download.eclipse.org/webtools/downloads/drops/R3.6.1/R-3.6.1-20140912000031/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/milestones/S-0.3.1RC1-201405141436
+WebTools,LunaSR2,2015-03-02,sim,sim,,2015-02-16 09:18,build id,3.6.3 3.2.0 0.3.1,e4cef7f45,2015-02-26T13:38,10.4,http://download.eclipse.org/webtools/downloads/drops/R3.6.3/R-3.6.3-20150216091848/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/milestones/S-0.3.1RC1-201405141436
+WebTools,S201504150911,2015-04-15,sim,sim,,2015-03-24 00:01,build id,3.7.0 3.2.0 0.3.1,c461c25a2,2015-04-14T17:59,21.9,http://download.eclipse.org/webtools/downloads/drops/R3.7.0/S-3.7.0M6-20150324000117/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/milestones/S-0.3.1RC1-201405141436
+WebTools,Mars.1,2015-09-24,sim,sim,sim,,,,a81fe5b6c,2015-09-22T17:20,,http://download.eclipse.org/releases/mars/201509251000/ | http://download.eclipse.org/releases/mars/201509251000/ | http://download.eclipse.org/releases/mars/201509251000/
+WebTools,Neon,2016-06-13,sim,sim,,2016-06-08 13:07,build id,3.8.0 3.2.0 0.3.1,c271405ce,2016-05-25T11:56,-13.9,http://download.eclipse.org/webtools/downloads/drops/R3.8.0/R-3.8.0-20160608130753/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/milestones/S-0.3.1RC1-201405141436
+WebTools,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,NAO,,,,,7c9fc5163,2016-08-19T13:17,,
+WebTools,Neon.1,2016-09-14,sim,sim,,2016-09-12 10:03,build id,3.8.1 3.2.0 0.3.1,7c9fc5163,2016-08-19T13:17,-23.7,http://download.eclipse.org/webtools/downloads/drops/R3.8.1/R-3.8.1-20160912100321/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,Neon.1a,2016-10-06,sim,sim,sim,,,,7c9fc5163,2016-08-19T13:17,,http://download.eclipse.org/releases/neon/201609281000/ | http://download.eclipse.org/releases/neon/201609281000/ | http://download.eclipse.org/releases/neon/201609281000/
+WebTools,Neon.2,2016-12-07,sim,sim,,2016-09-12 10:03,build id,3.8.1 3.2.0 0.3.1,7c9fc5163,2016-08-19T13:17,-23.7,http://download.eclipse.org/webtools/downloads/drops/R3.8.1/R-3.8.1-20160912100321/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,Neon.3,2017-03-08,sim,sim,,2017-03-08 00:00,build id,3.8.2 3.2.0 0.3.1,db1d4bc60,2017-01-26T16:52,-40.1,http://download.eclipse.org/webtools/downloads/drops/R3.8.2/M-3.8.2-20170308000057/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,Neon.3_respin,2017-03-14,sim,sim,sim,,,,db1d4bc60,2017-01-26T16:52,,http://download.eclipse.org/releases/neon/201703141400/ | http://download.eclipse.org/releases/neon/201703141400/ | http://download.eclipse.org/releases/neon/201703141400/
+WebTools,Oxygen,2017-06-14,sim,sim,,2017-06-13 09:45,build id,3.9.0 3.2.0 0.3.1,43a5d6599,2017-05-16T16:46,-27.5,http://download.eclipse.org/webtools/downloads/drops/R3.9.0/R-3.9.0-20170613094504/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,Oxygen.1,2017-09-13,sim,sim,,2017-09-12 00:01,build id,3.9.1 3.2.0 0.3.1,93da6cd4c,2017-07-20T16:55,-53.1,http://download.eclipse.org/webtools/downloads/drops/R3.9.1/R-3.9.1-20170912000144/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,Oxygen.1a,2017-10-05,sim,sim,,2017-10-04 11:38,build id,3.9.1,5661ba4dc,2017-09-29T11:47,-4.8,http://download.eclipse.org/webtools/downloads/drops/R3.9.1a/S-3.9.1aRC2a-20171004113814/repository/ | http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+WebTools,Oxygen.1a_respin,2017-10-09,sim,sim,,2017-10-04 11:38,build id,3.9.1,5661ba4dc,2017-09-29T11:47,-4.8,http://download.eclipse.org/webtools/downloads/drops/R3.9.1a/S-3.9.1aRC2a-20171004113814/repository/ | http://download.eclipse.org/releases/oxygen/201709271000/ | http://download.eclipse.org/releases/oxygen/201709271000/
+WebTools,Oxygen.2,2017-12-06,sim,sim,,2017-12-01 00:01,build id,3.9.2 3.2.0 0.3.1,cef76a860,2017-11-30T16:41,-0.1,http://download.eclipse.org/webtools/downloads/drops/R3.9.2/R-3.9.2-20171201000141/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,Oxygen.2_respin,2017-12-15,sim,sim,,2017-12-01 00:01,build id,3.9.2 3.2.0 0.3.1,eb93a9c48,2017-12-13T14:14,12.8,http://download.eclipse.org/webtools/downloads/drops/R3.9.2/R-3.9.2-20171201000141/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,Oxygen.3,2018-03-07,sim,sim,,2018-03-02 09:37,build id,3.9.3 3.2.0 0.3.1,7500821ec,2018-03-07T12:38,5.3,http://download.eclipse.org/webtools/downloads/drops/R3.9.3/S-3.9.3RC4-20180302093744/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,PhotonM7,2018-05-17,sim,sim,,2016-09-01 19:55,build id,3.10.0 3.2.0 0.3.1,5168f5f55,2018-04-25T11:51,600.8,http://download.eclipse.org/webtools/downloads/drops/R3.10.0/I-latest/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,PhotonRC4,2018-06-13,sim,sim,,2018-06-11 16:45,build id,3.10.0 3.2.0 0.3.1,5462e7660,2018-05-17T18:43,-24.8,http://download.eclipse.org/webtools/downloads/drops/R3.10.0/S-3.10.0.RC4-20180611164516/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,Photon.0,2018-06-17,sim,sim,,2018-06-11 16:45,build id,3.10.0 3.2.0 0.3.1,5462e7660,2018-05-17T18:43,-24.8,http://download.eclipse.org/webtools/downloads/drops/R3.10.0/S-3.10.0.RC4-20180611164516/repository/ | http://download.eclipse.org/webtools/downloads/drops/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2018-09,2018-09-12,sim,sim,,2018-09-10 17:07,build id,3.11.0 3.2 3.2.0,6333b8395,2018-08-29T14:42,-11.9,http://download.eclipse.org/webtools/downloads/drops/R3.11.0/S-3.11.0.RC1-20180910170749/repository/ | http://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2018-12,2018-12-12,sim,sim,,2018-11-30 05:53,build id,3.12.0 3.2 3.2.0 0.3.1,6333b8395,2018-08-29T14:42,-92.5,https://download.eclipse.org/webtools/downloads/drops/R3.12.0/S-3.12.0.RC1-20181130055351/repository/ | http://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2019-03,2019-03-14,sim,sim,,2019-03-08 13:16,build id,3.13.0 3.2 3.2.0 0.3.1,6333b8395,2018-08-29T14:42,-190.8,https://download.eclipse.org/webtools/downloads/drops/R3.13.0/S-3.13.0.RC2-20190308131645/repository/ | http://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2019-06,2019-06-13,sim,sim,,2019-06-12 23:06,build id,3.14.0 3.2 3.2.0 0.3.1,686318068,2019-05-28T19:19,-15.2,https://download.eclipse.org/webtools/downloads/drops/R3.14.0/S-3.14.0.RC2-20190612230649/repository/ | http://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | http://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2019-09,2019-09-16,sim,sim,,2019-08-27 07:55,build id,3.15.0 3.2 3.2.0 0.3.1,686318068,2019-05-28T19:19,-90.6,http://download.eclipse.org/webtools/downloads/drops/R3.15.0/S-3.15.0.M3-20190827075533/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2019-12,2019-12-11,sim,sim,,2019-12-10 07:07,build id,3.16.0 3.2 3.2.0 0.3.1,bfb7ef4f2,2019-10-29T10:29,-41.7,https://download.eclipse.org/webtools/downloads/drops/R3.16.0/S-3.16.0.RC2-20191210070716/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2020-03,2020-03-12,sim,sim,,2020-02-21 03:50,build id,3.17.0 3.2 3.2.0 0.3.1,bfb7ef4f2,2019-10-29T10:29,-114.6,https://download.eclipse.org/webtools/downloads/drops/R3.17.0/S-3.17.0.M3-20200221035047/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2020-06,2020-06-10,sim,sim,,2020-06-05 03:27,build id,3.18.0 3.2 3.2.0 0.3.1,bfb7ef4f2,2019-10-29T10:29,-219.5,https://download.eclipse.org/webtools/downloads/drops/R3.18.0/S-3.18.0.RC2-20200605032700/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2020-09,2020-09-09,sim,sim,,2020-08-28 03:02,build id,3.19.0 3.2 3.2.0 0.3.1,29e9635d8,2020-07-17T02:03,-41.9,https://download.eclipse.org/webtools/downloads/drops/R3.19.0/S-3.19.0.RC1-20200828030223/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2020-12,2020-12-09,sim,sim,,2020-12-01 14:36,build id,3.20.0 3.2 3.2.0 0.3.1,29e9635d8,2020-07-17T02:03,-137.4,https://download.eclipse.org/webtools/downloads/drops/R3.20.0/S-3.20.0.RC1-20201201143606/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2021-03,2021-03-10,sim,sim,,2021-03-04 10:06,build id,3.21.0 3.2 3.2.0 0.3.1,78668ee96,2021-02-04T23:32,-27.2,https://download.eclipse.org/webtools/downloads/drops/R3.21.0/S-3.21.0.RC2-20210304100654/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2021-06,2021-06-12,sim,sim,,2021-06-12 17:05,build id,3.22.0 3.2 3.2.0 0.3.1,03bbc8568,2021-06-03T23:14,-8.6,https://download.eclipse.org/webtools/downloads/drops/R3.22.0/S-3.22.0.RC3a-20210612170523/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2021-09,2021-09-08,sim,sim,,2021-08-22 08:45,build id,3.23.0 3.2 3.2.0 0.3.1,03bbc8568,2021-06-03T23:14,-79.2,https://download.eclipse.org/webtools/downloads/drops/R3.23.0/S-3.23.0.M3-20210822084517/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2021-12,2021-12-02,sim,sim,,2021-11-22 10:11,build id,3.24.0 3.2 3.2.0 0.3.1,d1865ae27,2021-11-21T12:41,-0.7,https://download.eclipse.org/webtools/downloads/drops/R3.24.0/S-3.24.0.RC1-20211122101137/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/libra/releases/R-0.3.1-201609011955
+WebTools,2022-03,2022-03-15,sim,sim,,2022-02-24 09:39,build id,3.25.0 3.2 3.2.0,f18901b5c,2022-01-15T21:51,-39.3,https://download.eclipse.org/webtools/downloads/drops/R3.25.0/R-3.25.0-20220224093948/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2022-06,2022-06-13,sim,sim,,2022-05-26 19:18,build id,3.26.0 3.26 3.2 3.2.0,6ded3e641,2022-05-31T21:55,5.3,https://download.eclipse.org/webtools/downloads/drops/R3.26.0/S-3.26RC1-20220526191850/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2022-09,2022-09-12,sim,sim,,2022-08-29 00:20,build id,3.27.0 3.27 3.2 3.2.0,e2e839f2e,2022-08-26T00:34,-2.8,https://download.eclipse.org/webtools/downloads/drops/R3.27.0/S-3.27RC1-20220829002010/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2022-12,2022-12-05,sim,sim,,2022-11-20 05:08,build id,3.28.0 3.28 3.2 3.2.0,e2e839f2e,2022-08-26T00:34,-86.0,https://download.eclipse.org/webtools/downloads/drops/R3.28.0/S-3.28RC1-20221120050827/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2023-03,2023-03-29,sim,sim,,2023-03-03 23:02,build id,3.29.0 3.29 3.2 3.2.0 10.0.13 1.0.1,d09189b89,2023-01-18T01:42,-44.7,https://download.eclipse.org/webtools/downloads/drops/R3.29.0/S-3.29RC2-20230303230236/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/oomph/jetty/release/10.0.13 | https://download.eclipse.org/wildwebd
+WebTools,2023-06,2023-06-13,sim,sim,,2023-06-03 08:47,build id,3.30.0 3.30 3.2 3.2.0 10.0.15,4e67f7f33,2023-04-26T02:47,-38.1,https://download.eclipse.org/webtools/downloads/drops/R3.30.0/S-3.30RC2-20230603084739/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/webtools/jetty/10.0.15/repository
+WebTools,2023-09,2023-09-08,sim,sim,,2023-09-03 09:04,build id,3.31.0 3.31 3.2 3.2.0 10.0.15,8751ed944,2023-09-01T19:04,-1.4,https://download.eclipse.org/webtools/downloads/drops/R3.31.0/S-3.31RC2-20230903090456/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/oomph/jetty/release/10.0.15
+WebTools,2023-12,2023-12-01,sim,sim,,2023-11-14 23:09,build id,3.32.0 3.32 3.2 3.2.0,8751ed944,2023-09-01T19:04,-74.0,https://download.eclipse.org/webtools/downloads/drops/R3.32.0/S-3.32M3a-20231114230950/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2024-03,2024-03-08,sim,sim,,2024-03-04 16:51,build id,3.33.0 3.33 3.2 3.2.0,22927bb36,2024-02-22T21:30,-10.6,https://download.eclipse.org/webtools/downloads/drops/R3.33.0/S-3.33RC2-20240304165142/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2024-06,2024-06-10,sim,sim,,2024-05-27 18:49,build id,3.34.0 3.34 3.2 3.2.0,da4d7804c,2024-05-18T01:17,-9.6,https://download.eclipse.org/webtools/downloads/drops/R3.34.0/S-3.34RC1-20240527184929/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2024-09,2024-09-06,sim,sim,,2024-08-25 08:54,build id,3.35.0 3.35 3.2 3.2.0,7bc6cec12,2024-07-05T16:58,-50.5,https://download.eclipse.org/webtools/downloads/drops/R3.35.0/S-3.35RC1-20240825085431/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2024-12,2024-12-01,sim,sim,,2024-11-10 09:51,build id,3.36.0 3.36 3.2 3.2.0,7bc6cec12,2024-07-05T16:58,-127.5,https://download.eclipse.org/webtools/downloads/drops/R3.36.0/S-3.36M3-20241110095156/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2025-03,2025-03-06,sim,sim,,2025-03-03 08:12,build id,3.37.0 3.37 3.2 3.2.0,1663ddeb4,2025-02-27T23:19,-3.2,https://download.eclipse.org/webtools/downloads/drops/R3.37.0/S-3.37RC1-20250303081219/repository | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2025-06,2025-06-05,sim,sim,,2025-06-01 07:01,build id,3.38.0 3.38 3.2 3.2.0,f7fc58c43,2025-04-23T20:50,-38.3,https://download.eclipse.org/webtools/downloads/drops/R3.38.0/S-3.38RC1-20250601070120/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2025-09,2025-09-05,sim,sim,,2025-09-02 09:37,build id,3.39.0 3.39 3.2 3.2.0,ffe0e73f2,2025-09-03T07:35,0.9,https://download.eclipse.org/webtools/downloads/drops/R3.39.0/S-3.39RC2-20250902093744/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2025-12,2025-12-07,sim,sim,,2025-11-24 01:58,build id,3.40.0 3.40 3.2 3.2.0,1b27e3927,2025-09-17T10:13,-67.5,https://download.eclipse.org/webtools/downloads/drops/R3.40.0/S-3.40RC1-20251124015847/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/
+WebTools,2026-03,2026-03-11,sim,sim,,2026-02-25 09:15,build id,3.41.0 3.41 3.2 3.2.0 1.3.0,1b27e3927,2025-09-17T10:13,-160.8,https://download.eclipse.org/webtools/downloads/drops/R3.41.0/S-3.41RC1-20260225091541/repository/ | https://archive.eclipse.org/webtools/downloads/drops/R3.2/C3.2.0/I-C3.2.0-20100614204142/repository/ | https://download.eclipse.org/oomph/simrel-extras/release/1.3.0
+Window Builder,JunoSR0,2012-08-03,sim,sim,,2012-06-26 12:00,build id,4.2,bd8f55da8,2012-08-02T02:10,36.6,http://download.eclipse.org/windowbuilder/WB/release/R201206261200/4.2
+Window Builder,JunoSR1,2012-09-19,sim,sim,,2012-09-28 12:00,build id,4.2,536c8c8ec,2012-09-18T16:01,-9.8,http://download.eclipse.org/windowbuilder/WB/release/R201209281200/4.2
+Window Builder,JunoSR2,2013-02-24,sim,sim,,2013-02-22 12:00,build id,4.2,10e53bb9c,2013-02-19T09:11,-3.1,http://download.eclipse.org/windowbuilder/WB/release/R201302221200/4.2
+Window Builder,KeplerPostRC4,2013-06-13,sim,sim,,2013-06-26 12:00,build id,4.3,c329a91b7,2013-06-03T16:41,-22.8,http://download.eclipse.org/windowbuilder/WB/release/R201306261200/4.3
+Window Builder,KeplerSR0,2013-08-02,sim,sim,,2013-06-26 12:00,build id,4.3,6de0b1982,2013-07-22T00:22,25.5,http://download.eclipse.org/windowbuilder/WB/release/R201306261200/4.3
+Window Builder,KeplerSR1,2013-09-23,sim,sim,,2013-09-27 12:00,build id,4.3,bcad4d9af,2013-09-18T11:50,-9.0,http://download.eclipse.org/windowbuilder/WB/release/R201309271200/4.3
+Window Builder,LunaSR0,2014-07-29,sim,sim,,2014-06-25 12:00,build id,4.4,0330cc7ce,2014-05-09T20:31,-46.6,http://download.eclipse.org/windowbuilder/WB/release/R201406251200/4.4
+Window Builder,z20140805-2300,2014-07-29,sim,sim,,2014-06-25 12:00,build id,4.4,0330cc7ce,2014-05-09T20:31,-46.6,http://download.eclipse.org/windowbuilder/WB/release/R201406251200/4.4
+Window Builder,z20140806,2014-07-29,sim,sim,,2014-06-25 12:00,build id,4.4,0330cc7ce,2014-05-09T20:31,-46.6,http://download.eclipse.org/windowbuilder/WB/release/R201406251200/4.4
+Window Builder,LunaRC4,2014-09-17,sim,sim,,2014-06-25 12:00,build id,4.4,ddb982ee3,2014-08-24T16:15,60.2,http://download.eclipse.org/windowbuilder/WB/release/R201406251200/4.4
+Window Builder,LunaSR2,2015-03-02,sim,sim,,2014-06-25 12:00,build id,4.4,fa38bff9c,2014-12-20T20:23,178.6,http://download.eclipse.org/windowbuilder/WB/release/R201406251200/4.4
+Window Builder,S201504150911,2015-04-15,sim,sim,,,,4.5,fa38bff9c,2014-12-20T20:23,,http://download.eclipse.org/windowbuilder/WB/milestone/M4/4.5
+Window Builder,Mars.1,2015-09-24,sim,sim,sim,,,,b3e352482,2015-09-14T14:40,,http://download.eclipse.org/releases/mars/201509251000/
+Window Builder,Neon,2016-06-13,sim,NAO,,,,,c4e0ead9d,2016-06-10T11:21,,
+Window Builder,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,NAO,,,,,4beb5d235,2016-09-05T16:41,,
+Window Builder,Neon.1,2016-09-14,sim,sim,,,,4.6,4beb5d235,2016-09-05T16:41,,http://download.eclipse.org/windowbuilder/WB/release/4.6/
+Window Builder,Neon.1a,2016-10-06,sim,sim,sim,,,,4beb5d235,2016-09-05T16:41,,http://download.eclipse.org/releases/neon/201609281000/
+Window Builder,Neon.2,2016-12-07,sim,sim,,,,4.6,e9526ca7d,2016-10-15T07:01,,http://download.eclipse.org/windowbuilder/WB/release/4.6/
+Window Builder,Neon.3,2017-03-08,sim,sim,,,,4.6,57b43fa2b,2017-01-10T06:22,,http://download.eclipse.org/windowbuilder/WB/release/4.6/
+Window Builder,Neon.3_respin,2017-03-14,sim,sim,sim,,,,57b43fa2b,2017-01-10T06:22,,http://download.eclipse.org/releases/neon/201703141400/
+Window Builder,Oxygen,2017-06-14,sim,sim,,,,4.7,0d2bbc94c,2017-06-04T01:55,,http://download.eclipse.org/windowbuilder/WB/integration/4.7
+Window Builder,Oxygen.1,2017-09-13,sim,sim,,,,4.7,0d2bbc94c,2017-06-04T01:55,,http://download.eclipse.org/windowbuilder/WB/integration/4.7
+Window Builder,Oxygen.1a,2017-10-05,sim,sim,sim,,,,0d2bbc94c,2017-06-04T01:55,,http://download.eclipse.org/releases/oxygen/201709271000/
+Window Builder,Oxygen.1a_respin,2017-10-09,sim,sim,sim,,,,0d2bbc94c,2017-06-04T01:55,,http://download.eclipse.org/releases/oxygen/201709271000/
+Window Builder,Oxygen.2,2017-12-06,sim,sim,,,,4.7,5a09a1a0f,2017-11-24T06:04,,http://download.eclipse.org/windowbuilder/WB/integration/4.7
+Window Builder,Oxygen.2_respin,2017-12-15,sim,sim,,,,4.7,682be225c,2017-12-13T09:15,,http://download.eclipse.org/windowbuilder/WB/integration/4.7
+Window Builder,Oxygen.3,2018-03-07,sim,sim,,,,4.7,47e9177ee,2018-02-21T04:21,,http://download.eclipse.org/windowbuilder/WB/integration/4.7
+Window Builder,PhotonM7,2018-05-17,sim,sim,,,,4.7,571dc2a30,2018-05-15T13:52,,http://download.eclipse.org/windowbuilder/WB/integration/4.7
+Window Builder,PhotonRC4,2018-06-13,sim,sim,,,,4.7,571dc2a30,2018-05-15T13:52,,http://download.eclipse.org/windowbuilder/WB/integration/4.7
+Window Builder,Photon.0,2018-06-17,sim,sim,,,,4.7,571dc2a30,2018-05-15T13:52,,http://download.eclipse.org/windowbuilder/WB/integration/4.7
+Window Builder,2018-09,2018-09-12,sim,sim,,,,1.9.1,571dc2a30,2018-05-15T13:52,,http://download.eclipse.org/windowbuilder/1.9.1
+Window Builder,2018-12,2018-12-12,sim,sim,,,,1.9.1,ffc06de7f,2018-10-08T00:09,,http://download.eclipse.org/windowbuilder/1.9.1
+Window Builder,2019-03,2019-03-14,sim,sim,,,,1.9.2,17700c4f6,2018-12-27T10:33,,http://download.eclipse.org/windowbuilder/1.9.2
+Window Builder,2019-06,2019-06-13,sim,sim,,,,1.9.2,2e906633c,2019-06-10T10:55,,http://download.eclipse.org/windowbuilder/1.9.2
+Window Builder,2019-09,2019-09-16,sim,sim,,,,1.9.2,2e906633c,2019-06-10T10:55,,https://download.eclipse.org/windowbuilder/1.9.2
+Window Builder,2019-12,2019-12-11,sim,sim,,,,1.9.2,6912838e8,2019-12-05T15:56,,https://download.eclipse.org/windowbuilder/1.9.2
+Window Builder,2020-03,2020-03-12,sim,sim,,,,1.9.2,76a144d28,2020-03-11T11:49,,https://download.eclipse.org/windowbuilder/1.9.2
+Window Builder,2020-06,2020-06-10,sim,sim,,,,1.9.2,5f70d71df,2020-04-19T12:42,,https://download.eclipse.org/windowbuilder/1.9.2
+Window Builder,2020-09,2020-09-09,sim,sim,,,,1.9.2,5f70d71df,2020-04-19T12:42,,https://download.eclipse.org/windowbuilder/1.9.2
+Window Builder,2020-12,2020-12-09,sim,sim,,,,1.9.4,dae4bc39f,2020-11-15T15:08,,https://download.eclipse.org/windowbuilder/1.9.4
+Window Builder,2021-03,2021-03-10,sim,sim,,,,1.9.4,38926a364,2021-03-10T15:12,,https://download.eclipse.org/windowbuilder/1.9.4
+Window Builder,2021-06,2021-06-12,sim,sim,,,,1.9.7,4ed27bca9,2021-06-04T14:20,,https://download.eclipse.org/windowbuilder/1.9.7
+Window Builder,2021-09,2021-09-08,sim,sim,,,,1.9.7,9238c956e,2021-07-01T15:11,,https://download.eclipse.org/windowbuilder/1.9.7
+Window Builder,2021-12,2021-12-02,sim,sim,,,,1.9.7,7f7b3130b,2021-12-02T10:37,,https://download.eclipse.org/windowbuilder/1.9.7
+Window Builder,2022-03,2022-03-15,sim,sim,,,,1.9.7,b7d3d540d,2022-03-14T17:55,,https://download.eclipse.org/windowbuilder/1.9.7
+Window Builder,2022-06,2022-06-13,sim,sim,,,,1.9.8,d8e332a41,2022-06-07T16:49,,https://download.eclipse.org/windowbuilder/1.9.8
+Window Builder,2022-09,2022-09-12,sim,sim,,,,1.10.0,e1c0db7b3,2022-07-18T10:43,,https://download.eclipse.org/windowbuilder/1.10.0
+Window Builder,2022-12,2022-12-05,sim,sim,,,,1.11.0,06ff48510,2022-11-17T11:09,,https://download.eclipse.org/windowbuilder/1.11.0
+Window Builder,2023-03,2023-03-29,sim,sim,,,,1.11.0,7ce471952,2023-03-28T14:54,,https://download.eclipse.org/windowbuilder/1.11.0
+Window Builder,2023-06,2023-06-13,sim,sim,,,,1.12.0,4d7d79c28,2023-06-07T17:22,,https://download.eclipse.org/windowbuilder/updates/release/1.12.0
+Window Builder,2023-09,2023-09-08,sim,sim,,2023-09-05 16:01,build id,,5749a0877,2023-09-07T19:44,2.1,https://download.eclipse.org/windowbuilder/updates/milestone/S202309051601
+Window Builder,2023-12,2023-12-01,sim,sim,,,,1.14.0,2581b5687,2023-11-27T06:57,,https://download.eclipse.org/windowbuilder/updates/release/1.14.0
+Window Builder,2024-03,2024-03-08,sim,sim,,,,1.15.0,a3a4e6673,2024-03-04T09:13,,https://download.eclipse.org/windowbuilder/updates/release/1.15.0
+Window Builder,2024-06,2024-06-10,sim,sim,,,,1.16.0,b7b7c5178,2024-06-03T22:24,,https://download.eclipse.org/windowbuilder/updates/release/1.16.0
+Window Builder,2024-09,2024-09-06,sim,sim,,2024-09-03 15:04,build id,,6935b9a13,2024-08-27T06:13,-7.5,https://download.eclipse.org/windowbuilder/updates/milestone/S202409031504
+Window Builder,2024-12,2024-12-01,sim,sim,,,,1.18.0,748186c5a,2024-11-25T20:04,,https://download.eclipse.org/windowbuilder/updates/release/1.18.0
+Window Builder,2025-03,2025-03-06,sim,sim,,,,1.19.0,085b69cac,2025-03-05T06:05,,https://download.eclipse.org/windowbuilder/updates/release/1.19.0
+Window Builder,2025-06,2025-06-05,sim,sim,,2025-06-03 19:01,build id,,b23439035,2025-06-03T20:03,-0.0,https://download.eclipse.org/windowbuilder/updates/milestone/S202506031901
+Window Builder,2025-09,2025-09-05,sim,sim,,2025-08-19 17:03,build id,,1c449360c,2025-08-19T07:42,-0.5,https://download.eclipse.org/windowbuilder/updates/milestone/S202508191703
+Window Builder,2025-12,2025-12-07,sim,sim,,2025-12-01 20:52,build id,,419c6fe18,2025-11-27T10:30,-4.5,https://download.eclipse.org/windowbuilder/updates/milestone/S202512012052
+Window Builder,2026-03,2026-03-11,sim,sim,,2026-02-24 18:21,build id,,7bf365b7c,2026-02-16T14:36,-8.2,https://download.eclipse.org/windowbuilder/updates/milestone/S202602241821
+m2e,JunoSR0,2012-08-03,sim,sim,,,,1.1,a981bd768,2012-08-03T12:20,,http://download.eclipse.org/technology/m2e/milestones/1.1
+m2e,JunoSR1,2012-09-19,sim,sim,,,,1.2,c6c6f9100,2012-09-07T20:24,,http://download.eclipse.org/technology/m2e/milestones/1.2
+m2e,JunoSR2,2013-02-24,sim,sim,,,,1.3,be7c29dfb,2013-02-20T07:27,,http://download.eclipse.org/technology/m2e/milestones/1.3
+m2e,KeplerPostRC4,2013-06-13,sim,sim,,,,1.4,7f943c9e1,2013-06-08T10:28,,http://download.eclipse.org/technology/m2e/milestones/1.4
+m2e,KeplerSR0,2013-08-02,sim,sim,,,,1.4,61f95d53b,2013-06-26T07:16,,http://download.eclipse.org/technology/m2e/milestones/1.4
+m2e,KeplerSR1,2013-09-23,sim,sim,,,,1.4,ca8878d7b,2013-09-18T01:24,,http://download.eclipse.org/technology/m2e/milestones/1.4
+m2e,LunaSR0,2014-07-29,sim,sim,,,,1.5,04dade2a8,2014-07-23T16:09,,http://download.eclipse.org/technology/m2e/releases/1.5/
+m2e,z20140805-2300,2014-07-29,sim,sim,,,,1.5,04dade2a8,2014-07-23T16:09,,http://download.eclipse.org/technology/m2e/releases/1.5/
+m2e,z20140806,2014-07-29,sim,sim,,,,1.5,04dade2a8,2014-07-23T16:09,,http://download.eclipse.org/technology/m2e/releases/1.5/
+m2e,LunaRC4,2014-09-17,sim,sim,,,,1.5,6d2dcbf71,2014-09-16T15:49,,http://download.eclipse.org/technology/m2e/releases/1.5/
+m2e,LunaSR2,2015-03-02,sim,sim,,,,1.5,991a764bb,2015-02-26T16:33,,http://download.eclipse.org/technology/m2e/milestones/1.5
+m2e,S201504150911,2015-04-15,sim,sim,,,,1.6,4ef1f2999,2015-04-13T17:19,,http://download.eclipse.org/technology/m2e/milestones/1.6/
+m2e,Mars.1,2015-09-24,sim,sim,sim,,,,2247e9e58,2015-09-15T14:33,,http://download.eclipse.org/releases/mars/201509251000/
+m2e,Neon,2016-06-13,sim,sim,,2016-06-03 19:33,build id,1.7 1.7.0,535bbff40,2016-06-08T14:47,5.0,http://download.eclipse.org/technology/m2e/releases/1.7/1.7.0.20160603-1933
+m2e,OxygenPreRienaRemoval_9-8-2016,2016-09-07,sim,NAO,,,,,0872a3692,2016-08-31T16:06,,
+m2e,Neon.1,2016-09-14,sim,sim,,2016-06-03 19:33,build id,1.7 1.7.0,eafaf78f4,2016-09-13T12:05,101.9,http://download.eclipse.org/technology/m2e/releases/1.7/1.7.0.20160603-1933
+m2e,Neon.1a,2016-10-06,sim,sim,sim,,,,f2699401c,2016-09-26T03:01,,http://download.eclipse.org/releases/neon/201609281000/
+m2e,Neon.2,2016-12-07,sim,sim,,2016-06-03 19:33,build id,1.7 1.7.0,ea414f0aa,2016-11-21T23:41,171.4,http://download.eclipse.org/technology/m2e/releases/1.7/1.7.0.20160603-1933
+m2e,Neon.3,2017-03-08,sim,sim,,2016-06-03 19:33,build id,1.7 1.7.0,0ef4fbcb5,2017-02-28T12:24,269.9,http://download.eclipse.org/technology/m2e/releases/1.7/1.7.0.20160603-1933
+m2e,Neon.3_respin,2017-03-14,sim,sim,sim,,,,0ef4fbcb5,2017-02-28T12:24,,http://download.eclipse.org/releases/neon/201703141400/
+m2e,Oxygen,2017-06-14,sim,sim,,2017-05-16 20:43,build id,1.8 1.8.0,451808222,2017-05-26T09:38,9.7,http://download.eclipse.org/technology/m2e/milestones/1.8/1.8.0.20170516-2043
+m2e,Oxygen.1,2017-09-13,sim,sim,,2017-07-28 15:31,build id,1.8 1.8.1,2f1326cfb,2017-09-13T14:31,47.1,http://download.eclipse.org/technology/m2e/milestones/1.8/1.8.1.20170728-1531
+m2e,Oxygen.1a,2017-10-05,sim,sim,,2017-10-05 19:23,build id,1.8 1.8.2,63e7b680f,2017-10-05T15:26,0.0,http://download.eclipse.org/technology/m2e/milestones/1.8/1.8.2.20171005-1923
+m2e,Oxygen.1a_respin,2017-10-09,sim,sim,,2017-10-07 02:17,build id,1.8 1.8.2,a871a684f,2017-10-06T22:16,-0.0,http://download.eclipse.org/technology/m2e/milestones/1.8/1.8.2.20171007-0217
+m2e,Oxygen.2,2017-12-06,sim,sim,,2017-07-28 15:31,build id,1.8 1.8.1,bc287cf16,2017-11-15T14:40,110.2,http://download.eclipse.org/technology/m2e/milestones/1.8/1.8.1.20170728-1531
+m2e,Oxygen.2_respin,2017-12-15,sim,sim,,2017-10-07 02:17,build id,1.8 1.8.2,a22f29f46,2017-12-12T15:49,66.8,http://download.eclipse.org/technology/m2e/milestones/1.8/1.8.2.20171007-0217
+m2e,Oxygen.3,2018-03-07,sim,sim,,2018-02-27 21:37,build id,1.8 1.8.3,8ee423859,2018-02-26T19:09,-0.9,http://download.eclipse.org/technology/m2e/milestones/1.8/1.8.3.20180227-2137
+m2e,PhotonM7,2018-05-17,sim,sim,,2018-05-15 20:17,build id,1.9 1.9.0,cd000d908,2018-05-15T20:37,0.2,http://download.eclipse.org/technology/m2e/milestones/1.9/1.9.0.20180515-2017
+m2e,PhotonRC4,2018-06-13,sim,sim,,2018-06-06 20:36,build id,1.9 1.9.0,c304dad55,2018-06-06T16:34,-0.0,http://download.eclipse.org/technology/m2e/milestones/1.9/1.9.0.20180606-2036
+m2e,Photon.0,2018-06-17,sim,sim,,2018-06-06 20:36,build id,1.9 1.9.0,c304dad55,2018-06-06T16:34,-0.0,http://download.eclipse.org/technology/m2e/milestones/1.9/1.9.0.20180606-2036
+m2e,2018-09,2018-09-12,sim,sim,,2018-09-12 16:01,build id,1.9 1.9.1,fda7930db,2018-09-12T09:37,-0.1,http://download.eclipse.org/technology/m2e/milestones/1.9/1.9.1.20180912-1601
+m2e,2018-12,2018-12-12,sim,sim,,2018-11-27 21:20,build id,1.10 1.10.0,f13f3346e,2018-11-27T16:15,-0.0,https://download.eclipse.org/technology/m2e/milestones/1.10/1.10.0.20181127-2120
+m2e,2019-03,2019-03-14,sim,sim,,2019-02-20 21:19,build id,1.11 1.11.0,c5392da6b,2019-03-05T10:19,12.8,https://download.eclipse.org/technology/m2e/milestones/1.11/1.11.0.20190220-2119
+m2e,2019-06,2019-06-13,sim,sim,,2019-05-29 19:16,build id,1.12 1.12.0,665e15ce7,2019-06-12T18:25,13.8,https://download.eclipse.org/technology/m2e/milestones/1.12/1.12.0.20190529-1916
+m2e,2019-09,2019-09-16,sim,sim,,2019-07-16 16:24,build id,1.13 1.13.0,11e1759f2,2019-09-06T15:36,51.9,https://download.eclipse.org/technology/m2e/milestones/1.13/1.13.0.20190716-1624
+m2e,2019-12,2019-12-11,sim,sim,,2019-12-09 19:25,build id,1.14 1.14.0,acf8703b4,2019-12-09T13:48,-0.0,https://download.eclipse.org/technology/m2e/milestones/1.14/1.14.0.20191209-1925/
+m2e,2020-03,2020-03-12,sim,sim,,2020-03-10 17:46,build id,1.15 1.15.0,832869191,2020-03-05T14:08,-5.2,https://download.eclipse.org/technology/m2e/milestones/1.15/1.15.0.20200310-1746/
+m2e,2020-06,2020-06-10,sim,sim,,,,1.16.0,d53d22d98,2020-06-10T11:36,,https://download.eclipse.org/technology/m2e/releases/1.16.0/
+m2e,2020-09,2020-09-09,sim,sim,,2020-09-02 07:11,qualificador,1.16.2,3e5f67a85,2020-09-02T09:11,0.0,https://download.eclipse.org/technology/m2e/releases/1.16.2/
+m2e,2020-12,2020-12-09,sim,sim,,,,1.17.1,50a5edd27,2020-12-08T11:04,,https://download.eclipse.org/technology/m2e/releases/1.17.1/
+m2e,2021-03,2021-03-10,sim,sim,,,,1.17.2,3e490a0a3,2021-03-10T14:01,,https://download.eclipse.org/technology/m2e/releases/1.17.2/
+m2e,2021-06,2021-06-12,sim,sim,,,,1.18.0,234b378ec,2021-06-10T21:44,,https://download.eclipse.org/technology/m2e/releases/1.18.0/
+m2e,2021-09,2021-09-08,sim,sim,,,,1.18.1,aa8a52668,2021-09-06T23:19,,https://download.eclipse.org/technology/m2e/releases/1.18.1/
+m2e,2021-12,2021-12-02,sim,sim,,,,1.19.0,cb2905b33,2021-12-02T13:25,,https://download.eclipse.org/technology/m2e/releases/1.19.0/
+m2e,2022-03,2022-03-15,sim,sim,,,,1.20.1,dbf81d450,2022-03-14T20:58,,https://download.eclipse.org/technology/m2e/releases/1.20.1/
+m2e,2022-06,2022-06-13,sim,sim,,,,1.20.1,c76ec876c,2022-06-13T12:36,,https://download.eclipse.org/technology/m2e/releases/1.20.1/
+m2e,2022-09,2022-09-12,sim,sim,,2022-09-06 14:52,qualificador,2.0.4 1.5.2,2efa3542a,2022-09-12T14:11,5.9,https://download.eclipse.org/technology/m2e/releases/2.0.4 | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.5.2/
+m2e,2022-12,2022-12-05,sim,sim,,2022-09-06 14:52,qualificador,2.1.2 1.5.2,5abfe3578,2022-12-04T01:19,88.4,https://download.eclipse.org/technology/m2e/releases/2.1.2/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.5.2/
+m2e,2023-03,2023-03-29,sim,sim,,,,2.2.1 1.6.0,43bba83d5,2023-03-29T01:49,,https://download.eclipse.org/technology/m2e/releases/2.2.1/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.0/
+m2e,2023-06,2023-06-13,sim,sim,,,,2.3.0 1.6.0,c008eb133,2023-06-12T19:24,,https://download.eclipse.org/technology/m2e/releases/2.3.0/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.0/
+m2e,2023-09,2023-09-08,sim,sim,,,,2.4.0 1.6.0,907cc57ad,2023-09-08T15:43,,https://download.eclipse.org/technology/m2e/releases/2.4.0/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.0/
+m2e,2023-12,2023-12-01,sim,sim,,,,2.5.0 1.6.1,348ef88b0,2023-11-27T20:21,,https://download.eclipse.org/technology/m2e/releases/2.5.0/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.1/
+m2e,2024-03,2024-03-08,sim,sim,,,,2.6.0 1.6.1,112488c01,2024-03-01T14:18,,https://download.eclipse.org/technology/m2e/releases/2.6.0/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.1/
+m2e,2024-06,2024-06-10,sim,sim,,,,2.6.1 1.6.1,9deadde94,2024-06-04T00:50,,https://download.eclipse.org/technology/m2e/releases/2.6.1/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.1/
+m2e,2024-09,2024-09-06,sim,sim,,,,2.6.2 1.6.1,fc65987d2,2024-09-05T19:18,,https://download.eclipse.org/technology/m2e/releases/2.6.2/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.1/
+m2e,2024-12,2024-12-01,sim,sim,,,,2.7.0 1.6.1,02d733c93,2024-11-26T23:45,,https://download.eclipse.org/technology/m2e/releases/2.7.0/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.1/
+m2e,2025-03,2025-03-06,sim,sim,,,,2.8.0 1.6.1,66b65ce74,2025-03-03T22:22,,https://download.eclipse.org/technology/m2e/releases/2.8.0/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.1/
+m2e,2025-06,2025-06-05,sim,sim,,,,2.9.0 1.6.1,db6dd23d3,2025-06-05T00:38,,https://download.eclipse.org/technology/m2e/releases/2.9.0/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.1/
+m2e,2025-09,2025-09-05,sim,sim,,,,2.9.1 1.6.1,bc9f53686,2025-09-04T00:46,,https://download.eclipse.org/technology/m2e/releases/2.9.1/ | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.1/
+m2e,2025-12,2025-12-07,sim,sim,,,,2.10.0 1.6.1,f223e3931,2025-12-05T12:31,,https://download.eclipse.org/technology/m2e/releases/2.10.0 | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.1/
+m2e,2026-03,2026-03-11,sim,sim,,,,2.11.0 1.6.1,4348a43f4,2026-03-05T11:03,,https://download.eclipse.org/technology/m2e/releases/2.11.0 | https://download.eclipse.org/technology/m2e/m2e-wtp/releases/1.6.1/

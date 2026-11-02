@@ -1,0 +1,25 @@
+20->21: common=51456 changed=27
+21->22: common=51456 changed=1
+22->23: common=51457 changed=0
+23->24: common=51457 changed=10
+24->25: common=51457 changed=3
+25->27: common=51457 changed=0
+27->28: common=51457 changed=0
+28->30: common=51457 changed=2
+30->31: common=51457 changed=0
+31->32: common=51457 changed=0
+32->33: common=51457 changed=0
+33->34: common=51457 changed=1
+34->36: common=51457 changed=0
+36->41: common=51457 changed=370
+41->42: common=51457 changed=0
+42->43: common=51457 changed=1
+43->44: common=51978 changed=2
+44->46: common=51978 changed=0
+46->47: common=51978 changed=2
+47->48: common=51986 changed=1
+48->49: common=51986 changed=0
+49->51: common=51986 changed=0
+51->53: common=51986 changed=0
+ChangeDistiller calls: 420 | returned rows: 420 | zero rows (identical text): 1186768 | CDERROR: 0
+

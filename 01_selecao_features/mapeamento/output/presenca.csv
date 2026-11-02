@@ -1,0 +1,1027 @@
+feature,idx,tag,data,presente,c1,c2,c3,c4,arquivo
+BIRT,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,12,Neon,2016-06-13,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,birt.b3aggrcon
+BIRT,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,22,2018-09,2018-09-12,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,23,2018-12,2018-12-12,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,24,2019-03,2019-03-14,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,25,2019-06,2019-06-13,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,26,2019-09,2019-09-16,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,27,2019-12,2019-12-11,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,28,2020-03,2020-03-12,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,29,2020-06,2020-06-10,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,30,2020-09,2020-09-09,sim,sim,sim,sim,-,birt.aggrcon
+BIRT,31,2020-12,2020-12-09,nao,nao,-,-,-,
+BIRT,32,2021-03,2021-03-10,nao,nao,-,-,-,
+BIRT,33,2021-06,2021-06-12,nao,nao,-,-,-,
+BIRT,34,2021-09,2021-09-08,nao,nao,-,-,-,
+BIRT,35,2021-12,2021-12-02,nao,nao,-,-,-,
+BIRT,36,2022-03,2022-03-15,nao,nao,-,-,-,
+BIRT,37,2022-06,2022-06-13,nao,nao,-,-,-,
+BIRT,38,2022-09,2022-09-12,nao,nao,-,-,-,
+BIRT,39,2022-12,2022-12-05,nao,nao,-,-,-,
+BIRT,40,2023-03,2023-03-29,nao,nao,-,-,-,
+BIRT,41,2023-06,2023-06-13,nao,nao,-,-,-,
+BIRT,42,2023-09,2023-09-08,nao,nao,-,-,-,
+BIRT,43,2023-12,2023-12-01,nao,nao,-,-,-,
+BIRT,44,2024-03,2024-03-08,nao,nao,-,-,-,
+BIRT,45,2024-06,2024-06-10,nao,nao,-,-,-,
+BIRT,46,2024-09,2024-09-06,nao,nao,-,-,-,
+BIRT,47,2024-12,2024-12-01,nao,nao,-,-,-,
+BIRT,48,2025-03,2025-03-06,nao,nao,-,-,-,
+BIRT,49,2025-06,2025-06-05,nao,nao,-,-,-,
+BIRT,50,2025-09,2025-09-05,nao,nao,-,-,-,
+BIRT,51,2025-12,2025-12-07,nao,nao,-,-,-,
+BIRT,52,2026-03,2026-03-11,nao,nao,-,-,-,
+BIRT,53,2026-06,2026-06-05,nao,nao,-,-,-,
+BIRT,54,2026-09,2026-09-04,nao,nao,-,-,-,
+CDT,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,12,Neon,2016-06-13,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,cdt.b3aggrcon
+CDT,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,22,2018-09,2018-09-12,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,23,2018-12,2018-12-12,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,24,2019-03,2019-03-14,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,25,2019-06,2019-06-13,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,26,2019-09,2019-09-16,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,27,2019-12,2019-12-11,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,28,2020-03,2020-03-12,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,29,2020-06,2020-06-10,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,30,2020-09,2020-09-09,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,31,2020-12,2020-12-09,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,32,2021-03,2021-03-10,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,33,2021-06,2021-06-12,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,34,2021-09,2021-09-08,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,35,2021-12,2021-12-02,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,36,2022-03,2022-03-15,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,37,2022-06,2022-06-13,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,38,2022-09,2022-09-12,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,39,2022-12,2022-12-05,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,40,2023-03,2023-03-29,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,41,2023-06,2023-06-13,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,42,2023-09,2023-09-08,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,43,2023-12,2023-12-01,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,44,2024-03,2024-03-08,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,45,2024-06,2024-06-10,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,46,2024-09,2024-09-06,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,47,2024-12,2024-12-01,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,48,2025-03,2025-03-06,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,49,2025-06,2025-06-05,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,50,2025-09,2025-09-05,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,51,2025-12,2025-12-07,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,52,2026-03,2026-03-11,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,53,2026-06,2026-06-05,sim,sim,sim,sim,-,cdt.aggrcon
+CDT,54,2026-09,2026-09-04,sim,sim,sim,sim,-,cdt.aggrcon
+CVS,1,JunoSR0,2012-08-03,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,2,JunoSR1,2012-09-19,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,3,JunoSR2,2013-02-24,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,7,LunaSR0,2014-07-29,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,8,LunaRC4,2014-09-17,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,9,LunaSR2,2015-03-02,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,10,S201504150911,2015-04-15,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,11,Mars.1,2015-09-24,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,12,Neon,2016-06-13,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,13,Neon.1,2016-09-14,sim,sim,sim,sim,sim,ep.b3aggrcon
+CVS,14,Neon.2,2016-12-07,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,15,Neon.3,2017-03-08,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,16,Oxygen,2017-06-14,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,21,Photon.0,2018-06-17,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,22,2018-09,2018-09-12,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,23,2018-12,2018-12-12,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,24,2019-03,2019-03-14,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,25,2019-06,2019-06-13,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,26,2019-09,2019-09-16,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,27,2019-12,2019-12-11,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,28,2020-03,2020-03-12,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,29,2020-06,2020-06-10,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,30,2020-09,2020-09-09,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,31,2020-12,2020-12-09,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,32,2021-03,2021-03-10,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,33,2021-06,2021-06-12,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,34,2021-09,2021-09-08,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,35,2021-12,2021-12-02,sim,sim,sim,sim,sim,ep.aggrcon
+CVS,36,2022-03,2022-03-15,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,37,2022-06,2022-06-13,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,38,2022-09,2022-09-12,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,39,2022-12,2022-12-05,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,40,2023-03,2023-03-29,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,41,2023-06,2023-06-13,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,42,2023-09,2023-09-08,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,43,2023-12,2023-12-01,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,44,2024-03,2024-03-08,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,45,2024-06,2024-06-10,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,46,2024-09,2024-09-06,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,47,2024-12,2024-12-01,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,48,2025-03,2025-03-06,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,49,2025-06,2025-06-05,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,50,2025-09,2025-09-05,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,51,2025-12,2025-12-07,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,52,2026-03,2026-03-11,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,53,2026-06,2026-06-05,nao,sim,sim,sim,nao,ep.aggrcon
+CVS,54,2026-09,2026-09-04,nao,sim,sim,sim,nao,ep.aggrcon
+DataTools,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,12,Neon,2016-06-13,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,dtp.b3aggrcon
+DataTools,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,22,2018-09,2018-09-12,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,23,2018-12,2018-12-12,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,24,2019-03,2019-03-14,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,25,2019-06,2019-06-13,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,26,2019-09,2019-09-16,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,27,2019-12,2019-12-11,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,28,2020-03,2020-03-12,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,29,2020-06,2020-06-10,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,30,2020-09,2020-09-09,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,31,2020-12,2020-12-09,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,32,2021-03,2021-03-10,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,33,2021-06,2021-06-12,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,34,2021-09,2021-09-08,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,35,2021-12,2021-12-02,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,36,2022-03,2022-03-15,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,37,2022-06,2022-06-13,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,38,2022-09,2022-09-12,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,39,2022-12,2022-12-05,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,40,2023-03,2023-03-29,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,41,2023-06,2023-06-13,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,42,2023-09,2023-09-08,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,43,2023-12,2023-12-01,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,44,2024-03,2024-03-08,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,45,2024-06,2024-06-10,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,46,2024-09,2024-09-06,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,47,2024-12,2024-12-01,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,48,2025-03,2025-03-06,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,49,2025-06,2025-06-05,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,50,2025-09,2025-09-05,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,51,2025-12,2025-12-07,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,52,2026-03,2026-03-11,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,53,2026-06,2026-06-05,sim,sim,sim,sim,-,dtp.aggrcon
+DataTools,54,2026-09,2026-09-04,sim,sim,sim,sim,-,dtp.aggrcon
+EGit,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,12,Neon,2016-06-13,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,egit.b3aggrcon
+EGit,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,egit.aggrcon
+EGit,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,egit.aggrcon
+EGit,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,egit.aggrcon
+EGit,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,egit.aggrcon
+EGit,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,egit.aggrcon
+EGit,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,egit.aggrcon
+EGit,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,egit.aggrcon
+EGit,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,egit.aggrcon
+EGit,22,2018-09,2018-09-12,sim,sim,sim,sim,-,egit.aggrcon
+EGit,23,2018-12,2018-12-12,sim,sim,sim,sim,-,egit.aggrcon
+EGit,24,2019-03,2019-03-14,sim,sim,sim,sim,-,egit.aggrcon
+EGit,25,2019-06,2019-06-13,sim,sim,sim,sim,-,egit.aggrcon
+EGit,26,2019-09,2019-09-16,sim,sim,sim,sim,-,egit.aggrcon
+EGit,27,2019-12,2019-12-11,sim,sim,sim,sim,-,egit.aggrcon
+EGit,28,2020-03,2020-03-12,sim,sim,sim,sim,-,egit.aggrcon
+EGit,29,2020-06,2020-06-10,sim,sim,sim,sim,-,egit.aggrcon
+EGit,30,2020-09,2020-09-09,sim,sim,sim,sim,-,egit.aggrcon
+EGit,31,2020-12,2020-12-09,sim,sim,sim,sim,-,egit.aggrcon
+EGit,32,2021-03,2021-03-10,sim,sim,sim,sim,-,egit.aggrcon
+EGit,33,2021-06,2021-06-12,sim,sim,sim,sim,-,egit.aggrcon
+EGit,34,2021-09,2021-09-08,sim,sim,sim,sim,-,egit.aggrcon
+EGit,35,2021-12,2021-12-02,sim,sim,sim,sim,-,egit.aggrcon
+EGit,36,2022-03,2022-03-15,sim,sim,sim,sim,-,egit.aggrcon
+EGit,37,2022-06,2022-06-13,sim,sim,sim,sim,-,egit.aggrcon
+EGit,38,2022-09,2022-09-12,sim,sim,sim,sim,-,egit.aggrcon
+EGit,39,2022-12,2022-12-05,sim,sim,sim,sim,-,egit.aggrcon
+EGit,40,2023-03,2023-03-29,sim,sim,sim,sim,-,egit.aggrcon
+EGit,41,2023-06,2023-06-13,sim,sim,sim,sim,-,egit.aggrcon
+EGit,42,2023-09,2023-09-08,sim,sim,sim,sim,-,egit.aggrcon
+EGit,43,2023-12,2023-12-01,sim,sim,sim,sim,-,egit.aggrcon
+EGit,44,2024-03,2024-03-08,sim,sim,sim,sim,-,egit.aggrcon
+EGit,45,2024-06,2024-06-10,sim,sim,sim,sim,-,egit.aggrcon
+EGit,46,2024-09,2024-09-06,sim,sim,sim,sim,-,egit.aggrcon
+EGit,47,2024-12,2024-12-01,sim,sim,sim,sim,-,egit.aggrcon
+EGit,48,2025-03,2025-03-06,sim,sim,sim,sim,-,egit.aggrcon
+EGit,49,2025-06,2025-06-05,sim,sim,sim,sim,-,egit.aggrcon
+EGit,50,2025-09,2025-09-05,sim,sim,sim,sim,-,egit.aggrcon
+EGit,51,2025-12,2025-12-07,sim,sim,sim,sim,-,egit.aggrcon
+EGit,52,2026-03,2026-03-11,sim,sim,sim,sim,-,egit.aggrcon
+EGit,53,2026-06,2026-06-05,sim,sim,sim,sim,-,egit.aggrcon
+EGit,54,2026-09,2026-09-04,sim,sim,sim,sim,-,egit.aggrcon
+EMF,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,12,Neon,2016-06-13,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,emf-emf.b3aggrcon
+EMF,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,22,2018-09,2018-09-12,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,23,2018-12,2018-12-12,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,24,2019-03,2019-03-14,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,25,2019-06,2019-06-13,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,26,2019-09,2019-09-16,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,27,2019-12,2019-12-11,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,28,2020-03,2020-03-12,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,29,2020-06,2020-06-10,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,30,2020-09,2020-09-09,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,31,2020-12,2020-12-09,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,32,2021-03,2021-03-10,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,33,2021-06,2021-06-12,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,34,2021-09,2021-09-08,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,35,2021-12,2021-12-02,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,36,2022-03,2022-03-15,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,37,2022-06,2022-06-13,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,38,2022-09,2022-09-12,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,39,2022-12,2022-12-05,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,40,2023-03,2023-03-29,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,41,2023-06,2023-06-13,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,42,2023-09,2023-09-08,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,43,2023-12,2023-12-01,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,44,2024-03,2024-03-08,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,45,2024-06,2024-06-10,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,46,2024-09,2024-09-06,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,47,2024-12,2024-12-01,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,48,2025-03,2025-03-06,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,49,2025-06,2025-06-05,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,50,2025-09,2025-09-05,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,51,2025-12,2025-12-07,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,52,2026-03,2026-03-11,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,53,2026-06,2026-06-05,sim,sim,sim,sim,-,emf-emf.aggrcon
+EMF,54,2026-09,2026-09-04,sim,sim,sim,sim,-,emf.aggrcon
+EclipseLink,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,eclipseLink.b3aggrcon
+EclipseLink,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,eclipseLink.b3aggrcon
+EclipseLink,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,eclipseLink.b3aggrcon
+EclipseLink,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,eclipseLink.b3aggrcon
+EclipseLink,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,eclipseLink.b3aggrcon
+EclipseLink,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,eclipseLink.b3aggrcon
+EclipseLink,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,eclipseLink.b3aggrcon
+EclipseLink,8,LunaRC4,2014-09-17,nao,nao,-,-,-,
+EclipseLink,9,LunaSR2,2015-03-02,nao,nao,-,-,-,
+EclipseLink,10,S201504150911,2015-04-15,nao,nao,-,-,-,
+EclipseLink,11,Mars.1,2015-09-24,nao,nao,-,-,-,
+EclipseLink,12,Neon,2016-06-13,nao,nao,-,-,-,
+EclipseLink,13,Neon.1,2016-09-14,nao,nao,-,-,-,
+EclipseLink,14,Neon.2,2016-12-07,nao,nao,-,-,-,
+EclipseLink,15,Neon.3,2017-03-08,nao,nao,-,-,-,
+EclipseLink,16,Oxygen,2017-06-14,nao,nao,-,-,-,
+EclipseLink,17,Oxygen.1,2017-09-13,nao,nao,-,-,-,
+EclipseLink,18,Oxygen.1a,2017-10-05,nao,nao,-,-,-,
+EclipseLink,19,Oxygen.2,2017-12-06,nao,nao,-,-,-,
+EclipseLink,20,Oxygen.3,2018-03-07,nao,nao,-,-,-,
+EclipseLink,21,Photon.0,2018-06-17,nao,nao,-,-,-,
+EclipseLink,22,2018-09,2018-09-12,nao,nao,-,-,-,
+EclipseLink,23,2018-12,2018-12-12,nao,nao,-,-,-,
+EclipseLink,24,2019-03,2019-03-14,nao,nao,-,-,-,
+EclipseLink,25,2019-06,2019-06-13,nao,nao,-,-,-,
+EclipseLink,26,2019-09,2019-09-16,nao,nao,-,-,-,
+EclipseLink,27,2019-12,2019-12-11,nao,nao,-,-,-,
+EclipseLink,28,2020-03,2020-03-12,nao,nao,-,-,-,
+EclipseLink,29,2020-06,2020-06-10,nao,nao,-,-,-,
+EclipseLink,30,2020-09,2020-09-09,nao,nao,-,-,-,
+EclipseLink,31,2020-12,2020-12-09,nao,nao,-,-,-,
+EclipseLink,32,2021-03,2021-03-10,nao,nao,-,-,-,
+EclipseLink,33,2021-06,2021-06-12,nao,nao,-,-,-,
+EclipseLink,34,2021-09,2021-09-08,nao,nao,-,-,-,
+EclipseLink,35,2021-12,2021-12-02,nao,nao,-,-,-,
+EclipseLink,36,2022-03,2022-03-15,nao,nao,-,-,-,
+EclipseLink,37,2022-06,2022-06-13,nao,nao,-,-,-,
+EclipseLink,38,2022-09,2022-09-12,nao,nao,-,-,-,
+EclipseLink,39,2022-12,2022-12-05,nao,nao,-,-,-,
+EclipseLink,40,2023-03,2023-03-29,nao,nao,-,-,-,
+EclipseLink,41,2023-06,2023-06-13,nao,nao,-,-,-,
+EclipseLink,42,2023-09,2023-09-08,nao,nao,-,-,-,
+EclipseLink,43,2023-12,2023-12-01,nao,nao,-,-,-,
+EclipseLink,44,2024-03,2024-03-08,nao,nao,-,-,-,
+EclipseLink,45,2024-06,2024-06-10,nao,nao,-,-,-,
+EclipseLink,46,2024-09,2024-09-06,nao,nao,-,-,-,
+EclipseLink,47,2024-12,2024-12-01,nao,nao,-,-,-,
+EclipseLink,48,2025-03,2025-03-06,nao,nao,-,-,-,
+EclipseLink,49,2025-06,2025-06-05,nao,nao,-,-,-,
+EclipseLink,50,2025-09,2025-09-05,nao,nao,-,-,-,
+EclipseLink,51,2025-12,2025-12-07,nao,nao,-,-,-,
+EclipseLink,52,2026-03,2026-03-11,nao,nao,-,-,-,
+EclipseLink,53,2026-06,2026-06-05,nao,nao,-,-,-,
+EclipseLink,54,2026-09,2026-09-04,nao,nao,-,-,-,
+GEF,1,JunoSR0,2012-08-03,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,2,JunoSR1,2012-09-19,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,3,JunoSR2,2013-02-24,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,7,LunaSR0,2014-07-29,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,8,LunaRC4,2014-09-17,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,9,LunaSR2,2015-03-02,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,10,S201504150911,2015-04-15,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,11,Mars.1,2015-09-24,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,12,Neon,2016-06-13,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,13,Neon.1,2016-09-14,sim,sim,sim,sim,sim,gef.b3aggrcon
+GEF,14,Neon.2,2016-12-07,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,15,Neon.3,2017-03-08,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,16,Oxygen,2017-06-14,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,21,Photon.0,2018-06-17,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,22,2018-09,2018-09-12,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,23,2018-12,2018-12-12,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,24,2019-03,2019-03-14,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,25,2019-06,2019-06-13,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,26,2019-09,2019-09-16,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,27,2019-12,2019-12-11,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,28,2020-03,2020-03-12,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,29,2020-06,2020-06-10,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,30,2020-09,2020-09-09,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,31,2020-12,2020-12-09,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,32,2021-03,2021-03-10,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,33,2021-06,2021-06-12,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,34,2021-09,2021-09-08,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,35,2021-12,2021-12-02,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,36,2022-03,2022-03-15,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,37,2022-06,2022-06-13,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,38,2022-09,2022-09-12,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,39,2022-12,2022-12-05,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,40,2023-03,2023-03-29,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,41,2023-06,2023-06-13,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,42,2023-09,2023-09-08,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,43,2023-12,2023-12-01,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,44,2024-03,2024-03-08,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,45,2024-06,2024-06-10,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,46,2024-09,2024-09-06,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,47,2024-12,2024-12-01,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,48,2025-03,2025-03-06,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,49,2025-06,2025-06-05,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,50,2025-09,2025-09-05,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,51,2025-12,2025-12-07,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,52,2026-03,2026-03-11,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,53,2026-06,2026-06-05,sim,sim,sim,sim,sim,gef.aggrcon
+GEF,54,2026-09,2026-09-04,sim,sim,sim,sim,sim,gef.aggrcon
+GMF Runtime,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,12,Neon,2016-06-13,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,gmp-gmf-runtime.b3aggrcon
+GMF Runtime,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,22,2018-09,2018-09-12,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,23,2018-12,2018-12-12,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,24,2019-03,2019-03-14,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,25,2019-06,2019-06-13,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,26,2019-09,2019-09-16,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,27,2019-12,2019-12-11,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,28,2020-03,2020-03-12,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,29,2020-06,2020-06-10,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,30,2020-09,2020-09-09,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,31,2020-12,2020-12-09,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,32,2021-03,2021-03-10,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,33,2021-06,2021-06-12,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,34,2021-09,2021-09-08,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,35,2021-12,2021-12-02,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,36,2022-03,2022-03-15,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,37,2022-06,2022-06-13,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,38,2022-09,2022-09-12,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,39,2022-12,2022-12-05,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,40,2023-03,2023-03-29,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,41,2023-06,2023-06-13,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,42,2023-09,2023-09-08,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,43,2023-12,2023-12-01,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,44,2024-03,2024-03-08,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,45,2024-06,2024-06-10,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,46,2024-09,2024-09-06,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,47,2024-12,2024-12-01,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,48,2025-03,2025-03-06,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,49,2025-06,2025-06-05,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,50,2025-09,2025-09-05,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,51,2025-12,2025-12-07,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,52,2026-03,2026-03-11,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,53,2026-06,2026-06-05,sim,sim,sim,sim,-,gmp-gmf-runtime.aggrcon
+GMF Runtime,54,2026-09,2026-09-04,sim,sim,sim,sim,-,gmf-runtime.aggrcon
+JDT,1,JunoSR0,2012-08-03,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,2,JunoSR1,2012-09-19,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,3,JunoSR2,2013-02-24,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,7,LunaSR0,2014-07-29,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,8,LunaRC4,2014-09-17,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,9,LunaSR2,2015-03-02,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,10,S201504150911,2015-04-15,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,11,Mars.1,2015-09-24,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,12,Neon,2016-06-13,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,13,Neon.1,2016-09-14,sim,sim,sim,sim,sim,ep.b3aggrcon
+JDT,14,Neon.2,2016-12-07,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,15,Neon.3,2017-03-08,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,16,Oxygen,2017-06-14,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,21,Photon.0,2018-06-17,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,22,2018-09,2018-09-12,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,23,2018-12,2018-12-12,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,24,2019-03,2019-03-14,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,25,2019-06,2019-06-13,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,26,2019-09,2019-09-16,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,27,2019-12,2019-12-11,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,28,2020-03,2020-03-12,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,29,2020-06,2020-06-10,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,30,2020-09,2020-09-09,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,31,2020-12,2020-12-09,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,32,2021-03,2021-03-10,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,33,2021-06,2021-06-12,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,34,2021-09,2021-09-08,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,35,2021-12,2021-12-02,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,36,2022-03,2022-03-15,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,37,2022-06,2022-06-13,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,38,2022-09,2022-09-12,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,39,2022-12,2022-12-05,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,40,2023-03,2023-03-29,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,41,2023-06,2023-06-13,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,42,2023-09,2023-09-08,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,43,2023-12,2023-12-01,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,44,2024-03,2024-03-08,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,45,2024-06,2024-06-10,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,46,2024-09,2024-09-06,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,47,2024-12,2024-12-01,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,48,2025-03,2025-03-06,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,49,2025-06,2025-06-05,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,50,2025-09,2025-09-05,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,51,2025-12,2025-12-07,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,52,2026-03,2026-03-11,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,53,2026-06,2026-06-05,sim,sim,sim,sim,sim,ep.aggrcon
+JDT,54,2026-09,2026-09-04,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,1,JunoSR0,2012-08-03,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,2,JunoSR1,2012-09-19,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,3,JunoSR2,2013-02-24,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,7,LunaSR0,2014-07-29,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,8,LunaRC4,2014-09-17,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,9,LunaSR2,2015-03-02,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,10,S201504150911,2015-04-15,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,11,Mars.1,2015-09-24,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,12,Neon,2016-06-13,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,13,Neon.1,2016-09-14,sim,sim,sim,sim,sim,ep.b3aggrcon
+PDE,14,Neon.2,2016-12-07,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,15,Neon.3,2017-03-08,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,16,Oxygen,2017-06-14,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,21,Photon.0,2018-06-17,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,22,2018-09,2018-09-12,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,23,2018-12,2018-12-12,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,24,2019-03,2019-03-14,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,25,2019-06,2019-06-13,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,26,2019-09,2019-09-16,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,27,2019-12,2019-12-11,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,28,2020-03,2020-03-12,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,29,2020-06,2020-06-10,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,30,2020-09,2020-09-09,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,31,2020-12,2020-12-09,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,32,2021-03,2021-03-10,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,33,2021-06,2021-06-12,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,34,2021-09,2021-09-08,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,35,2021-12,2021-12-02,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,36,2022-03,2022-03-15,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,37,2022-06,2022-06-13,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,38,2022-09,2022-09-12,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,39,2022-12,2022-12-05,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,40,2023-03,2023-03-29,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,41,2023-06,2023-06-13,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,42,2023-09,2023-09-08,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,43,2023-12,2023-12-01,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,44,2024-03,2024-03-08,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,45,2024-06,2024-06-10,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,46,2024-09,2024-09-06,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,47,2024-12,2024-12-01,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,48,2025-03,2025-03-06,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,49,2025-06,2025-06-05,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,50,2025-09,2025-09-05,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,51,2025-12,2025-12-07,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,52,2026-03,2026-03-11,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,53,2026-06,2026-06-05,sim,sim,sim,sim,sim,ep.aggrcon
+PDE,54,2026-09,2026-09-04,sim,sim,sim,sim,sim,ep.aggrcon
+Mylyn,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,12,Neon,2016-06-13,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,mylyn.b3aggrcon
+Mylyn,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,22,2018-09,2018-09-12,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,23,2018-12,2018-12-12,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,24,2019-03,2019-03-14,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,25,2019-06,2019-06-13,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,26,2019-09,2019-09-16,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,27,2019-12,2019-12-11,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,28,2020-03,2020-03-12,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,29,2020-06,2020-06-10,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,30,2020-09,2020-09-09,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,31,2020-12,2020-12-09,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,32,2021-03,2021-03-10,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,33,2021-06,2021-06-12,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,34,2021-09,2021-09-08,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,35,2021-12,2021-12-02,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,36,2022-03,2022-03-15,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,37,2022-06,2022-06-13,nao,sim,sim,nao,-,mylyn.aggrcon
+Mylyn,38,2022-09,2022-09-12,nao,sim,sim,nao,-,mylyn.aggrcon
+Mylyn,39,2022-12,2022-12-05,nao,sim,sim,nao,-,mylyn.aggrcon
+Mylyn,40,2023-03,2023-03-29,nao,sim,sim,nao,-,mylyn.aggrcon
+Mylyn,41,2023-06,2023-06-13,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,42,2023-09,2023-09-08,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,43,2023-12,2023-12-01,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,44,2024-03,2024-03-08,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,45,2024-06,2024-06-10,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,46,2024-09,2024-09-06,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,47,2024-12,2024-12-01,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,48,2025-03,2025-03-06,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,49,2025-06,2025-06-05,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,50,2025-09,2025-09-05,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,51,2025-12,2025-12-07,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,52,2026-03,2026-03-11,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,53,2026-06,2026-06-05,sim,sim,sim,sim,-,mylyn.aggrcon
+Mylyn,54,2026-09,2026-09-04,sim,sim,sim,sim,-,mylyn.aggrcon
+PTP,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,12,Neon,2016-06-13,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,ptp.b3aggrcon
+PTP,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,22,2018-09,2018-09-12,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,23,2018-12,2018-12-12,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,24,2019-03,2019-03-14,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,25,2019-06,2019-06-13,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,26,2019-09,2019-09-16,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,27,2019-12,2019-12-11,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,28,2020-03,2020-03-12,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,29,2020-06,2020-06-10,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,30,2020-09,2020-09-09,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,31,2020-12,2020-12-09,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,32,2021-03,2021-03-10,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,33,2021-06,2021-06-12,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,34,2021-09,2021-09-08,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,35,2021-12,2021-12-02,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,36,2022-03,2022-03-15,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,37,2022-06,2022-06-13,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,38,2022-09,2022-09-12,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,39,2022-12,2022-12-05,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,40,2023-03,2023-03-29,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,41,2023-06,2023-06-13,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,42,2023-09,2023-09-08,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,43,2023-12,2023-12-01,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,44,2024-03,2024-03-08,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,45,2024-06,2024-06-10,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,46,2024-09,2024-09-06,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,47,2024-12,2024-12-01,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,48,2025-03,2025-03-06,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,49,2025-06,2025-06-05,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,50,2025-09,2025-09-05,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,51,2025-12,2025-12-07,sim,sim,sim,sim,-,ptp.aggrcon
+PTP,52,2026-03,2026-03-11,nao,nao,-,-,-,
+PTP,53,2026-06,2026-06-05,nao,nao,-,-,-,
+PTP,54,2026-09,2026-09-04,nao,nao,-,-,-,
+RAP,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,12,Neon,2016-06-13,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,rap.b3aggrcon
+RAP,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,rap.aggrcon
+RAP,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,rap.aggrcon
+RAP,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,rap.aggrcon
+RAP,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,rap.aggrcon
+RAP,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,rap.aggrcon
+RAP,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,rap.aggrcon
+RAP,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,rap.aggrcon
+RAP,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,rap.aggrcon
+RAP,22,2018-09,2018-09-12,sim,sim,sim,sim,-,rap.aggrcon
+RAP,23,2018-12,2018-12-12,sim,sim,sim,sim,-,rap.aggrcon
+RAP,24,2019-03,2019-03-14,sim,sim,sim,sim,-,rap.aggrcon
+RAP,25,2019-06,2019-06-13,sim,sim,sim,sim,-,rap.aggrcon
+RAP,26,2019-09,2019-09-16,sim,sim,sim,sim,-,rap.aggrcon
+RAP,27,2019-12,2019-12-11,sim,sim,sim,sim,-,rap.aggrcon
+RAP,28,2020-03,2020-03-12,sim,sim,sim,sim,-,rap.aggrcon
+RAP,29,2020-06,2020-06-10,sim,sim,sim,sim,-,rap.aggrcon
+RAP,30,2020-09,2020-09-09,sim,sim,sim,sim,-,rap.aggrcon
+RAP,31,2020-12,2020-12-09,sim,sim,sim,sim,-,rap.aggrcon
+RAP,32,2021-03,2021-03-10,sim,sim,sim,sim,-,rap.aggrcon
+RAP,33,2021-06,2021-06-12,sim,sim,sim,sim,-,rap.aggrcon
+RAP,34,2021-09,2021-09-08,sim,sim,sim,sim,-,rap.aggrcon
+RAP,35,2021-12,2021-12-02,sim,sim,sim,sim,-,rap.aggrcon
+RAP,36,2022-03,2022-03-15,sim,sim,sim,sim,-,rap.aggrcon
+RAP,37,2022-06,2022-06-13,sim,sim,sim,sim,-,rap.aggrcon
+RAP,38,2022-09,2022-09-12,sim,sim,sim,sim,-,rap.aggrcon
+RAP,39,2022-12,2022-12-05,sim,sim,sim,sim,-,rap.aggrcon
+RAP,40,2023-03,2023-03-29,sim,sim,sim,sim,-,rap.aggrcon
+RAP,41,2023-06,2023-06-13,sim,sim,sim,sim,-,rap.aggrcon
+RAP,42,2023-09,2023-09-08,sim,sim,sim,sim,-,rap.aggrcon
+RAP,43,2023-12,2023-12-01,sim,sim,sim,sim,-,rap.aggrcon
+RAP,44,2024-03,2024-03-08,sim,sim,sim,sim,-,rap.aggrcon
+RAP,45,2024-06,2024-06-10,sim,sim,sim,sim,-,rap.aggrcon
+RAP,46,2024-09,2024-09-06,sim,sim,sim,sim,-,rap.aggrcon
+RAP,47,2024-12,2024-12-01,sim,sim,sim,sim,-,rap.aggrcon
+RAP,48,2025-03,2025-03-06,sim,sim,sim,sim,-,rap.aggrcon
+RAP,49,2025-06,2025-06-05,sim,sim,sim,sim,-,rap.aggrcon
+RAP,50,2025-09,2025-09-05,nao,nao,-,-,-,
+RAP,51,2025-12,2025-12-07,nao,nao,-,-,-,
+RAP,52,2026-03,2026-03-11,nao,nao,-,-,-,
+RAP,53,2026-06,2026-06-05,nao,nao,-,-,-,
+RAP,54,2026-09,2026-09-04,nao,nao,-,-,-,
+Scout,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,12,Neon,2016-06-13,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,scout.b3aggrcon
+Scout,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,scout.aggrcon
+Scout,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,scout.aggrcon
+Scout,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,scout.aggrcon
+Scout,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,scout.aggrcon
+Scout,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,scout.aggrcon
+Scout,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,scout.aggrcon
+Scout,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,scout.aggrcon
+Scout,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,scout.aggrcon
+Scout,22,2018-09,2018-09-12,sim,sim,sim,sim,-,scout.aggrcon
+Scout,23,2018-12,2018-12-12,sim,sim,sim,sim,-,scout.aggrcon
+Scout,24,2019-03,2019-03-14,sim,sim,sim,sim,-,scout.aggrcon
+Scout,25,2019-06,2019-06-13,sim,sim,sim,sim,-,scout.aggrcon
+Scout,26,2019-09,2019-09-16,sim,sim,sim,sim,-,scout.aggrcon
+Scout,27,2019-12,2019-12-11,sim,sim,sim,sim,-,scout.aggrcon
+Scout,28,2020-03,2020-03-12,sim,sim,sim,sim,-,scout.aggrcon
+Scout,29,2020-06,2020-06-10,sim,sim,sim,sim,-,scout.aggrcon
+Scout,30,2020-09,2020-09-09,sim,sim,sim,sim,-,scout.aggrcon
+Scout,31,2020-12,2020-12-09,sim,sim,sim,sim,-,scout.aggrcon
+Scout,32,2021-03,2021-03-10,sim,sim,sim,sim,-,scout.aggrcon
+Scout,33,2021-06,2021-06-12,sim,sim,sim,sim,-,scout.aggrcon
+Scout,34,2021-09,2021-09-08,sim,sim,sim,sim,-,scout.aggrcon
+Scout,35,2021-12,2021-12-02,sim,sim,sim,sim,-,scout.aggrcon
+Scout,36,2022-03,2022-03-15,sim,sim,sim,sim,-,scout.aggrcon
+Scout,37,2022-06,2022-06-13,sim,sim,sim,sim,-,scout.aggrcon
+Scout,38,2022-09,2022-09-12,sim,sim,sim,sim,-,scout.aggrcon
+Scout,39,2022-12,2022-12-05,sim,sim,sim,sim,-,scout.aggrcon
+Scout,40,2023-03,2023-03-29,sim,sim,sim,sim,-,scout.aggrcon
+Scout,41,2023-06,2023-06-13,sim,sim,sim,sim,-,scout.aggrcon
+Scout,42,2023-09,2023-09-08,sim,sim,sim,sim,-,scout.aggrcon
+Scout,43,2023-12,2023-12-01,sim,sim,sim,sim,-,scout.aggrcon
+Scout,44,2024-03,2024-03-08,sim,sim,sim,sim,-,scout.aggrcon
+Scout,45,2024-06,2024-06-10,sim,sim,sim,sim,-,scout.aggrcon
+Scout,46,2024-09,2024-09-06,sim,sim,sim,sim,-,scout.aggrcon
+Scout,47,2024-12,2024-12-01,sim,sim,sim,sim,-,scout.aggrcon
+Scout,48,2025-03,2025-03-06,sim,sim,sim,sim,-,scout.aggrcon
+Scout,49,2025-06,2025-06-05,sim,sim,sim,sim,-,scout.aggrcon
+Scout,50,2025-09,2025-09-05,sim,sim,sim,sim,-,scout.aggrcon
+Scout,51,2025-12,2025-12-07,sim,sim,sim,sim,-,scout.aggrcon
+Scout,52,2026-03,2026-03-11,sim,sim,sim,sim,-,scout.aggrcon
+Scout,53,2026-06,2026-06-05,sim,sim,sim,sim,-,scout.aggrcon
+Scout,54,2026-09,2026-09-04,sim,sim,sim,sim,-,scout.aggrcon
+Subversive,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,12,Neon,2016-06-13,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,subversive.b3aggrcon
+Subversive,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,subversive.aggrcon
+Subversive,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,subversive.aggrcon
+Subversive,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,subversive.aggrcon
+Subversive,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,subversive.aggrcon
+Subversive,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,subversive.aggrcon
+Subversive,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,subversive.aggrcon
+Subversive,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,subversive.aggrcon
+Subversive,21,Photon.0,2018-06-17,nao,sim,sim,nao,-,subversive.aggrcon
+Subversive,22,2018-09,2018-09-12,nao,sim,sim,nao,-,subversive.aggrcon
+Subversive,23,2018-12,2018-12-12,nao,nao,-,-,-,
+Subversive,24,2019-03,2019-03-14,nao,nao,-,-,-,
+Subversive,25,2019-06,2019-06-13,nao,nao,-,-,-,
+Subversive,26,2019-09,2019-09-16,nao,nao,-,-,-,
+Subversive,27,2019-12,2019-12-11,nao,nao,-,-,-,
+Subversive,28,2020-03,2020-03-12,nao,nao,-,-,-,
+Subversive,29,2020-06,2020-06-10,nao,nao,-,-,-,
+Subversive,30,2020-09,2020-09-09,nao,nao,-,-,-,
+Subversive,31,2020-12,2020-12-09,nao,nao,-,-,-,
+Subversive,32,2021-03,2021-03-10,nao,nao,-,-,-,
+Subversive,33,2021-06,2021-06-12,nao,nao,-,-,-,
+Subversive,34,2021-09,2021-09-08,nao,nao,-,-,-,
+Subversive,35,2021-12,2021-12-02,nao,nao,-,-,-,
+Subversive,36,2022-03,2022-03-15,nao,nao,-,-,-,
+Subversive,37,2022-06,2022-06-13,nao,nao,-,-,-,
+Subversive,38,2022-09,2022-09-12,nao,nao,-,-,-,
+Subversive,39,2022-12,2022-12-05,nao,nao,-,-,-,
+Subversive,40,2023-03,2023-03-29,nao,nao,-,-,-,
+Subversive,41,2023-06,2023-06-13,nao,nao,-,-,-,
+Subversive,42,2023-09,2023-09-08,nao,nao,-,-,-,
+Subversive,43,2023-12,2023-12-01,nao,nao,-,-,-,
+Subversive,44,2024-03,2024-03-08,nao,nao,-,-,-,
+Subversive,45,2024-06,2024-06-10,nao,nao,-,-,-,
+Subversive,46,2024-09,2024-09-06,nao,nao,-,-,-,
+Subversive,47,2024-12,2024-12-01,nao,nao,-,-,-,
+Subversive,48,2025-03,2025-03-06,nao,nao,-,-,-,
+Subversive,49,2025-06,2025-06-05,nao,nao,-,-,-,
+Subversive,50,2025-09,2025-09-05,nao,nao,-,-,-,
+Subversive,51,2025-12,2025-12-07,nao,nao,-,-,-,
+Subversive,52,2026-03,2026-03-11,nao,nao,-,-,-,
+Subversive,53,2026-06,2026-06-05,nao,nao,-,-,-,
+Subversive,54,2026-09,2026-09-04,nao,nao,-,-,-,
+WebTools,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,12,Neon,2016-06-13,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,webtools.b3aggrcon
+WebTools,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,22,2018-09,2018-09-12,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,23,2018-12,2018-12-12,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,24,2019-03,2019-03-14,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,25,2019-06,2019-06-13,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,26,2019-09,2019-09-16,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,27,2019-12,2019-12-11,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,28,2020-03,2020-03-12,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,29,2020-06,2020-06-10,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,30,2020-09,2020-09-09,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,31,2020-12,2020-12-09,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,32,2021-03,2021-03-10,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,33,2021-06,2021-06-12,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,34,2021-09,2021-09-08,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,35,2021-12,2021-12-02,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,36,2022-03,2022-03-15,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,37,2022-06,2022-06-13,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,38,2022-09,2022-09-12,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,39,2022-12,2022-12-05,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,40,2023-03,2023-03-29,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,41,2023-06,2023-06-13,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,42,2023-09,2023-09-08,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,43,2023-12,2023-12-01,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,44,2024-03,2024-03-08,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,45,2024-06,2024-06-10,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,46,2024-09,2024-09-06,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,47,2024-12,2024-12-01,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,48,2025-03,2025-03-06,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,49,2025-06,2025-06-05,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,50,2025-09,2025-09-05,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,51,2025-12,2025-12-07,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,52,2026-03,2026-03-11,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,53,2026-06,2026-06-05,sim,sim,sim,sim,-,webtools.aggrcon
+WebTools,54,2026-09,2026-09-04,sim,sim,sim,sim,-,webtools.aggrcon
+Window Builder,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,12,Neon,2016-06-13,nao,sim,sim,nao,-,windowbuilder.b3aggrcon
+Window Builder,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,windowbuilder.b3aggrcon
+Window Builder,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,22,2018-09,2018-09-12,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,23,2018-12,2018-12-12,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,24,2019-03,2019-03-14,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,25,2019-06,2019-06-13,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,26,2019-09,2019-09-16,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,27,2019-12,2019-12-11,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,28,2020-03,2020-03-12,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,29,2020-06,2020-06-10,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,30,2020-09,2020-09-09,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,31,2020-12,2020-12-09,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,32,2021-03,2021-03-10,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,33,2021-06,2021-06-12,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,34,2021-09,2021-09-08,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,35,2021-12,2021-12-02,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,36,2022-03,2022-03-15,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,37,2022-06,2022-06-13,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,38,2022-09,2022-09-12,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,39,2022-12,2022-12-05,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,40,2023-03,2023-03-29,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,41,2023-06,2023-06-13,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,42,2023-09,2023-09-08,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,43,2023-12,2023-12-01,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,44,2024-03,2024-03-08,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,45,2024-06,2024-06-10,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,46,2024-09,2024-09-06,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,47,2024-12,2024-12-01,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,48,2025-03,2025-03-06,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,49,2025-06,2025-06-05,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,50,2025-09,2025-09-05,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,51,2025-12,2025-12-07,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,52,2026-03,2026-03-11,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,53,2026-06,2026-06-05,sim,sim,sim,sim,-,windowbuilder.aggrcon
+Window Builder,54,2026-09,2026-09-04,sim,sim,sim,sim,-,windowbuilder.aggrcon
+m2e,1,JunoSR0,2012-08-03,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,2,JunoSR1,2012-09-19,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,3,JunoSR2,2013-02-24,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,4,KeplerPostRC4,2013-06-13,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,5,KeplerSR0,2013-08-02,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,6,KeplerSR1,2013-09-23,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,7,LunaSR0,2014-07-29,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,8,LunaRC4,2014-09-17,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,9,LunaSR2,2015-03-02,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,10,S201504150911,2015-04-15,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,11,Mars.1,2015-09-24,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,12,Neon,2016-06-13,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,13,Neon.1,2016-09-14,sim,sim,sim,sim,-,m2e.b3aggrcon
+m2e,14,Neon.2,2016-12-07,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,15,Neon.3,2017-03-08,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,16,Oxygen,2017-06-14,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,17,Oxygen.1,2017-09-13,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,18,Oxygen.1a,2017-10-05,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,19,Oxygen.2,2017-12-06,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,20,Oxygen.3,2018-03-07,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,21,Photon.0,2018-06-17,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,22,2018-09,2018-09-12,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,23,2018-12,2018-12-12,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,24,2019-03,2019-03-14,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,25,2019-06,2019-06-13,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,26,2019-09,2019-09-16,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,27,2019-12,2019-12-11,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,28,2020-03,2020-03-12,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,29,2020-06,2020-06-10,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,30,2020-09,2020-09-09,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,31,2020-12,2020-12-09,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,32,2021-03,2021-03-10,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,33,2021-06,2021-06-12,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,34,2021-09,2021-09-08,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,35,2021-12,2021-12-02,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,36,2022-03,2022-03-15,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,37,2022-06,2022-06-13,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,38,2022-09,2022-09-12,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,39,2022-12,2022-12-05,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,40,2023-03,2023-03-29,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,41,2023-06,2023-06-13,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,42,2023-09,2023-09-08,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,43,2023-12,2023-12-01,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,44,2024-03,2024-03-08,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,45,2024-06,2024-06-10,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,46,2024-09,2024-09-06,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,47,2024-12,2024-12-01,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,48,2025-03,2025-03-06,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,49,2025-06,2025-06-05,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,50,2025-09,2025-09-05,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,51,2025-12,2025-12-07,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,52,2026-03,2026-03-11,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,53,2026-06,2026-06-05,sim,sim,sim,sim,-,m2e.aggrcon
+m2e,54,2026-09,2026-09-04,sim,sim,sim,sim,-,m2e.aggrcon

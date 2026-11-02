@@ -1,0 +1,26 @@
+2026-10-15 20:48:59 19 parquets, 18059107 linhas, 98 colunas de entrada
+2026-10-15 20:49:09 BIRT: 2041029 linhas, 1867 positivos
+2026-10-15 20:49:27 CDT: 3570029 linhas, 10285 positivos
+2026-10-15 20:49:28 CVS: 172642 linhas, 661 positivos
+2026-10-15 20:49:40 DataTools: 1184083 linhas, 408 positivos
+2026-10-15 20:49:41 EGit: 327823 linhas, 4260 positivos
+2026-10-15 20:49:45 EMF: 960732 linhas, 15453 positivos
+2026-10-15 20:49:49 EclipseLink: 412930 linhas, 4543 positivos
+2026-10-15 20:49:50 GEF: 233340 linhas, 1468 positivos
+2026-10-15 20:49:52 GMF Runtime: 488716 linhas, 189 positivos
+2026-10-15 20:49:58 JDT: 1336291 linhas, 13108 positivos
+2026-10-15 20:49:59 Mylyn: 296709 linhas, 1282 positivos
+2026-10-15 20:50:04 PDE: 1215106 linhas, 9325 positivos
+2026-10-15 20:50:06 PTP: 385714 linhas, 1451 positivos
+2026-10-15 20:50:12 RAP: 1322733 linhas, 3415 positivos
+2026-10-15 20:50:17 Scout: 1269528 linhas, 12852 positivos
+2026-10-15 20:50:18 Subversive: 106964 linhas, 777 positivos
+2026-10-15 20:50:31 WebTools: 1360305 linhas, 776 positivos
+2026-10-15 20:50:36 Window Builder: 989950 linhas, 3871 positivos
+2026-10-15 20:50:38 m2e: 384483 linhas, 1696 positivos
+2026-10-15 20:50:39 NaN substituídos por 0: {'AvgCyclomatic': 18059107, 'AvgCyclomaticModified': 18059107, 'AvgCyclomaticStrict': 18059107, 'AvgEssential': 18059107, 'AvgLine': 18059107, 'AvgLineBlank': 18059107, 'AvgLineCode': 18059107, 'AvgLineComment': 18059107, 'CountClassBase': 18059107, 'CountClassCoupled': 18059107, 'CountClassDerived': 18059107, 'CountDeclClass': 18059107, 'CountDeclClassMethod': 18059107, 'CountDeclClassVariable': 18059107, 'CountDeclFile': 18059107, 'CountDeclFunction': 18059107, 'CountDeclInstanceMethod': 18059107, 'CountDeclInstanceVariable': 18059107, 'CountDeclMethod': 18059107, 'CountDeclMethodAll': 18059107, 'CountDeclMethodDefault': 18059107, 'CountDeclMethodPrivate': 18059107, 'CountDeclMethodProtected': 18059107, 'CountDeclMethodPublic': 18059107, 'MaxCyclomatic': 18059107, 'MaxCyclomaticModified': 18059107, 'MaxCyclomaticStrict': 18059107, 'MaxEssential': 18059107, 'MaxInheritanceTree': 18059107, 'PercentLackOfCohesion': 18059107}; inf: nenhum
+2026-10-15 20:50:48 split temporal__principal: treino=12747135 (pos=73031) teste=5311972 (pos=14656)
+2026-10-15 20:50:48 split temporal__sem_PTP_Scout_Mylyn: treino=11557076 (pos=59772) teste=4550080 (pos=12330)
+2026-10-15 20:50:48 split random__principal: treino=12641374 (pos=61381) teste=5417733 (pos=26306)
+2026-10-15 20:50:48 split random__sem_PTP_Scout_Mylyn: treino=11274314 (pos=50504) teste=4832842 (pos=21598)
+2026-10-15 20:50:48 corte temporal T = 36; preparação concluída em 110.4 s

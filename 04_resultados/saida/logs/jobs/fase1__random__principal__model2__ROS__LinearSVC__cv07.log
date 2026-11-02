@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-18 05:15:07 =====
+05:15:09 job fase1__random__principal__model2__ROS__LinearSVC__cv07 | pid 14629 | threads 1
+05:15:11 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=98
+05:15:56   treino reamostrado: 22643988 linhas, 11321994 positivos
+08:14:31 AP=0.0422 AUC=0.8178 MCC=0.0868 F1(1)=0.0353 (10747 s de treino)
+08:14:31 ok fase1__random__principal__model2__ROS__LinearSVC__cv07 10761.8 s, pico de RAM 69.07 GB

@@ -1,0 +1,6 @@
+2026-10-15 20:50:52 amostra 0.01: 180596 linhas, 880 positivos
+2026-10-15 20:50:52 split temporal__principal: treino=127322 (pos=731) teste=53274 (pos=149)
+2026-10-15 20:50:52 split temporal__sem_PTP_Scout_Mylyn: treino=115461 (pos=592) teste=45614 (pos=131)
+2026-10-15 20:50:52 split random__principal: treino=126417 (pos=616) teste=54179 (pos=264)
+2026-10-15 20:50:52 split random__sem_PTP_Scout_Mylyn: treino=112674 (pos=508) teste=48401 (pos=215)
+2026-10-15 20:50:52 corte temporal T = 36; preparação concluída em 1.5 s

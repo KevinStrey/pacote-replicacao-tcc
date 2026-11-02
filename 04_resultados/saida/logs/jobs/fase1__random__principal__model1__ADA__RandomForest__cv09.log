@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-17 06:26:39 =====
+06:26:41 job fase1__random__principal__model1__ADA__RandomForest__cv09 | pid 26674 | threads 12
+06:26:44 treino=11377237 (pos=55243) avaliação=1264137 (pos=6138) colunas=82
+06:34:43   treino reamostrado: 22661203 linhas, 11339209 positivos
+06:54:52 AP=0.0877 AUC=0.7177 MCC=0.1177 F1(1)=0.1142 (1676 s de treino)
+06:54:52 ok fase1__random__principal__model1__ADA__RandomForest__cv09 1691.4 s, pico de RAM 67.36 GB

@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-21 03:29:52 =====
+03:29:54 job fase3__random__sem_PTP_Scout_Mylyn__model2__ROS__XGBoost__teste | pid 19264 | threads 12
+03:29:54 treino=11274314 (pos=50504) avaliação=4832842 (pos=21598) colunas=98
+03:30:44   treino reamostrado: 22447620 linhas, 11223810 positivos
+03:32:58 AP=0.2516 AUC=0.8911 MCC=0.1052 F1(1)=0.0382 (162 s de treino)
+03:33:10 ok fase3__random__sem_PTP_Scout_Mylyn__model2__ROS__XGBoost__teste 195.7 s, pico de RAM 72.52 GB

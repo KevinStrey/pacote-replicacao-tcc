@@ -1,0 +1,7 @@
+
+===== tentativa 1 2026-10-15 20:54:28 =====
+20:54:30 job fase1__random__principal__model2__ROS__RandomForest__cv01 | pid 5918 | threads 12
+20:54:30 treino=113775 (pos=555) avaliação=12642 (pos=61) colunas=98
+20:54:30   treino reamostrado: 226440 linhas, 113220 positivos
+20:54:35 AP=0.0918 AUC=0.7436 MCC=0.1286 F1(1)=0.1263 (5 s de treino)
+20:54:35 ok fase1__random__principal__model2__ROS__RandomForest__cv01 5.2 s, pico de RAM 0.94 GB
