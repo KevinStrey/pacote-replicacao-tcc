@@ -1,9 +1,9 @@
 # Previsão da propensão a mudança de *features* em uma LPS real (Eclipse IDE): pacote de replicação
 
-Material de apoio do Trabalho de Conclusão de Curso *[título do TCC]*, de Kevin Strey (UDESC, 2026). Contém o código, as
+Material de apoio do Trabalho de Conclusão de Curso *Predição de mudanças em sistemas com arquitetura de Linha de Produto de Software*, de Kevin Grünfeld Strey, orientado pelo Prof. Dr. Paulo Roberto Farah (UDESC, 2026). Contém o código, as
 decisões de coleta, os registros de auditoria e os resultados necessários para auditar e reproduzir o trabalho. Os
 dados pesados (conjunto de dados final, dados intermediários e previsões dos modelos) estão no Zenodo:
-**[DOI do Zenodo]**.
+[10.5281/zenodo.23890698](https://doi.org/10.5281/zenodo.23890698).
 
 Todos os arquivos estão listados com seu hash em `SHA256SUMS.txt`. Para conferir a integridade:
 `sha256sum -c SHA256SUMS.txt` (Linux) ou `Get-FileHash` (Windows).
@@ -31,7 +31,7 @@ simrel.build (tags)  ──►  01 seleção das features e linha do tempo  ─�
 | `03_treino/` | Pacote executado no servidor: preparação dos dados, treino, métricas, nível de *feature*, ambiente com versões travadas (`conda-linux-64.lock`) e configuração da grade (`config/experimentos.yaml`) | 3.7–3.11 |
 | `04_resultados/saida/` | Saídas do servidor: métricas de teste (`resultados_teste.csv`), validação cruzada, intervalos por *bootstrap*, desempenho por *feature*, nível de *feature*, sensibilidade, importâncias, um JSON por treinamento (`jobs/`) e *logs* | Capítulo 4 |
 | `05_analises_e_figuras/` | Scripts locais que geram as figuras e as tabelas do TCC a partir de `04_resultados` e das previsões | Capítulo 4 |
-| `06_texto/` | PDF do TCC | — |
+| `06_texto/` | PDF do TCC (incluído após a defesa) | — |
 
 ## Dados no Zenodo
 
@@ -101,4 +101,9 @@ Excel (diferença máxima de 1e-13).
 
 A cadeia de ferramentas parte do projeto cpmp (<https://github.com/paulorfarah/cpmp>), de Paulo Roberto Farah; as
 correções feitas neste trabalho estão descritas em `02_coleta/decisoes/INVENTARIO.md` e no capítulo 3 do TCC.
-Licença sugerida: código sob MIT e dados sob CC BY 4.0 *[confirmar]*.
+Licenças: código sob MIT e dados e documentação sob CC BY 4.0.
+
+## Como citar
+
+STREY, Kevin Grünfeld. **Pacote de replicação: Predição de mudanças em sistemas com arquitetura de Linha de Produto de
+Software**. Zenodo, 2026. Disponível em: <https://doi.org/10.5281/zenodo.23890698>.
