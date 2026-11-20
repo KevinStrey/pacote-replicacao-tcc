@@ -1,0 +1,36 @@
+% Extraído de Textuais/03-Metodologia.tex
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \renewcommand{\arraystretch}{1.25}
+    \caption{Definições das métricas evolutivas no nível de método}
+    \label{tab:met-evo}
+    \begin{tabularx}{\linewidth}{@{}l>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+        \toprule
+        Métrica & Definição adotada (método $m$, \textit{release} $r$) & Diferença em relação ao original \\
+        \midrule
+        BOM & Índice da \textit{release} do primeiro \textit{snapshot} em que $m$ aparece
+            & BOC no original (classe). Métodos do primeiro \textit{snapshot} da série recebem esse índice \\
+        TACH & Soma, sobre os commits do intervalo $(r-1, r]$, das linhas inseridas e removidas no texto de $m$
+              (uma linha alterada conta como uma remoção e uma inserção)
+            & Original: comparação direta entre as versões $r-1$ e $r$ ($NAL + NDL + 2 \times NCL$), só com
+              linhas não comentadas. Aqui, soma commit a commit, com Javadoc e anotações \\
+        CHO & $1$ se $TACH_r > 0$; $0$ caso contrário & Igual \\
+        FRCH & Número acumulado de commits que alteraram $m$ até $r$
+            & Original: número de \textit{releases} em que houve mudança \\
+        FCH, LCH & Índice da primeira e da última \textit{release} com $CHO = 1$ ($0$ se $m$ nunca mudou) & Igual \\
+        CHD & $TACH_r / LOC_r$, com o LOC do método em $r$ & Original: LOC da classe \\
+        WCH & $\sum_{j=BOM+1}^{r} TACH_j \cdot 2^{\,j-r}$ & Igual \\
+        WCD & $\sum_{j=BOM+1}^{r} CHD_j \cdot 2^{\,j-r}$ & Igual \\
+        WFR & $\sum_{j=2}^{r} (j-1) \cdot CHO_j$ & Igual \\
+        CSB & $\sum_{j=BOM+1}^{r} TACH_j$
+            & Original: diferença direta entre a primeira versão e a versão atual \\
+        CSBS & $CSB / LOC$ de $m$ no nascimento & Igual, com o CSB acima \\
+        ATAF & $CSB / FRCH$ ($0$ se $FRCH = 0$) & Original: divisão pelo número de \textit{releases} com mudança \\
+        LCA, LCD & $TACH$ e $CHD$ da última \textit{release} com mudança ($0$ se $m$ nunca mudou) & Igual \\
+        ACDF & $\bigl(\sum_{j=BOM+1}^{r} CHD_j\bigr) / FRCH$ ($0$ se $FRCH = 0$)
+            & Original: divisão pelo número de \textit{releases} com mudança \\
+        \bottomrule
+    \end{tabularx}
+    \fonte{Adaptado de \citeonline{evometrics} e \citeonline{farah2023machine}}
+\end{table}%

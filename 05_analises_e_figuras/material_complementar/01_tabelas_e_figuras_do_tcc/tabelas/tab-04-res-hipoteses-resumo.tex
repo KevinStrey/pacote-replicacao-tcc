@@ -1,0 +1,35 @@
+% Resumo dos testes de hipóteses (Seção Testes de hipóteses, 04-Resultados.tex); valores de
+% resultados_e_logs/saida/resultados/testes_hipoteses.csv e da Tabela tab-04-res-nivel-feature
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \caption{Resumo dos testes de hipóteses}
+    \label{tab:res-hipoteses-resumo}
+    \begin{tabular}{p{1.0cm}>{\raggedright\arraybackslash}p{5.2cm}>{\raggedright\arraybackslash}p{2.3cm}%
+                    >{\raggedright\arraybackslash}p{4.2cm}}
+        \toprule
+        Teste & Comparação & Valor-p & Decisão ($\alpha = 0{,}05$) \\
+        \midrule
+        $H_{0,1}$ & 12 das 13 configurações da Tabela~\ref{tab:res-melhores}, PR-AUC e ROC-AUC
+            & $\approx 0{,}001$ & Rejeita: melhor que o acaso \\
+        \cmidrule(l){2-4}
+            & DT temporal, PR-AUC & $\approx 0{,}001$ & Rejeita: melhor que o acaso \\
+        \cmidrule(l){2-4}
+            & DT temporal, ROC-AUC & 1 & Não rejeita \\
+        \midrule
+        $H_{0,2}$ & Modelo (SVM linear, model3, ROS) & $\approx 0{,}0001$ & Rejeita: melhor que o acaso \\
+        \cmidrule(l){2-4}
+            & Persistência & $\approx 0{,}0001$ & Rejeita: melhor que o acaso \\
+        \cmidrule(l){2-4}
+            & Média histórica & $\approx 0{,}155$ & Não rejeita \\
+        \midrule
+        $H_{0,3}$ & 10 das 84 configurações (entre elas as três melhores) $\times$ persistência & IC 95\% inclui 0 & Não rejeita \\
+        \cmidrule(l){2-4}
+            & 74 das 84 configurações $\times$ persistência & IC 95\% abaixo de 0 & Rejeita: pior que a persistência \\
+        \midrule
+        $H_{0,4}$ & Variante $\times$ principal restrito, PR-AUC e ROC-AUC, nos dois protocolos
+            & $\approx 0{,}002$ & Rejeita: a variante é melhor \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

@@ -1,0 +1,28 @@
+% Extraído de Textuais/04-Resultados.tex
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \caption{Melhor configuração de cada algoritmo no nível de método{\laranja , nos protocolos temporal e aleatório}}
+    \label{tab:res-melhores}
+    \begin{tabular}{llllcc}
+        \toprule
+        Protocolo & Algoritmo & Métricas & Reamostr. & PR-AUC & ROC-AUC \\
+        \midrule
+        Temporal & LightGBM   & model2 & ROS   & 0,0175 & 0,801 \\
+                 & MLP        & model2 & ROS   & 0,0153 & 0,790 \\
+                 & Regr. log. & model3 & ADA   & 0,0134 & 0,639 \\
+                 & XGBoost    & model2 & ROS   & 0,0130 & 0,770 \\
+                 & SVM linear & model2 & ROS   & 0,0107 & 0,762 \\
+                 & RF         & model2 & SMOTE & 0,0083 & 0,641 \\
+                 & DT         & model1 & NONE  & 0,0038 & 0,495 \\
+        \midrule
+        Aleatório & XGBoost    & model2 & ROS   & 0,2223 & 0,881 \\
+                  & LightGBM   & model2 & ROS   & 0,2081 & 0,874 \\
+                  & RF         & model2 & SMOTE & 0,2035 & 0,794 \\
+                  & DT         & model2 & NONE  & 0,0948 & 0,615 \\
+                  & SVM linear & model2 & SMOTE & 0,0444 & 0,820 \\
+                  & Regr. log. & model2 & SMOTE & 0,0392 & 0,814 \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

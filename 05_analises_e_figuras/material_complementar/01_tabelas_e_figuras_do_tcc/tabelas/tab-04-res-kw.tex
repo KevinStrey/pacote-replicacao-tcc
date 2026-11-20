@@ -1,0 +1,45 @@
+% Gerado por 6-Treino/ferramentas_locais/tabelas_kruskal.py (não editar à mão)
+\begin{table}[htbp]
+    \laranja
+    \captionsetup{font+={color=orange}}%
+    \centering
+    \footnotesize
+    \setlength{\tabcolsep}{4pt}%
+    \caption{Resultados dos testes de Kruskal-Wallis}
+    \label{tab:res-kw}
+    \begin{tabular}{lp{6.6cm}lrrl}
+        \toprule
+        Pergunta & Grupos comparados & Indicador & $H$ & $p$ & $H_0$ \\
+        \midrule
+        QP1 & \multirow{2}{=}{Algoritmos e classificador aleatório, protocolo temporal} & PR-AUC & 89,67 & $<$ 0,001 & Rejeita \\
+         & & ROC-AUC & 113,03 & $<$ 0,001 & Rejeita \\
+        \midrule
+        QP1 & \multirow{2}{=}{Algoritmos e classificador aleatório, protocolo aleatório} & PR-AUC & 154,80 & $<$ 0,001 & Rejeita \\
+         & & ROC-AUC & 283,87 & $<$ 0,001 & Rejeita \\
+        \midrule
+        QP2 & \multirow{2}{=}{Algoritmos (84 configurações)} & PR-AUC & 602,93 & $<$ 0,001 & Rejeita \\
+         & & ROC-AUC & 645,94 & $<$ 0,001 & Rejeita \\
+        \midrule
+        QP2 & \multirow{2}{=}{Conjuntos de métricas (84 configurações)} & PR-AUC & 36,29 & $<$ 0,001 & Rejeita \\
+         & & ROC-AUC & 342,86 & $<$ 0,001 & Rejeita \\
+        \midrule
+        QP2 & \multirow{2}{=}{Estratégias de balanceamento (84 configurações)} & PR-AUC & 9,11 & 0,028 & Rejeita \\
+         & & ROC-AUC & 42,13 & $<$ 0,001 & Rejeita \\
+        \midrule
+        QP3 & Modelos, previsões ingênuas e ordenação aleatória & Spearman & 83,14 & $<$ 0,001 & Rejeita \\
+        \midrule
+        QP4 & Algoritmos, nível de \textit{feature} (84 configurações) & Spearman & 67,40 & $<$ 0,001 & Rejeita \\
+        \midrule
+        QP4 & Conjuntos de métricas, nível de \textit{feature} (84 configurações) & Spearman & 30,03 & $<$ 0,001 & Rejeita \\
+        \midrule
+        QP4 & Estratégias de balanceamento, nível de \textit{feature} (84 configurações) & Spearman & 9,12 & 0,028 & Rejeita \\
+        \midrule
+        QP5 & \multirow{2}{=}{Com e sem PTP, Scout e Mylyn, protocolo temporal} & PR-AUC & 1,85 & 0,174 & Não rejeita \\
+         & & ROC-AUC & 1,58 & 0,209 & Não rejeita \\
+        \midrule
+        QP5 & \multirow{2}{=}{Com e sem PTP, Scout e Mylyn, protocolo aleatório} & PR-AUC & 0,04 & 0,837 & Não rejeita \\
+         & & ROC-AUC & 0,01 & 0,937 & Não rejeita \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

@@ -1,0 +1,32 @@
+% Extraído de Textuais/03-Metodologia.tex
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \caption{Algoritmos e hiperparâmetros}
+    \label{tab:met-algoritmos}
+    \begin{tabular}{p{4.6cm}p{10.4cm}}
+        \toprule
+        Algoritmo & Configuração \\
+        \midrule
+        \textit{Random Forest} (RF) & 100 árvores, \texttt{class\_weight='balanced'} (cpmp) \\
+        \addlinespace
+        Árvore de decisão (DT) & \texttt{class\_weight='balanced'} (cpmp) \\
+        \addlinespace
+        Regressão logística (LR) & \texttt{solver='lbfgs'}, \texttt{class\_weight='balanced'}, \texttt{max\_iter=1000}
+            (cpmp; o padrão de 100 iterações não convergia) \\
+        \addlinespace
+        \textit{Multilayer Perceptron} (MLP) & padrão do \textit{scikit-learn}: uma camada oculta de 100 neurônios,
+            ReLU, Adam, até 200 épocas (cpmp) \\
+        \addlinespace
+        XGBoost & 100 árvores, \texttt{tree\_method='hist'}, \texttt{scale\_pos\_weight} = negativos/positivos do
+            treino{\color{ForestGreen}, após a reamostragem} \\
+        \addlinespace
+        LightGBM & padrão (100 árvores), \texttt{class\_weight='balanced'}, modo determinístico \\
+        \addlinespace
+        SVM linear & \texttt{LinearSVC}, \texttt{class\_weight='balanced'} \\
+        \midrule
+        \multicolumn{2}{@{}p{15cm}@{}}{Semente aleatória 42 em todos os algoritmos e na reamostragem.} \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026).}
+\end{table}%

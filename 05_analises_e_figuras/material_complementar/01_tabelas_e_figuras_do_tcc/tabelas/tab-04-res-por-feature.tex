@@ -1,0 +1,29 @@
+% Extraído de Textuais/04-Resultados.tex
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \setlength{\tabcolsep}{5pt}% cabeçalho "Observações" é mais largo que "Linhas"
+    \caption{Desempenho por \textit{feature} do melhor modelo temporal (LightGBM, model2, ROS){\laranja , ordenado pela PR-AUC}}
+    \label{tab:res-por-feature}
+    \begin{tabular}{lrrrrrr}
+        \toprule
+        \textit{Feature} & {\azul Amostras} (teste) & Positivos & Taxa (\%) & PR-AUC & PR-AUC / acaso & ROC-AUC \\
+        \midrule
+        EMF            &   361.901 &   213 & 0,06 & 0,0708 & 120,4 & 0,874 \\
+        JDT            &   457.900 & 4.975 & 1,09 & 0,0545 &   5,0 & 0,795 \\
+        GEF            &   126.527 & 1.432 & 1,13 & 0,0255 &   2,3 & 0,746 \\
+        RAP            &   356.490 &   142 & 0,04 & 0,0229 &  57,6 & 0,677 \\
+        m2e            &   129.942 &   443 & 0,34 & 0,0201 &   5,9 & 0,831 \\
+        Window Builder &   334.452 & 2.769 & 0,83 & 0,0195 &   2,4 & 0,710 \\
+        WebTools       &   417.999 &   265 & 0,06 & 0,0151 &  23,9 & 0,923 \\
+        Scout          &   465.183 & 1.044 & 0,22 & 0,0130 &   5,8 & 0,799 \\
+        Mylyn          &   296.709 & 1.282 & 0,43 & 0,0089 &   2,1 & 0,675 \\
+        PDE            &   441.519 & 1.335 & 0,30 & 0,0076 &   2,5 & 0,740 \\
+        EGit           &   123.805 &   177 & 0,14 & 0,0075 &   5,3 & 0,776 \\
+        CDT            & 1.163.788 &   496 & 0,04 & 0,0054 &  12,6 & 0,862 \\
+        GMF Runtime    &   170.180 &    77 & 0,05 & 0,0011 &   2,5 & 0,757 \\
+        DataTools      &   465.577 &     6 & 0,00 & 0,0003 &  23,0 & 0,819 \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

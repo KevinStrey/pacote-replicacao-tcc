@@ -1,0 +1,63 @@
+% Extraído de Textuais/03-Metodologia.tex
+% Cores usadas nesta figura (valores CMYK da paleta dvipsnames do xcolor), definidas aqui para não depender de opções externas
+\definecolor{ForestGreen}{cmyk}{0.91,0,0.88,0.12}
+\begin{figure}[htbp]
+    \centering
+    \caption{Commits considerados nas métricas evolutivas de um intervalo}
+    \label{fig:met-evo-commits}
+    \begin{tikzpicture}[x=1cm,y=1cm,font=\scriptsize,
+        conta/.style={circle,fill=black,inner sep=2pt},
+        ramo/.style={circle,fill=ForestGreen,inner sep=2pt},
+        merge/.style={diamond,draw=black,fill=white,thick,inner sep=1.6pt},
+        importado/.style={rectangle,fill=gray!60,inner sep=2.2pt},
+        fora/.style={circle,draw=gray,fill=white,inner sep=1.8pt},
+        snap/.style={circle,fill=black,draw=black,inner sep=3.2pt},
+        aresta/.style={draw=ForestGreen,thick},
+        rel/.style={dashed,draw=gray},
+        chave/.style={decorate,decoration={brace,amplitude=5pt,mirror},draw=black}]
+        % ---- histórico importado (raiz própria), mesclado no intervalo
+        \draw[gray,thick] (6.6,2.5) -- (8.6,2.5) -- (9.9,0.12);
+        \foreach \x in {6.6,7.6,8.6}{\node[importado] at (\x,2.5){};}
+        \node[text=gray,anchor=south] at (7.6,2.65) {histórico importado de outro repositório (outra raiz)};
+
+        % ---- ramo antigo: criado antes da release r-1, mesclado no intervalo
+        \draw[aresta] (1.2,0) -- (1.8,1.15) -- (3.9,1.15) -- (8.3,0);
+        \foreach \x in {1.8,2.85,3.9}{\node[ramo] at (\x,1.15){};}
+        \node[text=ForestGreen!80!black,anchor=south west,align=left] at (2.6,1.25)
+            {{\verde \textit{branch}} antigo, criado antes da \textit{release} $r-1$:\\todos os seus commits contam};
+        % ---- ramo curto: criado e mesclado dentro do intervalo
+        \draw[aresta] (5.0,0) -- (5.8,-1.1) -- (6.6,-1.1) -- (7.3,0);
+        \foreach \x in {5.8,6.6}{\node[ramo] at (\x,-1.1){};}
+        \node[text=ForestGreen!80!black,anchor=north] at (6.2,-1.25) {{\verde \textit{branch}} do intervalo: contado};
+        % ---- linha principal
+        \draw[black,thick,->] (0,0) -- (13.2,0)
+            node[right,align=left]{linha principal\\(\textit{first-parent})};
+        \node[conta] at (0.5,0){}; \node[conta] at (1.2,0){};
+        \node[snap,label={below:$S_{r-1}$}] at (2.0,0){};
+        \foreach \x in {3.6,5.0,6.2,9.1}{\node[conta] at (\x,0){};}
+        \node[merge] at (7.3,0){}; \node[merge] at (8.3,0){}; \node[merge] at (9.9,0){};
+        \node[anchor=north] at (8.6,-0.3) {\textit{merges}: excluídos};
+        \node[snap,label={below:$S_r$}] at (11.0,0){};
+        \node[fora] at (12.4,0){};
+        \node[text=gray,anchor=south,align=center] at (12.4,0.2) {próximo\\intervalo};
+        % ---- datas das releases
+        \draw[rel] (2.5,-2.0) -- (2.5,2.1);
+        \draw[rel] (11.5,-2.0) -- (11.5,2.1);
+        \node[below] at (2.5,-2.0) {\textit{release} $r-1$};
+        \node[below] at (11.5,-2.0) {\textit{release} $r$};
+        % ---- intervalo
+        \draw[chave] (2.5,-2.55) -- (11.5,-2.55) node[midway,below=6pt,align=center]
+            {intervalo $r$: commits alcançáveis a partir de $S_r$ e não a partir de $S_{r-1}$\\
+             (10 commits contados neste exemplo)};
+        % ---- legenda (duas linhas)
+        \begin{scope}[shift={(1.6,-4.05)}]
+            \node[conta] at (0,0){};       \node[anchor=west] at (0.15,0) {commit contado};
+            \node[merge] at (2.8,0){};     \node[anchor=west] at (3.0,0) {\textit{merge} (excluído)};
+            \node[importado] at (5.8,0){}; \node[anchor=west] at (5.95,0) {commit importado (excluído)};
+            \node[ramo] at (0,-0.5){};     \node[anchor=west] at (0.15,-0.5) {commit de {\verde \textit{branch}} (contado)};
+            \node[snap] at (4.8,-0.5){};   \node[anchor=west] at (5.0,-0.5) {\textit{snapshot}};
+            \node[fora] at (6.6,-0.5){};   \node[anchor=west] at (6.75,-0.5) {próximo intervalo};
+        \end{scope}
+    \end{tikzpicture}
+    \fonte{Elaborado pelo autor (2026)}
+\end{figure}%

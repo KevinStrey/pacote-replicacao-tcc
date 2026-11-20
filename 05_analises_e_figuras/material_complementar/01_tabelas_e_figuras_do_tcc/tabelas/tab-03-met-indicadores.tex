@@ -1,0 +1,24 @@
+% Extraído de Textuais/03-Metodologia.tex (Seção de indicadores de desempenho no nível de método).
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \renewcommand{\arraystretch}{1.2}
+    \captionsetup{font+={color=ForestGreen}}%
+    \caption{Indicadores de desempenho no nível de método}
+    \label{tab:met-indicadores}
+    \color{ForestGreen}%
+    \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{2.6cm}>{\raggedright\arraybackslash}p{1.9cm}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}p{3.3cm}@{}}
+        \toprule
+        Indicador & Papel & O que mede & Valores possíveis e valor de um classificador aleatório \\
+        \midrule
+        PR-AUC (Equação~\ref{eq:ap}) & Principal & Área sob a curva de precisão e \textit{recall}, que resume, em todos os limiares, quanto das previsões de mudança está correto à medida que mais mudanças são encontradas & 0 a 1; aleatório igual à taxa de positivos ($\approx 0{,}005$) \\
+        ROC-AUC & Principal & Probabilidade de um método que muda receber do modelo uma probabilidade maior do que um método que não muda & 0 a 1; aleatório igual a 0,5 \\
+        \midrule
+        Precisão (Equação~\ref{eq:precisao}) & Complementar & Fração das previsões de mudança que estavam corretas & 0 a 1 \\
+        \textit{Recall} (Equação~\ref{eq:recall}) & Complementar & Fração das mudanças reais que o modelo previu & 0 a 1 \\
+        F1 da classe positiva (Equação~\ref{eq:f1score}) & Complementar & Média harmônica da precisão e do \textit{recall} & 0 a 1 \\
+        Acurácia (Equação~\ref{eq:acuracia}) & Complementar & Fração de todas as previsões que estavam corretas & 0 a 1; prever sempre ``não muda'' resulta em $\approx 0{,}995$ \\
+        \bottomrule
+    \end{tabularx}
+    \fonte{Elaborado pelo autor (2026).}
+\end{table}%

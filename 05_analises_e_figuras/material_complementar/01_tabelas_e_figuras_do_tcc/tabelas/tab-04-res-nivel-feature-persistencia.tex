@@ -1,0 +1,31 @@
+% Gerado por 6-Treino/ferramentas_locais/tabelas_kruskal.py (não editar à mão)
+\begin{table}[htbp]
+    \laranja
+    \captionsetup{font+={color=orange}}%
+    \centering
+    \footnotesize
+    \setlength{\tabcolsep}{4pt}%
+    \caption{Ordenação das \textit{features} por taxa de mudança: modelos e previsões ingênuas comparados com a persistência}
+    \label{tab:res-nivel-feature-persistencia}
+    \begin{tabular}{llcclc}
+        \toprule
+         & & & \multicolumn{3}{c}{Comparação com a persistência} \\
+        \cmidrule(lr){4-6}
+        Preditor & Configuração & Spearman & $\hat{A}_{12}$ & Efeito & $p$ \\
+        \midrule
+        Persistência & --- & 0,731 & \multicolumn{3}{c}{(referência)} \\
+        \midrule
+        SVM linear & model3, ROS & 0,638 & {\rosa ---} & {\rosa ---} & 1,000 \\
+        Regr. log. & model3, NONE & 0,636 & {\rosa ---} & {\rosa ---} & 1,000 \\
+        MLP & model3, ROS & 0,573 & {\rosa ---} & {\rosa ---} & 1,000 \\
+        RF & model2, SMOTE & 0,573 & {\rosa ---} & {\rosa ---} & 1,000 \\
+        DT & model1, ROS & 0,524 & 0,16 & grande & 0,033 \\
+        LightGBM & model3, NONE & 0,462 & 0,12 & grande & 0,007 \\
+        XGBoost & model1, NONE & 0,453 & 0,15 & grande & 0,024 \\
+        \midrule
+        Média histórica & --- & 0,119 & 0,07 & grande & 0,001 \\
+        Ordenação aleatória & --- & 0,126 & 0,07 & grande & $<$ 0,001 \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

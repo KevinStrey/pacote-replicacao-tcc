@@ -1,0 +1,29 @@
+% Extraído de Textuais/03-Metodologia.tex
+% Fonte: 4-Coleta_egit/AUDITORIA.md (seção 3.1) e cpmp/4.evometrics/evometrics.py.
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \renewcommand{\arraystretch}{1.2}
+    \captionsetup{font+={color=ForestGreen}}%
+    \caption{Problemas encontrados no código original do cpmp durante a coleta piloto e correções adotadas}
+    \label{tab:met-defeitos}
+    \color{ForestGreen}%
+    \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.2\linewidth}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+        \toprule
+        Problema & Efeito & Correção \\
+        \midrule
+        \multicolumn{3}{@{}l}{\textit{Alteravam os valores das métricas evolutivas}} \\
+        Gerador esgotado & Só o primeiro método de cada \textit{release} recebia métricas evolutivas & Lista de commits do intervalo montada uma vez e reutilizada \\
+        Atribuição ao arquivo & Cada método recebia as mudanças de todos os métodos do arquivo & Mudança atribuída só ao método cujo texto mudou \\
+        Variáveis não reiniciadas & Métodos sem mudança herdavam FRCH e ATAF do método anterior & Registro separado para cada método \\
+        Comparação com o commit anterior da lista & Commits de {\verde \textit{branches}} paralelos comparados entre si, com mudanças inexistentes & Comparação com o primeiro pai, sem commits de mesclagem e com detecção de renomeação \\
+        \midrule
+        \multicolumn{3}{@{}l}{\textit{Impediam ou inviabilizavam a execução}} \\
+        Caminhos no Windows & Nenhum método extraído & Extração em lote, sem arquivos intermediários \\
+        Uma máquina virtual por arquivo e por método & Dias de execução apenas para o EGit & Execução em lote, com uma máquina virtual por lote \\
+        ChangeDistiller no Java~21 & Falha ao iniciar & Opção \texttt{--add-opens} da máquina virtual \\
+        Nível de linguagem do JavaParser & Falha em código com sintaxe recente & Java~17, com segunda tentativa no Java~8 \\
+        \bottomrule
+    \end{tabularx}
+    \fonte{Elaborado pelo autor (2026).}
+\end{table}%

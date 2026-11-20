@@ -1,0 +1,36 @@
+% Extraído de Textuais/03-Metodologia.tex
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \setlength{\tabcolsep}{5pt}% cabeçalho "Observações" é mais largo que "Linhas"
+    \caption{\textit{Features} estudadas, séries temporais e conjunto de dados resultante}
+    \label{tab:met-features}
+    \begin{tabular}{llcrrrr}
+        \toprule
+        \textit{Feature} & Repositório & \textit{Releases} (índices) & \textit{Snapshots} & {\laranja Instâncias} & Positivos & \% \\
+        \midrule
+        BIRT            & \texttt{birt}                 & {\color{ForestGreen}1 a 30}  & 27 & 2.041.029 &  1.867 & 0,09 \\
+        CDT             & \texttt{cdt}                  & {\color{ForestGreen}1 a 54}  & 54 & 3.570.029 & 10.285 & 0,29 \\
+        CVS             & \texttt{org.eclipse.team.cvs} & {\color{ForestGreen}1 a 35}  & 34 &   172.642 &    661 & 0,38 \\
+        DataTools       & \texttt{datatools}            & {\color{ForestGreen}20 a 54} & 24 & 1.184.083 &    408 & 0,03 \\
+        EGit            & \texttt{egit}                 & {\color{ForestGreen}1 a 54}  & 54 &   327.823 &  4.260 & 1,30 \\
+        EMF             & \texttt{org.eclipse.emf}      & {\color{ForestGreen}1 a 54}  & 54 &   960.732 & 15.453 & 1,61 \\
+        EclipseLink     & \texttt{eclipselink}          & {\color{ForestGreen}1 a 7}   &  7 &   412.930 &  4.543 & 1,10 \\
+        GEF             & \texttt{gef-classic}          & {\color{ForestGreen}1 a 54}  & 33 &   233.340 &  1.468 & 0,63 \\
+        GMF Runtime     & \texttt{gmf-runtime}          & {\color{ForestGreen}1 a 54}  & 47 &   488.716 &    189 & 0,04 \\
+        JDT             & \texttt{eclipse.jdt.core}     & {\color{ForestGreen}1 a 54}  & 54 & 1.336.291 & 13.108 & 0,98 \\
+        Mylyn           & \texttt{org.eclipse.mylyn}    & {\color{ForestGreen}41 a 54} & 14 &   296.709 &  1.282 & 0,43 \\
+        PDE             & \texttt{eclipse.pde}          & {\color{ForestGreen}1 a 54}  & 54 & 1.215.106 &  9.325 & 0,77 \\
+        PTP             & \texttt{ptp}                  & {\color{ForestGreen}1 a 51}  & 26 &   385.714 &  1.451 & 0,38 \\
+        RAP             & \texttt{org.eclipse.rap}      & {\color{ForestGreen}1 a 49}  & 48 & 1.322.733 &  3.415 & 0,26 \\
+        Scout           & \texttt{scout.rt}             & {\color{ForestGreen}1 a 54}  & 54 & 1.269.528 & 12.852 & 1,01 \\
+        Subversive      & \texttt{subversive}           & {\color{ForestGreen}1 a 20}  & 16 &   106.964 &    777 & 0,73 \\
+        WebTools        & \texttt{webtools.javaee}      & {\color{ForestGreen}1 a 54}  & 41 & 1.360.305 &    776 & 0,06 \\
+        Window Builder  & \texttt{windowbuilder}        & {\color{ForestGreen}1 a 54}  & 48 &   989.950 &  3.871 & 0,39 \\
+        m2e             & \texttt{m2e-core}             & {\color{ForestGreen}1 a 54}  & 54 &   384.483 &  1.696 & 0,44 \\
+        \midrule
+        \textbf{Total}  &                               &        & \textbf{743} & \textbf{18.059.107} & \textbf{87.687} & \textbf{0,49} \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

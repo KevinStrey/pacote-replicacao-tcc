@@ -1,0 +1,24 @@
+% Extraído de Textuais/03-Metodologia.tex
+% Fonte: seção 6 dos relatórios de verificação de cada feature (5-Coleta_features) e conferência com git show (2026-11-08).
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \renewcommand{\arraystretch}{1.25}
+    \captionsetup{font+={color=ForestGreen}}%
+    \caption{Divergências entre os commits contados pela coleta e os listados pelo \texttt{git log -L}}
+    \label{tab:met-conferencia}
+    \color{ForestGreen}%
+    \begin{tabularx}{\linewidth}{@{}lrrrr>{\raggedright\arraybackslash}X@{}}
+        \toprule
+        \textit{Feature} & Coleta & Git & Comuns & Só coleta & Explicação verificada com \texttt{git show} \\
+        \midrule
+        BIRT & 28 & 18 & 12 & 16 & Commits de 2014 feitos em {\verde \textit{branches}} laterais do repositório do BIRT e mesclados à linha principal apenas em 2015; o Git deixa de listar parte desses commits \\
+        CDT & 33 & 34 & 32 & 1 & Commit de 2016 que acrescenta um comentário \texttt{//\$NON-NLS} a uma linha do método, linha que foi reescrita depois \\
+        JDT & 88 & 90 & 86 & 2 & Commits de 2020 e 2021 em um método gerado automaticamente a partir da gramática do Java, cujas linhas foram regeneradas depois \\
+        Mylyn & 9 & 9 & 7 & 2 & {\laranja Commits de 2023 que alteram o fim do método, trecho que o Git deixou de seguir após uma reformatação (Figura~\ref{fig:met-gitlog})} \\
+        PDE & 24 & 26 & 23 & 1 & Commit de 2015 que remove um bloco de comentário preso ao método, bloco que não existe na versão final \\
+        Scout & 78 & 85 & 74 & 4 & Dois commits de 2014 que alteram linhas removidas depois e dois de 2016, em que o primeiro comenta uma linha do método e o segundo a restaura \\
+        \bottomrule
+    \end{tabularx}
+    \fonte{Elaborado pelo autor (2026).}
+\end{table}%

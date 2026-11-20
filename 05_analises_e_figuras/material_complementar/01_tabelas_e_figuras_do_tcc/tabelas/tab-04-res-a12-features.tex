@@ -1,0 +1,33 @@
+% Gerado por 6-Treino/ferramentas_locais/tabelas_kruskal.py (não editar à mão)
+\begin{table}[htbp]
+    \laranja
+    \captionsetup{font+={color=orange}}%
+    \centering
+    \scriptsize
+    \setlength{\tabcolsep}{3pt}%
+    \caption{Protocolo aleatório comparado com o temporal, no conjunto e em cada \textit{feature} (média das \textit{releases})}
+    \label{tab:res-a12-features}
+    \begin{tabular}{lrrccclrccclr}
+        \toprule
+         & \multicolumn{2}{c}{\textit{Releases}} & \multicolumn{5}{c}{PR-AUC} & \multicolumn{5}{c}{ROC-AUC} \\
+        \cmidrule(lr){2-3}\cmidrule(lr){4-8}\cmidrule(lr){9-13}
+        \textit{Feature} & Temp. & Aleat. & Temp. & Aleat. & $\hat{A}_{12}$ & Efeito & $p$ & Temp. & Aleat. & $\hat{A}_{12}$ & Efeito & $p$ \\
+        \midrule
+        Todas & 17 & 53 & 0,0235 & 0,1097 & 0,84 & grande & $<$ 0,001 & 0,800 & 0,863 & 0,92 & grande & $<$ 0,001 \\
+        \midrule
+        CDT & 11 & 45 & 0,0154 & 0,0349 & 0,73 & grande & 0,225 & 0,864 & 0,829 & 0,25 & grande & 0,142 \\
+        EGit & 12 & 36 & 0,0308 & 0,1206 & 0,89 & grande & $<$ 0,001 & 0,773 & 0,769 & 0,50 & insignificante & 1,000 \\
+        EMF & 13 & 31 & 0,2234 & 0,3798 & 0,57 & pequeno & 1,000 & 0,907 & 0,903 & 0,47 & insignificante & 1,000 \\
+        GEF & 16 & 15 & 0,0424 & 0,0659 & 0,70 & médio & 0,663 & 0,723 & 0,781 & 0,73 & grande & 0,413 \\
+        JDT & 17 & 53 & 0,0803 & 0,0939 & 0,56 & pequeno & 1,000 & 0,816 & 0,831 & 0,59 & pequeno & 1,000 \\
+        m2e & 11 & 25 & 0,0304 & 0,0659 & 0,72 & grande & 0,472 & 0,851 & 0,836 & 0,43 & pequeno & 1,000 \\
+        Mylyn & 8 & 7 & 0,0201 & 0,0645 & 0,82 & grande & 0,481 & 0,764 & 0,819 & 0,75 & grande & 1,000 \\
+        PDE & 17 & 50 & 0,0126 & 0,0430 & 0,79 & grande & 0,004 & 0,753 & 0,798 & 0,75 & grande & 0,028 \\
+        RAP & 7 & 20 & 0,0352 & 0,0787 & 0,69 & médio & 1,000 & 0,708 & 0,835 & 0,80 & grande & 0,228 \\
+        Scout & 17 & 53 & 0,0210 & 0,0702 & 0,72 & grande & 0,091 & 0,803 & 0,790 & 0,46 & insignificante & 1,000 \\
+        WebTools & 7 & 8 & 0,0388 & 0,0947 & 0,77 & grande & 1,000 & 0,905 & 0,896 & 0,38 & pequeno & 1,000 \\
+        Window Builder & 16 & 21 & 0,0243 & 0,0554 & 0,59 & pequeno & 1,000 & 0,710 & 0,755 & 0,69 & médio & 0,576 \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

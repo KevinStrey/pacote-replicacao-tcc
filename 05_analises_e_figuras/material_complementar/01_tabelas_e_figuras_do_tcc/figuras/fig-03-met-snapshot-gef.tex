@@ -1,0 +1,52 @@
+% Extraído de Textuais/03-Metodologia.tex
+\begin{figure}[htbp]
+    \centering
+    \caption{Escolha dos \textit{snapshots} do GEF entre as \textit{releases} 12 e 18}
+    \label{fig:met-snapshot-gef}
+     \begin{tikzpicture}[x=1cm,y=1cm,font=\scriptsize,
+        commit/.style={circle,fill=black!55,inner sep=1.5pt},
+        snap/.style={circle,fill=black,draw=black!50!black,inner sep=2.8pt},
+        lateral/.style={circle,fill=gray!55,inner sep=1.5pt},
+        rel/.style={dashed,draw=black!80},
+        relrem/.style={dotted,thick,draw=gray},
+        chave/.style={decorate,decoration={brace,amplitude=4pt,mirror},draw=black!80},
+        yscale=1.3]
+        % linha principal (first-parent)
+        \draw[black,thick,->] (0,0) -- (15.1,0) node[below left=2pt and 0pt,text=black]{tempo};
+        % antes da Neon
+        \node[commit] at (0.2,0){};
+        \node[snap,label={[text=black]above:\texttt{bcd6206f}}] at (0.75,0){};
+        % intervalo Neon -> Neon.1: 13 commits
+        \foreach \x in {1.95,2.25,2.55,2.85,3.15}{\node[commit] at (\x,0){};}
+        \node[snap,label={[text=black]above:\texttt{d40a6827}}] at (3.6,0){};
+        \draw[chave] (1.85,-0.2) -- (3.7,-0.2) node[midway,below=4pt,text=black,align=center]{13 commits\\sem .java};
+        % ramo lateral ilustrativo
+        \draw[gray] (2.25,0) -- (2.55,0.95) -- (3.15,0.95);
+        \node[lateral] at (2.55,0.95){}; \node[lateral] at (2.85,0.95){}; \node[lateral] at (3.15,0.95){};
+        \node[text=gray,anchor=south] at (2.85,1.05) {{\verde \textit{branch}} lateral (ilustrativo): ignorado};
+        % sem commits entre 2016-09-13 e 2017-05-01
+        \node[text=gray,align=center] at (6.9,0.65) {sem commits:\\\textit{releases} 14 e 15 removidas};
+        % intervalo Neon.1 -> Oxygen: 16 commits
+        \foreach \x in {8.75,9.05,9.35,9.65,9.95}{\node[commit] at (\x,0){};}
+        \node[snap,label={[text=black]above:\texttt{c2e4f026}}] at (10.3,0){};
+        \draw[chave] (8.65,-0.2) -- (10.4,-0.2) node[midway,below=4pt,text=black,align=center]{16 commits\\sem .java};
+        \node[text=gray,align=center] at (12.2,1.05) {\textit{release} 17\\removida};
+        % Oxygen.1a
+        \node[snap,label={[text=black]above:\texttt{14563a9e}}] at (13.05,0){};
+        \node[text=gray,align=center] at (14.6,1.05) {sem commits\\até 2022};
+        % releases mantidas (tracejado, rótulo na primeira fileira)
+        \foreach \x/\nome/\data in {1.45/Neon (12)/2016-06-13, 4.35/Neon.1 (13)/2016-09-14,
+                                    11.0/Oxygen (16)/2017-06-14, 13.9/Oxygen.1a (18)/2017-10-05}{
+            \draw[rel] (\x,-1.3) -- (\x,0.55);
+            \node[text=black,align=center,below] at (\x,-1.3) {\nome\\\data};}
+        % releases removidas (pontilhado, rótulo na segunda fileira)
+        \foreach \x/\nome/\data in {5.95/Neon.2 (14)/2016-12-07, 8.05/Neon.3 (15)/2017-03-08,
+                                    12.45/Oxygen.1 (17)/2017-09-13}{
+            \draw[relrem] (\x,-2.3) -- (\x,0);
+            \node[text=gray,align=center,below] at (\x,-2.3) {\nome\\\data};}
+    \end{tikzpicture}
+
+    \vspace{0.1cm}
+
+    \fonte{Elaborado pelo autor (2026)}
+\end{figure}%

@@ -1,0 +1,25 @@
+% Exemplo hipotético da taxa real e da taxa prevista (Seção Previsão no nível de feature, 03-Metodologia.tex)
+\begin{table}[htbp]
+    \captionsetup{}
+    \centering
+    \footnotesize
+    \caption{Exemplo hipotético: rótulos reais e probabilidades previstas dos métodos de uma \textit{feature} X na
+        \textit{release} $r = 3$}
+    \label{tab:met-ex-feature}
+    \begin{tabular}{lccc}
+        \toprule
+        Método $m$ & Mudou até o \textit{snapshot} seguinte? & Rótulo real $y_{m,3}$ & Probabilidade prevista
+            $\hat{p}_{m,3}$ \\
+        \midrule
+        \texttt{abrir()}    & sim & 1 & 0,80 \\
+        \texttt{fechar()}   & não & 0 & 0,10 \\
+        \texttt{salvar()}   & sim & 1 & 0,60 \\
+        \texttt{carregar()} & não & 0 & 0,30 \\
+        \texttt{validar()}  & não & 0 & 0,20 \\
+        \midrule
+        Soma                & --  & 2 & 2,00 \\
+        Soma $\div$ 5 métodos & -- & $\tau_{X,3} = 0{,}40$ & $\hat{\tau}_{X,3} = 0{,}40$ \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

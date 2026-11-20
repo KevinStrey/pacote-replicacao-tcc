@@ -1,0 +1,42 @@
+% Extraído de Textuais/03-Metodologia.tex (Seção de análise do impacto da quebra de identidade).
+% Fonte: identificação das quebras por transição de releases (5-Coleta_features/scripts/medir_identidade.py) aplicada
+% aos conjuntos de dados de cada feature; observação afetada = observação de um método renomeado ou importado, da release
+% da quebra em diante (2026-11-09).
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \captionsetup{font+={color=ForestGreen}}%
+    \caption{{\laranja Instâncias} e positivos afetados pela quebra de identidade em cada \textit{feature}}
+    \label{tab:met-identidade}
+    \color{ForestGreen}%
+    \begin{tabular}{@{}lrrrrrr@{}}
+        \toprule
+        & \multicolumn{3}{c}{{\laranja Instâncias}} & \multicolumn{3}{c}{Positivos} \\
+        \cmidrule(lr){2-4}\cmidrule(l){5-7}
+        \textit{Feature} & Total & Afetadas & \% & Total & Afetados & \% \\
+        \midrule
+        \textbf{PTP}    & 385.714   & 152.847 & \textbf{39,6} & 1.451  & 469   & \textbf{32,3} \\
+        \textbf{Mylyn}  & 296.709   & 72.028  & \textbf{24,3} & 1.282  & 133   & \textbf{10,4} \\
+        \textbf{Scout}  & 1.269.528 & 235.663 & \textbf{18,6} & 12.852 & 1.679 & \textbf{13,1} \\
+        EMF             & 960.732   & 110.456 & 11,5 & 15.453 & 14    & 0,1  \\
+        m2e             & 384.483   & 22.125  & 5,8  & 1.696  & 129   & 7,6  \\
+        PDE             & 1.215.106 & 66.505  & 5,5  & 9.325  & 169   & 1,8  \\
+        EclipseLink     & 412.930   & 16.453  & 4,0  & 4.543  & 204   & 4,5  \\
+        WebTools        & 1.360.305 & 42.631  & 3,1  & 776    & 32    & 4,1  \\
+        EGit            & 327.823   & 9.995   & 3,0  & 4.260  & 68    & 1,6  \\
+        CDT             & 3.570.029 & 102.678 & 2,9  & 10.285 & 221   & 2,1  \\
+        GEF             & 233.340   & 4.238   & 1,8  & 1.468  & 9     & 0,6  \\
+        RAP             & 1.322.733 & 7.410   & 0,6  & 3.415  & 53    & 1,6  \\
+        BIRT            & 2.041.029 & 1.055   & 0,1  & 1.867  & 3     & 0,2  \\
+        Subversive      & 106.964   & 65      & 0,1  & 777    & 0     & 0,0  \\
+        Window Builder  & 989.950   & 168     & 0,0  & 3.871  & 0     & 0,0  \\
+        GMF Runtime     & 488.716   & 78      & 0,0  & 189    & 0     & 0,0  \\
+        JDT             & 1.336.291 & 160     & 0,0  & 13.108 & 0     & 0,0  \\
+        CVS             & 172.642   & 0       & 0,0  & 661    & 0     & 0,0  \\
+        DataTools       & 1.184.083 & 0       & 0,0  & 408    & 0     & 0,0  \\
+        \midrule
+        Total           & 18.059.107 & 844.555 & 4,7 & 87.687 & 3.183 & 3,6 \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026).}
+\end{table}%

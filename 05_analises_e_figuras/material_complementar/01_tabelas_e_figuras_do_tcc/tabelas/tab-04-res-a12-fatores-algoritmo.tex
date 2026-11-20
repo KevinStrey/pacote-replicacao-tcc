@@ -1,0 +1,26 @@
+% Gerado por 6-Treino/ferramentas_locais/tabelas_kruskal.py (não editar à mão)
+\begin{table}[htbp]
+    \laranja
+    \captionsetup{font+={color=orange}}%
+    \centering
+    \scriptsize
+    \setlength{\tabcolsep}{3pt}%
+    \caption{Algoritmos no protocolo temporal (204 valores por grupo): cada grupo comparado com o de maior mediana}
+    \label{tab:res-a12-fatores-algoritmo}
+    \begin{tabular}{lcclc|cclc}
+        \toprule
+         & \multicolumn{4}{c|}{PR-AUC} & \multicolumn{4}{c}{ROC-AUC} \\
+        \cmidrule(lr){2-5}\cmidrule(lr){6-9}
+        Algoritmo & {\rosa Mediana} & $\hat{A}_{12}$ & Efeito & $p$ & {\rosa Mediana} & $\hat{A}_{12}$ & Efeito & $p$ \\
+        \midrule
+        MLP & 0,0131 & \multicolumn{3}{c}{(referência)} & 0,732 & {\rosa ---} & {\rosa ---} & 1,000 \\
+        LightGBM & 0,0109 & {\rosa ---} & {\rosa ---} & 1,000 & 0,717 & {\rosa ---} & {\rosa ---} & 1,000 \\
+        SVM linear & 0,0088 & 0,65 & médio & $<$ 0,001 & 0,734 & \multicolumn{3}{c}{(referência)} \\
+        Regr. log. & 0,0083 & 0,64 & médio & $<$ 0,001 & 0,718 & 0,60 & pequeno & 0,010 \\
+        XGBoost & 0,0079 & 0,69 & médio & $<$ 0,001 & 0,672 & 0,66 & médio & $<$ 0,001 \\
+        RF & 0,0037 & 0,90 & grande & $<$ 0,001 & 0,598 & 0,91 & grande & $<$ 0,001 \\
+        DT & 0,0027 & 0,95 & grande & $<$ 0,001 & 0,495 & 1,00 & grande & $<$ 0,001 \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

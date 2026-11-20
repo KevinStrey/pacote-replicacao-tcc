@@ -1,0 +1,23 @@
+% Extraído de Textuais/04-Resultados.tex
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \caption{Protocolo temporal: melhor PR-AUC e ROC-AUC por algoritmo e conjunto de métricas}
+    \label{tab:res-grade}
+    \begin{tabular}{lccccccc}
+        \toprule
+        & \multicolumn{3}{c}{PR-AUC} & & \multicolumn{3}{c}{ROC-AUC} \\
+        \cmidrule{2-4} \cmidrule{6-8}
+        Algoritmo & model1 & model2 & model3 & & model1 & model2 & model3 \\
+        \midrule
+        LightGBM   & 0,0102 & \textbf{0,0175} & 0,0166 & & 0,792 & \textbf{0,801} & 0,696 \\
+        MLP        & 0,0112 & 0,0153 & 0,0120 & & 0,785 & 0,790 & 0,701 \\
+        Regr. log. & 0,0083 & 0,0099 & 0,0134 & & 0,745 & 0,751 & 0,639 \\
+        XGBoost    & 0,0110 & 0,0130 & 0,0056 & & 0,786 & 0,770 & 0,566 \\
+        SVM linear & 0,0090 & 0,0107 & 0,0101 & & 0,748 & 0,762 & 0,646 \\
+        RF         & 0,0048 & 0,0083 & 0,0028 & & 0,627 & 0,665 & 0,476 \\
+        DT         & 0,0038 & 0,0035 & 0,0035 & & 0,503 & 0,522 & 0,451 \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

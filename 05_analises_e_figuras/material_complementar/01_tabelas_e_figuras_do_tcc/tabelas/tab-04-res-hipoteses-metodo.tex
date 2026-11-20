@@ -1,0 +1,32 @@
+% Gerado a partir de resultados_e_logs/saida/resultados/testes_hipoteses.csv (6-Treino/ferramentas_locais/testes_hipoteses.py)
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \caption{Teste de permutação no nível de método ($H_{0,1}$): valor observado, maior valor entre as 1.000 permutações
+        (sob $H_0$) e valor-p unilateral}
+    \label{tab:res-hipoteses-metodo}
+    \setlength{\tabcolsep}{3pt}
+    \begin{tabular}{llcccccc l}
+        \toprule
+        & & \multicolumn{3}{c}{PR-AUC} & \multicolumn{3}{c}{ROC-AUC} & \\
+        \cmidrule(lr){3-5}\cmidrule(lr){6-8}
+        Protocolo & Algoritmo & Obs. & Máx. $H_0$ & $p$ & Obs. & Máx. $H_0$ & $p$ & $H_0$ ($\alpha = 0{,}05$) \\
+        \midrule
+        Temporal  & LightGBM   & $0{,}0175$ & $0{,}0028$ & $\approx 0{,}001$ & $0{,}801$ & $0{,}508$ & $\approx 0{,}001$ & Rejeita \\
+                  & MLP        & $0{,}0153$ & $0{,}0028$ & $\approx 0{,}001$ & $0{,}790$ & $0{,}508$ & $\approx 0{,}001$ & Rejeita \\
+                  & Regr. log. & $0{,}0134$ & $0{,}0028$ & $\approx 0{,}001$ & $0{,}639$ & $0{,}507$ & $\approx 0{,}001$ & Rejeita \\
+                  & XGBoost    & $0{,}0130$ & $0{,}0029$ & $\approx 0{,}001$ & $0{,}770$ & $0{,}508$ & $\approx 0{,}001$ & Rejeita \\
+                  & SVM linear & $0{,}0107$ & $0{,}0029$ & $\approx 0{,}001$ & $0{,}762$ & $0{,}508$ & $\approx 0{,}001$ & Rejeita \\
+                  & RF         & $0{,}0083$ & $0{,}0028$ & $\approx 0{,}001$ & $0{,}641$ & $0{,}507$ & $\approx 0{,}001$ & Rejeita \\
+                  & DT         & $0{,}0038$ & $0{,}0028$ & $\approx 0{,}001$ & $0{,}495$ & $0{,}505$ & 1 & Rejeita só PR-AUC \\
+        \midrule
+        Aleatório & XGBoost    & $0{,}2223$ & $0{,}0049$ & $\approx 0{,}001$ & $0{,}881$ & $0{,}506$ & $\approx 0{,}001$ & Rejeita \\
+                  & LightGBM   & $0{,}2081$ & $0{,}0050$ & $\approx 0{,}001$ & $0{,}874$ & $0{,}505$ & $\approx 0{,}001$ & Rejeita \\
+                  & RF         & $0{,}2035$ & $0{,}0049$ & $\approx 0{,}001$ & $0{,}794$ & $0{,}506$ & $\approx 0{,}001$ & Rejeita \\
+                  & DT         & $0{,}0948$ & $0{,}0049$ & $\approx 0{,}001$ & $0{,}615$ & $0{,}503$ & $\approx 0{,}001$ & Rejeita \\
+                  & SVM linear & $0{,}0444$ & $0{,}0049$ & $\approx 0{,}001$ & $0{,}820$ & $0{,}506$ & $\approx 0{,}001$ & Rejeita \\
+                  & Regr. log. & $0{,}0392$ & $0{,}0050$ & $\approx 0{,}001$ & $0{,}814$ & $0{,}507$ & $\approx 0{,}001$ & Rejeita \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

@@ -1,0 +1,20 @@
+% Extraído de Textuais/04-Resultados.tex
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \caption{{\azul Impacto da quebra de identidade}: modelos com e sem PTP, Scout e Mylyn}
+    \label{tab:res-sensibilidade}
+    \begin{tabular}{llccc}
+        \toprule
+        & & Principal & Variante & Principal \\
+        Protocolo & {\color{ForestGreen} Indicador} & (teste completo) & (sem as 3) & (mesmas {\azul amostras}) \\
+        \midrule
+        Temporal  & PR-AUC  & 0,0175 & 0,0241 & 0,0199 \\
+                  & ROC-AUC & 0,801  & 0,823  & 0,811  \\
+        \midrule
+        Aleatório & PR-AUC  & 0,2223 & 0,2516 & 0,2495 \\
+                  & ROC-AUC & 0,881  & 0,891  & 0,889  \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

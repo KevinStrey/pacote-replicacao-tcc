@@ -1,0 +1,129 @@
+% Extraído de Textuais/03-Metodologia.tex
+% Exemplo fictício e simplificado (2026-11-10) do mecanismo observado no Mylyn. Reproduzido num repositório de teste:
+% com os quatro arquivos abaixo, "git log -L8,15:F.java" lista C, B e a criação, mas não A, porque o diff de C
+% associa a linha em branco do meio de calc() (linha 9 de B) à linha em branco entre os métodos (linha 7 de C), e a
+% faixa 8-15 da versão final passa a corresponder só às linhas 10-12 da versão anterior.
+% Versão anterior da figura (trechos reais do Mylyn): scratchpad bak_fig-03-met-gitlog.tex.
+\begin{figure}[htbp]
+    \captionsetup{font+={color=orange}}%
+    \caption{Exemplo fictício de um arquivo alterado por três commits, mostrando por que a coleta conta um commit que o \texttt{git log -L} não lista}
+    \label{fig:met-gitlog}
+    \centering
+    \begin{tikzpicture}[
+        cod/.style={font=\ttfamily\tiny,anchor=west,inner sep=1pt},
+        num/.style={font=\ttfamily\tiny,anchor=east,inner sep=1pt,text=black!50},
+        tit/.style={font=\scriptsize\bfseries,align=center,text width=3.5cm},
+        sub/.style={font=\tiny,align=center,text width=3.5cm},
+        sim/.style={font=\scriptsize,align=center,text width=3.3cm,rounded corners=2pt,inner sep=2pt,
+                    fill=ForestGreen!18,draw=ForestGreen!70!black},
+        nao/.style={font=\scriptsize,align=center,text width=3.3cm,rounded corners=2pt,inner sep=2pt,
+                    fill=red!12,draw=red!60!black}]
+        \def\dy{0.3}
+        % \lin{x da coluna}{número da linha}{texto}{cor de fundo ou vazio}
+        \newcommand{\lin}[4]{%
+            \ifx\relax#4\relax\else\fill[#4] (#1+0.02,-#2*\dy-0.14) rectangle (#1+3.43,-#2*\dy+0.14);\fi
+            \node[num] at (#1+0.42,-#2*\dy) {#2};
+            \node[cod] at (#1+0.48,-#2*\dy) {#3};}
+        % ---------- títulos ----------
+        \node[tit] at (1.72,0.95) {Versão inicial};
+        \node[tit] at (5.72,0.95) {Commit A};
+        \node[tit] at (9.72,0.95) {Commit B};
+        \node[tit] at (13.72,0.95) {Commit C (final)};
+        \node[sub] at (1.72,0.5) {antes dos commits};
+        \node[sub] at (5.72,0.5) {acrescenta \texttt{registrar(v)}};
+        \node[sub] at (9.72,0.5) {muda o valor de \texttt{d}};
+        \node[sub] at (13.72,0.5) {só reformata o arquivo};
+        \foreach \x/\n in {0/12,4/13,8/13,12/16}{
+            \draw[black!40,rounded corners=2pt] (\x,0.2) rectangle (\x+3.45,-\n*\dy-0.2);}
+        % ---------- versão inicial ----------
+        \lin{0}{1}{class F \{}{}
+        \lin{0}{2}{\ \ void abrir() \{}{}
+        \lin{0}{3}{\ \ \ \ x();}{}
+        \lin{0}{4}{\ \ \}}{}
+        \lin{0}{5}{\ \ void calc() \{}{}
+        \lin{0}{6}{\ \ \ \ int v = ler();}{}
+        \lin{0}{7}{\ \ \ \ mostrar(v);}{}
+        \lin{0}{8}{}{}
+        \lin{0}{9}{\ \ \ \ int d = 0;}{}
+        \lin{0}{10}{\ \ \ \ v = v - d;}{}
+        \lin{0}{11}{\ \ \}}{}
+        \lin{0}{12}{\}}{}
+        % ---------- commit A ----------
+        \lin{4}{1}{class F \{}{}
+        \lin{4}{2}{\ \ void abrir() \{}{}
+        \lin{4}{3}{\ \ \ \ x();}{}
+        \lin{4}{4}{\ \ \}}{}
+        \lin{4}{5}{\ \ void calc() \{}{}
+        \lin{4}{6}{\ \ \ \ int v = ler();}{}
+        \lin{4}{7}{\ \ \ \ mostrar(v);}{}
+        \lin{4}{8}{\ \ \ \ registrar(v);}{ForestGreen!25}
+        \lin{4}{9}{}{}
+        \lin{4}{10}{\ \ \ \ int d = 0;}{}
+        \lin{4}{11}{\ \ \ \ v = v - d;}{}
+        \lin{4}{12}{\ \ \}}{}
+        \lin{4}{13}{\}}{}
+        % ---------- commit B ----------
+        \lin{8}{1}{class F \{}{}
+        \lin{8}{2}{\ \ void abrir() \{}{}
+        \lin{8}{3}{\ \ \ \ x();}{}
+        \lin{8}{4}{\ \ \}}{}
+        \lin{8}{5}{\ \ void calc() \{}{}
+        \lin{8}{6}{\ \ \ \ int v = ler();}{}
+        \lin{8}{7}{\ \ \ \ mostrar(v);}{}
+        \lin{8}{8}{\ \ \ \ registrar(v);}{}
+        \lin{8}{9}{}{orange!30}
+        \lin{8}{10}{\ \ \ \ int d = 5;}{yellow!45}
+        \lin{8}{11}{\ \ \ \ v = v - d;}{}
+        \lin{8}{12}{\ \ \}}{}
+        \lin{8}{13}{\}}{}
+        % ---------- commit C ----------
+        \lin{12}{1}{class F}{cyan!15}
+        \lin{12}{2}{\{}{cyan!15}
+        \lin{12}{3}{\ \ \ void abrir()}{cyan!15}
+        \lin{12}{4}{\ \ \ \{}{cyan!15}
+        \lin{12}{5}{\ \ \ \ \ x();}{cyan!15}
+        \lin{12}{6}{\ \ \ \}}{cyan!15}
+        \lin{12}{7}{}{orange!30}
+        \lin{12}{8}{\ \ \ void calc()}{cyan!15}
+        \lin{12}{9}{\ \ \ \{}{cyan!15}
+        \lin{12}{10}{\ \ \ \ \ int v = ler();}{cyan!15}
+        \lin{12}{11}{\ \ \ \ \ mostrar(v);}{cyan!15}
+        \lin{12}{12}{\ \ \ \ \ registrar(v);}{cyan!15}
+        \lin{12}{13}{\ \ \ \ \ int d = 5;}{cyan!15}
+        \lin{12}{14}{\ \ \ \ \ v = v - d;}{cyan!15}
+        \lin{12}{15}{\ \ \ \}}{cyan!15}
+        \lin{12}{16}{\}}{cyan!15}
+        % ---------- linha em branco associada pelo diff do commit C ----------
+        \draw[orange!85!black,dashed,line width=0.9pt,-{Stealth[length=4pt]}] (11.43,-9*\dy) .. controls (11.75,-9*\dy) and (11.7,-7*\dy) .. (12.05,-7*\dy);
+        % ---------- faixa seguida pelo git log -L ----------
+        \newcommand{\faixa}[3]{\draw[orange,line width=1.6pt] (#1+3.5,-#2*\dy+0.12) -- (#1+3.58,-#2*\dy+0.12) -- (#1+3.58,-#3*\dy-0.12) -- (#1+3.5,-#3*\dy-0.12);}
+        \faixa{12}{8}{15}
+        \faixa{8}{10}{12}
+        \faixa{4}{10}{12}
+        % ---------- resultado de cada commit ----------
+        \def\ya{-5.7}\def\yb{-6.6}
+        \node[font=\scriptsize\bfseries,text=ForestGreen!60!black] at (1.72,\ya) {Coleta};
+        \node[sim] at (5.72,\ya) {conta: o texto de \texttt{calc()} mudou};
+        \node[sim] at (9.72,\ya) {conta: o texto de \texttt{calc()} mudou};
+        \node[nao] at (13.72,\ya) {não conta: o texto do JavaParser não mudou};
+        \node[font=\scriptsize\bfseries,text=red!60!black] at (1.72,\yb) {\texttt{git log -L}};
+        \node[nao] at (5.72,\yb) {não lista: a linha 8 está fora da faixa 10 a 12};
+        \node[sim] at (9.72,\yb) {lista: a linha 10 está dentro da faixa 10 a 12};
+        \node[sim] at (13.72,\yb) {lista: as linhas 8 a 15 mudaram};
+        % ---------- sentido de cada fonte ----------
+        \draw[-{Stealth[length=5pt]},ForestGreen!70!black,line width=1.1pt] (0.1,-7.35) -- (15.9,-7.35)
+            node[midway,below=1pt,font=\scriptsize,text=ForestGreen!60!black] {Coleta: avança no tempo e compara o texto de \texttt{calc()} antes e depois de cada commit};
+        \draw[-{Stealth[length=5pt]},red!65!black,line width=1.1pt] (15.9,-8.05) -- (0.1,-8.05)
+            node[midway,below=1pt,font=\scriptsize,text=red!60!black] {\texttt{git log -L}: volta no tempo a partir das linhas 8 a 15 da versão final, as linhas de \texttt{calc()}};
+        % ---------- legenda ----------
+        \def\yl{-9.1}\def\ym{-9.55}
+        \draw[orange,line width=1.6pt] (0.1,\yl+0.15) -- (0.18,\yl+0.15) -- (0.18,\yl-0.15) -- (0.1,\yl-0.15);
+        \node[font=\scriptsize,anchor=west] at (0.25,\yl) {faixa seguida pelo \texttt{git log -L}};
+        \draw[orange!85!black,dashed,line width=0.9pt,-{Stealth[length=4pt]}] (4.6,\yl) -- (5.1,\yl);
+        \node[font=\scriptsize,anchor=west] at (5.15,\yl) {linha em branco que o commit C considera ser a mesma nas duas versões};
+        \fill[ForestGreen!25] (4.6,\ym-0.08) rectangle (4.9,\ym+0.08); \node[font=\scriptsize,anchor=west] at (4.95,\ym) {incluída};
+        \fill[yellow!45] (6.6,\ym-0.08) rectangle (6.9,\ym+0.08); \node[font=\scriptsize,anchor=west] at (6.95,\ym) {alterada};
+        \fill[cyan!15] (8.6,\ym-0.08) rectangle (8.9,\ym+0.08); \node[font=\scriptsize,anchor=west] at (8.95,\ym) {reformatada};
+    \end{tikzpicture}
+    \fonte{Elaborado pelo autor (2026).}
+\end{figure}%

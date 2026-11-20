@@ -1,0 +1,39 @@
+% Gerada a partir de 5-Coleta_features/<feature>/AUDITORIA.md (seções 1 a 4), scripts/auditar_feature.py.
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \captionsetup{font+={color=ForestGreen}}%
+    \caption{Resultados das verificações automáticas da coleta, por \textit{feature}}
+    \label{tab:ap-verificacoes}
+    \color{ForestGreen}%
+    \begin{tabular}{@{}lrrrrrrr@{}}
+        \toprule
+        & & \multicolumn{2}{c}{JavaParser} & \multicolumn{2}{c}{ChangeDistiller} & \multicolumn{2}{c}{Encontrados (mín.)} \\
+        \cmidrule(lr){3-4}\cmidrule(lr){5-6}\cmidrule(l){7-8}
+        \textit{Feature} & \textit{Snapshots} & Versões & Falhas & Execuções & Erros & no CK & no Und. \\
+        \midrule
+        BIRT           & 27 & 11.240 &   1 &  2.331 & 0 & 99,98\% & 100,00\% \\
+        CDT            & 54 & 50.075 &   0 & 23.993 & 0 & 99,82\% &  99,95\% \\
+        CVS            & 34 &  2.417 &   0 &  3.373 & 0 & 100,00\% & 100,00\% \\
+        DataTools      & 24 &  9.099 &   0 &    420 & 0 & 99,99\% & 100,00\% \\
+        EclipseLink    &  7 & 14.446 &   1 &  6.326 & 0 & 100,00\% & 100,00\% \\
+        EGit           & 54 &  9.698 &   0 &  7.211 & 0 & 100,00\% & 100,00\% \\
+        EMF            & 54 &  8.417 &   1 & 19.392 & 0 & 97,73\% & 100,00\% \\
+        GEF            & 33 &  5.591 &   0 &  9.911 & 0 & 99,71\% & 100,00\% \\
+        GMF Runtime    & 47 &  3.772 &   0 &    282 & 0 & 100,00\% &  99,80\% \\
+        JDT            & 54 & 31.583 &  40 & 26.917 & 0 & 99,78\% &  97,89\% \\
+        m2e            & 54 &  6.982 &   1 &  7.029 & 0 & 99,77\% & 100,00\% \\
+        Mylyn          & 14 &  8.841 &   1 &  7.851 & 0 & 100,00\% & 100,00\% \\
+        PDE            & 54 & 26.823 &  34 & 33.259 & 0 & 99,92\% & 100,00\% \\
+        PTP            & 26 &  8.695 &   0 &  4.593 & 0 & 100,00\% & 100,00\% \\
+        RAP            & 48 &  9.659 &   0 &  5.312 & 0 & 100,00\% & 100,00\% \\
+        Scout          & 54 & 53.173 & 300 & 26.756 & 0 & 99,95\% & 100,00\% \\
+        Subversive     & 16 &  2.083 &   0 &    913 & 0 & 100,00\% & 100,00\% \\
+        WebTools       & 41 &  9.785 &   0 &  8.237 & 0 & 100,00\% & 100,00\% \\
+        Window Builder & 48 & 22.736 &  16 &  9.203 & 0 & 99,96\% &  99,74\% \\
+        \midrule
+        \textbf{Total} & & \textbf{295.115} & \textbf{395} & \textbf{203.309} & \textbf{0} & & \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026).}
+\end{table}%

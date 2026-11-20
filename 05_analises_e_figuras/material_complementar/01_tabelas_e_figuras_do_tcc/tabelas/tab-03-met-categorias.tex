@@ -1,0 +1,49 @@
+% Extraído de Textuais/03-Metodologia.tex
+\begin{table}[htbp]
+    \centering
+    \scriptsize
+    \caption{Categorias das métricas coletadas no nível de método}
+    \label{tab:met-categorias}
+    \renewcommand{\arraystretch}{1.15}
+    \begin{tabularx}{\textwidth}{@{}l l l r >{\raggedright\arraybackslash}X@{}}
+        \toprule
+        Categoria & Fonte & Subcategoria & Qtd. & Métricas \\
+        \midrule
+        \multirow{12}{*}{\shortstack[l]{Estruturais\\(82)}}
+            & \multirow{7}{*}{\shortstack[l]{CK\\(29)}}
+                & Acoplamento                & 5  & cbo, cboModified, fanin, fanout, rfc \\
+            & & Chamadas a métodos           & 3  & methodsInvokedQty, methodsInvokedLocalQty, methodsInvokedIndirectLocalQty \\
+            & & Complexidade                 & 5  & wmc, loopQty, comparisonsQty, maxNestedBlocksQty, tryCatchQty \\
+            & & Tamanho                      & 1  & loc \\
+            & & Elementos do corpo           & 10 & returnsQty, variablesQty, parametersQty, assignmentsQty,
+                                                    mathOperationsQty, parenthesizedExpsQty, stringLiteralsQty,
+                                                    numbersQty, logStatementsQty, uniqueWordsQty \\
+            & & Estruturas aninhadas         & 3  & anonymousClassesQty, innerClassesQty, lambdasQty \\
+            & & Declaração e documentação    & 2  & modifiers, hasJavaDoc \\
+            \cmidrule(l){2-5}
+            & \multirow{5}{*}{\shortstack[l]{Understand\\(53)}}
+                & Complexidade               & 10 & Cyclomatic, CyclomaticModified, CyclomaticStrict, Essential,
+                                                    SumCyclomatic, SumCyclomaticModified, SumCyclomaticStrict,
+                                                    SumEssential, CountPath, MaxNesting \\
+            & & Tamanho                      & 9  & CountLine, CountLineBlank, CountLineCode, CountLineCodeDecl,
+                                                    CountLineCodeExe, CountStmt, CountStmtDecl, CountStmtExe,
+                                                    CountSemicolon \\
+            & & Comentários                  & 2  & CountLineComment, RatioCommentToCode \\
+            & & Fluxo de dados               & 2  & CountInput, CountOutput \\
+            & & Nível de classe & 30 & Avg* (8), CountDecl* (13), CountClass* (3), Max* (5),
+                                                    PercentLackOfCohesion \\
+        \midrule
+        \multirow{5}{*}{\shortstack[l]{Evolutivas\\(16)}}
+            & \multirow{5}{*}{\shortstack[l]{Evometrics}}
+                & Tempo                      & 3  & BOM, FCH, LCH \\
+            & & Ocorrência e frequência      & 3  & CHO, FRCH, WFR \\
+            & & Volume de mudança            & 4  & TACH, CSB, LCA, ATAF \\
+            & & Densidade de mudança         & 4  & CHD, CSBS, LCD, ACDF \\
+            & & Ponderadas pela recência     & 2  & WCH, WCD \\
+        \midrule
+        Mudança & ChangeDistiller & Rótulo \texttt{will\_change} & 1 & mudança na AST do método até a \textit{release} seguinte
+                                                                    (não é entrada dos modelos) \\
+        \bottomrule
+    \end{tabularx}
+    \fonte{Elaborado pelo autor (2026).}
+\end{table}%

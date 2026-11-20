@@ -1,0 +1,27 @@
+% Extraído de Textuais/04-Resultados.tex
+\definecolor{meuVerdeHex}{HTML}{159d15} 
+
+
+\begin{figure}[htbp]
+    \centering
+    \caption{Correlação de Spearman entre a ordem prevista e a real das \textit{features}, por \textit{release} de teste}
+    \label{fig:res-spearman}
+    \begin{tikzpicture}
+        \begin{axis}[width=\linewidth, height=6.5cm, xlabel={\textit{Release} de teste (índice global)},
+            ylabel={Spearman}, xmin=36.5, xmax=53.5, ymin=0, ymax=1, grid=major, grid style={gray!25},
+            legend style={font=\footnotesize, at={(0.5,-0.25)}, anchor=north, legend columns=3, draw=none},
+            tick label style={font=\footnotesize}, label style={font=\footnotesize},
+            /pgf/number format/use comma]
+            \addplot[meuVerdeHex!70!black, thick, mark=*, mark size=1.2pt] table[x=release, y=modelo]
+                {Textuais/dados/spearman_por_release.dat};
+            \addlegendentry{SVM linear (model3, ROS)}
+            \addplot[blue!70!black, thick, dashed, mark=square*, mark size=1.2pt] table[x=release, y=persistencia]
+                {Textuais/dados/spearman_por_release.dat};
+            \addlegendentry{Persistência}
+            \addplot[gray, mark=triangle*, mark size=1.2pt] table[x=release, y=melhor_metodo]
+                {Textuais/dados/spearman_por_release.dat};
+            \addlegendentry{LightGBM (model2, ROS)}
+        \end{axis}
+    \end{tikzpicture}
+    \fonte{Elaborado pelo autor (2026)}
+\end{figure}%

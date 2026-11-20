@@ -1,0 +1,39 @@
+% Testes de hipóteses do trabalho (Seção Testes de hipóteses, 03-Metodologia.tex)
+% Revisão de 2026-11-11: Kruskal-Wallis, Mann-Whitney com Bonferroni e A12 no lugar da permutação e do bootstrap.
+% Perguntas renumeradas: QP1 e QP2 no nível de método, QP3 e QP4 no nível de feature.
+\begin{table}[htbp]
+    \laranja
+    \captionsetup{font+={color=orange}}%
+    \centering
+    \footnotesize
+    \caption{Comparações testadas em cada pergunta de pesquisa}
+    \label{tab:met-hipoteses}
+    \begin{tabular}{p{1.4cm}p{6.0cm}p{3.5cm}p{2.4cm}}
+        \toprule
+        Pergunta & Grupos comparados & Valores de cada grupo & Indicadores \\
+        \midrule
+        QP1 & Melhor configuração de cada algoritmo e classificador aleatório, em cada protocolo (8 grupos no temporal
+              e 7 no aleatório) &
+              Um por \textit{release}: 17 no temporal e 53 no aleatório & PR-AUC e ROC-AUC \\
+        \midrule
+        QP2 & Melhor configuração de cada algoritmo, comparada com a {\rosa de maior mediana}; e as 84 configurações
+              do protocolo temporal, agrupadas por algoritmo (7 grupos), por conjunto de métricas (3) e por estratégia
+              de balanceamento (4) &
+              Um por configuração e \textit{release} de teste & PR-AUC e ROC-AUC \\
+        \midrule
+        QP3 & Melhor configuração de cada algoritmo no nível de \textit{feature}, persistência, média histórica e
+              ordenação aleatória (10 grupos) &
+              Um por \textit{release} de teste (17) & Correlação de Spearman \\
+        \midrule
+        QP4 & Melhor configuração de cada algoritmo no nível de \textit{feature}, comparada com a de maior {\rosa mediana}; e as
+              84 configurações do protocolo temporal, agrupadas por algoritmo, por conjunto de métricas e por
+              estratégia de balanceamento &
+              Um por configuração e \textit{release} de teste & Correlação de Spearman \\
+        \midrule
+        QP5 & Em cada protocolo, modelo principal e modelo treinado sem PTP, Scout e
+              Mylyn, avaliados nas mesmas {\azul amostras} (2 grupos) &
+              Um por \textit{release}: 17 no temporal e 53 no aleatório & PR-AUC e ROC-AUC \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

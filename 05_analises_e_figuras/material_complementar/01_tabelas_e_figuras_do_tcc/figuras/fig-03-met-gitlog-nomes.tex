@@ -1,0 +1,56 @@
+% Extraído de Textuais/03-Metodologia.tex
+% Fonte: git log --follow --name-status do arquivo GitlabRepositorySettingsPage.java (org.eclipse.mylyn, 2026-11-09)
+% e 5-Coleta_features/Mylyn/data/method_changes.parquet. Eixo do tempo fora de escala (posições em ordem cronológica).
+\begin{figure}[htbp]
+    \captionsetup{font+={color=ForestGreen}}%
+    \caption{Nome do método \texttt{create\-Additional\-Controls} do Mylyn e arquivo que o contém ao longo do tempo}
+    \label{fig:met-gitlog-nomes}
+    \centering
+    \begin{tikzpicture}[x=0.92cm,font=\scriptsize,
+        ev/.style={circle,draw=black!70,fill=#1,inner sep=2.1pt},
+        up/.style={align=center,anchor=south,inner sep=1pt,yshift=3pt},
+        dn/.style={align=center,anchor=north,inner sep=1pt,yshift=-3pt},
+        snap/.style={black!40,dashed,line width=0.5pt},
+        stit/.style={align=center,text=black!60},
+        nome/.style={anchor=south west,align=left,fill=white,inner sep=1.5pt}]
+        % releases (snapshots)
+        \foreach \x/\r/\d in {0.0/41/jun. 2023, 6.05/42/set. 2023, 8.6/43/nov. 2023, 12.2/44/mar. 2024} {
+            \draw[snap] (\x,-0.95) -- (\x,5.75);
+            \node[stit,above] at (\x,5.75) {\textit{release} \r\\\d};
+        }
+        \node[stit] at (13.0,6.05) {\ldots};
+        % faixa do nome antigo
+        \draw[line width=2.6pt,black!25] (0.6,3.0) -- (3.0,3.0);
+        \node[nome] at (0.24,4.33)
+            {\textbf{Nome antigo} \texttt{}};
+        % faixa do nome novo
+        \draw[-{Stealth[length=6pt]},line width=2.6pt,black!25] (3.6,0) -- (16.3,0);
+        \node[nome] at (4.0,0.95)
+            {\textbf{Nome novo} \texttt{}};
+        % mudança de pacote
+        \draw[-{Stealth[length=6pt]},line width=1.1pt,blue!60!black] (3.0,3.0) to[out=-70,in=160] (3.6,0);
+        \node[align=center,font=\scriptsize\itshape,text=blue!60!black] at (1.75,1.4) {mudança\\de nome};
+        % commits no nome antigo
+        \node[ev=red!45] at (0.9,3.0) {};   \node[up] at (0.9,3.0) {\texttt{b53db5e05c}\\2023-06-07\\cria o arquivo};
+        \node[ev=red!45] at (2.0,3.0) {};   \node[dn] at (2.0,3.0) {\texttt{011737ce02}\\2023-07-17};
+        \node[ev=blue!35] at (3.0,3.0) {};  \node[up] at (3.0,3.0) {\texttt{9efc5a0011}\\2023-07-24};
+        % commits no nome novo
+        \foreach \x/\c/\d/\cor/\pos in {4.3/d0a2f4d4f0/2023-07-28/ForestGreen!55/up, 5.3/6574dcfa14/2023-09-03/yellow!60/dn,
+                                       6.9/f3d06000be/2023-10-03/ForestGreen!55/up, 7.9/1a1e9bb1fb/2023-11-05/yellow!60/dn,
+                                       9.4/b9e87cf498/2024-02-02/yellow!60/up, 10.5/180f862c04/2024-02-05/yellow!60/dn,
+                                       11.6/bf80278d6e/2024-02-17/yellow!60/up, 13.4/b9a87ac56d/2025-07-20/yellow!60/dn,
+                                       14.6/eef8dc9550/2025-12-27/yellow!60/up} {
+            \node[ev=\cor] at (\x,0) {};
+            \node[\pos] at (\x,0) {\texttt{\c}\\\d};
+        }
+        \node[stit,anchor=north] at (15.7,-0.15) {versão final\\2026};
+        % legenda
+        \begin{scope}[shift={(0.0,-1.55)}]
+            \node[ev=yellow!60] at (0,0) {};        \node[anchor=west] at (0.15,0) {nas duas listas};
+            \node[ev=ForestGreen!55] at (3.0,0) {}; \node[anchor=west] at (3.15,0) {só na coleta};
+            \node[ev=red!45] at (0,-0.45) {};       \node[anchor=west] at (0.15,-0.45) {só no \texttt{git log -L} (a coleta contou \texttt{011737ce02} para o nome antigo)};
+            \node[ev=blue!35] at (0,-0.9) {};       \node[anchor=west] at (0.15,-0.9) {{\laranja toca o arquivo, mas em nenhuma das listas}};
+        \end{scope}
+    \end{tikzpicture}
+    \fonte{Elaborado pelo autor (2026).}
+\end{figure}%

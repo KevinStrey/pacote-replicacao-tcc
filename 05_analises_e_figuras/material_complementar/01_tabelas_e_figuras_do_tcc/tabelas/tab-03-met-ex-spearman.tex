@@ -1,0 +1,23 @@
+% Exemplo hipotético da correlação de Spearman e do acerto no top 3 (Seção Previsão no nível de feature, 03-Metodologia.tex)
+\begin{table}[htbp]
+    \color{orange}%
+    \centering
+    \footnotesize
+    \caption{Exemplo hipotético: ordenação prevista e real de cinco \textit{features} em uma \textit{release} de teste}
+    \label{tab:met-ex-spearman}
+    \begin{tabular}{lcccccc}
+        \toprule
+        \textit{Feature} & Taxa prevista $\hat{\tau}$ & Posição prevista & Taxa real $\tau$ & Posição real &
+            Diferença $d_i$ & $d_i^2$ \\
+        \midrule
+        F1 & 0,30 & 1 & 0,25 & 2 & $-1$ & 1 \\
+        F2 & 0,25 & 2 & 0,30 & 1 & $+1$ & 1 \\
+        F3 & 0,20 & 3 & 0,10 & 4 & $-1$ & 1 \\
+        F4 & 0,10 & 4 & 0,15 & 3 & $+1$ & 1 \\
+        F5 & 0,05 & 5 & 0,02 & 5 & $0$  & 0 \\
+        \midrule
+        \multicolumn{6}{l}{Soma $\sum_i d_i^2$} & 4 \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026), com valores fictícios.}
+\end{table}%

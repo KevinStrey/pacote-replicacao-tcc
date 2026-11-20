@@ -31,6 +31,7 @@ simrel.build (tags)  ──►  01 seleção das features e linha do tempo  ─�
 | `03_treino/` | Pacote executado no servidor: preparação dos dados, treino, métricas, nível de *feature*, ambiente com versões travadas (`conda-linux-64.lock`) e configuração da grade (`config/experimentos.yaml`) | 3.7–3.11 |
 | `04_resultados/saida/` | Saídas do servidor: métricas de teste (`resultados_teste.csv`), validação cruzada, intervalos por *bootstrap*, desempenho por *feature*, nível de *feature*, sensibilidade, importâncias, um JSON por treinamento (`jobs/`) e *logs* | Capítulo 4 |
 | `05_analises_e_figuras/` | Scripts locais que geram as figuras e as tabelas do TCC a partir de `04_resultados` e das previsões | Capítulo 4 |
+| `05_analises_e_figuras/material_complementar/` | Todas as tabelas e figuras do TCC, todas as comparações par a par dos testes estatísticos e os valores de **todas** as configurações em cada *release* de teste, com resumos e gráficos por algoritmo (inclui os empates de mediana citados no texto). Ver o `LEIAME.md` da pasta | Capítulo 4 |
 | `06_texto/` | PDF do TCC (incluído após a defesa) | — |
 
 ## Dados no Zenodo

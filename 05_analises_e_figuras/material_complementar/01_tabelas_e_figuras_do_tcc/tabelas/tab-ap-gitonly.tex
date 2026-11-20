@@ -1,0 +1,25 @@
+% Fonte: 5-Coleta_features/conferencia_git_log_L/commits_listados_so_pelo_git.csv (classificar_commits_so_git.py, 2026-11-08).
+\begin{table}[htbp]
+    \centering
+    \footnotesize
+    \renewcommand{\arraystretch}{1.2}
+    \captionsetup{font+={color=ForestGreen}}%
+    \caption{Classificação dos commits listados apenas pelo \texttt{git log -L}}
+    \label{tab:ap-gitonly}
+    \color{ForestGreen}%
+    \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}Xr>{\raggedright\arraybackslash}p{0.36\linewidth}@{}}
+        \toprule
+        Situação & Commits & \textit{Features} \\
+        \midrule
+        Alteração apenas de formatação (espaços, tabulações e quebras de linha) & 13 & CDT, CVS, EGit, JDT, m2e, PDE, Scout, Window Builder \\
+        Alteração apenas em linhas vizinhas ao método & 9 & EMF, PDE, Scout \\
+        Criação do método ou do arquivo & 7 & BIRT, CDT, GEF, Mylyn, RAP, Subversive \\
+        Alteração contada para o método com o nome antigo & 6 & BIRT, Mylyn, PTP \\
+        Commit equivalente a outro já contado & 5 & BIRT, DataTools, Scout \\
+        Alteração real no mesmo commit que mudou a assinatura ou o pacote do método & 2 & BIRT, PTP \\
+        \midrule
+        \textbf{Total} & \textbf{42} & \\
+        \bottomrule
+    \end{tabularx}
+    \fonte{Elaborado pelo autor (2026).}
+\end{table}%

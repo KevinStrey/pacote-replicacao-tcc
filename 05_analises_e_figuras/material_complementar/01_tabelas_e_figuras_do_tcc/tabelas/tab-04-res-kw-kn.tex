@@ -1,0 +1,30 @@
+% Composição das colunas k e N da Tabela tab:res-kw; incluída na Seção Testes de hipóteses de Textuais/03-Metodologia.tex
+\begin{table}[htbp]
+    \laranja
+    \captionsetup{font+={color=orange}}%
+    \centering
+    \footnotesize
+    \caption{Origem do número de grupos ($k$) e do total de valores ($N$) de cada teste de Kruskal-Wallis}
+    \label{tab:res-kw-kn}
+    \setlength{\tabcolsep}{4pt}%
+    \begin{tabular}{>{\raggedright\arraybackslash}p{1.1cm}>{\raggedright\arraybackslash}p{3.3cm}c>{\raggedright\arraybackslash}p{5.0cm}r>{\raggedright\arraybackslash}p{3.6cm}}
+        \toprule
+        Pergunta & Análise & $k$ & Grupos & $N$ & Cálculo de $N$ \\
+        \midrule
+        QP1 & Algoritmos e acaso, temporal & 8 & 7 algoritmos e o classificador aleatório & 136 & 8 grupos $\times$ 17 \textit{releases} \\
+        QP1 & Algoritmos e acaso, aleatório & 7 & 6 algoritmos (sem o MLP, não treinado nesse protocolo) e o classificador aleatório & 371 & 7 grupos $\times$ 53 \textit{releases} \\
+        \midrule
+        QP2 & Algoritmos & 7 & 7 algoritmos, cada um com suas 12 configurações & 1.428 & 84 configurações $\times$ 17 \textit{releases} (204 por grupo) \\
+        QP2 & Conjuntos de métricas & 3 & model1, model2 e model3, cada um com 28 configurações & 1.428 & os mesmos 1.428 valores (476 por grupo) \\
+        QP2 & Balanceamento & 4 & NONE, ROS, SMOTE e ADASYN, cada um com 21 configurações & 1.428 & os mesmos 1.428 valores (357 por grupo) \\
+        \midrule
+        QP3 & Ordenação das \textit{features} & 10 & 7 algoritmos, persistência, média histórica e ordenação aleatória & 170 & 10 grupos $\times$ 17 \textit{releases} \\
+        \midrule
+        QP4 & Algoritmos, conjuntos de métricas e balanceamento & 7, 3 e 4 & os mesmos grupos da QP2, com a correlação de Spearman de cada configuração & 1.428 & 84 configurações $\times$ 17 \textit{releases} \\
+        \midrule
+        QP5 & Quebra de identidade, temporal & 2 & modelo principal e modelo sem PTP, Scout e Mylyn & 34 & 2 grupos $\times$ 17 \textit{releases} \\
+        QP5 & Quebra de identidade, aleatório & 2 & modelo principal e modelo sem PTP, Scout e Mylyn & 106 & 2 grupos $\times$ 53 \textit{releases} \\
+        \bottomrule
+    \end{tabular}
+    \fonte{Elaborado pelo autor (2026)}
+\end{table}%

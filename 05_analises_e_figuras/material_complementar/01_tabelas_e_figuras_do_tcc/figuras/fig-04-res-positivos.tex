@@ -1,0 +1,19 @@
+% Extraído de Textuais/04-Resultados.tex
+\begin{figure}[htbp]
+    \centering
+    \caption{Taxa de métodos alterados por \textit{release} (todas as \textit{features})}
+    \label{fig:res-positivos}
+    \begin{tikzpicture}
+        \begin{axis}[width=\linewidth, height=6cm, xlabel={\textit{Release} (índice global)},
+            ylabel={Métodos alterados (\%)}, xmin=0, xmax=54, ymin=0, grid=major, grid style={gray!25},
+            tick label style={font=\footnotesize}, label style={font=\footnotesize},
+            /pgf/number format/use comma]
+            \addplot[black!70!black, thick, mark=*, mark size=1pt] table[x=release, y=taxa]
+                {Textuais/dados/positivos_por_release.dat};
+            \draw[dashed, gray] (axis cs:36.5,0) -- (axis cs:36.5,2.6);
+            \node[font=\footnotesize, anchor=south west, text=gray] at (axis cs:37,2.0) {teste temporal};
+            \node[font=\footnotesize, anchor=south east, text=gray] at (axis cs:36,2.0) {treino};
+        \end{axis}
+    \end{tikzpicture}
+    \fonte{Elaborado pelo autor (2026)}
+\end{figure}%
