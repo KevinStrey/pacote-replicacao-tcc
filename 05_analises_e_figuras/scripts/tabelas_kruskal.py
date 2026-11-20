@@ -1,6 +1,6 @@
 """LaTeX tables of the Kruskal-Wallis analyses (reads resultados/kruskal/*.csv from testes_kruskal.py).
 
-Writes to TCC___Kevin___UDESC/Elementos/Tabelas/ (new text in orange, as agreed for the revision):
+Writes to TCC___Kevin___UDESC/Elementos/Tabelas/ (without review colours: sem_cores.clean):
  tab-04-res-kw.tex             every Kruskal-Wallis test (H, p)
  tab-04-res-a12-acaso.tex           QP1: each algorithm x random classifier
  tab-04-res-a12-melhor.tex          QP2: each algorithm x best algorithm of the protocol
@@ -18,6 +18,7 @@ from pathlib import Path
 import re
 
 import numpy as np
+import sem_cores
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -92,7 +93,7 @@ def table(name, caption, label, colspec, header, body, size='\\footnotesize', se
            f'    \\caption{{{caption}}}\n    \\label{{{label}}}\n'
            f'    \\begin{{tabular}}{{{colspec}}}\n        \\toprule\n' + header + '        \\midrule\n' + body +
            '        \\bottomrule\n    \\end{tabular}\n    \\fonte{Elaborado pelo autor (2026)}\n\\end{table}%\n')
-    (TAB / name).write_text(tex, encoding='utf-8')
+    (TAB / name).write_text(sem_cores.clean(tex), encoding='utf-8')   # review colours removed (2026-11-20)
     print('ok', name)
 
 

@@ -1,7 +1,6 @@
 % Gerado por 6-Treino/ferramentas_locais/tabelas_kruskal.py (não editar à mão)
 \begin{table}[htbp]
-    \laranja
-    \captionsetup{font+={color=orange}}%
+    
     \centering
     \scriptsize
     \setlength{\tabcolsep}{3pt}%
@@ -14,8 +13,8 @@
         Grupo & Média $\pm$ DP & $\hat{A}_{12}$ & Efeito & $p$ & Média $\pm$ DP & $\hat{A}_{12}$ & Efeito & $p$ \\
         \midrule
         \multicolumn{9}{l}{\textit{Algoritmo} (204 valores por grupo)} \\
-        \quad MLP & 0,0151 $\pm$ 0,0100 & \multicolumn{3}{c}{(referência)} & 0,724 $\pm$ 0,063 & {\rosa ---} & {\rosa ---} & 1,000 \\
-        \quad LightGBM & 0,0145 $\pm$ 0,0118 & {\rosa ---} & {\rosa ---} & 1,000 & 0,702 $\pm$ 0,098 & {\rosa ---} & {\rosa ---} & 1,000 \\
+        \quad MLP & 0,0151 $\pm$ 0,0100 & \multicolumn{3}{c}{(referência)} & 0,724 $\pm$ 0,063 & --- & --- & 1,000 \\
+        \quad LightGBM & 0,0145 $\pm$ 0,0118 & --- & --- & 1,000 & 0,702 $\pm$ 0,098 & --- & --- & 1,000 \\
         \quad Regr. log. & 0,0109 $\pm$ 0,0065 & 0,64 & médio & $<$ 0,001 & 0,708 $\pm$ 0,060 & 0,60 & pequeno & 0,010 \\
         \quad SVM linear & 0,0105 $\pm$ 0,0059 & 0,65 & médio & $<$ 0,001 & 0,726 $\pm$ 0,055 & \multicolumn{3}{c}{(referência)} \\
         \quad XGBoost & 0,0103 $\pm$ 0,0079 & 0,69 & médio & $<$ 0,001 & 0,649 $\pm$ 0,123 & 0,66 & médio & $<$ 0,001 \\
@@ -23,14 +22,14 @@
         \quad DT & 0,0035 $\pm$ 0,0029 & 0,95 & grande & $<$ 0,001 & 0,473 $\pm$ 0,054 & 1,00 & grande & $<$ 0,001 \\
         \midrule
         \multicolumn{9}{l}{\textit{Conjunto de métricas} (476 valores por grupo)} \\
-        \quad Estruturais e evolutivas (model2) & 0,0118 $\pm$ 0,0103 & \multicolumn{3}{c}{(referência)} & 0,692 $\pm$ 0,096 & {\rosa ---} & {\rosa ---} & 1,000 \\
+        \quad Estruturais e evolutivas (model2) & 0,0118 $\pm$ 0,0103 & \multicolumn{3}{c}{(referência)} & 0,692 $\pm$ 0,096 & --- & --- & 1,000 \\
         \quad Evolutivas (model3) & 0,0100 $\pm$ 0,0085 & 0,56 & pequeno & 0,002 & 0,564 $\pm$ 0,123 & 0,80 & grande & $<$ 0,001 \\
         \quad Estruturais (model1) & 0,0082 $\pm$ 0,0062 & 0,62 & pequeno & $<$ 0,001 & 0,694 $\pm$ 0,100 & \multicolumn{3}{c}{(referência)} \\
         \midrule
         \multicolumn{9}{l}{\textit{Balanceamento} (357 valores por grupo)} \\
         \quad Sobreamostragem aleatória (ROS) & 0,0109 $\pm$ 0,0096 & \multicolumn{3}{c}{(referência)} & 0,668 $\pm$ 0,131 & \multicolumn{3}{c}{(referência)} \\
-        \quad Sem reamostragem (NONE) & 0,0109 $\pm$ 0,0100 & {\rosa ---} & {\rosa ---} & 1,000 & 0,663 $\pm$ 0,131 & {\rosa ---} & {\rosa ---} & 1,000 \\
-        \quad SMOTE & 0,0094 $\pm$ 0,0076 & {\rosa ---} & {\rosa ---} & 0,676 & 0,635 $\pm$ 0,112 & 0,61 & pequeno & $<$ 0,001 \\
+        \quad Sem reamostragem (NONE) & 0,0109 $\pm$ 0,0100 & --- & --- & 1,000 & 0,663 $\pm$ 0,131 & --- & --- & 1,000 \\
+        \quad SMOTE & 0,0094 $\pm$ 0,0076 & --- & --- & 0,676 & 0,635 $\pm$ 0,112 & 0,61 & pequeno & $<$ 0,001 \\
         \quad ADASYN (ADA) & 0,0087 $\pm$ 0,0066 & 0,558 & insignificante & 0,043 & 0,634 $\pm$ 0,114 & 0,61 & pequeno & $<$ 0,001 \\
         \bottomrule
     \end{tabular}

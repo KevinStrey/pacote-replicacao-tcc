@@ -1,7 +1,6 @@
 % Gerado por 6-Treino/ferramentas_locais/tabelas_kruskal.py (não editar à mão)
 \begin{table}[htbp]
-    \laranja
-    \captionsetup{font+={color=orange}}%
+    
     \centering
     \scriptsize
     \setlength{\tabcolsep}{3pt}%
@@ -11,7 +10,7 @@
         \toprule
          & & \multicolumn{4}{c|}{PR-AUC} & \multicolumn{4}{c}{ROC-AUC} \\
         \cmidrule(lr){3-6}\cmidrule(lr){7-10}
-        Protocolo & Algoritmo & {\rosa Mediana} & $\hat{A}_{12}$ & Efeito & $p$ & {\rosa Mediana} & $\hat{A}_{12}$ & Efeito & $p$ \\
+        Protocolo & Algoritmo & Mediana & $\hat{A}_{12}$ & Efeito & $p$ & Mediana & $\hat{A}_{12}$ & Efeito & $p$ \\
         \midrule
         Temporal & LightGBM & 0,0179 & 1,00 & grande & $<$ 0,001 & 0,804 & 1,00 & grande & $<$ 0,001 \\
          & MLP & 0,0163 & 1,00 & grande & $<$ 0,001 & 0,799 & 1,00 & grande & $<$ 0,001 \\
@@ -19,7 +18,7 @@
          & XGBoost & 0,0122 & 0,98 & grande & $<$ 0,001 & 0,769 & 1,00 & grande & $<$ 0,001 \\
          & SVM linear & 0,0092 & 0,96 & grande & $<$ 0,001 & 0,759 & 1,00 & grande & $<$ 0,001 \\
          & RF & 0,0070 & 0,94 & grande & $<$ 0,001 & 0,646 & 0,99 & grande & $<$ 0,001 \\
-         & DT & 0,0032 & {\rosa ---} & {\rosa ---} & 0,334 & 0,495 & {\rosa ---} & {\rosa ---} & 1,000 \\
+         & DT & 0,0032 & --- & --- & 0,334 & 0,495 & --- & --- & 1,000 \\
          & Aleatório & 0,0021 & --- & --- & --- & 0,502 & --- & --- & --- \\
         \midrule
         Aleatório & XGBoost & 0,0480 & 0,99 & grande & $<$ 0,001 & 0,863 & 1,00 & grande & $<$ 0,001 \\

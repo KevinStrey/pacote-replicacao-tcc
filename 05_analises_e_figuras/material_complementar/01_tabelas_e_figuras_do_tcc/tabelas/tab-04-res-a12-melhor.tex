@@ -1,7 +1,6 @@
 % Gerado por 6-Treino/ferramentas_locais/tabelas_kruskal.py (não editar à mão)
 \begin{table}[htbp]
-    \laranja
-    \captionsetup{font+={color=orange}}%
+    
     \centering
     \scriptsize
     \setlength{\tabcolsep}{3pt}%
@@ -11,22 +10,22 @@
         \toprule
          & & & & \multicolumn{3}{c}{PR-AUC} & \multicolumn{3}{c}{ROC-AUC} \\
         \cmidrule(lr){5-7}\cmidrule(lr){8-10}
-        Protocolo & Algoritmo & {\rosa Métricas} & {\rosa Reamostr.} & $\hat{A}_{12}$ & Efeito & $p$ & $\hat{A}_{12}$ & Efeito & $p$ \\
+        Protocolo & Algoritmo & Métricas & Reamostr. & $\hat{A}_{12}$ & Efeito & $p$ & $\hat{A}_{12}$ & Efeito & $p$ \\
         \midrule
-        Temporal & LightGBM & {\rosa model2} & {\rosa ROS} & \multicolumn{3}{c}{(referência)} & \multicolumn{3}{c}{(referência)} \\
-         & MLP & {\rosa model2} & {\rosa ROS} & {\rosa ---} & {\rosa ---} & 1,000 & {\rosa ---} & {\rosa ---} & 1,000 \\
-         & Regr. log. & {\rosa model3} & {\rosa ADA} & {\rosa ---} & {\rosa ---} & 1,000 & 0,99 & grande & $<$ 0,001 \\
-         & XGBoost & {\rosa model2} & {\rosa ROS} & {\rosa ---} & {\rosa ---} & 1,000 & {\rosa ---} & {\rosa ---} & 0,489 \\
-         & SVM linear & {\rosa model2} & {\rosa ROS} & 0,82 & grande & 0,038 & {\rosa ---} & {\rosa ---} & 0,086 \\
-         & RF & {\rosa model2} & {\rosa SMOTE} & 0,92 & grande & $<$ 0,001 & 0,99 & grande & $<$ 0,001 \\
-         & DT & {\rosa model1} & {\rosa NONE} & 0,98 & grande & $<$ 0,001 & 1,00 & grande & $<$ 0,001 \\
+        Temporal & LightGBM & model2 & ROS & \multicolumn{3}{c}{(referência)} & \multicolumn{3}{c}{(referência)} \\
+         & MLP & model2 & ROS & --- & --- & 1,000 & --- & --- & 1,000 \\
+         & Regr. log. & model3 & ADA & --- & --- & 1,000 & 0,99 & grande & $<$ 0,001 \\
+         & XGBoost & model2 & ROS & --- & --- & 1,000 & --- & --- & 0,489 \\
+         & SVM linear & model2 & ROS & 0,82 & grande & 0,038 & --- & --- & 0,086 \\
+         & RF & model2 & SMOTE & 0,92 & grande & $<$ 0,001 & 0,99 & grande & $<$ 0,001 \\
+         & DT & model1 & NONE & 0,98 & grande & $<$ 0,001 & 1,00 & grande & $<$ 0,001 \\
         \midrule
-        Aleatório & XGBoost & {\rosa model2} & {\rosa ROS} & \multicolumn{3}{c}{(referência)} & \multicolumn{3}{c}{(referência)} \\
-         & LightGBM & {\rosa model2} & {\rosa ROS} & {\rosa ---} & {\rosa ---} & 1,000 & {\rosa ---} & {\rosa ---} & 1,000 \\
-         & RF & {\rosa model2} & {\rosa SMOTE} & {\rosa ---} & {\rosa ---} & 1,000 & 0,89 & grande & $<$ 0,001 \\
-         & DT & {\rosa model2} & {\rosa NONE} & 0,76 & grande & $<$ 0,001 & 1,00 & grande & $<$ 0,001 \\
-         & SVM linear & {\rosa model2} & {\rosa SMOTE} & 0,78 & grande & $<$ 0,001 & 0,87 & grande & $<$ 0,001 \\
-         & Regr. log. & {\rosa model2} & {\rosa SMOTE} & 0,79 & grande & $<$ 0,001 & 0,88 & grande & $<$ 0,001 \\
+        Aleatório & XGBoost & model2 & ROS & \multicolumn{3}{c}{(referência)} & \multicolumn{3}{c}{(referência)} \\
+         & LightGBM & model2 & ROS & --- & --- & 1,000 & --- & --- & 1,000 \\
+         & RF & model2 & SMOTE & --- & --- & 1,000 & 0,89 & grande & $<$ 0,001 \\
+         & DT & model2 & NONE & 0,76 & grande & $<$ 0,001 & 1,00 & grande & $<$ 0,001 \\
+         & SVM linear & model2 & SMOTE & 0,78 & grande & $<$ 0,001 & 0,87 & grande & $<$ 0,001 \\
+         & Regr. log. & model2 & SMOTE & 0,79 & grande & $<$ 0,001 & 0,88 & grande & $<$ 0,001 \\
         \bottomrule
     \end{tabular}
     \fonte{Elaborado pelo autor (2026)}

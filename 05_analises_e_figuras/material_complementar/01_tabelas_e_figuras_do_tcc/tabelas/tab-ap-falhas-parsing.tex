@@ -6,19 +6,19 @@
     \label{tab:ap-falhas-parsing}
     \begin{tabular}{llrcrr}
         \toprule
-        \textit{Feature} & Causa & Arquivos & \textit{Releases} & Métodos & {\laranja Instâncias} \\
+        \textit{Feature} & Causa & Arquivos & \textit{Releases} & Métodos & Instâncias \\
         \midrule
         \multicolumn{6}{l}{\textit{Sintaxe recente da linguagem (métodos retirados do conjunto)}} \\
-        JDT            & \texttt{sealed}/\texttt{permits} (Java 17)      &  2 & {\color{ForestGreen}43 a 53} & 183 &   727 \\
-        Mylyn          & escape \texttt{\textbackslash s} (Java 15)      &  1 & {\color{ForestGreen}46 a 49} &   8 &    32 \\
-        Scout          & \texttt{case null} em \texttt{switch} (Java 21) &  2 & {\color{ForestGreen}52 a 53} &  26 &    52 \\
-        Window Builder & \texttt{sealed}/\texttt{permits} (Java 17)      &  7 & {\color{ForestGreen}45 a 53} &  64 &   326 \\
-        Window Builder & padrão de tipo em \texttt{switch} (Java 21)     &  1 & {\color{ForestGreen}51 a 53} &   4 &    12 \\
+        JDT            & \texttt{sealed}/\texttt{permits} (Java 17)      &  2 & 43 a 53 & 183 &   727 \\
+        Mylyn          & escape \texttt{\textbackslash s} (Java 15)      &  1 & 46 a 49 &   8 &    32 \\
+        Scout          & \texttt{case null} em \texttt{switch} (Java 21) &  2 & 52 a 53 &  26 &    52 \\
+        Window Builder & \texttt{sealed}/\texttt{permits} (Java 17)      &  7 & 45 a 53 &  64 &   326 \\
+        Window Builder & padrão de tipo em \texttt{switch} (Java 21)     &  1 & 51 a 53 &   4 &    12 \\
         \textbf{Total} &                                                 & \textbf{13} & & \textbf{285} & \textbf{1.149} \\
         \midrule
         \multicolumn{6}{l}{\textit{Modelos de geração de código (já excluídos pelo escopo)}} \\
-        PDE            & marcadores do assistente                        & 17 & {\color{ForestGreen}1 a 53}  & 136 & 2.824 \\
-        Scout          & marcadores do assistente                        & 91 & {\color{ForestGreen}32 a 53} & 341 & 6.634 \\
+        PDE            & marcadores do assistente                        & 17 & 1 a 53  & 136 & 2.824 \\
+        Scout          & marcadores do assistente                        & 91 & 32 a 53 & 341 & 6.634 \\
         \midrule
         \multicolumn{6}{l}{\textit{Fora das releases do treinamento (nenhum método retirado)}} \\
         BIRT           & erro de sintaxe no código                       &  1 & --     &   0 &     0 \\

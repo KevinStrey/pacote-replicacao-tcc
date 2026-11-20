@@ -22,18 +22,18 @@
         \node[anchor=north west,align=left,text=gray] at ({53*\w},-0.05) {54\\sem rótulo};
         % ---- corte
         \draw[dashed,thick] (9,-1.15) -- (9,1.53);
-        \node[anchor=north,align=center] at (9,-1.2) {corte $T = 36$: primeira \textit{release} em que as {\azul amostras}\\
+        \node[anchor=north,align=center] at (9,-1.2) {corte $T = 36$: primeira \textit{release} em que as amostras\\
             acumuladas atingem 70\% do total};
         % ---- chaves
         \draw[chave] (0,0.6) -- ({36*\w-0.04},0.6) node[midway,above=6pt,align=center]
-            {\textbf{Treino}: \textit{releases} 1 a 36\\12.747.135 {\azul amostras} (73.031 positivos)};
+            {\textbf{Treino}: \textit{releases} 1 a 36\\12.747.135 amostras (73.031 positivos)};
         \draw[chave] ({36*\w+0.04},0.6) -- ({53*\w},0.6) node[midway,above=6pt,align=center]
-            {\textbf{Teste}: \textit{releases} 37 a 53 (17)\\5.311.972 {\azul amostras}\\(14.656 positivos)};
+            {\textbf{Teste}: \textit{releases} 37 a 53 (17)\\5.311.972 amostras\\(14.656 positivos)};
         % ---- fluxo
         \node[caixa,fill=RoyalBlue!12,draw=RoyalBlue] (tr) at (3.2,-3.05)
-            {\textbf{Ajuste do modelo (uma vez)}\\normalização e reamostragem\\ajustadas só nas {\azul amostras} de treino};
+            {\textbf{Ajuste do modelo (uma vez)}\\normalização e reamostragem\\ajustadas só nas amostras de treino};
         \node[caixa,fill=BurntOrange!15,draw=BurntOrange] (te) at (10.4,-3.05)
-            {\textbf{Avaliação (uma vez)}\\{\laranja PR-AUC e ROC-AUC}\\nas \textit{releases} futuras};
+            {\textbf{Avaliação (uma vez)}\\PR-AUC e ROC-AUC\\nas \textit{releases} futuras};
         \draw[->,thick] (tr) -- node[above]{modelo treinado} (te);
         \node[align=center,text=gray] at (6.8,-3.95)
             {};

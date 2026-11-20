@@ -1,21 +1,20 @@
 % Gerado por 6-Treino/ferramentas_locais/tabelas_kruskal.py (não editar à mão)
 \begin{table}[htbp]
-    \laranja
-    \captionsetup{font+={color=orange}}%
+    
     \centering
     \footnotesize
     \setlength{\tabcolsep}{4pt}%
-    \caption{Melhor configuração de cada algoritmo na ordenação das \textit{features} comparada com a de maior {\rosa mediana}}
+    \caption{Melhor configuração de cada algoritmo na ordenação das \textit{features} comparada com a de maior mediana}
     \label{tab:res-a12-melhor-feature}
     \begin{tabular}{llcclc}
         \toprule
-        Algoritmo & Configuração & {\rosa Spearman (mediana)} & $\hat{A}_{12}$ & Efeito & $p$ \\
+        Algoritmo & Configuração & Spearman (mediana) & $\hat{A}_{12}$ & Efeito & $p$ \\
         \midrule
         SVM linear & model3, ROS & 0,638 & \multicolumn{3}{c}{(referência)} \\
-        Regr. log. & model3, NONE & 0,636 & {\rosa ---} & {\rosa ---} & 1,000 \\
-        MLP & model3, ROS & 0,573 & {\rosa ---} & {\rosa ---} & 1,000 \\
-        RF & model2, SMOTE & 0,573 & {\rosa ---} & {\rosa ---} & 1,000 \\
-        DT & model1, ROS & 0,524 & {\rosa ---} & {\rosa ---} & 0,092 \\
+        Regr. log. & model3, NONE & 0,636 & --- & --- & 1,000 \\
+        MLP & model3, ROS & 0,573 & --- & --- & 1,000 \\
+        RF & model2, SMOTE & 0,573 & --- & --- & 1,000 \\
+        DT & model1, ROS & 0,524 & --- & --- & 0,092 \\
         LightGBM & model3, NONE & 0,462 & 0,86 & grande & 0,016 \\
         XGBoost & model1, NONE & 0,453 & 0,85 & grande & 0,026 \\
         \bottomrule

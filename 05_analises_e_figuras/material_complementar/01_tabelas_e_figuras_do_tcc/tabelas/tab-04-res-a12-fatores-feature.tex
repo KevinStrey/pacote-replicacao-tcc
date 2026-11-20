@@ -1,35 +1,34 @@
 % Gerado por 6-Treino/ferramentas_locais/tabelas_kruskal.py (não editar à mão)
 \begin{table}[htbp]
-    \laranja
-    \captionsetup{font+={color=orange}}%
+    
     \centering
     \footnotesize
     \setlength{\tabcolsep}{4pt}%
-    \caption{Algoritmos, conjuntos de métricas e estratégias de balanceamento na ordenação das \textit{features}: cada grupo comparado com o de maior {\rosa mediana}}
+    \caption{Algoritmos, conjuntos de métricas e estratégias de balanceamento na ordenação das \textit{features}: cada grupo comparado com o de maior mediana}
     \label{tab:res-a12-fatores-feature}
     \begin{tabular}{lccclc}
         \toprule
-        Grupo & {\rosa Spearman (mediana)} & {\rosa Desvio padrão} & $\hat{A}_{12}$ & Efeito & $p$ \\
+        Grupo & Spearman (mediana) & Desvio padrão & $\hat{A}_{12}$ & Efeito & $p$ \\
         \midrule
         \multicolumn{6}{l}{\textit{Algoritmo} (204 valores por grupo)} \\
-        \quad MLP & 0,409 & {\rosa 0,262} & \multicolumn{3}{c}{(referência)} \\
-        \quad Regr. log. & 0,306 & {\rosa 0,298} & {\rosa ---} & {\rosa ---} & 0,265 \\
-        \quad RF & 0,297 & {\rosa 0,428} & 0,61 & pequeno & 0,002 \\
-        \quad LightGBM & 0,273 & {\rosa 0,327} & 0,64 & médio & $<$ 0,001 \\
-        \quad DT & 0,262 & {\rosa 0,410} & 0,64 & médio & $<$ 0,001 \\
-        \quad SVM linear & 0,174 & {\rosa 0,337} & 0,61 & pequeno & 0,002 \\
-        \quad XGBoost & 0,155 & {\rosa 0,351} & 0,73 & grande & $<$ 0,001 \\
+        \quad MLP & 0,409 & 0,262 & \multicolumn{3}{c}{(referência)} \\
+        \quad Regr. log. & 0,306 & 0,298 & --- & --- & 0,265 \\
+        \quad RF & 0,297 & 0,428 & 0,61 & pequeno & 0,002 \\
+        \quad LightGBM & 0,273 & 0,327 & 0,64 & médio & $<$ 0,001 \\
+        \quad DT & 0,262 & 0,410 & 0,64 & médio & $<$ 0,001 \\
+        \quad SVM linear & 0,174 & 0,337 & 0,61 & pequeno & 0,002 \\
+        \quad XGBoost & 0,155 & 0,351 & 0,73 & grande & $<$ 0,001 \\
         \midrule
         \multicolumn{6}{l}{\textit{Conjunto de métricas} (476 valores por grupo)} \\
-        \quad Estruturais e evolutivas (model2) & 0,335 & {\rosa 0,275} & \multicolumn{3}{c}{(referência)} \\
-        \quad Estruturais (model1) & 0,273 & {\rosa 0,249} & 0,56 & pequeno & 0,004 \\
-        \quad Evolutivas (model3) & 0,042 & {\rosa 0,479} & 0,59 & pequeno & $<$ 0,001 \\
+        \quad Estruturais e evolutivas (model2) & 0,335 & 0,275 & \multicolumn{3}{c}{(referência)} \\
+        \quad Estruturais (model1) & 0,273 & 0,249 & 0,56 & pequeno & 0,004 \\
+        \quad Evolutivas (model3) & 0,042 & 0,479 & 0,59 & pequeno & $<$ 0,001 \\
         \midrule
         \multicolumn{6}{l}{\textit{Balanceamento} (357 valores por grupo)} \\
-        \quad Sobreamostragem aleatória (ROS) & 0,322 & {\rosa 0,337} & \multicolumn{3}{c}{(referência)} \\
-        \quad Sem reamostragem (NONE) & 0,301 & {\rosa 0,343} & {\rosa ---} & {\rosa ---} & 1,000 \\
-        \quad ADASYN (ADA) & 0,258 & {\rosa 0,373} & {\rosa ---} & {\rosa ---} & 0,102 \\
-        \quad SMOTE & 0,252 & {\rosa 0,374} & {\rosa ---} & {\rosa ---} & 0,063 \\
+        \quad Sobreamostragem aleatória (ROS) & 0,322 & 0,337 & \multicolumn{3}{c}{(referência)} \\
+        \quad Sem reamostragem (NONE) & 0,301 & 0,343 & --- & --- & 1,000 \\
+        \quad ADASYN (ADA) & 0,258 & 0,373 & --- & --- & 0,102 \\
+        \quad SMOTE & 0,252 & 0,374 & --- & --- & 0,063 \\
         \bottomrule
     \end{tabular}
     \fonte{Elaborado pelo autor (2026)}

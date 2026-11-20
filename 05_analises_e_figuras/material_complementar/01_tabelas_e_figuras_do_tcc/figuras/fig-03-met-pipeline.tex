@@ -5,7 +5,6 @@
 \definecolor{pipeModelo}{HTML}{3A4A5C}
 \begin{figure}[htbp]
     \centering
-    \captionsetup{font+={color=ForestGreen}}%
     \caption{Etapas da metodologia aplicada}
     \label{fig:met-pipeline}
     \begin{tikzpicture}[x=1cm,y=1cm, font=\footnotesize,
@@ -22,9 +21,9 @@
             -1.9/pipeColeta/2/{Selecionar as \textit{features} e seus \textit{snapshots}}/{Identificar as 19 \textit{features} LPS de cada \textit{release} e o código de cada uma nessa data (743 \textit{snapshots})},
             -3.8/pipeColeta/3/{Delimitar o código analisado}/{Manter apenas o código Java de produção, sem testes, exemplos e \textit{templates}},
             -5.7/pipeColeta/4/{Extrair as métricas e a variável alvo}/{Calcular as métricas estruturais (CK e Understand) e evolutivas e rotular as mudanças com o ChangeDistiller},
-            -7.6/pipePrep/5/{Unir e verificar os dados}/{Juntar as métricas por método e conferir a coleta, gerando 18.059.107 {\laranja instâncias} (método $\times$ \textit{release})},
+            -7.6/pipePrep/5/{Unir e verificar os dados}/{Juntar as métricas por método e conferir a coleta, gerando 18.059.107 instâncias (método $\times$ \textit{release})},
             -9.5/pipeModelo/6/{Treinar os modelos}/{Combinar 7 algoritmos, 3 conjuntos de métricas e 4 estratégias de balanceamento nos protocolos temporal e aleatório},
-            -11.4/pipeModelo/7/{Avaliar as previsões}/{Medir o desempenho por método, agregar as previsões por \textit{feature} e {\azul medir o impacto da quebra de identidade}}%
+            -11.4/pipeModelo/7/{Avaliar as previsões}/{Medir o desempenho por método, agregar as previsões por \textit{feature} e medir o impacto da quebra de identidade}%
         }{
             \node[etapa=\cor] (e\n) at (0.6,\y) {\textcolor{\cor!80!black}{\small \tit}\\[1pt]\textcolor{black!75}{\det}};
             \node[num=\cor] at (-5.8,\y) {\n};

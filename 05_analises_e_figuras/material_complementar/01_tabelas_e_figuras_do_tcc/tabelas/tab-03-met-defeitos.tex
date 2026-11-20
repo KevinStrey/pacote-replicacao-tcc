@@ -4,10 +4,9 @@
     \centering
     \footnotesize
     \renewcommand{\arraystretch}{1.2}
-    \captionsetup{font+={color=ForestGreen}}%
     \caption{Problemas encontrados no código original do cpmp durante a coleta piloto e correções adotadas}
     \label{tab:met-defeitos}
-    \color{ForestGreen}%
+    %
     \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}p{0.2\linewidth}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
         \toprule
         Problema & Efeito & Correção \\
@@ -16,7 +15,7 @@
         Gerador esgotado & Só o primeiro método de cada \textit{release} recebia métricas evolutivas & Lista de commits do intervalo montada uma vez e reutilizada \\
         Atribuição ao arquivo & Cada método recebia as mudanças de todos os métodos do arquivo & Mudança atribuída só ao método cujo texto mudou \\
         Variáveis não reiniciadas & Métodos sem mudança herdavam FRCH e ATAF do método anterior & Registro separado para cada método \\
-        Comparação com o commit anterior da lista & Commits de {\verde \textit{branches}} paralelos comparados entre si, com mudanças inexistentes & Comparação com o primeiro pai, sem commits de mesclagem e com detecção de renomeação \\
+        Comparação com o commit anterior da lista & Commits de \textit{branches} paralelos comparados entre si, com mudanças inexistentes & Comparação com o primeiro pai, sem commits de mesclagem e com detecção de renomeação \\
         \midrule
         \multicolumn{3}{@{}l}{\textit{Impediam ou inviabilizavam a execução}} \\
         Caminhos no Windows & Nenhum método extraído & Extração em lote, sem arquivos intermediários \\

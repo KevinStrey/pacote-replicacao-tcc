@@ -24,11 +24,11 @@
         \draw[aresta] (1.2,0) -- (1.8,1.15) -- (3.9,1.15) -- (8.3,0);
         \foreach \x in {1.8,2.85,3.9}{\node[ramo] at (\x,1.15){};}
         \node[text=ForestGreen!80!black,anchor=south west,align=left] at (2.6,1.25)
-            {{\verde \textit{branch}} antigo, criado antes da \textit{release} $r-1$:\\todos os seus commits contam};
+            {\textit{branch} antigo, criado antes da \textit{release} $r-1$:\\todos os seus commits contam};
         % ---- ramo curto: criado e mesclado dentro do intervalo
         \draw[aresta] (5.0,0) -- (5.8,-1.1) -- (6.6,-1.1) -- (7.3,0);
         \foreach \x in {5.8,6.6}{\node[ramo] at (\x,-1.1){};}
-        \node[text=ForestGreen!80!black,anchor=north] at (6.2,-1.25) {{\verde \textit{branch}} do intervalo: contado};
+        \node[text=ForestGreen!80!black,anchor=north] at (6.2,-1.25) {\textit{branch} do intervalo: contado};
         % ---- linha principal
         \draw[black,thick,->] (0,0) -- (13.2,0)
             node[right,align=left]{linha principal\\(\textit{first-parent})};
@@ -54,7 +54,7 @@
             \node[conta] at (0,0){};       \node[anchor=west] at (0.15,0) {commit contado};
             \node[merge] at (2.8,0){};     \node[anchor=west] at (3.0,0) {\textit{merge} (excluído)};
             \node[importado] at (5.8,0){}; \node[anchor=west] at (5.95,0) {commit importado (excluído)};
-            \node[ramo] at (0,-0.5){};     \node[anchor=west] at (0.15,-0.5) {commit de {\verde \textit{branch}} (contado)};
+            \node[ramo] at (0,-0.5){};     \node[anchor=west] at (0.15,-0.5) {commit de \textit{branch} (contado)};
             \node[snap] at (4.8,-0.5){};   \node[anchor=west] at (5.0,-0.5) {\textit{snapshot}};
             \node[fora] at (6.6,-0.5){};   \node[anchor=west] at (6.75,-0.5) {próximo intervalo};
         \end{scope}
